@@ -41,7 +41,7 @@ Alley: Type of alley access to property
 
        Grvl	Gravel
        Pave	Paved
-       NA 	No alley access
+       NA	No alley access
 		
 LotShape: General shape of property
 
@@ -92,7 +92,7 @@ Neighborhood: Physical locations within Ames city limits
        IDOTRR	Iowa DOT and Rail Road
        MeadowV	Meadow Village
        Mitchel	Mitchell
-       Names	North Ames
+       NAmes	North Ames
        NoRidge	Northridge
        NPkVill	Northpark Villa
        NridgHt	Northridge Heights
@@ -133,10 +133,10 @@ Condition2: Proximity to various conditions (if more than one is present)
 BldgType: Type of dwelling
 		
        1Fam	Single-family Detached	
-       2FmCon	Two-family Conversion; originally built as one-family dwelling
-       Duplx	Duplex
+       2fmCon	Two-family Conversion; originally built as one-family dwelling
+       Duplex	Duplex
        TwnhsE	Townhouse End Unit
-       TwnhsI	Townhouse Inside Unit
+       Twnhs	Townhouse Inside Unit
 	
 HouseStyle: Style of dwelling
 	
@@ -223,10 +223,10 @@ Exterior2nd: Exterior covering on house (if more than one material)
 
        AsbShng	Asbestos Shingles
        AsphShn	Asphalt Shingles
-       BrkComm	Brick Common
+       Brk Cmn	Brick Common
        BrkFace	Brick Face
        CBlock	Cinder Block
-       CemntBd	Cement Board
+       CmentBd	Cement Board
        HdBoard	Hard Board
        ImStucc	Imitation Stucco
        MetalSd	Metal Siding
@@ -237,7 +237,7 @@ Exterior2nd: Exterior covering on house (if more than one material)
        Stucco	Stucco
        VinylSd	Vinyl Siding
        Wd Sdng	Wood Siding
-       WdShing	Wood Shingles
+       Wd Shng	Wood Shingles
 	
 MasVnrType: Masonry veneer type
 
@@ -374,9 +374,9 @@ FullBath: Full bathrooms above grade
 
 HalfBath: Half baths above grade
 
-Bedroom: Bedrooms above grade (does NOT include basement bedrooms)
+BedroomAbvGr: Bedrooms above grade (does NOT include basement bedrooms)
 
-Kitchen: Kitchens above grade
+KitchenAbvGr: Kitchens above grade
 
 KitchenQual: Kitchen quality
 
@@ -385,7 +385,7 @@ KitchenQual: Kitchen quality
        TA	Typical/Average
        Fa	Fair
        Po	Poor
-       	
+
 TotRmsAbvGrd: Total rooms above grade (does not include bathrooms)
 
 Functional: Home functionality (Assume typical unless deductions are warranted)
@@ -502,7 +502,7 @@ YrSold: Year Sold (YYYY)
 
 SaleType: Type of sale
 		
-       WD 	Warranty Deed - Conventional
+       WD	Warranty Deed - Conventional
        CWD	Warranty Deed - Cash
        VWD	Warranty Deed - VA Loan
        New	Home just constructed and sold
