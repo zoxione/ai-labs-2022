@@ -6,10 +6,8 @@ import matplotlib.pyplot as plt
 import numpy as np
 import pandas as pd
 import seaborn as sns
-from sklearn.impute import SimpleImputer
 from sklearn.linear_model import LinearRegression
 from sklearn.model_selection import train_test_split
-from sklearn.preprocessing import MinMaxScaler, StandardScaler
 from sklearn.metrics import mean_absolute_error
 
 # Класс для хранения свойств
@@ -24,7 +22,6 @@ class Property:
 # Инициализация
 propertyList = []
 K_VALUE = 0.65
-
 
 def rmsle(y_true, y_pred):
    assert len(y_true) == len(y_pred)
@@ -57,7 +54,6 @@ def read_file():
                   break
             propertyList[len(propertyList) - 1].values.append(word)
 
-
 def df_string_to_number(df):
    dfCopy = df.copy(deep=True)
 
@@ -79,7 +75,6 @@ def df_string_to_number(df):
    return dfCopy
 
 
-# Start
 if __name__ == '__main__':
    # Чтение файла
    read_file()
@@ -88,18 +83,6 @@ if __name__ == '__main__':
    dfTrain = pd.read_csv('./train.csv')
    dfTrainCopy = df_string_to_number(dfTrain)
    dfTrainCopy.to_csv('result_1.csv', index=False)
-
-   # Получаем коэффициенты корреляции (старое)
-   # for tab in dfTrain.columns.values.tolist():
-   #    if tab != 'SalePrice' and tab != 'Id':
-   #       # k = (pd.to_numeric(dfTrain[tab], errors='coerce', downcast='integer')).corr(dfTrain['SalePrice'])
-   #       # k = (pd.to_numeric(dfTrainCopy[tab], errors='coerce', downcast='integer')).corr(dfTrainCopy['SalePrice'])
-   #       k = dfTrainCopy[tab].corr(dfTrainCopy['SalePrice'])
-   #
-   #       for property in propertyList:
-   #          if property.name == tab:
-   #             property.k = k
-   #             break
 
    # Получаем коэффициенты корреляции
    chooseProperty = []
@@ -128,42 +111,33 @@ if __name__ == '__main__':
    # Разделение на train и validation
    # Обучать будем на 75% данных, проверять на 25%
    X_train, X_test, y_train, y_test = train_test_split(X, Y, test_size=0.25, random_state=42)
-   # X_train = X_train
-   # y_train = y_train
-   # X_test = X_test
-   # y_test = y_test
 
-   # # Обучение модели и получение предсказания
+   # Обучение модели и получение предсказания
    lr = LinearRegression()
    lr.fit(X_train, y_train)
    LinearRegression(copy_X=True, fit_intercept=True, n_jobs=1, normalize=False)
    prediction = lr.predict(X_test)
 
+   # Средняя абсолютная ошибка
    mae = mean_absolute_error(y_test, prediction)
    print("[LOG] mae: " + str(mae))
 
-   # Средняя абсолютная ошибка
+   # Средняя квадратичная ошибка
    result = rmsle(y_test, prediction)
    print("[LOG] rmsle: " + str(result))
 
-
-   # Модель сделана, теперь нужно сделать предсказание на тестовых данных
+   # Модель обучена, теперь нужно сделать предсказание на тестовых данных
    dfTest = pd.read_csv('./test.csv')
-
    dfTestCopy = df_string_to_number(dfTest)
    dfTestCopy = dfTestCopy[chooseProperty]
-
    dfTestCopy.to_csv('result_2.csv', index=False)
 
    pred = lr.predict(dfTestCopy)
    dfTestCopy.drop(chooseProperty, axis=1, inplace=True)
    dfTestCopy['Id'] = dfTest['Id']
    dfTestCopy['SalePrice'] = pred
-
    dfTestCopy.to_csv('result_3.csv', index=False)
-
    print("[LOG] Done!")
 
    # Показать графики
    plt.show()
-
