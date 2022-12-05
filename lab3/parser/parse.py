@@ -1,6 +1,7 @@
 import datetime
 import argparse
 import pandas as pd
+import winsound
 from selenium import webdriver
 from lxml import html
 from time import sleep
@@ -14,7 +15,7 @@ parserArgs.add_argument('--end', type=int, default=0, help='Конечная п�
 args = parserArgs.parse_args()
 
 chrome_options = Options()
-# chrome_options.add_argument("--headless")
+chrome_options.add_argument("--headless")
 chrome_options.add_experimental_option("prefs", {"profile.managed_default_content_settings.images": 2})
 chrome_options.add_experimental_option("excludeSwitches", ["enable-logging"])
 chrome_options.add_argument("--disable-extensions")
@@ -25,13 +26,13 @@ carsData = []
 
 def getTree(url):
     driver.get(url)
-    sleep(2)
+    sleep(1)
     tree = html.fromstring(driver.page_source)
     return tree
 
 
 def parsingOnce(tree, url):
-    print('\nПарсинг ссылки ' + url);
+    print('Парсинг ссылки ' + url);
 
     brand = tree.xpath('/html/body/div[2]/div[2]/div[2]/div/div/div/div[3]/a/span/text()')
     if len(brand) > 0:
@@ -84,8 +85,6 @@ def parsingOnce(tree, url):
             value = row.xpath('td/a/text()')
         else:
             value = row.xpath('td/text()')
-
-        print(key, value)
 
         if len(value) > 0:
             result[key] = value[0]
@@ -155,7 +154,6 @@ def parsingOnce(tree, url):
 
     carData['Price'] = price.replace(u'\xa0', u'')
 
-    print(carData)
     return carData;
 
 
@@ -163,14 +161,16 @@ def parsingOnce(tree, url):
 if __name__ == '__main__':
     try:
         if args.input == '':
-            raise Exception('Не указан путь к данным!')
+            raise Exception('Не указан путь к данным!' + '\n')
 
+        ITERATION = 1;
         MAX_ITERATION = args.end - args.start + 1;
 
         print('Скрипт запущен в', datetime.datetime.now())
-        print('Всего итераций: ' + str(MAX_ITERATION) + '\n');
+        print('Всего итераций: ' + str(MAX_ITERATION));
+        print('Примерное время выполнения: ' + str((MAX_ITERATION * 2) / 60) + ' минут\n');
 
-        print('Чтение данных из файла ' + args.input);
+        print('Чтение данных из файла ' + args.input + '\n');
         dfInput = pd.read_csv(args.input);
         urls = dfInput.Url;
 
@@ -190,7 +190,9 @@ if __name__ == '__main__':
             tree = getTree(urls[i]);
             res = parsingOnce(tree, urls[i]);
             carsData.append(res);
-            print('Выполнена итерация [' + str(i + 1) + '/' + str(MAX_ITERATION) + ']');
+            print('Выполнена итерация [' + str(ITERATION) + '/' + str(MAX_ITERATION) + ']');
+            print('Осталось времени: ' + str(((MAX_ITERATION - ITERATION) * 2) / 60) + ' минут\n');
+            ITERATION += 1;
 
     except Exception as e:
         print('Ошибка при парсинге')
@@ -201,7 +203,8 @@ if __name__ == '__main__':
         dfOutput = dfInput.copy(deep=True);
         dfOutput = dfOutput.merge(pd.DataFrame(carsData), how='left', on=['Url']);
         dfOutput.to_csv('cars_' + now.strftime("%Y-%m-%d %H-%M-%S") + '.csv', index=False);
-        print('\nСохранено в файл cars_' + now.strftime("%Y-%m-%d-%H-%M-%S") + '.csv');
+        print('Сохранено в файл cars_' + now.strftime("%Y-%m-%d-%H-%M-%S") + '.csv');
 
+        winsound.PlaySound('SystemExit', winsound.SND_ALIAS)
         driver.quit()
         input('\nНажмите Enter для выхода...');

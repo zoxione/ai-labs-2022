@@ -1,305 +1,313 @@
 Id,Url,Brand,Model,Region,Year,Engine,EngineVolume,Power,Transmission,Drive,Body,Color,Mileage,Wheel,Generation,Complectation,IsSold,Price
-0,https://rostov-na-donu.drom.ru/ford/f250/49128000.html,Ford,F250,Ростов-на-Дону,2010,дизель,6.7,400,АКПП,4WD,,красный,214000,левый,3 поколение,6.7TD AT 4x4 XL Regular Cab Long Box SRW,0,2290000
-1,https://gukovo.drom.ru/volkswagen/jetta/49067852.html,Volkswagen,Jetta,Гуково,2019,бензин,1.4,147,АКПП,передний,седан,белый,44000,левый,7 поколение,1.4 TSI Tiptronic R-Line,0,1650000
-2,https://rostov-na-donu.drom.ru/hyundai/accent/48963314.html,Hyundai,Accent,Ростов-на-Дону,2006,бензин,1.5,102,механика,передний,седан,бежевый,299600,левый,2 поколение,1.5 MT MT3,1,310000
-3,https://aksay.drom.ru/renault/logan/49076593.html,Renault,Logan,Аксай,2006,бензин,1.4,75,механика,передний,седан,синий,163000,левый,1 поколение,,0,285000
-4,https://rostov-na-donu.drom.ru/bmw/x1/48783090.html,BMW,X1,Ростов-на-Дону,2012,бензин,2.0,150,АКПП,задний,,синий,118000,левый,"1 поколение, рестайлинг",sDrive 18i AT,1,1080000
+0,https://rostov-na-donu.drom.ru/ford/f250/49128000.html,,,,,,,,,,,,,,,,,
+1,https://gukovo.drom.ru/volkswagen/jetta/49067852.html,,,,,,,,,,,,,,,,,
+2,https://rostov-na-donu.drom.ru/hyundai/accent/48963314.html,,,,,,,,,,,,,,,,,
+3,https://aksay.drom.ru/renault/logan/49076593.html,,,,,,,,,,,,,,,,,
+4,https://rostov-na-donu.drom.ru/bmw/x1/48783090.html,,,,,,,,,,,,,,,,,
 5,https://novocherkassk.drom.ru/nissan/note/48926561.html,Nissan,Note,Новочеркасск,2017,бензин,1.2,79,АКПП,передний,,красный,74100,правый,"2 поколение, рестайлинг", 1.2 e-POWER Medalist,0,1225000
 6,https://rostov-na-donu.drom.ru/cheryexeed/vx/48939989.html,Exeed,VX,Ростов-на-Дону,2022,бензин,2.0,249,робот,4WD,,белый,новый автомобиль,левый,1 поколение,2.0 DCT AWD President,1,4800000
 7,https://rostov-na-donu.drom.ru/toyota/land_cruiser/48908358.html,Toyota,Land Cruiser,Ростов-на-Дону,1997,бензин,4.5,215,АКПП,4WD,джип/suv 5 дв.,зеленый,320000,правый,"9 поколение, рестайлинг",4.5 80 VX 4WD,0,1050000
 8,https://rostov-na-donu.drom.ru/kia/optima/48381578.html,Kia,Optima,Ростов-на-Дону,2018,бензин,2.4,188,АКПП,передний,седан,черный,128000,левый,"4 поколение, рестайлинг",2.4 AT Prestige,0,1530000
 9,https://rostov-na-donu.drom.ru/mazda/scrum/47857729.html,Mazda,Scrum,Ростов-на-Дону,2018,бензин,0.7,49,автомат,4WD,,белый,151000,правый,,,1,669999
 10,https://rostov-na-donu.drom.ru/daewoo/leganza/48862012.html,Daewoo,Leganza,Ростов-на-Дону,2000,бензин,2.2,142,АКПП,передний,,золотистый,170000,левый,1 поколение,2.2 AT,1,125000
-11,https://rostov-na-donu.drom.ru/daihatsu/move/48656904.html,,,,,,,,,,,,,,,,,
-12,https://rostov-na-donu.drom.ru/honda/freed/48792156.html,,,,,,,,,,,,,,,,,
-13,https://rostov-na-donu.drom.ru/honda/cr-v/48744192.html,,,,,,,,,,,,,,,,,
-14,https://rostov-na-donu.drom.ru/audi/a6/46888495.html,,,,,,,,,,,,,,,,,
-15,https://rostov-na-donu.drom.ru/subaru/forester/48767556.html,,,,,,,,,,,,,,,,,
-16,https://moscow.drom.ru/mercedes-benz/gl-class/49140669.html,,,,,,,,,,,,,,,,,
-17,https://moscow.drom.ru/mercedes-benz/c-class/49140664.html,,,,,,,,,,,,,,,,,
-18,https://omsk.drom.ru/renault/logan_stepway/47212388.html,,,,,,,,,,,,,,,,,
-19,https://moscow.drom.ru/lexus/is250/49140663.html,,,,,,,,,,,,,,,,,
-20,https://moscow.drom.ru/lexus/is250/49140663.html,,,,,,,,,,,,,,,,,
-21,https://zlatoust.drom.ru/lada/priora/49140662.html,,,,,,,,,,,,,,,,,
-22,https://arkadak.drom.ru/mercedes-benz/e-class/49140661.html,,,,,,,,,,,,,,,,,
-23,https://moscow.drom.ru/kia/optima/49140660.html,,,,,,,,,,,,,,,,,
-24,https://belgorod.drom.ru/ford/f250/47641514.html,,,,,,,,,,,,,,,,,
-25,https://simferopol.drom.ru/mazda/626/49140659.html,,,,,,,,,,,,,,,,,
-26,https://yalta.drom.ru/bmw/x1/48801541.html,,,,,,,,,,,,,,,,,
-27,https://moscow.drom.ru/jeep/grand_cherokee/49140657.html,,,,,,,,,,,,,,,,,
-28,https://blagoveshchensk.drom.ru/nissan/patrol/46836484.html,,,,,,,,,,,,,,,,,
-29,https://tomsk.drom.ru/lexus/es350/48639798.html,,,,,,,,,,,,,,,,,
-30,https://moscow.drom.ru/audi/a8/49140656.html,,,,,,,,,,,,,,,,,
-31,https://krasnodar.drom.ru/daewoo/nexia/49140654.html,,,,,,,,,,,,,,,,,
-32,https://moscow.drom.ru/audi/a6/49140651.html,,,,,,,,,,,,,,,,,
-33,https://yablonovskiy.drom.ru/nissan/teana/48927764.html,,,,,,,,,,,,,,,,,
-34,https://orenburg.drom.ru/mitsubishi/galant/49140649.html,,,,,,,,,,,,,,,,,
-35,https://surgut.drom.ru/hyundai/solaris/46701912.html,,,,,,,,,,,,,,,,,
-36,https://yakutsk.drom.ru/lada/2106/46745207.html,,,,,,,,,,,,,,,,,
-37,https://habarovsk.drom.ru/nissan/qashqai/46906940.html,,,,,,,,,,,,,,,,,
-38,https://ekaterinburg.drom.ru/lada/2109/49140646.html,,,,,,,,,,,,,,,,,
-39,https://krasnoyarsk.drom.ru/hyundai/starex/48496038.html,,,,,,,,,,,,,,,,,
-40,https://korenovsk.drom.ru/chevrolet/cruze/48798619.html,,,,,,,,,,,,,,,,,
-41,https://feodosiya.drom.ru/nissan/murano/49140644.html,,,,,,,,,,,,,,,,,
-42,https://krasnoyarsk.drom.ru/nissan/qashqai/49140630.html,,,,,,,,,,,,,,,,,
-43,https://azov.drom.ru/mitsubishi/colt/49140643.html,,,,,,,,,,,,,,,,,
-44,https://tyumen.drom.ru/land_rover/range_rover_sport/48160240.html,,,,,,,,,,,,,,,,,
-45,https://krasnodar.drom.ru/citroen/c4/49140642.html,,,,,,,,,,,,,,,,,
-46,https://bratsk.drom.ru/lexus/rx300/48380018.html,,,,,,,,,,,,,,,,,
-47,https://izhevsk.drom.ru/lada/priora/49140640.html,,,,,,,,,,,,,,,,,
-48,https://krasnoyarsk.drom.ru/honda/fit/48237468.html,,,,,,,,,,,,,,,,,
-49,https://krasnoyarsk.drom.ru/honda/fit/48251855.html,,,,,,,,,,,,,,,,,
-50,https://krasnoyarsk.drom.ru/honda/fit/48356199.html,,,,,,,,,,,,,,,,,
-51,https://krasnoyarsk.drom.ru/honda/fit/48720680.html,,,,,,,,,,,,,,,,,
-52,https://krasnoyarsk.drom.ru/nissan/note/48973692.html,,,,,,,,,,,,,,,,,
-53,https://habarovsk.drom.ru/toyota/c-hr/49140604.html,,,,,,,,,,,,,,,,,
-54,https://sochi.drom.ru/lada/2107/49140305.html,,,,,,,,,,,,,,,,,
-55,https://tyumen.drom.ru/toyota/land_cruiser_prado/48129965.html,,,,,,,,,,,,,,,,,
-56,https://omsk.drom.ru/kia/picanto/49140639.html,,,,,,,,,,,,,,,,,
-57,https://shebekino.drom.ru/lada/2110/49140638.html,,,,,,,,,,,,,,,,,
-58,https://surgut.drom.ru/haval/f7x/49140637.html,,,,,,,,,,,,,,,,,
-59,https://kirov.drom.ru/renault/duster/49140636.html,,,,,,,,,,,,,,,,,
-60,https://kirov.drom.ru/renault/duster/49140636.html,,,,,,,,,,,,,,,,,
-61,https://irkutsk.drom.ru/toyota/corolla_fielder/49140632.html,,,,,,,,,,,,,,,,,
-62,https://spb.drom.ru/toyota/avensis/49140635.html,,,,,,,,,,,,,,,,,
-63,https://krasnoyarsk.drom.ru/peugeot/308/49080969.html,,,,,,,,,,,,,,,,,
-64,https://moscow.drom.ru/bmw/5-series/49140633.html,,,,,,,,,,,,,,,,,
-65,https://novokuznetsk.drom.ru/mazda/demio/49140631.html,,,,,,,,,,,,,,,,,
-66,https://nyagan.drom.ru/bmw/6-series/49084373.html,,,,,,,,,,,,,,,,,
-67,https://rostov-na-donu.drom.ru/lada/2107/49140629.html,,,,,,,,,,,,,,,,,
-68,https://anzhero-sudzhensk.drom.ru/kia/k5/48519931.html,,,,,,,,,,,,,,,,,
-69,https://krasnoyarsk.drom.ru/infiniti/q50/46134080.html,,,,,,,,,,,,,,,,,
-70,https://berdsk.drom.ru/nissan/teana/48963284.html,,,,,,,,,,,,,,,,,
-71,https://moscow.drom.ru/dongfeng/580/48653091.html,,,,,,,,,,,,,,,,,
-72,https://tokarevka.drom.ru/lada/priora/49140627.html,,,,,,,,,,,,,,,,,
-73,https://armyansk.drom.ru/volkswagen/golf/49140626.html,,,,,,,,,,,,,,,,,
-74,https://krasnoyarsk.drom.ru/audi/q7/45938875.html,,,,,,,,,,,,,,,,,
-75,https://omsk.drom.ru/daewoo/gentra/48165745.html,,,,,,,,,,,,,,,,,
-76,https://tyumen.drom.ru/lada/2110/49140625.html,,,,,,,,,,,,,,,,,
-77,https://omsk.drom.ru/hyundai/ix55/48387312.html,,,,,,,,,,,,,,,,,
-78,https://stavropol.drom.ru/bmw/5-series/49140624.html,,,,,,,,,,,,,,,,,
-79,https://krasnoyarsk.drom.ru/toyota/vitz/47366920.html,,,,,,,,,,,,,,,,,
-80,https://krasnoyarsk.drom.ru/toyota/vitz/47433276.html,,,,,,,,,,,,,,,,,
-81,https://abakan.drom.ru/bmw/x5/47661560.html,,,,,,,,,,,,,,,,,
-82,https://krasnoyarsk.drom.ru/toyota/vitz/48464533.html,,,,,,,,,,,,,,,,,
-83,https://krasnoyarsk.drom.ru/toyota/prius/48508105.html,,,,,,,,,,,,,,,,,
-84,https://krasnoyarsk.drom.ru/honda/freed/48508592.html,,,,,,,,,,,,,,,,,
-85,https://krasnoyarsk.drom.ru/nissan/serena/48796150.html,,,,,,,,,,,,,,,,,
-86,https://krasnoyarsk.drom.ru/toyota/corolla_fielder/48802753.html,,,,,,,,,,,,,,,,,
-87,https://krasnoyarsk.drom.ru/honda/freed/48858690.html,,,,,,,,,,,,,,,,,
-88,https://krasnoyarsk.drom.ru/mazda/axela/48858709.html,,,,,,,,,,,,,,,,,
-89,https://abakan.drom.ru/honda/stepwgn/48949315.html,,,,,,,,,,,,,,,,,
-90,https://krasnoyarsk.drom.ru/honda/shuttle/48954447.html,,,,,,,,,,,,,,,,,
-91,https://abakan.drom.ru/mitsubishi/lancer/49005741.html,,,,,,,,,,,,,,,,,
-92,https://krasnoyarsk.drom.ru/honda/shuttle/49053715.html,,,,,,,,,,,,,,,,,
-93,https://spb.drom.ru/toyota/rav4/49055466.html,,,,,,,,,,,,,,,,,
-94,https://khanty-mansiysk.drom.ru/subaru/levorg/47605223.html,,,,,,,,,,,,,,,,,
-95,https://semikarakorsk.drom.ru/lada/2110/49140621.html,,,,,,,,,,,,,,,,,
-96,https://samara.drom.ru/lada/largus_cross/49140620.html,,,,,,,,,,,,,,,,,
-97,https://ufa.drom.ru/lada/2131_4x4_niva/48805508.html,,,,,,,,,,,,,,,,,
-98,https://krasnodar.drom.ru/audi/q5/49140619.html,,,,,,,,,,,,,,,,,
-99,https://kurtamysh.drom.ru/nissan/quest/49140618.html,,,,,,,,,,,,,,,,,
-100,https://tver.drom.ru/toyota/rav4/49140617.html,,,,,,,,,,,,,,,,,
-101,https://habarovsk.drom.ru/nissan/adwagon/40574727.html,,,,,,,,,,,,,,,,,
-102,https://nizhnevartovsk.drom.ru/opel/mokka/49140616.html,,,,,,,,,,,,,,,,,
-103,https://tver.drom.ru/hyundai/ix35/49140615.html,,,,,,,,,,,,,,,,,
-104,https://gryazi.drom.ru/opel/omega/49140613.html,,,,,,,,,,,,,,,,,
-105,https://moscow.drom.ru/bmw/x6/49140612.html,,,,,,,,,,,,,,,,,
-106,https://rostov-na-donu.drom.ru/kia/sportage/49140611.html,,,,,,,,,,,,,,,,,
-107,https://kanevskaya.drom.ru/nissan/presea/49140609.html,,,,,,,,,,,,,,,,,
-108,https://volgograd.drom.ru/mercedes-benz/e-class/49140608.html,,,,,,,,,,,,,,,,,
-109,https://krasnoyarsk.drom.ru/renault/logan_stepway/46593910.html,,,,,,,,,,,,,,,,,
-110,https://krasnoyarsk.drom.ru/toyota/prius/47017547.html,,,,,,,,,,,,,,,,,
-111,https://krasnoyarsk.drom.ru/toyota/prius/48367833.html,,,,,,,,,,,,,,,,,
-112,https://krasnoyarsk.drom.ru/toyota/prius/48867873.html,,,,,,,,,,,,,,,,,
-113,https://krasnoyarsk.drom.ru/toyota/wish/48989834.html,,,,,,,,,,,,,,,,,
-114,https://krasnoyarsk.drom.ru/kia/rio/49030404.html,,,,,,,,,,,,,,,,,
-115,https://krasnoyarsk.drom.ru/honda/cr-v/49049400.html,,,,,,,,,,,,,,,,,
-116,https://krasnoyarsk.drom.ru/kia/rio/49070611.html,,,,,,,,,,,,,,,,,
-117,https://krasnoyarsk.drom.ru/honda/cr-v/49076488.html,,,,,,,,,,,,,,,,,
-118,https://krasnoyarsk.drom.ru/kia/rio_x-line/49076650.html,,,,,,,,,,,,,,,,,
-119,https://langepas.drom.ru/lada/2107/49140606.html,,,,,,,,,,,,,,,,,
-120,https://syzran.drom.ru/mazda/mazda6/49140607.html,,,,,,,,,,,,,,,,,
-121,https://omsk.drom.ru/hyundai/solaris/49026396.html,,,,,,,,,,,,,,,,,
-122,https://kurgan.drom.ru/toyota/raum/49140603.html,,,,,,,,,,,,,,,,,
-123,https://surgut.drom.ru/lada/granta/49140594.html,,,,,,,,,,,,,,,,,
-124,https://chelyabinsk.drom.ru/kia/picanto/48800501.html,,,,,,,,,,,,,,,,,
-125,https://shadrinsk.drom.ru/lada/2113/49140602.html,,,,,,,,,,,,,,,,,
-126,https://novosibirsk.drom.ru/honda/cr-v/48905445.html,,,,,,,,,,,,,,,,,
-127,https://tyumen.drom.ru/suzuki/jimny/46772176.html,,,,,,,,,,,,,,,,,
-128,https://krasnoturinsk.drom.ru/skoda/octavia/48080533.html,,,,,,,,,,,,,,,,,
-129,https://kaluga.drom.ru/bmw/5-series/49140601.html,,,,,,,,,,,,,,,,,
-130,https://feodosiya.drom.ru/chevrolet/aveo/49140596.html,,,,,,,,,,,,,,,,,
-131,https://shadrinsk.drom.ru/lada/priora/49140600.html,,,,,,,,,,,,,,,,,
-132,https://rodionovo-nesvetayskaya.drom.ru/lada/2114/49140599.html,,,,,,,,,,,,,,,,,
-133,https://barnaul.drom.ru/subaru/levorg/49140555.html,,,,,,,,,,,,,,,,,
-134,https://kuznetsk.drom.ru/lada/priora/49140598.html,,,,,,,,,,,,,,,,,
-135,https://sochi.drom.ru/daewoo/nexia/49140597.html,,,,,,,,,,,,,,,,,
-136,https://ufa.drom.ru/toyota/camry/49140595.html,,,,,,,,,,,,,,,,,
-137,https://krasnoyarsk.drom.ru/bmw/5-series/47061697.html,,,,,,,,,,,,,,,,,
-138,https://krasnoyarsk.drom.ru/bmw/7-series/47295239.html,,,,,,,,,,,,,,,,,
-139,https://moscow.drom.ru/kia/rio/47563528.html,,,,,,,,,,,,,,,,,
-140,https://moscow.drom.ru/kia/rio/47563528.html,,,,,,,,,,,,,,,,,
-141,https://krasnoyarsk.drom.ru/audi/q5/48122784.html,,,,,,,,,,,,,,,,,
-142,https://krasnoyarsk.drom.ru/honda/civic/48367878.html,,,,,,,,,,,,,,,,,
-143,https://krasnoyarsk.drom.ru/renault/megane/48620711.html,,,,,,,,,,,,,,,,,
-144,https://krasnoyarsk.drom.ru/lexus/rx350/48802855.html,,,,,,,,,,,,,,,,,
-145,https://simferopol.drom.ru/lada/2106/49140593.html,,,,,,,,,,,,,,,,,
-146,https://moscow.drom.ru/lexus/rx400h/49140592.html,,,,,,,,,,,,,,,,,
-147,https://surgut.drom.ru/other/rus/49131252.html,,,,,,,,,,,,,,,,,
-148,https://suhoy-log.drom.ru/lada/2106/49140591.html,,,,,,,,,,,,,,,,,
-149,https://cherepanovo.drom.ru/lada/2114/48979379.html,,,,,,,,,,,,,,,,,
-150,https://ekaterinburg.drom.ru/kia/cerato/45009027.html,,,,,,,,,,,,,,,,,
-151,https://tula.drom.ru/lada/vesta/47051897.html,,,,,,,,,,,,,,,,,
-152,https://sochi.drom.ru/volkswagen/jetta/49140590.html,,,,,,,,,,,,,,,,,
-153,https://gorno-altaysk.drom.ru/lada/2115/48747988.html,,,,,,,,,,,,,,,,,
-154,https://lipetsk.drom.ru/geely/emgrand/49140589.html,,,,,,,,,,,,,,,,,
-155,https://blagoveshchensk.drom.ru/honda/accord/49140587.html,,,,,,,,,,,,,,,,,
-156,https://kalmanka.drom.ru/chery/tiggo/49140588.html,,,,,,,,,,,,,,,,,
-157,https://krasnoyarsk.drom.ru/volkswagen/polo/48747496.html,,,,,,,,,,,,,,,,,
-158,https://yevpatoriya.drom.ru/honda/civic/49140548.html,,,,,,,,,,,,,,,,,
-159,https://troytsk-chelabinsk.drom.ru/lada/2110/49140586.html,,,,,,,,,,,,,,,,,
-160,https://pochtovoe-krym.drom.ru/hyundai/elantra/49140584.html,,,,,,,,,,,,,,,,,
-161,https://ekaterinburg.drom.ru/infiniti/g25/49140583.html,,,,,,,,,,,,,,,,,
-162,https://buynaksk.drom.ru/lada/2104/49140582.html,,,,,,,,,,,,,,,,,
-163,https://samara.drom.ru/lada/kalina/49140581.html,,,,,,,,,,,,,,,,,
-164,https://omsk.drom.ru/nissan/moco/49140580.html,,,,,,,,,,,,,,,,,
-165,https://moscow.drom.ru/chrysler/300c/49140579.html,,,,,,,,,,,,,,,,,
-166,https://nefteyugansk.drom.ru/toyota/camry/49140578.html,,,,,,,,,,,,,,,,,
-167,https://sterlitamak.drom.ru/volkswagen/golf/49140577.html,,,,,,,,,,,,,,,,,
-168,https://noyabrsk.drom.ru/hyundai/sonata/49140576.html,,,,,,,,,,,,,,,,,
-169,https://lesnoy-mo.drom.ru/toyota/land_cruiser/49111582.html,,,,,,,,,,,,,,,,,
-170,https://anapa.drom.ru/chevrolet/aveo/49140553.html,,,,,,,,,,,,,,,,,
-171,https://noginsk.drom.ru/lada/priora/49140573.html,,,,,,,,,,,,,,,,,
-172,https://chelyabinsk.drom.ru/hyundai/sonata/49140572.html,,,,,,,,,,,,,,,,,
-173,https://kazan.drom.ru/skoda/octavia/49140571.html,,,,,,,,,,,,,,,,,
-174,https://nefteyugansk.drom.ru/kia/rio/49140570.html,,,,,,,,,,,,,,,,,
-175,https://spb.drom.ru/skoda/fabia/49140569.html,,,,,,,,,,,,,,,,,
-176,https://novosibirsk.drom.ru/honda/cr-v/49140568.html,,,,,,,,,,,,,,,,,
-177,https://kungur.drom.ru/lada/2115/49140567.html,,,,,,,,,,,,,,,,,
-178,https://saratov.drom.ru/lada/2107/49140566.html,,,,,,,,,,,,,,,,,
-179,https://engels.drom.ru/kia/sportage/49140565.html,,,,,,,,,,,,,,,,,
-180,https://krasnoyarsk.drom.ru/suzuki/vitara/49140564.html,,,,,,,,,,,,,,,,,
-181,https://salavat.drom.ru/daewoo/matiz/49140562.html,,,,,,,,,,,,,,,,,
-182,https://stupino.drom.ru/lada/2101/49140563.html,,,,,,,,,,,,,,,,,
-183,https://voronezh.drom.ru/ford/escape/49140561.html,,,,,,,,,,,,,,,,,
-184,https://novosibirsk.drom.ru/chevrolet/equinox/49140560.html,,,,,,,,,,,,,,,,,
-185,https://ekaterinburg.drom.ru/porsche/panamera/49140559.html,,,,,,,,,,,,,,,,,
-186,https://stariy-oskol.drom.ru/lada/2111/49140558.html,,,,,,,,,,,,,,,,,
-187,https://gubkinskiy.drom.ru/honda/cr-v/49140535.html,,,,,,,,,,,,,,,,,
-188,https://omsk.drom.ru/nissan/x-trail/48886576.html,,,,,,,,,,,,,,,,,
-189,https://krasnodar.drom.ru/infiniti/qx70/49140556.html,,,,,,,,,,,,,,,,,
-190,https://voronezh.drom.ru/lada/2121_4x4_niva/49140557.html,,,,,,,,,,,,,,,,,
-191,https://omsk.drom.ru/hyundai/palisade/48587874.html,,,,,,,,,,,,,,,,,
-192,https://chelyabinsk.drom.ru/mazda/mazda6/49140554.html,,,,,,,,,,,,,,,,,
-193,https://bogdanovich.drom.ru/nissan/almera/49140552.html,,,,,,,,,,,,,,,,,
-194,https://krasnodar.drom.ru/land_rover/range_rover_velar/48917332.html,,,,,,,,,,,,,,,,,
-195,https://tobolsk.drom.ru/chevrolet/aveo/49041920.html,,,,,,,,,,,,,,,,,
-196,https://omsk.drom.ru/volkswagen/passat_cc/49140551.html,,,,,,,,,,,,,,,,,
-197,https://voronezh.drom.ru/lada/2121_4x4_niva/49140550.html,,,,,,,,,,,,,,,,,
-198,https://tyumen.drom.ru/toyota/camry/47139118.html,,,,,,,,,,,,,,,,,
-199,https://ekaterinburg.drom.ru/toyota/land_cruiser_prado/49065877.html,,,,,,,,,,,,,,,,,
-200,https://simferopol.drom.ru/lada/2106/49140549.html,,,,,,,,,,,,,,,,,
-201,https://nizhniy-novgorod.drom.ru/toyota/alphard/49140547.html,,,,,,,,,,,,,,,,,
-202,https://novokuznetsk.drom.ru/lada/2107/49140546.html,,,,,,,,,,,,,,,,,
-203,https://samara.drom.ru/chevrolet/lacetti/49140545.html,,,,,,,,,,,,,,,,,
-204,https://novosibirsk.drom.ru/honda/stream/47323316.html,,,,,,,,,,,,,,,,,
-205,https://ulan-ude.drom.ru/honda/fit/49140543.html,,,,,,,,,,,,,,,,,
-206,https://kerch.drom.ru/mercedes-benz/glc-class/44540960.html,,,,,,,,,,,,,,,,,
-207,https://ekaterinburg.drom.ru/mercedes-benz/b-class/49040115.html,,,,,,,,,,,,,,,,,
-208,https://nizhnevartovsk.drom.ru/lada/2110/49140541.html,,,,,,,,,,,,,,,,,
-209,https://novosibirsk.drom.ru/honda/odyssey/48569142.html,,,,,,,,,,,,,,,,,
-210,https://ust-tarka.drom.ru/mazda/626/49140511.html,,,,,,,,,,,,,,,,,
-211,https://kolomna.drom.ru/lada/2105/49140540.html,,,,,,,,,,,,,,,,,
-212,https://tyumen.drom.ru/mitsubishi/asx/49140539.html,,,,,,,,,,,,,,,,,
-213,https://chelyabinsk.drom.ru/lada/granta/48702395.html,,,,,,,,,,,,,,,,,
-214,https://volgodonsk.drom.ru/honda/civic_ferio/49140538.html,,,,,,,,,,,,,,,,,
-215,https://novosibirsk.drom.ru/nissan/laurel/48683803.html,,,,,,,,,,,,,,,,,
-216,https://voronezh.drom.ru/lada/priora/49140537.html,,,,,,,,,,,,,,,,,
-217,https://barnaul.drom.ru/kia/mohave/49140373.html,,,,,,,,,,,,,,,,,
-218,https://barnaul.drom.ru/toyota/noah/47456938.html,,,,,,,,,,,,,,,,,
-219,https://moscow.drom.ru/bmw/x6/49140496.html,,,,,,,,,,,,,,,,,
-220,https://nizhnevartovsk.drom.ru/nissan/teana/49140531.html,,,,,,,,,,,,,,,,,
-221,https://ufa.drom.ru/suzuki/sx4/49140530.html,,,,,,,,,,,,,,,,,
-222,https://omsk.drom.ru/honda/fit/48702585.html,,,,,,,,,,,,,,,,,
-223,https://kanevskaya.drom.ru/opel/astra_gtc/49140289.html,,,,,,,,,,,,,,,,,
-224,https://toguchin.drom.ru/honda/fit/48744997.html,,,,,,,,,,,,,,,,,
-225,https://novorossiysk.drom.ru/toyota/rav4/49003914.html,,,,,,,,,,,,,,,,,
-226,https://perm.drom.ru/uaz/pick-up/49140528.html,,,,,,,,,,,,,,,,,
-227,https://belovo.drom.ru/lada/2121_4x4_niva/49140527.html,,,,,,,,,,,,,,,,,
-228,https://nizhnegorskiy.drom.ru/bmw/5-series/49140526.html,,,,,,,,,,,,,,,,,
-229,https://berdsk.drom.ru/nissan/qashqai/47879868.html,,,,,,,,,,,,,,,,,
-230,https://irkutsk.drom.ru/nissan/juke/49140522.html,,,,,,,,,,,,,,,,,
-231,https://voronezh.drom.ru/audi/a5/49140524.html,,,,,,,,,,,,,,,,,
-232,https://spb.drom.ru/volkswagen/passat/49140521.html,,,,,,,,,,,,,,,,,
-233,https://novokuznetsk.drom.ru/chevrolet/lanos/49140519.html,,,,,,,,,,,,,,,,,
-234,https://omsk.drom.ru/nissan/cefiro/49140494.html,,,,,,,,,,,,,,,,,
-235,https://krasnoyarsk.drom.ru/renault/laguna/47812908.html,,,,,,,,,,,,,,,,,
-236,https://spb.drom.ru/hyundai/solaris/49140517.html,,,,,,,,,,,,,,,,,
-237,https://chelyabinsk.drom.ru/toyota/corolla_fielder/49140518.html,,,,,,,,,,,,,,,,,
-238,https://kazan.drom.ru/hyundai/santa_fe/49140515.html,,,,,,,,,,,,,,,,,
-239,https://orsk.drom.ru/lada/granta_cross/49140513.html,,,,,,,,,,,,,,,,,
-240,https://orsk.drom.ru/lada/granta_cross/49140513.html,,,,,,,,,,,,,,,,,
-241,https://orenburg.drom.ru/lada/kalina/49140512.html,,,,,,,,,,,,,,,,,
-242,https://anzhero-sudzhensk.drom.ru/infiniti/m37/49061038.html,,,,,,,,,,,,,,,,,
-243,https://surgut.drom.ru/hyundai/solaris/49140510.html,,,,,,,,,,,,,,,,,
-244,https://tyumen.drom.ru/lada/2115/49140509.html,,,,,,,,,,,,,,,,,
-245,https://novosibirsk.drom.ru/lexus/ls460/49139706.html,,,,,,,,,,,,,,,,,
-246,https://krasnodar.drom.ru/tesla/model_y/49140507.html,,,,,,,,,,,,,,,,,
-247,https://armavir.drom.ru/land_rover/freelander/49140506.html,,,,,,,,,,,,,,,,,
-248,https://karpinsk.drom.ru/uaz/buhanka/49140504.html,,,,,,,,,,,,,,,,,
-249,https://kemerovo.drom.ru/uaz/patriot/49140503.html,,,,,,,,,,,,,,,,,
-250,https://tver.drom.ru/skoda/octavia/49140501.html,,,,,,,,,,,,,,,,,
-251,https://kurgan.drom.ru/lada/2114/49140500.html,,,,,,,,,,,,,,,,,
-252,https://tver.drom.ru/toyota/yaris/49140499.html,,,,,,,,,,,,,,,,,
-253,https://spb.drom.ru/bmw/3-series/49140498.html,,,,,,,,,,,,,,,,,
-254,https://novosibirsk.drom.ru/toyota/land_cruiser_prado/47394473.html,,,,,,,,,,,,,,,,,
-255,https://penza.drom.ru/jeep/grand_cherokee/48041532.html,,,,,,,,,,,,,,,,,
-256,https://omsk.drom.ru/honda/accord/48009616.html,,,,,,,,,,,,,,,,,
-257,https://ussuriisk.drom.ru/toyota/hilux_surf/49019470.html,,,,,,,,,,,,,,,,,
-258,https://tver.drom.ru/renault/duster/49140497.html,,,,,,,,,,,,,,,,,
-259,https://krasnoyarsk.drom.ru/audi/a4/49140482.html,,,,,,,,,,,,,,,,,
-260,https://balashiha.drom.ru/ford/focus/49140495.html,,,,,,,,,,,,,,,,,
-261,https://surgut.drom.ru/toyota/camry/48666884.html,,,,,,,,,,,,,,,,,
-262,https://izhevsk.drom.ru/chevrolet/cruze/49140493.html,,,,,,,,,,,,,,,,,
-263,https://spb.drom.ru/toyota/verso/49140492.html,,,,,,,,,,,,,,,,,
-264,https://voronezh.drom.ru/daewoo/matiz/49140490.html,,,,,,,,,,,,,,,,,
-265,https://izhevsk.drom.ru/kia/rio/49140489.html,,,,,,,,,,,,,,,,,
-266,https://petrozavodsk.drom.ru/toyota/avensis/48453124.html,,,,,,,,,,,,,,,,,
-267,https://spb.drom.ru/mitsubishi/pajero/49140488.html,,,,,,,,,,,,,,,,,
-268,https://spb.drom.ru/volvo/v40/49140487.html,,,,,,,,,,,,,,,,,
-269,https://spb.drom.ru/honda/pilot/49140486.html,,,,,,,,,,,,,,,,,
-270,https://tikhoretsk.drom.ru/opel/mokka/49140485.html,,,,,,,,,,,,,,,,,
-271,https://simferopol.drom.ru/ford/focus/48412632.html,,,,,,,,,,,,,,,,,
-272,https://orenburg.drom.ru/lada/2115/49140483.html,,,,,,,,,,,,,,,,,
-273,https://noyabrsk.drom.ru/toyota/passo/48578835.html,,,,,,,,,,,,,,,,,
-274,https://novosibirsk.drom.ru/daihatsu/move/49140481.html,,,,,,,,,,,,,,,,,
-275,https://spb.drom.ru/bmw/3-series/49140480.html,,,,,,,,,,,,,,,,,
-276,https://kurgan.drom.ru/datsun/on-do/49140479.html,,,,,,,,,,,,,,,,,
-277,https://chelyabinsk.drom.ru/lada/priora/49140478.html,,,,,,,,,,,,,,,,,
-278,https://sevastopol.drom.ru/suzuki/liana/49140290.html,,,,,,,,,,,,,,,,,
-279,https://nefteyugansk.drom.ru/toyota/funcargo/49140477.html,,,,,,,,,,,,,,,,,
-280,https://simferopol.drom.ru/lada/2107/48805472.html,,,,,,,,,,,,,,,,,
-281,https://novosibirsk.drom.ru/volkswagen/jetta/49140475.html,,,,,,,,,,,,,,,,,
-282,https://novosibirsk.drom.ru/nissan/note/48951122.html,,,,,,,,,,,,,,,,,
-283,https://surgut.drom.ru/suzuki/grand_vitara/49065425.html,,,,,,,,,,,,,,,,,
-284,https://samara.drom.ru/chevrolet/cruze/49140473.html,,,,,,,,,,,,,,,,,
-285,https://tomsk.drom.ru/toyota/corolla/49140472.html,,,,,,,,,,,,,,,,,
-286,https://ekaterinburg.drom.ru/lada/priora/49140471.html,,,,,,,,,,,,,,,,,
-287,https://surgut.drom.ru/nissan/terrano/49140470.html,,,,,,,,,,,,,,,,,
-288,https://surgut.drom.ru/lada/granta/49140469.html,,,,,,,,,,,,,,,,,
-289,https://ivanteevka.drom.ru/renault/sandero/49140468.html,,,,,,,,,,,,,,,,,
-290,https://tyumen.drom.ru/lada/2110/49140467.html,,,,,,,,,,,,,,,,,
-291,https://buynaksk.drom.ru/mercedes-benz/glk-class/49140466.html,,,,,,,,,,,,,,,,,
-292,https://surgut.drom.ru/skoda/octavia/49140465.html,,,,,,,,,,,,,,,,,
-293,https://surgut.drom.ru/geely/sx11/49140464.html,,,,,,,,,,,,,,,,,
-294,https://dzhubga.drom.ru/bmw/5-series/49140462.html,,,,,,,,,,,,,,,,,
-295,https://orsk.drom.ru/lada/kalina/49140463.html,,,,,,,,,,,,,,,,,
-296,https://surgut.drom.ru/hyundai/solaris/49140460.html,,,,,,,,,,,,,,,,,
-297,https://irkutsk.drom.ru/land_rover/range_rover/47819118.html,,,,,,,,,,,,,,,,,
-298,https://novosibirsk.drom.ru/nissan/sunny/48679344.html,,,,,,,,,,,,,,,,,
-299,https://surgut.drom.ru/audi/q3/49140458.html,,,,,,,,,,,,,,,,,
-300,https://anzhero-sudzhensk.drom.ru/hummer/h2/48590002.html,,,,,,,,,,,,,,,,,
+11,https://rostov-na-donu.drom.ru/daihatsu/move/48656904.html,Daihatsu,Move,Ростов-на-Дону,2012,бензин,0.7,52,вариатор,передний,,серебристый,150000,правый,5 поколение,660 L,0,445000
+12,https://rostov-na-donu.drom.ru/honda/freed/48792156.html,Honda,Freed,Ростов-на-Дону,2018,бензин,1.5,131,вариатор,передний,,желтый,62000,правый,2 поколение, 1.5 G Honda Sensing (7-Seater),0,1365000
+13,https://rostov-na-donu.drom.ru/honda/cr-v/48744192.html,Honda,CR-V,Ростов-на-Дону,2020,бензин,2.0,150,вариатор,4WD,,серый,21000,левый,5 поколение,,0,2999999
+14,https://rostov-na-donu.drom.ru/audi/a6/46888495.html,Audi,A6,Ростов-на-Дону,2016,бензин,2.0,249,робот,4WD,седан,белый,82000,левый,"4 поколение, рестайлинг",,1,2499999
+15,https://rostov-na-donu.drom.ru/subaru/forester/48767556.html,Subaru,Forester,Ростов-на-Дону,2017,бензин,2.0,148,вариатор,4WD,,серебристый,30000,правый,"4 поколение, рестайлинг",2.0i-L EyeSight 4WD,0,1855000
+16,https://moscow.drom.ru/mercedes-benz/gl-class/49140669.html,Mercedes-Benz,GL-Class,Москва,2013,бензин,4.7,435,АКПП,4WD,,синий,131134,левый,2 поколение,,0,2399000
+17,https://moscow.drom.ru/mercedes-benz/c-class/49140664.html,Mercedes-Benz,C-Class,Москва,2013,бензин,1.6,156,АКПП,задний,седан,белый,127121,левый,,,0,1099000
+18,https://omsk.drom.ru/renault/logan_stepway/47212388.html,Renault,Logan Stepway,Омск,2019,бензин,1.6,113,механика,передний,,серебристый,41000,левый,1 поколение,,0,975000
+19,https://moscow.drom.ru/lexus/is250/49140663.html,Lexus,IS250,Москва,2012,бензин,2.5,208,АКПП,задний,,белый,121600,левый,"2 поколение, 2 рестайлинг",,0,1549000
+19,https://moscow.drom.ru/lexus/is250/49140663.html,Lexus,IS250,Москва,2012,бензин,2.5,208,АКПП,задний,,белый,121600,левый,"2 поколение, 2 рестайлинг",,0,1549000
+20,https://moscow.drom.ru/lexus/is250/49140663.html,Lexus,IS250,Москва,2012,бензин,2.5,208,АКПП,задний,,белый,121600,левый,"2 поколение, 2 рестайлинг",,0,1549000
+20,https://moscow.drom.ru/lexus/is250/49140663.html,Lexus,IS250,Москва,2012,бензин,2.5,208,АКПП,задний,,белый,121600,левый,"2 поколение, 2 рестайлинг",,0,1549000
+21,https://zlatoust.drom.ru/lada/priora/49140662.html,Лада,Приора,Златоуст,2010,бензин,1.6,98,механика,передний,седан,зеленый,175632,левый,1 поколение,1.6 MT Люкс 21703-02-018,0,230000
+22,https://arkadak.drom.ru/mercedes-benz/e-class/49140661.html,Mercedes-Benz,E-Class,Аркадак,1995,бензин,2.0,136,механика,задний,седан,черный,,левый,2 поколение,E 200 MТ Classic,0,300000
+23,https://moscow.drom.ru/kia/optima/49140660.html,Kia,Optima,Москва,2018,бензин,2.0,245,АКПП,передний,седан,черный,80322,левый,4 поколение,,0,1899000
+24,https://belgorod.drom.ru/ford/f250/47641514.html,Ford,F250,Белгород,2012,дизель,6.7,320,автомат,4WD,,белый,175000,левый,,,0,3300000
+25,https://simferopol.drom.ru/mazda/626/49140659.html,Mazda,626,Симферополь,1985,бензин,2.0,102,механика,передний,купе,серый,280000,левый,"2 поколение, рестайлинг",2.0 MT GLX,0,130000
+26,https://yalta.drom.ru/bmw/x1/48801541.html,BMW,X1,Ялта,2018,дизель,2.0,150,автомат,передний,,черный,68000,левый,,,0,2600000
+27,https://moscow.drom.ru/jeep/grand_cherokee/49140657.html,Jeep,Grand Cherokee,Москва,2012,бензин,3.6,286,автомат,4WD,,черный,160136,левый,,,0,1349000
+28,https://blagoveshchensk.drom.ru/nissan/patrol/46836484.html,Nissan,Patrol,Благовещенск,2010,бензин,5.6,405,АКПП,4WD,джип/suv 5 дв.,белый,195000,левый,6 поколение,5.6 AT 4WD Top,0,2200000
+29,https://tomsk.drom.ru/lexus/es350/48639798.html,Lexus,ES350,Томск,2018,бензин,3.5,249,АКПП,передний,,белый,39000,левый,7 поколение,3.5 AT Luxury,0,4530000
+30,https://moscow.drom.ru/audi/a8/49140656.html,Audi,A8,Москва,2012,бензин,3.0,290,АКПП,4WD,,черный,140226,левый,3 поколение,,0,1199000
+31,https://krasnodar.drom.ru/daewoo/nexia/49140654.html,Daewoo,Nexia,Краснодар,2011,бензин,1.5,80,механика,передний,седан,черный,55000,левый,"1 поколение, 2 рестайлинг",,0,355000
+32,https://moscow.drom.ru/audi/a6/49140651.html,Audi,A6,Москва,2015,бензин,1.8,190,робот,передний,седан,черный,110299,левый,"4 поколение, рестайлинг",,0,1549000
+33,https://yablonovskiy.drom.ru/nissan/teana/48927764.html,Nissan,Teana,Яблоновский,2006,бензин,2.3,173,АКПП,передний,,золотистый,187000,левый,"1 поколение, рестайлинг",2.3 AT Luxury,0,550000
+34,https://orenburg.drom.ru/mitsubishi/galant/49140649.html,Mitsubishi,Galant,Оренбург,2008,бензин,2.4,158,АКПП,передний,седан,бежевый,,левый,"9 поколение, 2 рестайлинг",,0,450000
+35,https://surgut.drom.ru/hyundai/solaris/46701912.html,Hyundai,Solaris,Сургут,2014,бензин,1.6,123,АКПП,передний,хэтчбек 5 дв.,оранжевый,120000,левый,"1 поколение, рестайлинг",1.6 AT Elegance,0,850000
+36,https://yakutsk.drom.ru/lada/2106/46745207.html,Лада,2106,Якутск,1996,бензин,1.6,75,механика,задний,,зеленый,85000,левый,1 поколение,,0,80000
+37,https://habarovsk.drom.ru/nissan/qashqai/46906940.html,Nissan,Qashqai,Хабаровск,2009,бензин,2.0,141,вариатор,4WD,,красный,156000,левый,1 поколение,,0,765000
+38,https://ekaterinburg.drom.ru/lada/2109/49140646.html,Лада,2109,Екатеринбург,2002,бензин,1.5,78,механика,передний,,зеленый,,левый,"1 поколение, рестайлинг",,0,50000
+39,https://krasnoyarsk.drom.ru/hyundai/starex/48496038.html,Hyundai,Starex,Красноярск,2006,дизель,2.5,145,механика,задний,,серый,396000,левый,"1 поколение, рестайлинг",2.5 CRDI MT Base Long (12 seats),0,575000
+40,https://korenovsk.drom.ru/chevrolet/cruze/48798619.html,Chevrolet,Cruze,Кореновск,2014,бензин,1.6,109,механика,передний,седан,черный,87816,левый,"1 поколение, рестайлинг",,0,820000
+41,https://feodosiya.drom.ru/nissan/murano/49140644.html,Nissan,Murano,Феодосия,2016,бензин,3.5,249,вариатор,передний,джип/suv 5 дв.,белый,53000,левый,3 поколение,3.5 CVT Mid,1,2100000
+42,https://krasnoyarsk.drom.ru/nissan/qashqai/49140630.html,Nissan,Qashqai,Красноярск,2010,бензин,2.0,141,вариатор,4WD,,серый,108000,левый,"1 поколение, рестайлинг",2.0 CVT 4WD SE+ ,0,1000000
+43,https://azov.drom.ru/mitsubishi/colt/49140643.html,Mitsubishi,Colt,Азов,2006,бензин,1.3,95,робот,передний,хэтчбек 5 дв.,черный,239000,левый,6 поколение,1.3 MPI AMT,0,245000
+44,https://tyumen.drom.ru/land_rover/range_rover_sport/48160240.html,Land Rover,Range Rover Sport,Тюмень,2007,бензин,4.2,390,АКПП,4WD,,черный,300000,левый,1 поколение,4.2 AT Supercharged,0,1450000
+45,https://krasnodar.drom.ru/citroen/c4/49140642.html,Citroen,C4,Краснодар,2014,бензин,1.6,120,АКПП,передний,седан,белый,90000,левый,2 поколение,1.6 AT Lounge,0,699000
+46,https://bratsk.drom.ru/lexus/rx300/48380018.html,Lexus,RX300,Братск,2019,бензин,2.0,238,АКПП,4WD,,синий,37000,левый,4 поколение,2.0t AT AWD F Sport Executive,0,5000000
+47,https://izhevsk.drom.ru/lada/priora/49140640.html,Лада,Приора,Ижевск,2008,бензин,1.6,98,механика,передний,седан,зеленый,175000,левый,1 поколение,,0,205000
+48,https://krasnoyarsk.drom.ru/honda/fit/48237468.html,Honda,Fit,Красноярск,2013,бензин,1.3,99,вариатор,передний,,белый,94094,правый,"2 поколение, 2 рестайлинг",,0,755000
+49,https://krasnoyarsk.drom.ru/honda/fit/48251855.html,Honda,Fit,Красноярск,2010,бензин,1.3,100,вариатор,передний,,серый,96383,правый,2 поколение,,0,720000
+50,https://krasnoyarsk.drom.ru/honda/fit/48356199.html,Honda,Fit,Красноярск,2009,бензин,1.3,100,вариатор,передний,,голубой,52396,правый,2 поколение,,0,695000
+51,https://krasnoyarsk.drom.ru/honda/fit/48720680.html,Honda,Fit,Красноярск,2010,бензин,1.3,100,вариатор,передний,,серый,168846,правый,2 поколение,,0,573000
+52,https://krasnoyarsk.drom.ru/nissan/note/48973692.html,Nissan,Note,Красноярск,2013,бензин,1.2,98,вариатор,передний,,серый,84818,правый,2 поколение,,0,737000
+53,https://habarovsk.drom.ru/toyota/c-hr/49140604.html,Toyota,C-HR,Хабаровск,2019,бензин,1.8,98,вариатор,передний,,красный,23500,правый,"1 поколение, рестайлинг",Hybrid 1.8 G,0,2150000
+54,https://sochi.drom.ru/lada/2107/49140305.html,Лада,2107,Сочи,2001,бензин,1.6,74,механика,задний,,белый,90000,,1 поколение,1.6 MT 21074-30-013 Стандарт,0,69000
+55,https://tyumen.drom.ru/toyota/land_cruiser_prado/48129965.html,Toyota,Land Cruiser Prado,Тюмень,2021,бензин,2.7,163,АКПП,4WD,джип/suv 5 дв.,черный,1000,левый,"4 поколение, 2 рестайлинг",2.7 AT Престиж,0,5550000
+56,https://omsk.drom.ru/kia/picanto/49140639.html,Kia,Picanto,Омск,2009,бензин,1.1,65,АКПП,передний,хэтчбек 5 дв.,голубой,82000,левый,"1 поколение, рестайлинг",1.1 AT Комфорт,0,420000
+57,https://shebekino.drom.ru/lada/2110/49140638.html,Лада,2110,Шебекино,2003,бензин,1.5,78,механика,передний,,серебристый,220009,,1 поколение,1.5i MT 21102,0,105000
+58,https://surgut.drom.ru/haval/f7x/49140637.html,Haval,F7x,Сургут,2021,бензин,2.0,190,робот,4WD,,черный,15000,левый,1 поколение,2.0 4WD SAT Elite,0,2600000
+59,https://kirov.drom.ru/renault/duster/49140636.html,Renault,Duster,Киров,2020,бензин,2.0,143,механика,4WD,,белый,34137,левый,,,0,1580000
+59,https://kirov.drom.ru/renault/duster/49140636.html,Renault,Duster,Киров,2020,бензин,2.0,143,механика,4WD,,белый,34137,левый,,,0,1580000
+60,https://kirov.drom.ru/renault/duster/49140636.html,Renault,Duster,Киров,2020,бензин,2.0,143,механика,4WD,,белый,34137,левый,,,0,1580000
+60,https://kirov.drom.ru/renault/duster/49140636.html,Renault,Duster,Киров,2020,бензин,2.0,143,механика,4WD,,белый,34137,левый,,,0,1580000
+61,https://irkutsk.drom.ru/toyota/corolla_fielder/49140632.html,Toyota,Corolla Fielder,Иркутск,2017,бензин,1.5,74,вариатор,передний,,белый,187000,правый,"3 поколение, рестайлинг", 1.5 Hybrid,0,995000
+62,https://spb.drom.ru/toyota/avensis/49140635.html,Toyota,Avensis,Санкт-Петербург,2008,бензин,1.8,129,механика,передний,седан,серебристый,175000,левый,"2 поколение, рестайлинг",1.8 MT Sol,0,610000
+63,https://krasnoyarsk.drom.ru/peugeot/308/49080969.html,Peugeot,308,Красноярск,2010,бензин,1.6,120,АКПП,передний,хэтчбек 5 дв.,красный,150000,левый,1 поколение,1.6 VTi AT Premium Pack,0,398000
+64,https://moscow.drom.ru/bmw/5-series/49140633.html,BMW,5-Series,Москва,2017,дизель,3.0,249,АКПП,4WD,седан,черный,147849,левый,7 поколение,,0,3245000
+65,https://novokuznetsk.drom.ru/mazda/demio/49140631.html,Mazda,Demio,Новокузнецк,2011,бензин,1.3,91,АКПП,передний,,черный,216000,правый,"3 поколение, рестайлинг",1.3 13C,0,400000
+66,https://nyagan.drom.ru/bmw/6-series/49084373.html,BMW,6-Series,Нягань,2005,бензин,4.4,333,АКПП,задний,купе,черный,24000,левый,2 поколение,645Ci AT,0,1000000
+67,https://rostov-na-donu.drom.ru/lada/2107/49140629.html,Лада,2107,Ростов-на-Дону,2004,бензин,1.6,76,механика,задний,,бордовый,60000,,1 поколение,1.6 MT 21074,1,85000
+68,https://anzhero-sudzhensk.drom.ru/kia/k5/48519931.html,Kia,K5,Анжеро-Судженск,2021,бензин,2.5,194,АКПП,передний,,серый,43000,левый,5 поколение,2.5 GDI AT GT Line+,0,2729000
+69,https://krasnoyarsk.drom.ru/infiniti/q50/46134080.html,Infiniti,Q50,Красноярск,2017,бензин,2.0,211,АКПП,задний,,черный,40000,левый,"4 поколение, рестайлинг",2.0 Pure,0,2300000
+70,https://berdsk.drom.ru/nissan/teana/48963284.html,Nissan,Teana,Бердск,2011,бензин,3.5,249,вариатор,передний,,черный,183000,левый,2 поколение,,0,1100000
+71,https://moscow.drom.ru/dongfeng/580/48653091.html,Dongfeng,580,Москва,2021,бензин,1.5,145,вариатор,передний,,черный,,левый,"1 поколение, рестайлинг",1.5T CVT Luxury,0,2199000
+72,https://tokarevka.drom.ru/lada/priora/49140627.html,Лада,Приора,Токаревка,2010,бензин,1.6,98,механика,передний,седан,зеленый,287000,левый,1 поколение,1.6 MT Норма 21703-01-010,0,220000
+73,https://armyansk.drom.ru/volkswagen/golf/49140626.html,Volkswagen,Golf,Армянск,2007,бензин,1.6,102,механика,передний,хэтчбек 5 дв.,серебристый,229000,левый,5 поколение,,0,565000
+74,https://krasnoyarsk.drom.ru/audi/q7/45938875.html,Audi,Q7,Красноярск,2015,дизель,3.0,249,АКПП,4WD,,коричневый,200500,левый,2 поколение,3.0 45 TDI quattro tiptronic,0,3700000
+75,https://omsk.drom.ru/daewoo/gentra/48165745.html,Daewoo,Gentra,Омск,2013,бензин,1.5,107,механика,передний,седан,белый,91000,левый,2 поколение,1.5 MT 2WD Optimum,0,470000
+76,https://tyumen.drom.ru/lada/2110/49140625.html,Лада,2110,Тюмень,2006,бензин,1.6,80,механика,передний,,бежевый,258000,,1 поколение,1.6i MT 21101,0,165000
+77,https://omsk.drom.ru/hyundai/ix55/48387312.html,Hyundai,ix55,Омск,2010,дизель,3.0,239,АКПП,4WD,,синий,216000,левый,1 поколение,3.0D Family,0,1250000
+78,https://stavropol.drom.ru/bmw/5-series/49140624.html,BMW,5-Series,Ставрополь,2017,бензин,2.0,249,АКПП,4WD,седан,белый,70000,левый,7 поколение,530i AT xDrive Luxury,0,3250000
+79,https://krasnoyarsk.drom.ru/toyota/vitz/47366920.html,Toyota,Vitz,Красноярск,2009,бензин,1.0,71,вариатор,передний,хэтчбек 5 дв.,серебристый,56166,правый,"2 поколение, рестайлинг",,0,587000
+80,https://krasnoyarsk.drom.ru/toyota/vitz/47433276.html,Toyota,Vitz,Красноярск,2011,бензин,1.0,69,вариатор,передний,хэтчбек 5 дв.,черный,78906,правый,3 поколение,,0,685000
+81,https://abakan.drom.ru/bmw/x5/47661560.html,BMW,X5,Абакан,2000,бензин,4.4,286,АКПП,4WD,,синий,200000,левый,1 поколение,4.4i AT xDrive,0,333000
+82,https://krasnoyarsk.drom.ru/toyota/vitz/48464533.html,Toyota,Vitz,Красноярск,2009,бензин,1.0,71,вариатор,передний,хэтчбек 5 дв.,черный,18360,правый,"2 поколение, рестайлинг",,0,617000
+83,https://krasnoyarsk.drom.ru/toyota/prius/48508105.html,Toyota,Prius,Красноярск,2012,бензин,1.8,99,вариатор,передний,лифтбек,фиолетовый,114199,правый,"3 поколение, рестайлинг",,0,1115000
+84,https://krasnoyarsk.drom.ru/honda/freed/48508592.html,Honda,Freed,Красноярск,2011,бензин,1.5,118,вариатор,передний,,голубой,80813,правый,"1 поколение, рестайлинг",1.5 G aero (7-Seater),0,865000
+85,https://krasnoyarsk.drom.ru/nissan/serena/48796150.html,Nissan,Serena,Красноярск,2015,бензин,2.0,147,вариатор,передний,,коричневый,132900,правый,"4 поколение, рестайлинг",,0,1377000
+86,https://krasnoyarsk.drom.ru/toyota/corolla_fielder/48802753.html,Toyota,Corolla Fielder,Красноярск,2011,бензин,1.5,110,вариатор,передний,,черный,103000,правый,"2 поколение, рестайлинг",,0,965000
+87,https://krasnoyarsk.drom.ru/honda/freed/48858690.html,Honda,Freed,Красноярск,2009,бензин,1.5,118,вариатор,передний,,серый,140126,правый,1 поколение,,0,825000
+88,https://krasnoyarsk.drom.ru/mazda/axela/48858709.html,Mazda,Axela,Красноярск,2011,бензин,1.5,111,вариатор,передний,седан,серый,57739,правый,2 поколение,,1,815000
+89,https://abakan.drom.ru/honda/stepwgn/48949315.html,Honda,Stepwgn,Абакан,2008,бензин,2.0,155,АКПП,передний,,черный,150000,правый,"3 поколение, рестайлинг",2.0 G smart style edition 8 seater ,0,450000
+90,https://krasnoyarsk.drom.ru/honda/shuttle/48954447.html,Honda,Shuttle,Красноярск,2016,бензин,1.5,132,вариатор,передний,универсал,черный,65500,правый,2 поколение,,0,1137000
+91,https://abakan.drom.ru/mitsubishi/lancer/49005741.html,Mitsubishi,Lancer,Абакан,2008,бензин,1.5,109,механика,передний,седан,черный,200000,левый,10 поколение,1.5 MT Invite+,0,460000
+92,https://krasnoyarsk.drom.ru/honda/shuttle/49053715.html,Honda,Shuttle,Красноярск,2017,бензин,1.5,110,робот,передний,универсал,серый,55590,правый,2 поколение,,1,1150000
+93,https://spb.drom.ru/toyota/rav4/49055466.html,Toyota,RAV4,Санкт-Петербург,2007,бензин,2.4,170,АКПП,4WD,джип/suv 5 дв.,зеленый,193000,левый,3 поколение,2.4 AT Sol,0,1149000
+94,https://khanty-mansiysk.drom.ru/subaru/levorg/47605223.html,Subaru,Levorg,Ханты-Мансийск,2016,бензин,1.6,170,вариатор,4WD,,синий,115000,правый,1 поколение, 1.6 STI Sport EyeSight 4WD,0,1700000
+95,https://semikarakorsk.drom.ru/lada/2110/49140621.html,Лада,2110,Семикаракорск,2005,бензин,1.6,89,механика,передний,,серый,209000,,1 поколение,1.6i MT 21104,0,140000
+96,https://samara.drom.ru/lada/largus_cross/49140620.html,Лада,Ларгус Кросс,Самара,2018,бензин,1.6,106,механика,передний,,коричневый,105000,левый,1 поколение,,0,750000
+97,https://ufa.drom.ru/lada/2131_4x4_niva/48805508.html,Лада,4x4 2131 Нива,Уфа,2004,бензин,1.7,79,механика,4WD,,серебристый,,левый,1 поколение,1.7 MT Стандарт-2131,0,255000
+98,https://krasnodar.drom.ru/audi/q5/49140619.html,Audi,Q5,Краснодар,2013,бензин,2.0,225,АКПП,4WD,,коричневый,341000,левый,"1 поколение, рестайлинг",2.0 TFSI quattro tiptronic,0,1245000
+99,https://kurtamysh.drom.ru/nissan/quest/49140618.html,Nissan,Quest,Куртамыш,2000,бензин,3.3,171,АКПП,передний,,серый,213000,левый,"2 поколение, рестайлинг",,0,400000
+100,https://tver.drom.ru/toyota/rav4/49140617.html,Toyota,RAV4,Тверь,2008,бензин,2.0,152,механика,4WD,джип/suv 5 дв.,серебристый,223931,левый,3 поколение,,0,1045000
+101,https://habarovsk.drom.ru/nissan/adwagon/40574727.html,Nissan,AD,Хабаровск,2017,бензин,1.5,111,вариатор,передний,,,39000,правый,"4 поколение, рестайлинг", 1.5 Expert GX,0,746000
+102,https://nizhnevartovsk.drom.ru/opel/mokka/49140616.html,Opel,Mokka,Нижневартовск,2012,бензин,1.8,140,механика,передний,,белый,157000,левый,1 поколение,,1,750000
+103,https://tver.drom.ru/hyundai/ix35/49140615.html,Hyundai,ix35,Тверь,2014,бензин,2.0,150,механика,4WD,,черный,112694,левый,"1 поколение, рестайлинг",,0,1345000
+104,https://gryazi.drom.ru/opel/omega/49140613.html,Opel,Omega,Грязи,1995,бензин,2.0,116,механика,задний,седан,серебристый,458800,левый,2 поколение,2.0 MT ,0,160000
+105,https://moscow.drom.ru/bmw/x6/49140612.html,BMW,X6,Москва,2021,дизель,3.0,249,АКПП,4WD,,синий,21959,левый,3 поколение,xDrive 30d AT M Sport Pro,0,9685000
+106,https://rostov-na-donu.drom.ru/kia/sportage/49140611.html,Kia,Sportage,Ростов-на-Дону,2014,бензин,2.0,150,механика,передний,джип/suv 5 дв.,серый,161233,левый,3 поколение,,0,1185000
+107,https://kanevskaya.drom.ru/nissan/presea/49140609.html,Nissan,Presea,Каневская,1999,бензин,1.5,105,механика,передний,,бордовый,330000,правый,"2 поколение, рестайлинг",1.5 Refina,0,220000
+108,https://volgograd.drom.ru/mercedes-benz/e-class/49140608.html,Mercedes-Benz,E-Class,Волгоград,2019,бензин,2.0,197,АКПП,задний,седан,черный,89000,левый,5 поколение,E 200 Sport Plus,0,3900000
+109,https://krasnoyarsk.drom.ru/renault/logan_stepway/46593910.html,Renault,Logan Stepway,Красноярск,2020,бензин,1.6,102,АКПП,передний,,синий,38521,левый,1 поколение,1.6 AT Drive,0,1097000
+110,https://krasnoyarsk.drom.ru/toyota/prius/47017547.html,Toyota,Prius,Красноярск,2010,бензин,1.5,76,вариатор,передний,лифтбек,черный,110000,правый,"2 поколение, рестайлинг",1.5 EX,0,735000
+111,https://krasnoyarsk.drom.ru/toyota/prius/48367833.html,Toyota,Prius,Красноярск,2012,бензин,1.8,99,вариатор,передний,лифтбек,серый,62079,правый,"3 поколение, рестайлинг",,0,1137000
+112,https://krasnoyarsk.drom.ru/toyota/prius/48867873.html,Toyota,Prius,Красноярск,2012,бензин,1.8,99,вариатор,передний,лифтбек,зеленый,117500,правый,"3 поколение, рестайлинг",,0,1067000
+113,https://krasnoyarsk.drom.ru/toyota/wish/48989834.html,Toyota,Wish,Красноярск,2011,бензин,1.8,133,вариатор,4WD,,бордовый,93200,правый,2 поколение,,0,1085000
+114,https://krasnoyarsk.drom.ru/kia/rio/49030404.html,Kia,Rio,Красноярск,2018,бензин,1.6,123,АКПП,передний,седан,черный,74000,левый,4 поколение,1.6 AT Comfort,0,1057000
+115,https://krasnoyarsk.drom.ru/honda/cr-v/49049400.html,Honda,CR-V,Красноярск,2017,бензин,2.4,186,вариатор,4WD,,синий,96000,левый,5 поколение,,0,2427000
+116,https://krasnoyarsk.drom.ru/kia/rio/49070611.html,Kia,Rio,Красноярск,2020,бензин,1.6,123,АКПП,передний,седан,белый,27725,левый,4 поколение,,0,1587000
+117,https://krasnoyarsk.drom.ru/honda/cr-v/49076488.html,Honda,CR-V,Красноярск,2011,бензин,2.4,166,АКПП,4WD,,белый,115000,левый,"3 поколение, рестайлинг",2.4 AT Executive,0,1317000
+118,https://krasnoyarsk.drom.ru/kia/rio_x-line/49076650.html,Kia,Rio X (X-Line),Красноярск,2018,бензин,1.6,123,АКПП,передний,,белый,64116,левый,1 поколение,,0,1247000
+119,https://langepas.drom.ru/lada/2107/49140606.html,Лада,2107,Лангепас,2003,бензин,1.6,74,механика,задний,,белый,43476,,1 поколение,,0,40000
+120,https://syzran.drom.ru/mazda/mazda6/49140607.html,Mazda,Mazda6,Сызрань,2008,бензин,2.0,147,АКПП,передний,седан,черный,198000,левый,2 поколение,2.0 AT Exclusive,0,750000
+121,https://omsk.drom.ru/hyundai/solaris/49026396.html,Hyundai,Solaris,Омск,2016,бензин,1.6,123,АКПП,передний,седан,белый,71000,левый,"1 поколение, рестайлинг",1.6 AT Elegance,0,930000
+122,https://kurgan.drom.ru/toyota/raum/49140603.html,Toyota,Raum,Курган,2000,бензин,1.5,94,АКПП,передний,,серый,139367,правый,"1 поколение, рестайлинг",,0,320000
+123,https://surgut.drom.ru/lada/granta/49140594.html,Лада,Гранта,Сургут,2021,бензин,1.6,87,механика,передний,хэтчбек 5 дв.,синий,43500,левый,"1 поколение, рестайлинг",1.6 MT Classic,0,800000
+124,https://chelyabinsk.drom.ru/kia/picanto/48800501.html,Kia,Picanto,Челябинск,2015,бензин,1.0,66,механика,передний,хэтчбек 5 дв.,розовый,4321,левый,"2 поколение, рестайлинг",1.0 MT Classic +теплые опции 5dr.,0,700000
+125,https://shadrinsk.drom.ru/lada/2113/49140602.html,Лада,2113 Самара,Шадринск,2007,бензин,1.6,80,механика,передний,,черный,240000,левый,1 поколение,1.6 MT 21134-20-010,0,94000
+126,https://novosibirsk.drom.ru/honda/cr-v/48905445.html,Honda,CR-V,Новосибирск,2013,бензин,2.4,190,АКПП,4WD,,коричневый,174000,левый,4 поколение,2.4 AT Executive,0,1725000
+127,https://tyumen.drom.ru/suzuki/jimny/46772176.html,Suzuki,Jimny,Тюмень,2013,бензин,1.3,85,АКПП,4WD,,черный,135425,левый,"3 поколение, 2 рестайлинг",,0,1149000
+128,https://krasnoturinsk.drom.ru/skoda/octavia/48080533.html,Skoda,Octavia,Краснотурьинск,2011,бензин,1.4,122,робот,передний,лифтбек,серый,171058,левый,"2 поколение, рестайлинг",1.4 TSI DSG Ambition ,0,720000
+129,https://kaluga.drom.ru/bmw/5-series/49140601.html,BMW,5-Series,Калуга,2014,бензин,2.0,245,АКПП,4WD,универсал,серый,212000,левый,"6 поколение, рестайлинг",528i AT xDrive,0,1600000
+130,https://feodosiya.drom.ru/chevrolet/aveo/49140596.html,Chevrolet,Aveo,Феодосия,2011,бензин,1.4,101,механика,передний,хэтчбек 5 дв.,белый,119000,левый,"1 поколение, рестайлинг",,0,439000
+131,https://shadrinsk.drom.ru/lada/priora/49140600.html,Лада,Приора,Шадринск,2008,бензин,1.6,98,механика,передний,седан,серебристый,300000,левый,1 поколение,,0,170000
+132,https://rodionovo-nesvetayskaya.drom.ru/lada/2114/49140599.html,Лада,2114 Самара,Родионово-Несветайская,2008,бензин,1.6,81,механика,передний,хэтчбек 5 дв.,серый,195000,левый,1 поколение,,1,100000
+133,https://barnaul.drom.ru/subaru/levorg/49140555.html,Subaru,Levorg,Барнаул,2015,бензин,1.6,170,вариатор,4WD,,серый,118000,правый,1 поколение,1.6 GT-S EyeSight 4WD,0,1560000
+134,https://kuznetsk.drom.ru/lada/priora/49140598.html,Лада,Приора,Кузнецк,2011,бензин,1.6,98,механика,передний,седан,серебристый,198000,левый,1 поколение,1.6 MT Люкс 21703-02-018,0,380000
+135,https://sochi.drom.ru/daewoo/nexia/49140597.html,Daewoo,Nexia,Сочи,2012,бензин,1.6,109,механика,передний,седан,черный,340000,левый,"1 поколение, 2 рестайлинг",1.6 DOHC MT НД28/81,0,249999
+136,https://ufa.drom.ru/toyota/camry/49140595.html,Toyota,Camry,Уфа,2007,бензин,3.5,277,АКПП,передний,седан,черный,260000,левый,7 поколение,3.5 AT Luxe,0,720000
+137,https://krasnoyarsk.drom.ru/bmw/5-series/47061697.html,BMW,5-Series,Красноярск,2013,бензин,2.0,184,АКПП,задний,седан,синий,188000,левый,6 поколение,,0,1299000
+138,https://krasnoyarsk.drom.ru/bmw/7-series/47295239.html,BMW,7-Series,Красноярск,2006,бензин,6.0,445,АКПП,задний,,черный,150000,левый,"4 поколение, рестайлинг",,0,550000
+139,https://moscow.drom.ru/kia/rio/47563528.html,Kia,Rio,Москва,2016,бензин,1.6,138,автомат,передний,седан,серебристый,83000,левый,,,0,749000
+139,https://moscow.drom.ru/kia/rio/47563528.html,Kia,Rio,Москва,2016,бензин,1.6,138,автомат,передний,седан,серебристый,83000,левый,,,0,749000
+140,https://moscow.drom.ru/kia/rio/47563528.html,Kia,Rio,Москва,2016,бензин,1.6,138,автомат,передний,седан,серебристый,83000,левый,,,0,749000
+140,https://moscow.drom.ru/kia/rio/47563528.html,Kia,Rio,Москва,2016,бензин,1.6,138,автомат,передний,седан,серебристый,83000,левый,,,0,749000
+141,https://krasnoyarsk.drom.ru/audi/q5/48122784.html,Audi,Q5,Красноярск,2010,бензин,2.0,211,робот,4WD,,черный,94694,левый,1 поколение,2.0 TFSI quattro  S Tronic,0,1267000
+142,https://krasnoyarsk.drom.ru/honda/civic/48367878.html,Honda,Civic,Красноярск,2008,бензин,1.8,140,АКПП,передний,седан,белый,219000,левый,8 поколение,,0,677000
+143,https://krasnoyarsk.drom.ru/renault/megane/48620711.html,Renault,Megane,Красноярск,2012,бензин,1.6,106,механика,передний,хэтчбек 5 дв.,синий,150000,левый,"3 поколение, рестайлинг",,0,500000
+144,https://krasnoyarsk.drom.ru/lexus/rx350/48802855.html,Lexus,RX350,Красноярск,2006,бензин,3.5,276,АКПП,4WD,,бежевый,135000,левый,"2 поколение, рестайлинг",,0,997000
+145,https://simferopol.drom.ru/lada/2106/49140593.html,Лада,2106,Симферополь,1989,бензин,1.3,64,механика,задний,,бежевый,54932,левый,1 поколение,1.3 MT 21063,0,55000
+146,https://moscow.drom.ru/lexus/rx400h/49140592.html,Lexus,RX400h,Москва,2006,бензин,3.3,211,вариатор,4WD,,черный,334000,левый,"2 поколение, рестайлинг",3.3h CVT,0,1000000
+147,https://surgut.drom.ru/other/rus/49131252.html,,,,,,,,,,,,,,,,0,
+148,https://suhoy-log.drom.ru/lada/2106/49140591.html,Лада,2106,Сухой Лог,1994,бензин,1.5,72,механика,задний,,белый,,левый,1 поколение,,0,125000
+149,https://cherepanovo.drom.ru/lada/2114/48979379.html,Лада,2114 Самара,Черепаново,2005,бензин,1.5,77,механика,передний,хэтчбек 5 дв.,синий,150000,левый,1 поколение,1.5 MT Базовая,0,110000
+150,https://ekaterinburg.drom.ru/kia/cerato/45009027.html,Kia,Cerato,Екатеринбург,2019,бензин,1.6,130,АКПП,передний,седан,белый,73245,левый,"3 поколение, рестайлинг",,0,1325000
+151,https://tula.drom.ru/lada/vesta/47051897.html,Лада,Веста,Тула,2020,бензин,1.6,113,вариатор,передний,универсал,серый,15786,левый,1 поколение,,0,1169000
+152,https://sochi.drom.ru/volkswagen/jetta/49140590.html,Volkswagen,Jetta,Сочи,2014,бензин,1.6,105,АКПП,передний,седан,белый,199000,левый,6 поколение,1.6 AT Style,0,820000
+153,https://gorno-altaysk.drom.ru/lada/2115/48747988.html,Лада,2115 Самара,Горно-Алтайск,2003,бензин,1.5,70,механика,передний,,серебристый,290000,левый,1 поколение,1.5 MT Базовая,0,99000
+154,https://lipetsk.drom.ru/geely/emgrand/49140589.html,Geely,Emgrand EC7,Липецк,2013,бензин,1.8,126,механика,передний,седан,белый,200000,левый,1 поколение,1.8 MT Standard,0,200000
+155,https://blagoveshchensk.drom.ru/honda/accord/49140587.html,Honda,Accord,Благовещенск,2017,бензин,2.0,145,вариатор,передний,седан,белый,65000,правый,"9 поколение, рестайлинг",2.0 Hybrid LX,0,1990000
+156,https://kalmanka.drom.ru/chery/tiggo/49140588.html,Chery,Tiggo T11,Калманка,2012,бензин,2.0,136,механика,4WD,,серебристый,150000,левый,1 поколение,2.0 MT TG13C-4WD ,0,200000
+157,https://krasnoyarsk.drom.ru/volkswagen/polo/48747496.html,Volkswagen,Polo,Красноярск,2017,бензин,1.4,125,робот,передний,седан,серый,84000,левый,"5 поколение, рестайлинг",1.4 TSI DSG GT,0,955000
+158,https://yevpatoriya.drom.ru/honda/civic/49140548.html,Honda,Civic,Евпатория,2007,бензин,1.8,140,АКПП,передний,седан,черный,135000,левый,8 поколение,1.8 AT Executive,1,650000
+159,https://troytsk-chelabinsk.drom.ru/lada/2110/49140586.html,Лада,2110,Троицк,2002,бензин,1.5,91,механика,передний,,синий,,,1 поколение,,0,55000
+160,https://pochtovoe-krym.drom.ru/hyundai/elantra/49140584.html,Hyundai,Elantra,Почтовое,2008,бензин,1.6,122,АКПП,передний,седан,бордовый,137000,левый,4 поколение,1.6 Comfort AT,0,570000
+161,https://ekaterinburg.drom.ru/infiniti/g25/49140583.html,Infiniti,G25,Екатеринбург,2011,бензин,2.5,222,АКПП,задний,,белый,140000,,"4 поколение, рестайлинг",2.5 AT Hi-tech (без люка),0,1040000
+162,https://buynaksk.drom.ru/lada/2104/49140582.html,Лада,2104,Буйнакск,1998,бензин,1.5,71,механика,задний,,синий,999999,левый,1 поколение,1.5 MT4 21043,0,70000
+163,https://samara.drom.ru/lada/kalina/49140581.html,Лада,Калина,Самара,2013,бензин,1.6,84,механика,передний,хэтчбек 5 дв.,серебристый,189000,,1 поколение,1.6 MT Стандарт 11193-41-070,0,300000
+164,https://omsk.drom.ru/nissan/moco/49140580.html,Nissan,Moco,Омск,2003,бензин,0.7,54,АКПП,передний,,зеленый,253000,правый,1 поколение,,0,295000
+165,https://moscow.drom.ru/chrysler/300c/49140579.html,Chrysler,300C,Москва,2008,бензин,2.7,177,АКПП,задний,седан,серебристый,171000,левый,"1 поколение, рестайлинг",2.7 AT,0,1100000
+166,https://nefteyugansk.drom.ru/toyota/camry/49140578.html,Toyota,Camry,Нефтеюганск,2007,бензин,2.4,167,АКПП,передний,седан,черный,230000,левый,7 поколение,,0,900000
+167,https://sterlitamak.drom.ru/volkswagen/golf/49140577.html,Volkswagen,Golf,Стерлитамак,2014,бензин,1.2,105,механика,передний,хэтчбек 5 дв.,белый,168000,левый,7 поколение,1.2 TSI MT Trendline 5dr.,0,735000
+168,https://noyabrsk.drom.ru/hyundai/sonata/49140576.html,Hyundai,Sonata,Ноябрьск,2019,бензин,2.0,150,АКПП,передний,,белый,56000,левый,"7 поколение, рестайлинг",2.0 AT Style,0,1800000
+169,https://lesnoy-mo.drom.ru/toyota/land_cruiser/49111582.html,Toyota,Land Cruiser,Лесной,2008,дизель,4.5,235,АКПП,4WD,джип/suv 5 дв.,черный,335000,левый,11 поколение,4.5 TD AT Люкс,0,2199000
+170,https://anapa.drom.ru/chevrolet/aveo/49140553.html,Chevrolet,Aveo,Анапа,2005,бензин,1.2,72,механика,передний,хэтчбек 5 дв.,красный,140000,левый,1 поколение,1.2 MT S H5LA 514,0,290000
+171,https://noginsk.drom.ru/lada/priora/49140573.html,Лада,Приора,Ногинск,2009,бензин,1.6,98,механика,передний,седан,черный,258000,левый,1 поколение,1.6 MT Люкс 21703-03-020,0,165000
+172,https://chelyabinsk.drom.ru/hyundai/sonata/49140572.html,Hyundai,Sonata,Челябинск,2005,бензин,2.0,131,АКПП,передний,,серебристый,333000,левый,"4 поколение, рестайлинг",2.0 AT GLS,0,350000
+173,https://kazan.drom.ru/skoda/octavia/49140571.html,Skoda,Octavia,Казань,2009,бензин,1.4,75,механика,передний,лифтбек,черный,242400,левый,"1 поколение, рестайлинг",1.4 MPI MT Tour ,0,360000
+174,https://nefteyugansk.drom.ru/kia/rio/49140570.html,Kia,Rio,Нефтеюганск,2017,бензин,1.6,123,АКПП,передний,седан,белый,57000,левый,4 поколение,1.6 AT Comfort,0,1200000
+175,https://spb.drom.ru/skoda/fabia/49140569.html,Skoda,Fabia,Санкт-Петербург,2011,бензин,1.4,86,механика,передний,хэтчбек 5 дв.,серый,166200,левый,"2 поколение, рестайлинг",,0,465000
+176,https://novosibirsk.drom.ru/honda/cr-v/49140568.html,Honda,CR-V,Новосибирск,2000,бензин,2.0,150,АКПП,4WD,,белый,286517,правый,"1 поколение, рестайлинг",,0,505000
+177,https://kungur.drom.ru/lada/2115/49140567.html,Лада,2115 Самара,Кунгур,2003,бензин,1.5,78,механика,передний,,черный,260000,левый,,,0,74000
+178,https://saratov.drom.ru/lada/2107/49140566.html,Лада,2107,Саратов,2003,бензин,1.5,71,механика,задний,,синий,96000,,1 поколение,,0,34000
+179,https://engels.drom.ru/kia/sportage/49140565.html,Kia,Sportage,Энгельс,2018,дизель,1.6,136,робот,передний,джип/suv 5 дв.,белый,78000,левый,"4 поколение, рестайлинг",1.6 CRDI DCT 2WD Prestige,0,2200000
+180,https://krasnoyarsk.drom.ru/suzuki/vitara/49140564.html,Suzuki,Vitara,Красноярск,2001,бензин,2.0,127,механика,4WD,джип/suv 5 дв.,черный,188100,левый,2 поколение,2.0 MT 4WD Cabrio JLX,0,430000
+181,https://salavat.drom.ru/daewoo/matiz/49140562.html,Daewoo,Matiz,Салават,2011,бензин,0.8,51,механика,передний,,,100000,левый,"1 поколение, рестайлинг",,0,190000
+182,https://stupino.drom.ru/lada/2101/49140563.html,Лада,2101,Ступино,1974,бензин,1.7,,,задний,,красный,40000,левый,,,0,90000
+183,https://voronezh.drom.ru/ford/escape/49140561.html,Ford,Escape,Воронеж,2008,бензин,2.3,153,АКПП,4WD,,белый,237412,левый,2 поколение,,0,533000
+184,https://novosibirsk.drom.ru/chevrolet/equinox/49140560.html,Chevrolet,Equinox,Новосибирск,2021,бензин,2.0,252,АКПП,4WD,,черный,22000,левый,3 поколение,2.0 AT AWD Premium,0,2980000
+185,https://ekaterinburg.drom.ru/porsche/panamera/49140559.html,Porsche,Panamera,Екатеринбург,2020,бензин,2.9,440,робот,4WD,универсал,серый,25788,левый,2 поколение,,0,10499000
+186,https://stariy-oskol.drom.ru/lada/2111/49140558.html,Лада,2111,Старый Оскол,2004,бензин,1.5,91,механика,передний,,черный,,левый,1 поколение,1.5i MT Норма,0,152000
+187,https://gubkinskiy.drom.ru/honda/cr-v/49140535.html,Honda,CR-V,Губкинский,2011,бензин,2.0,150,АКПП,4WD,,синий,172000,левый,"3 поколение, рестайлинг",,0,1390000
+188,https://omsk.drom.ru/nissan/x-trail/48886576.html,Nissan,X-Trail,Омск,2019,бензин,2.0,144,вариатор,передний,,белый,74000,левый,"3 поколение, рестайлинг",2.0 CVT 2WD SE,0,1890000
+189,https://krasnodar.drom.ru/infiniti/qx70/49140556.html,Infiniti,QX70,Краснодар,2014,дизель,3.0,238,АКПП,4WD,,черный,67000,левый,2 поколение,,0,2260000
+190,https://voronezh.drom.ru/lada/2121_4x4_niva/49140557.html,Лада,4x4 2121 Нива,Воронеж,2009,бензин,1.7,83,механика,4WD,,синий,193000,левый,,,0,305000
+191,https://omsk.drom.ru/hyundai/palisade/48587874.html,Hyundai,Palisade,Омск,2021,бензин,3.8,295,АКПП,4WD,,белый,100,левый,1 поколение,3.8 GDI AT 4WD Prestige 7 seats,0,6000000
+192,https://chelyabinsk.drom.ru/mazda/mazda6/49140554.html,Mazda,Mazda6,Челябинск,2005,бензин,2.0,147,АКПП,передний,лифтбек,черный,270000,левый,"1 поколение, рестайлинг",2.0 AT Exclusive,0,210000
+193,https://bogdanovich.drom.ru/nissan/almera/49140552.html,Nissan,Almera,Богданович,2006,бензин,1.8,116,АКПП,передний,седан,серебристый,209000,левый,"2 поколение, рестайлинг",1.8 AT Люкс,0,295000
+194,https://krasnodar.drom.ru/land_rover/range_rover_velar/48917332.html,Land Rover,Range Rover Velar,Краснодар,2019,дизель,2.0,180,АКПП,4WD,,белый,59000,левый,1 поколение,2.0 TD R-Dynamic S,0,5350000
+195,https://tobolsk.drom.ru/chevrolet/aveo/49041920.html,Chevrolet,Aveo,Тобольск,2012,бензин,1.6,115,механика,передний,седан,синий,135230,левый,2 поколение,1.6 MT LT ,0,550000
+196,https://omsk.drom.ru/volkswagen/passat_cc/49140551.html,Volkswagen,Passat CC,Омск,2012,бензин,1.8,152,робот,передний,седан,белый,120000,левый,"1 поколение, рестайлинг",1.8 TSI DSG Sport,0,1377777
+197,https://voronezh.drom.ru/lada/2121_4x4_niva/49140550.html,Лада,4x4 2121 Нива,Воронеж,2017,бензин,1.7,83,механика,4WD,,красный,59107,левый,1 поколение,,0,658000
+198,https://tyumen.drom.ru/toyota/camry/47139118.html,Toyota,Camry,Тюмень,2021,бензин,2.5,200,АКПП,передний,седан,белый,7163,левый,"9 поколение, рестайлинг",,0,2875000
+199,https://ekaterinburg.drom.ru/toyota/land_cruiser_prado/49065877.html,Toyota,Land Cruiser Prado,Екатеринбург,2012,дизель,3.0,173,АКПП,4WD,джип/suv 5 дв.,серый,279000,левый,4 поколение,3.0 TD AT Prestige Plus,0,2550000
+200,https://simferopol.drom.ru/lada/2106/49140549.html,Лада,2106,Симферополь,2001,бензин,1.6,75,механика,задний,,серый,90000,левый,1 поколение,1.6 MT5 2106,0,95000
+201,https://nizhniy-novgorod.drom.ru/toyota/alphard/49140547.html,Toyota,Alphard,Нижний Новгород,2019,бензин,2.5,152,вариатор,4WD,,белый,68000,правый,"3 поколение, рестайлинг",Hybrid 2.5 SR C Package 4WD,0,3600000
+202,https://novokuznetsk.drom.ru/lada/2107/49140546.html,Лада,2107,Новокузнецк,2011,бензин,1.6,74,механика,задний,,серебристый,46768,,1 поколение,1.6 MT 21074-40-013 Стандарт,0,140000
+203,https://samara.drom.ru/chevrolet/lacetti/49140545.html,Chevrolet,Lacetti,Самара,2007,бензин,1.6,109,механика,передний,хэтчбек 5 дв.,красный,150000,левый,1 поколение,,0,310000
+204,https://novosibirsk.drom.ru/honda/stream/47323316.html,Honda,Stream,Новосибирск,2004,бензин,1.7,130,АКПП,4WD,,белый,332000,правый,"1 поколение, рестайлинг",1.7 G ,0,560000
+205,https://ulan-ude.drom.ru/honda/fit/49140543.html,Honda,Fit,Улан-Удэ,2009,бензин,1.5,120,вариатор,передний,,бордовый,150000,правый,2 поколение,1.5 RS,0,725000
+206,https://kerch.drom.ru/mercedes-benz/glc-class/44540960.html,Mercedes-Benz,GLC,Керчь,2015,дизель,2.1,170,АКПП,4WD,,белый,79000,левый,1 поколение,GLC 220d 4MATIC,0,2550000
+207,https://ekaterinburg.drom.ru/mercedes-benz/b-class/49040115.html,Mercedes-Benz,B-Class,Екатеринбург,2007,бензин,1.7,116,механика,передний,,черный,209000,левый,1 поколение,"B 170 MT ""Особая серия""",0,360000
+208,https://nizhnevartovsk.drom.ru/lada/2110/49140541.html,Лада,2110,Нижневартовск,2003,бензин,1.5,90,механика,передний,,серебристый,125000,,1 поколение,1.5i MT 21103 ,0,85000
+209,https://novosibirsk.drom.ru/honda/odyssey/48569142.html,Honda,Odyssey,Новосибирск,2003,бензин,2.4,160,АКПП,4WD,,синий,170000,правый,3 поколение,2.4 L,0,700000
+210,https://ust-tarka.drom.ru/mazda/626/49140511.html,Mazda,626,Усть-Тарка,1998,бензин,2.0,115,механика,передний,универсал,красный,330000,левый,5 поколение,,0,100000
+211,https://kolomna.drom.ru/lada/2105/49140540.html,Лада,2105,Коломна,2010,бензин,1.6,72,механика,задний,,серый,,,1 поколение,1.6 MT 21054-30,0,85000
+212,https://tyumen.drom.ru/mitsubishi/asx/49140539.html,Mitsubishi,ASX,Тюмень,2020,бензин,2.0,150,вариатор,4WD,,красный,25000,левый,"1 поколение, 3 рестайлинг",2.0 CVT 4WD Intense,0,2250000
+213,https://chelyabinsk.drom.ru/lada/granta/48702395.html,Лада,Гранта,Челябинск,2022,бензин,1.6,90,механика,передний,седан,серебристый,62000,левый,"1 поколение, рестайлинг",,0,760000
+214,https://volgodonsk.drom.ru/honda/civic_ferio/49140538.html,Honda,Civic Ferio,Волгодонск,1999,бензин,1.5,130,вариатор,передний,,серый,242000,правый,"2 поколение, рестайлинг",,0,199999
+215,https://novosibirsk.drom.ru/nissan/laurel/48683803.html,Nissan,Laurel,Новосибирск,1994,бензин,2.0,125,АКПП,задний,седан,черный,336700,правый,7 поколение,2.0 Medalist,0,160000
+216,https://voronezh.drom.ru/lada/priora/49140537.html,Лада,Приора,Воронеж,2011,бензин,1.6,98,механика,передний,седан,,,левый,1 поколение,,0,255000
+217,https://barnaul.drom.ru/kia/mohave/49140373.html,Kia,Mohave,Барнаул,2022,дизель,3.0,249,АКПП,4WD,,черный,новый автомобиль,левый,"1 поколение, 2 рестайлинг",3.0 AT 4WD Premium+,0,5700000
+218,https://barnaul.drom.ru/toyota/noah/47456938.html,Toyota,Noah,Барнаул,2015,бензин,2.0,152,вариатор,4WD,,синий,176000,правый,3 поколение,2.0 X 4WD,0,1400000
+219,https://moscow.drom.ru/bmw/x6/49140496.html,BMW,X6,Москва,2016,бензин,4.4,575,АКПП,4WD,,голубой,82700,левый,2 поколение,X6 M,0,4300000
+220,https://nizhnevartovsk.drom.ru/nissan/teana/49140531.html,Nissan,Teana,Нижневартовск,2011,бензин,2.5,167,вариатор,4WD,,черный,99700,левый,"2 поколение, рестайлинг",2.5 CVT 4WD Elegance+Four ,0,1050000
+221,https://ufa.drom.ru/suzuki/sx4/49140530.html,Suzuki,SX4,Уфа,2008,бензин,1.6,106,механика,передний,хэтчбек 5 дв.,красный,169012,левый,,,0,550000
+222,https://omsk.drom.ru/honda/fit/48702585.html,Honda,Fit,Омск,2002,бензин,1.3,86,вариатор,передний,,черный,274000,правый,1 поколение,1.3 A,0,345000
+223,https://kanevskaya.drom.ru/opel/astra_gtc/49140289.html,Opel,Astra GTC,Каневская,2013,бензин,1.4,140,АКПП,передний,,желтый,130000,левый,4 поколение,1.4 Turbo AT Sport,0,777000
+224,https://toguchin.drom.ru/honda/fit/48744997.html,Honda,Fit,Тогучин,2014,бензин,1.3,100,вариатор,передний,,белый,76000,правый,3 поколение,1.3 13G F Package,0,877000
+225,https://novorossiysk.drom.ru/toyota/rav4/49003914.html,Toyota,RAV4,Новороссийск,2021,бензин,2.5,199,АКПП,4WD,джип/suv 5 дв.,серый,10500,левый,5 поколение,2.5 AT 4WD Комфорт,1,2700000
+226,https://perm.drom.ru/uaz/pick-up/49140528.html,УАЗ,Пикап,Пермь,2014,бензин,2.7,128,механика,4WD,,,500000,левый,1 поколение,,0,455555
+227,https://belovo.drom.ru/lada/2121_4x4_niva/49140527.html,Лада,4x4 2121 Нива,Белово,1996,бензин,1.7,80,механика,4WD,,белый,147000,левый,1 поколение,1.7 MT,0,150000
+228,https://nizhnegorskiy.drom.ru/bmw/5-series/49140526.html,BMW,5-Series,Нижнегорский,2007,бензин,2.5,177,АКПП,задний,седан,черный,216000,левый,5 поколение,523i AT ,0,1100000
+229,https://berdsk.drom.ru/nissan/qashqai/47879868.html,Nissan,Qashqai,Бердск,2015,бензин,2.0,144,вариатор,4WD,,черный,170000,левый,2 поколение,2.0 CVT 4WD SE ,0,1500000
+230,https://irkutsk.drom.ru/nissan/juke/49140522.html,Nissan,Juke,Иркутск,2012,бензин,1.6,117,вариатор,передний,,черный,188000,левый,1 поколение,1.6 CVT 2WD SE+ Sport,0,910000
+231,https://voronezh.drom.ru/audi/a5/49140524.html,Audi,A5,Воронеж,2011,бензин,1.8,160,вариатор,передний,купе,серый,191538,левый,1 поколение,,0,950000
+232,https://spb.drom.ru/volkswagen/passat/49140521.html,Volkswagen,Passat,Санкт-Петербург,2016,дизель,2.0,150,робот,передний,универсал,серый,198533,левый,8 поколение,,0,1339000
+233,https://novokuznetsk.drom.ru/chevrolet/lanos/49140519.html,Chevrolet,Lanos,Новокузнецк,2007,бензин,1.5,86,механика,передний,,серебристый,274638,,1 поколение,,0,78000
+234,https://omsk.drom.ru/nissan/cefiro/49140494.html,Nissan,Cefiro,Омск,1995,бензин,2.0,155,АКПП,передний,седан,серый,200000,правый,2 поколение,2.0 20 Excimo,0,230000
+235,https://krasnoyarsk.drom.ru/renault/laguna/47812908.html,Renault,Laguna,Красноярск,2001,бензин,1.8,116,автомат,передний,лифтбек,серебристый,300000,левый,,,0,300000
+236,https://spb.drom.ru/hyundai/solaris/49140517.html,Hyundai,Solaris,Санкт-Петербург,2019,бензин,1.4,99,автомат,передний,седан,черный,84872,левый,,,0,1029000
+237,https://chelyabinsk.drom.ru/toyota/corolla_fielder/49140518.html,Toyota,Corolla Fielder,Челябинск,2014,бензин,1.5,109,вариатор,передний,,черный,112000,правый,3 поколение,1.5 G,0,990000
+238,https://kazan.drom.ru/hyundai/santa_fe/49140515.html,Hyundai,Santa Fe,Казань,2013,дизель,2.2,197,АКПП,4WD,,серебристый,185750,левый,3 поколение,,0,1635000
+239,https://orsk.drom.ru/lada/granta_cross/49140513.html,Лада,Гранта Кросс,Орск,2021,бензин,1.6,106,механика,передний,,белый,34500,левый,1 поколение,1.6 MT Luxe,0,850000
+239,https://orsk.drom.ru/lada/granta_cross/49140513.html,Лада,Гранта Кросс,Орск,2021,бензин,1.6,106,механика,передний,,белый,34500,левый,1 поколение,1.6 MT Luxe,0,850000
+240,https://orsk.drom.ru/lada/granta_cross/49140513.html,Лада,Гранта Кросс,Орск,2021,бензин,1.6,106,механика,передний,,белый,34500,левый,1 поколение,1.6 MT Luxe,0,850000
+240,https://orsk.drom.ru/lada/granta_cross/49140513.html,Лада,Гранта Кросс,Орск,2021,бензин,1.6,106,механика,передний,,белый,34500,левый,1 поколение,1.6 MT Luxe,0,850000
+241,https://orenburg.drom.ru/lada/kalina/49140512.html,Лада,Калина,Оренбург,2007,бензин,1.6,81,механика,передний,седан,бежевый,,,1 поколение,,0,187000
+242,https://anzhero-sudzhensk.drom.ru/infiniti/m37/49061038.html,Infiniti,M37,Анжеро-Судженск,2012,бензин,3.7,333,АКПП,4WD,,черный,110000,,4 поколение,3.7 Premium,0,1550000
+243,https://surgut.drom.ru/hyundai/solaris/49140510.html,Hyundai,Solaris,Сургут,2019,бензин,1.6,123,АКПП,передний,седан,белый,135193,левый,2 поколение,"1.6 AT Super Series II + 7"" Display Audio",0,1150000
+244,https://tyumen.drom.ru/lada/2115/49140509.html,Лада,2115 Самара,Тюмень,2006,бензин,1.5,76,механика,передний,,зеленый,200,левый,1 поколение,1.5i MT Базовая,0,148000
+245,https://novosibirsk.drom.ru/lexus/ls460/49139706.html,Lexus,LS460,Новосибирск,2007,бензин,4.6,380,АКПП,задний,,черный,200000,левый,4 поколение,,0,520000
+246,https://krasnodar.drom.ru/tesla/model_y/49140507.html,Tesla,Model Y,Краснодар,2021,электр,,346,АКПП,4WD,,белый,13250,левый,1 поколение,75D kWh Long Range,0,5500000
+247,https://armavir.drom.ru/land_rover/freelander/49140506.html,Land Rover,Freelander,Армавир,2005,бензин,2.5,177,АКПП,4WD,джип/suv 5 дв.,красный,170000,левый,"1 поколение, рестайлинг",,0,450000
+248,https://karpinsk.drom.ru/uaz/buhanka/49140504.html,УАЗ,Буханка,Карпинск,2009,бензин,2.7,112,механика,4WD,,серебристый,230000,левый,,,0,170000
+249,https://kemerovo.drom.ru/uaz/patriot/49140503.html,УАЗ,Патриот,Кемерово,2019,бензин,2.7,150,АКПП,4WD,,серый,120000,левый,"1 поколение, 3 рестайлинг",,0,1199000
+250,https://tver.drom.ru/skoda/octavia/49140501.html,Skoda,Octavia,Тверь,2011,бензин,1.6,102,механика,передний,лифтбек,серебристый,121000,левый,"2 поколение, рестайлинг",,0,775000
+251,https://kurgan.drom.ru/lada/2114/49140500.html,Лада,2114 Самара,Курган,2008,бензин,1.6,81,механика,передний,хэтчбек 5 дв.,черный,182000,левый,1 поколение,1.6 MT 21144-20-010,1,53000
+252,https://tver.drom.ru/toyota/yaris/49140499.html,Toyota,Yaris,Тверь,2008,бензин,1.3,87,автомат,передний,хэтчбек 5 дв.,серый,138616,левый,,,0,545000
+253,https://spb.drom.ru/bmw/3-series/49140498.html,BMW,3-Series,Санкт-Петербург,2019,бензин,2.0,184,АКПП,задний,седан,синий,24000,левый,7 поколение,,0,2800000
+254,https://novosibirsk.drom.ru/toyota/land_cruiser_prado/47394473.html,Toyota,Land Cruiser Prado,Новосибирск,2007,бензин,4.0,249,АКПП,4WD,джип/suv 5 дв.,зеленый,313749,левый,3 поколение,,0,1600000
+255,https://penza.drom.ru/jeep/grand_cherokee/48041532.html,Jeep,Grand Cherokee,Пенза,1996,бензин,5.2,220,АКПП,4WD,,коричневый,164000,левый,"1 поколение, рестайлинг",,0,435000
+256,https://omsk.drom.ru/honda/accord/48009616.html,Honda,Accord,Омск,2012,бензин,2.4,200,механика,передний,седан,белый,154000,левый,"8 поколение, рестайлинг",2.4 MT Type-S,0,1200000
+257,https://ussuriisk.drom.ru/toyota/hilux_surf/49019470.html,Toyota,Hilux Surf,Уссурийск,2000,бензин,2.7,150,АКПП,4WD,джип/suv 5 дв.,серый,250000,правый,"3 поколение, 2 рестайлинг",2.7 SSR-X,0,1320000
+258,https://tver.drom.ru/renault/duster/49140497.html,Renault,Duster,Тверь,2013,бензин,1.6,102,механика,4WD,,белый,90762,левый,1 поколение,,0,895000
+259,https://krasnoyarsk.drom.ru/audi/a4/49140482.html,Audi,A4,Красноярск,2010,бензин,1.8,160,вариатор,передний,седан,черный,127000,левый,4 поколение,1.8 TFSI CVT,0,878000
+260,https://balashiha.drom.ru/ford/focus/49140495.html,Ford,Focus,Балашиха,2011,бензин,1.6,125,механика,передний,седан,серый,203000,левый,3 поколение,1.6 MT Trend,0,530000
+261,https://surgut.drom.ru/toyota/camry/48666884.html,Toyota,Camry,Сургут,2021,бензин,2.5,200,АКПП,передний,седан,черный,12000,левый,"9 поколение, рестайлинг",2.5 AT Престиж Safety,0,3450000
+262,https://izhevsk.drom.ru/chevrolet/cruze/49140493.html,Chevrolet,Cruze,Ижевск,2013,бензин,1.8,141,механика,передний,седан,белый,125260,левый,"1 поколение, рестайлинг",,0,719000
+263,https://spb.drom.ru/toyota/verso/49140492.html,Toyota,Verso,Санкт-Петербург,2013,бензин,1.8,147,вариатор,передний,,серый,137377,левый,"1 поколение, рестайлинг",,0,1225000
+264,https://voronezh.drom.ru/daewoo/matiz/49140490.html,Daewoo,Matiz,Воронеж,2008,бензин,0.8,51,механика,передний,,голубой,98000,левый,"1 поколение, рестайлинг",,0,125000
+265,https://izhevsk.drom.ru/kia/rio/49140489.html,Kia,Rio,Ижевск,2017,бензин,1.6,123,механика,передний,седан,красный,112600,левый,,,0,1034000
+266,https://petrozavodsk.drom.ru/toyota/avensis/48453124.html,Toyota,Avensis,Петрозаводск,2008,бензин,2.0,152,механика,передний,универсал,черный,,левый,3 поколение,2.0 MT Executive,0,850000
+267,https://spb.drom.ru/mitsubishi/pajero/49140488.html,Mitsubishi,Pajero,Санкт-Петербург,2011,бензин,3.0,178,механика,4WD,джип/suv 5 дв.,черный,239193,левый,4 поколение,,0,1300000
+268,https://spb.drom.ru/volvo/v40/49140487.html,Volvo,V40,Санкт-Петербург,2013,дизель,1.6,115,автомат,передний,хэтчбек 5 дв.,красный,160032,левый,,,0,930000
+269,https://spb.drom.ru/honda/pilot/49140486.html,Honda,Pilot,Санкт-Петербург,2012,бензин,3.5,249,АКПП,4WD,,коричневый,231000,левый,"2 поколение, рестайлинг",,0,1520000
+270,https://tikhoretsk.drom.ru/opel/mokka/49140485.html,Opel,Mokka,Тихорецк,2014,бензин,1.8,140,механика,передний,,серебристый,156414,левый,1 поколение,,0,865000
+271,https://simferopol.drom.ru/ford/focus/48412632.html,Ford,Focus,Симферополь,2009,бензин,2.0,145,АКПП,передний,седан,белый,210050,левый,"2 поколение, рестайлинг",,0,450000
+272,https://orenburg.drom.ru/lada/2115/49140483.html,Лада,2115 Самара,Оренбург,2010,бензин,1.6,81,механика,передний,,зеленый,,левый,1 поколение,,0,187000
+273,https://noyabrsk.drom.ru/toyota/passo/48578835.html,Toyota,Passo,Ноябрьск,2011,бензин,1.0,69,вариатор,передний,,бежевый,23000,правый,2 поколение,1.0 X V package,0,660000
+274,https://novosibirsk.drom.ru/daihatsu/move/49140481.html,Daihatsu,Move,Новосибирск,2015,бензин,0.7,52,вариатор,передний,,бордовый,63154,правый,6 поколение,,0,530000
+275,https://spb.drom.ru/bmw/3-series/49140480.html,BMW,3-Series,Санкт-Петербург,2012,бензин,2.0,245,АКПП,4WD,седан,черный,133797,левый,6 поколение,,0,1420000
+276,https://kurgan.drom.ru/datsun/on-do/49140479.html,Datsun,on-DO,Курган,2015,бензин,1.6,87,механика,передний,,серебристый,80000,левый,1 поколение,,0,320000
+277,https://chelyabinsk.drom.ru/lada/priora/49140478.html,Лада,Приора,Челябинск,2010,бензин,1.6,98,механика,передний,седан,черный,217000,левый,1 поколение,1.6 MT Норма 21703-01-030,0,260000
+278,https://sevastopol.drom.ru/suzuki/liana/49140290.html,Suzuki,Liana,Севастополь,2001,бензин,1.3,90,механика,передний,хэтчбек 5 дв.,серый,350000,левый,1 поколение,1.3 MT 2WD Club,0,275000
+279,https://nefteyugansk.drom.ru/toyota/funcargo/49140477.html,Toyota,Funcargo,Нефтеюганск,1999,бензин,1.3,88,АКПП,передний,,,201552,правый,1 поколение,,0,350000
+280,https://simferopol.drom.ru/lada/2107/48805472.html,Лада,2107,Симферополь,1980,,,,,,,белый,200000,,,,0,100000
+281,https://novosibirsk.drom.ru/volkswagen/jetta/49140475.html,Volkswagen,Jetta,Новосибирск,1984,бензин,1.6,75,механика,передний,седан,красный,200000,левый,2 поколение,1.6 MT5,0,31000
+282,https://novosibirsk.drom.ru/nissan/note/48951122.html,Nissan,Note,Новосибирск,2013,бензин,1.2,98,вариатор,передний,,фиолетовый,119493,правый,2 поколение,,0,785000
+283,https://surgut.drom.ru/suzuki/grand_vitara/49065425.html,Suzuki,Grand Vitara,Сургут,2008,бензин,2.4,169,АКПП,4WD,джип/suv 5 дв.,серый,192000,левый,"2 поколение, рестайлинг",,0,860000
+284,https://samara.drom.ru/chevrolet/cruze/49140473.html,Chevrolet,Cruze,Самара,2012,бензин,1.6,109,АКПП,передний,хэтчбек 5 дв.,серебристый,80000,левый,1 поколение,,0,708900
+285,https://tomsk.drom.ru/toyota/corolla/49140472.html,Toyota,Corolla,Томск,2000,бензин,1.5,89,АКПП,передний,универсал,белый,242000,правый,7 поколение,,0,245000
+286,https://ekaterinburg.drom.ru/lada/priora/49140471.html,Лада,Приора,Екатеринбург,2008,бензин,1.6,98,механика,передний,седан,зеленый,138000,левый,1 поколение,,1,175000
+287,https://surgut.drom.ru/nissan/terrano/49140470.html,Nissan,Terrano,Сургут,2017,бензин,2.0,143,механика,4WD,джип/suv 5 дв.,серый,78000,левый,3 поколение,,0,1229000
+288,https://surgut.drom.ru/lada/granta/49140469.html,Лада,Гранта,Сургут,2021,бензин,1.6,87,механика,передний,седан,серый,35000,левый,"1 поколение, рестайлинг",,0,769000
+289,https://ivanteevka.drom.ru/renault/sandero/49140468.html,Renault,Sandero,Ивантеевка,2014,бензин,1.6,102,механика,передний,,синий,154000,левый,2 поколение,1.6 MT Confort,0,595000
+290,https://tyumen.drom.ru/lada/2110/49140467.html,Лада,2110,Тюмень,2002,бензин,1.5,78,механика,передний,,синий,300000,,1 поколение,1.5i MT 21102,1,70000
+291,https://buynaksk.drom.ru/mercedes-benz/glk-class/49140466.html,Mercedes-Benz,GLK-Class,Буйнакск,2011,бензин,3.0,231,АКПП,4WD,,белый,190000,левый,1 поколение,GLK 300 4MATIC AT Особая серия ,0,1350000
+292,https://surgut.drom.ru/skoda/octavia/49140465.html,Skoda,Octavia,Сургут,2013,бензин,1.2,105,механика,передний,лифтбек,серебристый,183000,левый,,,0,879000
+293,https://surgut.drom.ru/geely/sx11/49140464.html,Geely,Coolray SX11,Сургут,2020,бензин,1.5,150,робот,передний,,белый,48900,левый,1 поколение,,0,2179000
+294,https://dzhubga.drom.ru/bmw/5-series/49140462.html,BMW,5-Series,Джубга,1989,бензин,2.5,170,механика,задний,седан,белый,300000,левый,3 поколение,525i MT,0,160000
+295,https://orsk.drom.ru/lada/kalina/49140463.html,Лада,Калина,Орск,2007,бензин,1.6,80,механика,передний,хэтчбек 5 дв.,синий,,,1 поколение,,0,160000
+296,https://surgut.drom.ru/hyundai/solaris/49140460.html,Hyundai,Solaris,Сургут,2018,бензин,1.4,100,механика,передний,седан,белый,131000,левый,2 поколение,,0,779000
+297,https://irkutsk.drom.ru/land_rover/range_rover/47819118.html,Land Rover,Range Rover,Иркутск,2017,дизель,3.0,249,АКПП,4WD,джип/suv 5 дв.,черный,106000,левый,4 поколение,3.0 TD AT HSE ,0,5990000
+298,https://novosibirsk.drom.ru/nissan/sunny/48679344.html,Nissan,Sunny,Новосибирск,2002,бензин,1.5,105,АКПП,передний,седан,белый,420346,правый,9 поколение,1.5 FE,0,90000
+299,https://surgut.drom.ru/audi/q3/49140458.html,Audi,Q3,Сургут,2014,бензин,1.4,150,механика,передний,,бежевый,120000,левый,1 поколение,,0,1349000
+300,https://anzhero-sudzhensk.drom.ru/hummer/h2/48590002.html,Hummer,H2,Анжеро-Судженск,2003,бензин,6.0,315,АКПП,4WD,джип/suv 5 дв.,черный,140000,левый,1 поколение,6.0 AT Base,0,2500000
 301,https://perm.drom.ru/mazda/mazda3/49140456.html,,,,,,,,,,,,,,,,,
 302,https://orehovo-zuevo.drom.ru/skoda/octavia/49140455.html,,,,,,,,,,,,,,,,,
 303,https://volgograd.drom.ru/uaz/hunter/49140454.html,,,,,,,,,,,,,,,,,
