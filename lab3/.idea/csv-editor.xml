@@ -150,6 +150,13 @@
             </Attribute>
           </value>
         </entry>
+        <entry key="\parser\prefetch_cars_2022-12-05 14-18-04.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
         <entry key="\result_to_commit.csv">
           <value>
             <Attribute>

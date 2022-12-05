@@ -1,10 +1,15 @@
 import datetime
+import argparse
 import pandas as pd
 from selenium import webdriver
 from lxml import html
 from time import sleep
 from selenium.webdriver.chrome.options import Options
 
+parserArgs = argparse.ArgumentParser()
+parserArgs.add_argument('--start', type=int, default=1, help='Начальная страница')
+parserArgs.add_argument('--end', type=int, default=1, help='Конечная страница')
+args = parserArgs.parse_args()
 
 chrome_options = Options()
 chrome_options.add_argument("--headless")
@@ -13,7 +18,6 @@ chrome_options.add_experimental_option("excludeSwitches", ["enable-logging"])
 chrome_options.add_argument("--disable-extensions")
 driver = webdriver.Chrome(options=chrome_options)
 
-MAX_PAGE = 1
 carsData = []
 
 
@@ -29,13 +33,17 @@ def getUrls(tree):
     return urls
 
 
+#./prefetch.py --start 2 --end 4
 if __name__ == '__main__':
     try:
-        index = 1;
+        index = args.start;
+        MAX_PAGE = args.end;
+        countIterations = MAX_PAGE - index + 1;
+        i = 1;
         urlMain = 'https://auto.drom.ru/all/';
 
         print('Скрипт запущен в', datetime.datetime.now())
-        print('Всего итераций: ' + str(index) + '\n');
+        print('Всего итераций: ' + str(countIterations) + '\n');
 
         while True:
             print('Парсинг ссылок на странице ' + urlMain + 'page' + str(index) + '/');
@@ -46,8 +54,9 @@ if __name__ == '__main__':
             for url in urls:
                 carsData.append({'Url': url});
 
-            print('Выполнена итерация [' + str(index) + '/' + str(MAX_PAGE) + ']');
+            print('Выполнена итерация [' + str(i) + '/' + str(countIterations) + ']');
             index += 1;
+            i += 1;
             if index == (MAX_PAGE + 1):
                 break;
 
