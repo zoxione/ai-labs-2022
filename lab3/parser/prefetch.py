@@ -14,6 +14,7 @@ parserArgs.add_argument('--count_threads', type=int, default=1, help='Колич
 parserArgs.add_argument('--brand', type=str, default='', help='Марка автомобиля')
 parserArgs.add_argument('--start', type=int, default=1, help='Начальная марка')
 parserArgs.add_argument('--end', type=int, default=1, help='Конечная марка')
+parserArgs.add_argument('--max_pages', type=int, default=100, help='Максимальное кол-во страниц')
 args = parserArgs.parse_args()
 
 chrome_options = Options()
@@ -69,8 +70,8 @@ def getUrls(urlMain):
 
     COUNT_ITERATION = countCars // 20 + 1;
     #COUNT_ITERATION = 1;
-    if COUNT_ITERATION > 100:
-        COUNT_ITERATION = 100;
+    if COUNT_ITERATION > args.max_pages:
+        COUNT_ITERATION = args.max_pages;
     print('Всего итераций: ' + str(COUNT_ITERATION) + ' (по 20 объявлений на странице)\n')
 
     for i in range(1, COUNT_ITERATION + 1, args.count_threads):
