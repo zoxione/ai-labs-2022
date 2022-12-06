@@ -157,7 +157,7 @@ def parsingOnce(tree, url):
     return carData;
 
 
-#./parse.py --input prefetch_cars_20221206122926365004.csv --start 0 --end 10
+#./parse.py --input ./prefetch_cars/prefetch_cars_20221206122926365004.csv --start 0 --end 10
 if __name__ == '__main__':
     try:
         if args.input == '':
@@ -174,18 +174,6 @@ if __name__ == '__main__':
         dfInput = pd.read_csv(args.input);
         urls = dfInput.Url;
 
-        # tree = getTree('https://arkadak.drom.ru/mercedes-benz/e-class/49140661.html');
-        # res = parsingOnce(tree, 'https://arkadak.drom.ru/mercedes-benz/e-class/49140661.html');
-        # carsData.append(res);
-        #
-        # tree = getTree('https://simferopol.drom.ru/lada/2107/48805472.html');
-        # res = parsingOnce(tree, 'https://simferopol.drom.ru/lada/2107/48805472.html');
-        # carsData.append(res);
-        #
-        # tree = getTree('https://moscow.drom.ru/toyota/passo/48967039.html');
-        # res = parsingOnce(tree, 'https://moscow.drom.ru/toyota/passo/48967039.html');
-        # carsData.append(res);
-
         for i in range(args.start, args.end + 1):
             tree = getTree(urls[i]);
             res = parsingOnce(tree, urls[i]);
@@ -193,6 +181,14 @@ if __name__ == '__main__':
             print('Выполнена итерация [' + str(ITERATION) + '/' + str(COUNT_ITERATION) + ']');
             print('Осталось времени: ' + str(((COUNT_ITERATION - ITERATION) * 2) / 60) + ' минут\n');
             ITERATION += 1;
+
+        for car in carsData:
+            if car['Price'] == '':
+                print('Повторный парсинг страницы ' + car['Url']);
+                tree = getTree(car['Url']);
+                res = parsingOnce(tree, car['Url']);
+                carsData.remove(car);
+                carsData.append(res);
 
     except Exception as e:
         print('Ошибка при парсинге')
