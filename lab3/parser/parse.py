@@ -157,18 +157,18 @@ def parsingOnce(tree, url):
     return carData;
 
 
-#./parse.py --input prefetch_cars_2022-12-04-21-09-12.csv --start 0 --end 10
+#./parse.py --input prefetch_cars_20221206122926365004.csv --start 0 --end 10
 if __name__ == '__main__':
     try:
         if args.input == '':
-            raise Exception('Не указан путь к данным!' + '\n')
+            raise Exception('Не указан путь к данным!\n')
 
         ITERATION = 1;
-        MAX_ITERATION = args.end - args.start + 1;
+        COUNT_ITERATION = args.end - args.start + 1;
 
         print('Скрипт запущен в', datetime.datetime.now())
-        print('Всего итераций: ' + str(MAX_ITERATION));
-        print('Примерное время выполнения: ' + str((MAX_ITERATION * 2) / 60) + ' минут\n');
+        print('Всего итераций: ' + str(COUNT_ITERATION));
+        print('Примерное время выполнения: ' + str((COUNT_ITERATION * 2) / 60) + ' минут\n');
 
         print('Чтение данных из файла ' + args.input + '\n');
         dfInput = pd.read_csv(args.input);
@@ -190,8 +190,8 @@ if __name__ == '__main__':
             tree = getTree(urls[i]);
             res = parsingOnce(tree, urls[i]);
             carsData.append(res);
-            print('Выполнена итерация [' + str(ITERATION) + '/' + str(MAX_ITERATION) + ']');
-            print('Осталось времени: ' + str(((MAX_ITERATION - ITERATION) * 2) / 60) + ' минут\n');
+            print('Выполнена итерация [' + str(ITERATION) + '/' + str(COUNT_ITERATION) + ']');
+            print('Осталось времени: ' + str(((COUNT_ITERATION - ITERATION) * 2) / 60) + ' минут\n');
             ITERATION += 1;
 
     except Exception as e:
@@ -201,9 +201,9 @@ if __name__ == '__main__':
     finally:
         now = datetime.datetime.now();
         dfOutput = dfInput.copy(deep=True);
-        dfOutput = dfOutput.merge(pd.DataFrame(carsData), how='left', on=['Url']);
-        dfOutput.to_csv('cars_' + now.strftime("%Y-%m-%d %H-%M-%S") + '.csv', index=False);
-        print('Сохранено в файл cars_' + now.strftime("%Y-%m-%d-%H-%M-%S") + '.csv');
+        dfOutput = dfOutput.merge(pd.DataFrame(carsData), how='right', on=['Url']);
+        dfOutput.to_csv('cars_' + now.strftime('%Y%m%d%H%M%S%f') + '.csv', index=False);
+        print('Сохранено в файл cars_' + now.strftime('%Y%m%d%H%M%S%f') + '.csv');
 
         winsound.PlaySound('SystemExit', winsound.SND_ALIAS)
         driver.quit()
