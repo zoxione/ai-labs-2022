@@ -202,8 +202,8 @@ if __name__ == '__main__':
         now = datetime.datetime.now();
         dfOutput = dfInput.copy(deep=True);
         dfOutput = dfOutput.merge(pd.DataFrame(carsData), how='right', on=['Url']);
-        dfOutput.to_csv('cars_' + now.strftime('%Y%m%d%H%M%S%f') + '.csv', index=False);
-        print('Сохранено в файл cars_' + now.strftime('%Y%m%d%H%M%S%f') + '.csv');
+        dfOutput.to_csv('./cars/cars_' + now.strftime('%Y%m%d%H%M%S%f') + '.csv', index=False);
+        print('Сохранено в файл ./cars/cars_' + now.strftime('%Y%m%d%H%M%S%f') + '.csv');
 
         winsound.PlaySound('SystemExit', winsound.SND_ALIAS)
         driver.quit()

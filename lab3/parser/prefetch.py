@@ -152,8 +152,8 @@ if __name__ == '__main__':
         dfOutput = pd.DataFrame(carsData);
         dfOutput = dfOutput.drop_duplicates(subset=['Url']);
         print('Всего уникальных ссылок: ' + str(len(dfOutput)));
-        dfOutput.to_csv('prefetch_cars_' + now.strftime('%Y%m%d%H%M%S%f') + '.csv', index=True, index_label='Id');
-        print('\nСохранено в файл prefetch_cars_' + now.strftime('%Y%m%d%H%M%S%f') + '.csv');
+        dfOutput.to_csv('./prefetch_cars/prefetch_cars_' + now.strftime('%Y%m%d%H%M%S%f') + '.csv', index=True, index_label='Id');
+        print('\nСохранено в файл ./prefetch_cars/prefetch_cars_' + now.strftime('%Y%m%d%H%M%S%f') + '.csv');
 
         winsound.PlaySound('SystemExit', winsound.SND_ALIAS)
         #driver.quit()

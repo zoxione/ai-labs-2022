@@ -1,0 +1,102 @@
+Id,Url,Brand,Model,Region,Year,Engine,EngineVolume,Power,Transmission,Drive,Body,Color,Mileage,Wheel,Generation,Complectation,IsSold,Price
+303,https://moscow.drom.ru/bentley/continental_gt/46754484.html,Bentley,Continental GT,Москва,2019,бензин,6.0,635,робот,4WD,купе,серый,29900,левый,3 поколение,,0,16100000
+304,https://spb.drom.ru/bentley/continental/42355412.html,Bentley,Continental,Санкт-Петербург,2005,бензин,6.0,560,автомат,задний,седан,синий,99000,левый,,,0,1999999
+305,https://moscow.drom.ru/bentley/flying_spur/48912285.html,Bentley,Flying Spur,Москва,2012,бензин,6.0,560,АКПП,4WD,,серебристый,44000,левый,"1 поколение, рестайлинг",,0,2700000
+306,https://samara.drom.ru/bentley/continental/41082549.html,Bentley,Continental,Самара,2006,бензин,6.0,560,автомат,4WD,седан,зеленый,105000,левый,,,0,1500000
+307,https://moscow.drom.ru/bentley/bentayga/48416167.html,Bentley,Bentayga,Москва,2016,бензин,6.0,608,АКПП,4WD,,коричневый,63000,левый,1 поколение,,0,9090000
+308,https://moscow.drom.ru/bentley/bentayga/47958055.html,Bentley,Bentayga,Москва,2020,бензин,4.0,550,АКПП,4WD,,красный,23334,левый,1 поколение,,0,24250000
+309,https://moscow.drom.ru/bentley/continental_gt/49078103.html,Bentley,Continental GT,Москва,2019,бензин,6.0,635,робот,4WD,купе,серый,17900,левый,3 поколение,,0,18900000
+310,https://moscow.drom.ru/bentley/flying_spur/48402456.html,Bentley,Flying Spur,Москва,2015,бензин,4.0,507,АКПП,4WD,,коричневый,22193,левый,2 поколение,,0,9700000
+311,https://moscow.drom.ru/bentley/flying_spur/48398496.html,Bentley,Flying Spur,Москва,2005,бензин,6.0,552,автомат,4WD,,белый,87000,левый,,,0,1260000
+312,https://moscow.drom.ru/bentley/flying_spur/47719967.html,,,,,,,,,,,,,,,,0,
+313,https://krasnoyarsk.drom.ru/bentley/bentayga/48560821.html,Bentley,Bentayga,Красноярск,2016,бензин,6.0,608,АКПП,4WD,,черный,15500,левый,1 поколение,6.0 AT 4WD Bentayga W12,0,12500000
+314,https://novosibirsk.drom.ru/bentley/continental_gt/47329525.html,Bentley,Continental GT,Новосибирск,2008,бензин,6.0,560,АКПП,4WD,купе,белый,47000,левый,"1 поколение, рестайлинг",6.0 AT GT,0,4290000
+315,https://moscow.drom.ru/bentley/mulsanne/46052764.html,Bentley,Mulsanne,Москва,2010,бензин,6.8,512,АКПП,задний,,бежевый,94000,левый,2 поколение,6.8 AT,0,4618000
+316,https://magnitogorsk.drom.ru/bentley/continental_gt/43739365.html,Bentley,Continental GT,Магнитогорск,2008,бензин,6.0,621,автомат,4WD,купе,белый,90000,левый,,,0,2600000
+317,https://biryuch.drom.ru/bentley/flying_spur/47349663.html,Bentley,Flying Spur,Бирюч,2012,бензин,6.0,552,АКПП,4WD,,черный,140000,левый,,,0,3200000
+318,https://stavropol.drom.ru/bentley/flying_spur/47023002.html,Bentley,Flying Spur,Ставрополь,2015,бензин,6.0,625,АКПП,4WD,,коричневый,109833,левый,2 поколение,,0,5017777
+319,https://novosibirsk.drom.ru/bentley/continental_gt/48659037.html,Bentley,Continental GT,Новосибирск,2012,бензин,6.0,625,АКПП,4WD,купе,черный,34000,левый,2 поколение,6.0 AT Speed ,0,8850000
+320,https://novosibirsk.drom.ru/bentley/flying_spur/44224385.html,Bentley,Flying Spur,Новосибирск,2007,бензин,6.0,560,автомат,4WD,,черный,82800,левый,,,1,3059000
+321,https://tyumen.drom.ru/bentley/flying_spur/45755395.html,,,,,,,,,,,,,,,,0,
+322,https://moscow.drom.ru/bentley/bentayga/49046039.html,Bentley,Bentayga,Москва,2022,бензин,4.0,550,АКПП,4WD,,фиолетовый,,левый,"1 поколение, рестайлинг",4.0 AT 4WD Bentayga V8,0,35000000
+323,https://moscow.drom.ru/bentley/bentayga/48663095.html,Bentley,Bentayga,Москва,2022,бензин,6.0,635,АКПП,4WD,,черный,,левый,"1 поколение, рестайлинг",6.0 AT 4WD Bentayga Speed,0,39990000
+324,https://moscow.drom.ru/bentley/bentayga/48702437.html,Bentley,Bentayga,Москва,2020,бензин,4.0,550,АКПП,4WD,,синий,7500,левый,1 поколение,,0,24600000
+325,https://ekaterinburg.drom.ru/bentley/continental_gt/48702169.html,Bentley,Continental GT,Екатеринбург,2008,бензин,6.0,610,АКПП,4WD,купе,синий,38535,левый,"1 поколение, рестайлинг",6.0 AT GT Speed,1,3150000
+326,https://moscow.drom.ru/bentley/mulsanne/48351289.html,Bentley,Mulsanne,Москва,2013,бензин,6.8,512,АКПП,задний,,черный,96000,левый,2 поколение,6.8 AT,1,7000000
+327,https://moscow.drom.ru/bentley/bentayga/46052868.html,Bentley,Bentayga,Москва,2016,бензин,6.0,608,АКПП,4WD,,черный,50000,левый,1 поколение,,0,9990000
+328,https://moscow.drom.ru/bentley/continental/42921480.html,Bentley,Continental,Москва,2006,бензин,6.0,560,автомат,задний,седан,белый,55000,левый,,,0,2100000
+329,https://moscow.drom.ru/bentley/bentayga/49037045.html,Bentley,Bentayga,Москва,2021,бензин,4.0,550,АКПП,4WD,,белый,46,левый,"1 поколение, рестайлинг",,0,45750000
+330,https://krasnodar.drom.ru/bentley/continental_gt/48687406.html,Bentley,Continental GT,Краснодар,2010,бензин,6.0,610,АКПП,4WD,купе,синий,95688,левый,"1 поколение, рестайлинг",,0,3559000
+331,https://ekaterinburg.drom.ru/bentley/continental_gt/46727671.html,Bentley,Continental GT,Екатеринбург,2013,бензин,4.0,507,АКПП,4WD,купе,белый,79000,левый,2 поколение,4.0 AT V8 ,0,4200000
+332,https://yalta.drom.ru/bentley/continental_gt/48349625.html,Bentley,Continental GT,Ялта,2015,бензин,4.0,528,АКПП,4WD,купе,белый,23400,левый,2 поколение,4.0 AT V8 S ,0,8000000
+333,https://moscow.drom.ru/bentley/continental_gt/47999916.html,Bentley,Continental GT,Москва,2012,бензин,4.0,507,АКПП,4WD,купе,красный,36162,левый,2 поколение,,0,4595700
+334,https://krasnoyarsk.drom.ru/bentley/continental_gt/47754851.html,Bentley,Continental GT,Красноярск,2019,бензин,6.0,635,робот,4WD,купе,синий,24230,левый,3 поколение,6.0 SAT GT,0,21700000
+335,https://tomsk.drom.ru/bentley/bentayga/48420995.html,Bentley,Bentayga,Томск,2020,бензин,4.0,550,АКПП,4WD,,белый,10000,левый,"1 поколение, рестайлинг",4.0 AT 4WD Bentayga V8 First Edition,0,26800000
+336,https://moscow.drom.ru/bentley/continental_gt/49015248.html,Bentley,Continental GT,Москва,2015,бензин,4.0,528,АКПП,4WD,купе,белый,58250,левый,"2 поколение, рестайлинг",,0,6150000
+337,https://moscow.drom.ru/bentley/flying_spur/47642021.html,Bentley,Flying Spur,Москва,2014,бензин,4.0,507,АКПП,4WD,,синий,38000,левый,2 поколение,4.0 AT Flying Spur V8,0,6400000
+338,https://moscow.drom.ru/bentley/flying_spur/47638558.html,Bentley,Flying Spur,Москва,2017,бензин,6.0,635,АКПП,4WD,,черный,33948,левый,2 поколение,,0,7980000
+339,https://moscow.drom.ru/bentley/mulsanne/47968631.html,Bentley,Mulsanne,Москва,2011,бензин,6.8,512,АКПП,задний,,черный,67000,левый,2 поколение,6.8 AT,0,6800000
+340,https://spb.drom.ru/bentley/continental_gt/45693233.html,Bentley,Continental GT,Санкт-Петербург,2013,бензин,6.0,625,АКПП,4WD,купе,белый,37000,левый,2 поколение,,0,6888888
+341,https://tyumen.drom.ru/bentley/arnage/17437191.html,Bentley,Arnage,Тюмень,2000,бензин,6.8,405,автомат,задний,,белый,50000,левый,,,0,1350000
+342,https://krasnodar.drom.ru/bentley/flying_spur/48993157.html,Bentley,Flying Spur,Краснодар,2008,бензин,6.0,560,АКПП,4WD,,черный,90841,левый,1 поколение,,0,2370000
+343,https://moscow.drom.ru/bentley/continental_gt/48989509.html,Bentley,Continental GT,Москва,2019,бензин,6.0,635,робот,4WD,открытый,серый,20000,левый,3 поколение,,0,25700000
+344,https://moscow.drom.ru/bentley/continental_gt/48989500.html,Bentley,Continental GT,Москва,2022,бензин,4.0,550,робот,4WD,купе,черный,30,левый,3 поколение,,0,31000000
+345,https://ordynskoe.drom.ru/bentley/continental_gt/47761007.html,Bentley,Continental GT,Ордынское,2006,бензин,6.0,560,АКПП,4WD,купе,зеленый,106000,левый,1 поколение,6.0 AT GT,0,3000000
+346,https://rostov-na-donu.drom.ru/bentley/bentayga/48984314.html,Bentley,Bentayga,Ростов-на-Дону,2019,дизель,4.0,435,АКПП,4WD,,серый,16000,левый,1 поколение,4.0D AT Bentayga Diesel,0,16000000
+347,https://tomsk.drom.ru/bentley/continental_gt/47955996.html,Bentley,Continental GT,Томск,2014,бензин,4.0,507,АКПП,4WD,купе,черный,60000,левый,2 поколение,4.0 AT V8 ,0,6700000
+348,https://novokubansk.drom.ru/bentley/continental_gt/47261725.html,Bentley,Continental GT,Новокубанск,2005,бензин,6.0,560,АКПП,4WD,купе,синий,100000,левый,1 поколение,6.0 AT GT,0,1000000
+349,https://moscow.drom.ru/bentley/mulsanne/40254497.html,Bentley,Mulsanne,Москва,2014,бензин,6.8,512,АКПП,задний,,коричневый,42000,левый,2 поколение,6.8 AT,0,12500000
+350,https://moscow.drom.ru/bentley/flying_spur/48983925.html,Bentley,Flying Spur,Москва,2010,бензин,6.0,560,АКПП,4WD,,коричневый,87958,левый,"1 поколение, рестайлинг",,0,3720000
+351,https://moscow.drom.ru/bentley/bentayga/45145953.html,Bentley,Bentayga,Москва,2019,бензин,6.0,635,АКПП,4WD,,синий,9400,левый,1 поколение,6.0 AT 4WD Bentayga Speed,0,22999000
+352,https://moscow.drom.ru/bentley/continental_gt/47559519.html,Bentley,Continental GT,Москва,2014,бензин,4.0,528,АКПП,4WD,купе,коричневый,9600,левый,2 поколение,4.0 AT V8 S ,0,9400000
+353,https://moscow.drom.ru/bentley/continental_gt/47559413.html,Bentley,Continental GT,Москва,2012,бензин,4.0,507,АКПП,4WD,купе,черный,14900,левый,2 поколение,4.0 AT V8 ,0,6900000
+354,https://moscow.drom.ru/bentley/continental_gt/48633981.html,Bentley,Continental GT,Москва,2019,бензин,6.0,635,робот,4WD,открытый,серый,20000,левый,3 поколение,6.0 SAT GTC W12,1,25700000
+355,https://moscow.drom.ru/bentley/bentayga/46288430.html,Bentley,Bentayga,Москва,2016,бензин,6.0,608,АКПП,4WD,,коричневый,110622,левый,1 поколение,,0,7970970
+356,https://moscow.drom.ru/bentley/continental/43065418.html,Bentley,Continental,Москва,2002,бензин,6.8,426,автомат,задний,купе,зеленый,11400,левый,,,0,15700000
+357,https://moscow.drom.ru/bentley/bentayga/48974279.html,Bentley,Bentayga,Москва,2022,бензин,4.0,550,АКПП,4WD,,серый,30,левый,"1 поколение, рестайлинг",,0,33000000
+358,https://vladivostok.drom.ru/bentley/continental_gt/41601572.html,Bentley,Continental GT,Владивосток,2009,бензин,6.0,560,АКПП,4WD,купе,черный,88888,левый,"1 поколение, рестайлинг",6.0 AT GT,0,2750000
+359,https://chita.drom.ru/bentley/continental/48912234.html,Bentley,Continental,Чита,2007,,,,автомат,4WD,седан,коричневый,84000,левый,,,0,1900000
+360,https://moscow.drom.ru/bentley/continental_gt/48628337.html,Bentley,Continental GT,Москва,2014,бензин,6.0,635,АКПП,4WD,купе,серый,33700,левый,2 поколение,6.0 AT GT Speed,0,7050000
+361,https://moscow.drom.ru/bentley/continental_gt/48960327.html,Bentley,Continental GT,Москва,2004,бензин,6.0,560,автомат,4WD,купе,синий,174393,левый,,,1,1300000
+362,https://moscow.drom.ru/bentley/azure/45284425.html,Bentley,Azure,Москва,2007,бензин,6.8,457,автомат,передний,,,11800,левый,,,0,20400000
+363,https://samara.drom.ru/bentley/continental_gt/48264726.html,Bentley,Continental GT,Самара,2012,бензин,6.0,575,АКПП,4WD,купе,бордовый,11551,левый,2 поколение,6.0 AT ,0,8700000
+364,https://krasnoyarsk.drom.ru/bentley/continental_gt/47602954.html,Bentley,Continental GT,Красноярск,2005,бензин,6.0,560,АКПП,4WD,купе,зеленый,92000,левый,1 поколение,6.0 AT GT,0,2600000
+365,https://yaroslavl.drom.ru/bentley/continental_gt/46588068.html,Bentley,Continental GT,Ярославль,2006,бензин,6.0,560,автомат,4WD,купе,черный,79578,левый,,,0,1899000
+366,https://spb.drom.ru/bentley/bentayga/48592972.html,Bentley,Bentayga,Санкт-Петербург,2017,бензин,6.0,608,АКПП,4WD,,синий,50761,левый,1 поколение,6.0 AT 4WD Bentayga W12,0,10200000
+367,https://simferopol.drom.ru/bentley/flying_spur/48935272.html,Bentley,Flying Spur,Симферополь,2011,бензин,6.0,560,АКПП,4WD,,синий,75000,левый,"1 поколение, рестайлинг",,0,4900000
+368,https://moscow.drom.ru/bentley/arnage/47439955.html,Bentley,Arnage,Москва,2005,бензин,6.8,405,автомат,задний,,голубой,92000,левый,,,0,3500000
+369,https://moscow.drom.ru/bentley/flying_spur/48243420.html,Bentley,Flying Spur,Москва,2014,бензин,4.0,507,АКПП,4WD,,синий,78000,левый,2 поколение,,0,4890000
+370,https://ekaterinburg.drom.ru/bentley/continental_gt/46071106.html,Bentley,Continental GT,Екатеринбург,2004,бензин,6.0,621,автомат,4WD,купе,белый,53000,левый,,,0,1650000
+371,https://krasnodar.drom.ru/bentley/continental/45433269.html,Bentley,Continental,Краснодар,2006,бензин,6.0,560,автомат,4WD,седан,золотистый,149000,левый,,,0,3100000
+372,https://moscow.drom.ru/bentley/continental_gt/47559503.html,Bentley,Continental GT,Москва,2021,бензин,6.0,635,робот,4WD,купе,золотистый,2388,левый,3 поколение,,0,29900000
+373,https://moscow.drom.ru/bentley/bentayga/47869439.html,Bentley,Bentayga,Москва,2017,дизель,4.0,435,автомат,4WD,,черный,69700,левый,,,0,11700000
+374,https://kaliningrad.drom.ru/bentley/bentayga/48269903.html,Bentley,Bentayga,Калининград,2018,бензин,4.0,550,АКПП,4WD,,черный,15000,левый,1 поколение,4.0 AT 4WD Bentayga V8,0,16200000
+375,https://spb.drom.ru/bentley/continental_gt/48898100.html,Bentley,Continental GT,Санкт-Петербург,2012,бензин,6.0,560,автомат,4WD,купе,серый,63000,левый,,,0,4999999
+376,https://belgorod.drom.ru/bentley/continental_gt/48892487.html,Bentley,Continental GT,Белгород,2005,бензин,6.0,560,АКПП,4WD,купе,коричневый,69000,левый,1 поколение,6.0 AT GT,0,2000000
+377,https://moscow.drom.ru/bentley/continental_gt/48546354.html,Bentley,Continental GT,Москва,2011,бензин,6.0,560,автомат,4WD,купе,синий,85000,левый,,,0,3900000
+378,https://moscow.drom.ru/bentley/continental_gt/47856204.html,Bentley,Continental GT,Москва,2015,бензин,4.0,507,АКПП,4WD,купе,черный,46080,левый,2 поколение,4.0 AT V8 ,0,6890000
+379,https://moscow.drom.ru/bentley/continental_gt/48263908.html,Bentley,Continental GT,Москва,2021,бензин,6.0,635,робот,4WD,открытый,синий,15000,левый,3 поколение,6.0 SAT GT Convertible,0,31500000
+380,https://sevastopol.drom.ru/bentley/flying_spur/48880730.html,Bentley,Flying Spur,Севастополь,2010,бензин,6.0,560,АКПП,4WD,,черный,66086,левый,"1 поколение, рестайлинг",,0,3200000
+381,https://novorossiysk.drom.ru/bentley/continental_gt/48880496.html,Bentley,Continental GT,Новороссийск,2013,бензин,4.0,507,АКПП,4WD,купе,черный,32000,левый,2 поколение,,0,6000000
+382,https://novosibirsk.drom.ru/bentley/continental_gt/47404568.html,Bentley,Continental GT,Новосибирск,2005,бензин,6.0,560,АКПП,4WD,купе,черный,78000,левый,1 поколение,6.0 AT GT,0,3500000
+383,https://ussuriisk.drom.ru/bentley/flying_spur/48635074.html,Bentley,Flying Spur,Уссурийск,2012,бензин,6.0,610,АКПП,4WD,,синий,65000,левый,"1 поколение, рестайлинг",6.0 AT Continental Flying Spur Speed,0,5850000
+384,https://abakan.drom.ru/bentley/continental_gt/46815429.html,Bentley,Continental GT,Абакан,2007,бензин,6.0,560,АКПП,4WD,купе,черный,125318,левый,1 поколение,6.0 AT GT,0,2140000
+385,https://gurievsk-kemer.drom.ru/bentley/continental_gt/47671590.html,Bentley,Continental GT,Гурьевск,2005,бензин,6.0,560,АКПП,4WD,купе,черный,140000,левый,1 поколение,6.0 AT GT,0,1590000
+386,https://moscow.drom.ru/bentley/bentayga/48846799.html,Bentley,Bentayga,Москва,2021,бензин,6.0,635,АКПП,4WD,,серый,5600,левый,"1 поколение, рестайлинг",,0,37900000
+387,https://moscow.drom.ru/bentley/continental_gt/48845522.html,Bentley,Continental GT,Москва,2007,бензин,6.0,560,АКПП,4WD,купе,фиолетовый,105081,левый,1 поколение,,0,2095000
+388,https://vladivostok.drom.ru/bentley/continental_gt/48178414.html,Bentley,Continental GT,Владивосток,2011,бензин,6.0,560,АКПП,4WD,купе,белый,79000,левый,"1 поколение, рестайлинг",6.0 AT GT,0,5500000
+389,https://kazan.drom.ru/bentley/flying_spur/48158668.html,Bentley,Flying Spur,Казань,2012,бензин,6.0,560,автомат,4WD,,черный,90861,,,,0,2900000
+390,https://moscow.drom.ru/bentley/bentayga/47488530.html,Bentley,Bentayga,Москва,2021,бензин,6.0,635,АКПП,4WD,,черный,14000,левый,"1 поколение, рестайлинг",,0,35890000
+391,https://blagoveshchensk.drom.ru/bentley/flying_spur/45673635.html,Bentley,Flying Spur,Благовещенск,2006,бензин,6.0,559,автомат,4WD,,белый,84000,левый,,,0,2897000
+392,https://spb.drom.ru/bentley/continental_gt/48147755.html,Bentley,Continental GT,Санкт-Петербург,2011,бензин,6.0,560,автомат,4WD,купе,черный,111019,левый,,,0,3350000
+393,https://moscow.drom.ru/bentley/bentayga/48489781.html,Bentley,Bentayga,Москва,2021,бензин,4.0,550,АКПП,4WD,,черный,19000,левый,"1 поколение, рестайлинг",,0,24300000
+394,https://moscow.drom.ru/bentley/continental_gt/47807612.html,Bentley,Continental GT,Москва,2007,бензин,6.0,560,АКПП,4WD,купе,зеленый,42000,левый,"1 поколение, рестайлинг",6.0 AT GT,0,3450000
+395,https://novosibirsk.drom.ru/bentley/continental_gt/48094595.html,Bentley,Continental GT,,2022,бензин,6.0,659,автомат,4WD,купе,черный,14,левый,,,0,33850000
+396,https://habarovsk.drom.ru/bentley/continental_gt/48410111.html,Bentley,Continental GT,,2022,бензин,4.0,550,робот,4WD,купе,,8500,левый,3 поколение,4.0 SAT GT V8,0,26315000
+397,https://vladivostok.drom.ru/bentley/continental_gt/49096735.html,Bentley,Continental GT,,2022,бензин,4.0,550,робот,4WD,купе,черный,новый автомобиль,левый,3 поколение,4.0 SAT GT V8,0,25000000
+398,https://vladivostok.drom.ru/bentley/flying_spur/49096574.html,Bentley,Flying Spur,,2022,бензин,4.0,550,робот,4WD,,белый,новый автомобиль,левый,3 поколение,,0,25000000
+399,https://vladivostok.drom.ru/bentley/bentayga/49096496.html,Bentley,Bentayga,,2022,бензин,4.0,550,АКПП,4WD,,черный,новый автомобиль,левый,"1 поколение, рестайлинг",4.0 AT Bentayga S,0,25000000
+400,https://moscow.drom.ru/dongfeng/ax7/48817451.html,Dongfeng,AX7,Москва,2019,бензин,2.0,140,АКПП,передний,,коричневый,70000,левый,1 поколение,2.0 AT Prestige,0,1550000
+401,https://volsk.drom.ru/dongfeng/h30_cross/49145111.html,,,,,,,,,,,,,,,,0,
+402,https://tyumen.drom.ru/dongfeng/580/48107647.html,,,,,,,,,,,,,,,,0,
+403,https://velikiy-novgorod.drom.ru/dongfeng/h30_cross/48816743.html,,,,,,,,,,,,,,,,0,

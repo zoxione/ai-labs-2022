@@ -1,0 +1,102 @@
+Id,Url,Brand,Model,Region,Year,Engine,EngineVolume,Power,Transmission,Drive,Body,Color,Mileage,Wheel,Generation,Complectation,IsSold,Price
+4093,https://slavyansk-na-kubani.drom.ru/jac/s3/49135988.html,,,,,,,,,,,,,,,,0,
+4094,https://omsk.drom.ru/jac/s7/45933617.html,JAC,S7,Омск,2021,бензин,1.5,150,робот,передний,,серый,5000,левый,1 поколение,,0,2355000
+4095,https://omsk.drom.ru/jac/j7/48423774.html,JAC,J7,Омск,2021,бензин,1.5,136,вариатор,передний,лифтбек,бордовый,новый автомобиль,левый,1 поколение,1.5T CVT Luxury,0,1699000
+4096,https://novosibirsk.drom.ru/hummer/h3/48134071.html,,,,,,,,,,,,,,,,0,
+4097,https://omsk.drom.ru/hummer/h2/47797581.html,Hummer,H2,Омск,2008,бензин,6.2,409,автомат,4WD,джип/suv 5 дв.,черный,143510,левый,,,0,3500000
+4098,https://krasnodar.drom.ru/hummer/h2/46057720.html,,,,,,,,,,,,,,,,0,
+4099,https://moscow.drom.ru/hummer/h3/45822093.html,Hummer,H3,Москва,2009,бензин,3.7,242,АКПП,4WD,,серый,124000,левый,1 поколение,3.7 AT Base,0,1200000
+4100,https://habarovsk.drom.ru/hummer/h3/45043632.html,Hummer,H3,Хабаровск,2005,бензин,3.5,220,АКПП,4WD,,черный,185000,левый,1 поколение,3.5 AT Luxury,0,1500000
+4101,https://tomsk.drom.ru/hummer/h2/42863426.html,Hummer,H2,Томск,2003,бензин,6.0,316,автомат,4WD,джип/suv 5 дв.,бордовый,82000,левый,,,0,2000000
+4102,https://petropavlovsk-kamchatskiy.drom.ru/hummer/h2/47544305.html,Hummer,H2,Петропавловск-Камчатский,2004,бензин,6.0,315,АКПП,4WD,джип/suv 5 дв.,белый,95000,левый,1 поколение,6.0 AT Luxury,0,6777777
+4103,https://chita.drom.ru/hummer/h2/49150067.html,Hummer,H2,Чита,2003,бензин,6.0,315,АКПП,4WD,джип/suv 5 дв.,черный,300000,левый,1 поколение,,0,1350000
+4104,https://ulan-ude.drom.ru/hummer/h3/48991361.html,,,,,,,,,,,,,,,,0,
+4107,https://moscow.drom.ru/hummer/h2/47717251.html,Hummer,H2,Москва,2008,бензин,6.2,409,автомат,4WD,джип/suv 5 дв.,оранжевый,94206,левый,,,0,5150000
+4108,https://vladivostok.drom.ru/hummer/h3/49141654.html,Hummer,H3,Владивосток,2011,бензин,3.7,242,АКПП,4WD,,белый,23250,левый,1 поколение,,0,3320000
+4109,https://tver.drom.ru/hummer/h3/48126281.html,Hummer,H3,Тверь,2007,бензин,3.7,242,АКПП,4WD,,черный,240000,левый,1 поколение,,0,1100000
+4110,https://irkutsk.drom.ru/hummer/h2/46972632.html,Hummer,H2,Иркутск,2004,бензин,6.0,315,АКПП,4WD,джип/suv 5 дв.,белый,200000,левый,1 поколение,6.0 AT Adventure,0,3000000
+4111,https://anzhero-sudzhensk.drom.ru/hummer/h2/48590002.html,,,,,,,,,,,,,,,,0,
+4112,https://vladivostok.drom.ru/hummer/h2/19792699.html,Hummer,H2,Владивосток,2003,бензин,6.0,315,АКПП,4WD,джип/suv 5 дв.,белый,160000,левый,1 поколение,,0,1370000
+4113,https://ussuriisk.drom.ru/hummer/h3/48106118.html,Hummer,H3,Уссурийск,2008,бензин,3.7,242,АКПП,4WD,,серый,253800,левый,1 поколение,3.7 AT Adventure,0,1500000
+4114,https://kemerovo.drom.ru/hummer/h3/47515604.html,,,,,,,,,,,,,,,,0,
+4115,https://moscow.drom.ru/hummer/h2/48443668.html,,,,,,,,,,,,,,,,0,
+4116,https://moscow.drom.ru/infiniti/qx60/48827270.html,Infiniti,QX60,Москва,2019,бензин,3.5,283,вариатор,4WD,,черный,91000,левый,"1 поколение, рестайлинг",,0,2450000
+4117,https://nakhodka.drom.ru/infiniti/fx35/48825126.html,Infiniti,FX35,Находка,2007,бензин,3.5,280,АКПП,4WD,,черный,250000,левый,"1 поколение, рестайлинг",3.5 AT AWD Premium,0,950000
+4118,https://nizhniy-novgorod.drom.ru/infiniti/fx37/48824992.html,Infiniti,FX37,Нижний Новгород,2012,бензин,3.7,333,АКПП,4WD,,черный,179000,левый,"2 поколение, рестайлинг",3.7 AT AWD Premium + NAVI ,0,1700000
+4119,https://nevelsk.drom.ru/infiniti/fx37/48824911.html,,,,,,,,,,,,,,,,0,
+4120,https://nizhnevartovsk.drom.ru/infiniti/i30/48824709.html,Infiniti,I30,Нижневартовск,2000,бензин,3.0,230,АКПП,передний,,бежевый,160000,левый,2 поколение,3.0 AT Luxury,0,150000
+4121,https://chita.drom.ru/infiniti/fx35/48824543.html,Infiniti,FX35,Чита,2005,бензин,3.5,280,АКПП,4WD,,серебристый,180000,левый,1 поколение,3.5 AT AWD,0,880000
+4122,https://shadrinsk.drom.ru/infiniti/fx50/48824446.html,Infiniti,FX50,Шадринск,2008,бензин,5.0,400,АКПП,4WD,,коричневый,178000,левый,2 поколение,5.0 Hi-Tech + Black Quartz,0,1250000
+4123,https://kemerovo.drom.ru/infiniti/g35/48819773.html,Infiniti,G35,Кемерово,2004,бензин,3.5,280,автомат,4WD,седан,серебристый,280000,левый,,,0,550000
+4124,https://spb.drom.ru/infiniti/q70/48481972.html,Infiniti,Q70,Санкт-Петербург,2015,бензин,2.5,221,автомат,задний,,черный,81985,левый,,,0,2111000
+4125,https://moscow.drom.ru/infiniti/q50/48480086.html,,,,,,,,,,,,,,,,0,
+4126,https://moscow.drom.ru/infiniti/qx50/48476538.html,Infiniti,QX50,Москва,2021,бензин,2.0,249,вариатор,4WD,,черный,,левый,2 поколение,2.0 CVT Autograph,0,6890000
+4127,https://moscow.drom.ru/infiniti/qx50/48476539.html,,,,,,,,,,,,,,,,0,
+4128,https://moscow.drom.ru/infiniti/qx80/48476540.html,Infiniti,QX80,Москва,2021,бензин,5.6,405,АКПП,4WD,,черный,,левый,"1 поколение, 2 рестайлинг",5.6 AT Luxe Sensory (8-местный),0,9790000
+4129,https://moscow.drom.ru/infiniti/fx35/48474978.html,Infiniti,FX35,Москва,2012,бензин,3.5,307,АКПП,4WD,,синий,170000,левый,"2 поколение, рестайлинг",3.5 AT AWD Premium + NAVI,0,1560000
+4130,https://ekaterinburg.drom.ru/infiniti/qx50/48474136.html,Infiniti,QX50,Екатеринбург,2021,бензин,2.0,249,вариатор,4WD,,красный,,левый,2 поколение,2.0 CVT Essential,0,6681000
+4131,https://ekaterinburg.drom.ru/infiniti/qx55/48474137.html,,,,,,,,,,,,,,,,0,
+4132,https://ekaterinburg.drom.ru/infiniti/qx80/48474140.html,,,,,,,,,,,,,,,,0,
+4133,https://ekaterinburg.drom.ru/infiniti/qx80/48474141.html,,,,,,,,,,,,,,,,0,
+4134,https://ekaterinburg.drom.ru/infiniti/qx50/48474143.html,Infiniti,QX50,Екатеринбург,2021,бензин,2.0,249,вариатор,4WD,,белый,,левый,2 поколение,2.0 CVT Luxe,0,6205000
+4135,https://habarovsk.drom.ru/infiniti/fx35/48472502.html,,,,,,,,,,,,,,,,0,
+4136,https://kazan.drom.ru/lancia/prisma/48812566.html,Lancia,Prisma,Казань,1986,бензин,1.6,108,механика,передний,,бордовый,100138,,,,0,60000
+4137,https://kozlovka.drom.ru/lancia/thesis/47774186.html,,,,,,,,,,,,,,,,0,
+4138,https://cheboksary.drom.ru/lancia/y/49119363.html,Lancia,Y,Чебоксары,2017,бензин,1.6,87,механика,передний,,белый,180000,,,,0,550000
+4139,https://krasnodar.drom.ru/lancia/delta/48738644.html,Lancia,Delta,Краснодар,2012,бензин,1.8,200,автомат,передний,,бежевый,124000,,,,0,1050000
+4140,https://temryuk.drom.ru/lancia/delta/49016276.html,,,,,,,,,,,,,,,,0,
+4141,https://rybinsk.drom.ru/lancia/kappa/48314120.html,Lancia,Kappa,Рыбинск,1996,дизель,2.4,90,механика,,седан,синий,333333,,,,0,120000
+4142,https://krasnoyarsk.drom.ru/lancia/kappa/48971309.html,,,,,,,,,,,,,,,,0,
+4143,https://krasnodar.drom.ru/lancia/kappa/47894350.html,,,,,,,,,,,,,,,,0,
+4144,https://nizhnevartovsk.drom.ru/lancia/kappa/48205080.html,Lancia,Kappa,Нижневартовск,1997,бензин,2.0,20,механика,передний,седан,,180000,,,,0,45000
+4145,https://spb.drom.ru/lancia/kappa/48861023.html,,,,,,,,,,,,,,,,0,
+4146,https://krasnodar.drom.ru/lancia/kappa/48853358.html,Lancia,Kappa,Краснодар,1995,бензин,2.0,,механика,передний,седан,черный,230000,,,,1,399000
+4147,https://krasnodar.drom.ru/lancia/thema/48338693.html,Lancia,Thema,Краснодар,1995,бензин,1.6,80,механика,передний,седан,красный,277600,левый,,,0,115000
+4148,https://novosibirsk.drom.ru/lancia/kappa/48835596.html,Lancia,Kappa,Новосибирск,1995,бензин,2.0,,механика,передний,седан,,200000,,,,0,355000
+4149,https://ulan-ude.drom.ru/great_wall/hover_h5/47213553.html,Great Wall,Hover H5,Улан-Удэ,2012,дизель,2.0,150,АКПП,4WD,,серый,127000,левый,1 поколение,2.0 D AT Luxe ,0,720000
+4150,https://pyatigorsk.drom.ru/great_wall/hover_m2/48825330.html,Great Wall,Hover M2,Пятигорск,2013,бензин,1.5,98,механика,передний,,серебристый,119000,левый,,,0,579000
+4151,https://lesosibirsk.drom.ru/great_wall/hover_h3/48479225.html,Great Wall,Hover H3,Лесосибирск,2012,бензин,2.0,122,механика,4WD,,черный,105000,левый,1 поколение,2.0 MT Luxe ,0,750000
+4152,https://ekaterinburg.drom.ru/great_wall/hover_h5/48474145.html,,,,,,,,,,,,,,,,0,
+4153,https://mysky.drom.ru/great_wall/hover_h5/48128739.html,,,,,,,,,,,,,,,,0,
+4154,https://yaroslavl.drom.ru/great_wall/wingle_7/48126935.html,,,,,,,,,,,,,,,,0,
+4155,https://yaroslavl.drom.ru/great_wall/wingle_7/48126936.html,Great Wall,Wingle 7,Ярославль,2021,дизель,2.0,143,механика,4WD,,черный,,левый,1 поколение,2.0 TD MT Comfort,0,2949580
+4156,https://yaroslavl.drom.ru/great_wall/wingle_7/48126937.html,,,,,,,,,,,,,,,,0,
+4157,https://yaroslavl.drom.ru/great_wall/wingle_7/48126938.html,Great Wall,Wingle 7,Ярославль,2022,дизель,2.0,143,механика,4WD,,белый,,левый,1 поколение,2.0 TD MT Comfort,0,2919060
+4158,https://yaroslavl.drom.ru/great_wall/poer/48126939.html,Great Wall,Poer,Ярославль,2022,дизель,2.0,150,АКПП,4WD,,черный,,левый,1 поколение,2.0 AT 4WD Premium,0,3873560
+4159,https://yaroslavl.drom.ru/great_wall/wingle_7/48126940.html,Great Wall,Wingle 7,Ярославль,2021,дизель,2.0,143,механика,4WD,,черный,,левый,1 поколение,2.0 TD MT Comfort,0,2942560
+4160,https://yaroslavl.drom.ru/great_wall/wingle_7/48126941.html,,,,,,,,,,,,,,,,0,
+4161,https://yaroslavl.drom.ru/great_wall/wingle_7/48126942.html,,,,,,,,,,,,,,,,0,
+4162,https://yaroslavl.drom.ru/great_wall/poer/48126944.html,,,,,,,,,,,,,,,,0,
+4163,https://yaroslavl.drom.ru/great_wall/wingle_7/48126945.html,Great Wall,Wingle 7,Ярославль,2021,дизель,2.0,143,механика,4WD,,серый,,левый,1 поколение,2.0 TD MT Comfort,0,2947880
+4164,https://yaroslavl.drom.ru/great_wall/wingle_7/48126946.html,Great Wall,Wingle 7,Ярославль,2022,дизель,2.0,143,механика,4WD,,белый,,левый,1 поколение,2.0 TD MT Comfort,0,2919060
+4165,https://yaroslavl.drom.ru/great_wall/poer/48126948.html,,,,,,,,,,,,,,,,0,
+4166,https://yaroslavl.drom.ru/great_wall/wingle_7/48126951.html,,,,,,,,,,,,,,,,0,
+4167,https://yaroslavl.drom.ru/great_wall/wingle_7/48126954.html,,,,,,,,,,,,,,,,0,
+4168,https://yaroslavl.drom.ru/great_wall/wingle_7/48126959.html,,,,,,,,,,,,,,,,0,
+4169,https://vladivostok.drom.ru/mitsuoka/ryoga/48808451.html,,,,,,,,,,,,,,,,0,
+4170,https://habarovsk.drom.ru/mitsuoka/galue-i/46745052.html,,,,,,,,,,,,,,,,0,
+4171,https://biysk.drom.ru/mitsuoka/le-seyde/47726456.html,,,,,,,,,,,,,,,,0,
+4172,https://krasnodar.drom.ru/mitsuoka/ryoga/48369987.html,,,,,,,,,,,,,,,,0,
+4173,https://komsomolsk.drom.ru/mitsuoka/le-seyde/42736710.html,,,,,,,,,,,,,,,,0,
+4174,https://moscow.drom.ru/mitsuoka/galue-ii/46659360.html,,,,,,,,,,,,,,,,0,
+4175,https://habarovsk.drom.ru/mitsuoka/ryoga/47911142.html,,,,,,,,,,,,,,,,0,
+4176,https://vladivostok.drom.ru/mitsuoka/galue-ii/48912908.html,,,,,,,,,,,,,,,,0,
+4177,https://barnaul.drom.ru/mitsuoka/galue-i/29232518.html,,,,,,,,,,,,,,,,0,
+4178,https://yaroslavskiy.drom.ru/isuzu/bighorn/48823922.html,,,,,,,,,,,,,,,,0,
+4179,https://omsk.drom.ru/isuzu/trooper/48820493.html,,,,,,,,,,,,,,,,0,
+4180,https://novoshahtinskiy.drom.ru/isuzu/bighorn/48482001.html,,,,,,,,,,,,,,,,0,
+4181,https://dubinino.drom.ru/isuzu/gemini/48476310.html,,,,,,,,,,,,,,,,0,
+4182,https://yasnogorsk-chita.drom.ru/isuzu/bighorn/48132092.html,,,,,,,,,,,,,,,,0,
+4183,https://kurgan.drom.ru/isuzu/gemini/48131211.html,,,,,,,,,,,,,,,,0,
+4184,https://ulan-ude.drom.ru/isuzu/bighorn/47789267.html,,,,,,,,,,,,,,,,0,
+4185,https://gorno-altaysk.drom.ru/isuzu/bighorn/47448641.html,,,,,,,,,,,,,,,,0,
+4186,https://kamen-na-obi.drom.ru/isuzu/aska/47077884.html,,,,,,,,,,,,,,,,0,
+4187,https://irkutsk.drom.ru/isuzu/axiom/44562778.html,,,,,,,,,,,,,,,,0,
+4188,https://belogorsk.drom.ru/isuzu/wizard/48913504.html,,,,,,,,,,,,,,,,0,
+4190,https://novosibirsk.drom.ru/isuzu/mu-x/47864735.html,,,,,,,,,,,,,,,,0,
+4191,https://vladivostok.drom.ru/isuzu/wizard/49144001.html,,,,,,,,,,,,,,,,0,
+4192,https://habarovsk.drom.ru/isuzu/bighorn/49143555.html,,,,,,,,,,,,,,,,0,
+4193,https://omsk.drom.ru/isuzu/d-max/48943091.html,,,,,,,,,,,,,,,,0,
+4194,https://ivanovka.drom.ru/isuzu/wizard/48112854.html,,,,,,,,,,,,,,,,0,
+4195,https://ussuriisk.drom.ru/isuzu/bighorn/48417556.html,,,,,,,,,,,,,,,,0,
+4196,https://krasnoyarsk.drom.ru/isuzu/mu-x/48811950.html,,,,,,,,,,,,,,,,0,

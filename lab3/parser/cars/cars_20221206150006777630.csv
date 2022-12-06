@@ -1,0 +1,102 @@
+Id,Url,Brand,Model,Region,Year,Engine,EngineVolume,Power,Transmission,Drive,Body,Color,Mileage,Wheel,Generation,Complectation,IsSold,Price
+101,https://dzhankoy.drom.ru/dacia/logan/48583379.html,Dacia,Logan,Джанкой,2005,бензин,1.6,87,механика,передний,седан,серый,453500,левый,1 поколение,,1,240000
+102,https://penza.drom.ru/dacia/logan/48195989.html,Dacia,Logan,Пенза,2007,бензин,1.4,75,механика,передний,седан,,190000,левый,1 поколение,,0,389000
+103,https://spb.drom.ru/dacia/logan/48885894.html,Dacia,Logan,Санкт-Петербург,2018,бензин,1.0,73,механика,передний,седан,синий,63427,левый,,,0,849000
+104,https://izhevsk.drom.ru/dacia/logan_mcv/48867176.html,Dacia,Logan MCV,Ижевск,2009,дизель,1.5,86,механика,передний,,синий,194624,левый,"1 поколение, рестайлинг",1.5 dCi MT Ambience 5-seats,0,495000
+105,https://lipetsk.drom.ru/dacia/logan_mcv/48856418.html,Dacia,Logan MCV,Липецк,2007,бензин,1.6,87,механика,передний,,,,левый,1 поколение,,0,370000
+106,https://perm.drom.ru/dacia/logan/48854771.html,Dacia,Logan,Пермь,2006,бензин,1.6,87,механика,передний,седан,,,левый,1 поколение,,1,130000
+107,https://krasnodar.drom.ru/dacia/duster/48837381.html,Dacia,Duster,Краснодар,2019,дизель,1.5,109,механика,4WD,,серый,74250,,,,0,1489000
+108,https://almetievsk.drom.ru/dacia/logan/48836059.html,Dacia,Logan,Альметьевск,2008,дизель,1.5,86,механика,передний,седан,белый,280000,левый,1 поколение,1.5 dCi MT Laureate,0,310000
+109,https://sevastopol.drom.ru/dacia/solenza/42082094.html,Dacia,Solenza,Севастополь,2004,бензин,1.4,75,механика,передний,,синий,92000,,,,0,80000
+110,https://krasnodar.drom.ru/dacia/sandero/46697181.html,Dacia,Sandero,,2022,бензин,1.0,65,механика,передний,,белый,250,левый,3 поколение,1.0 SCe MT Essentiel,0,1460000
+111,https://moscow.drom.ru/brilliance/h530/48825759.html,Brilliance,H530,Москва,2015,бензин,1.6,110,АКПП,передний,,белый,49182,левый,1 поколение,1.6 AT Deluxe,0,700000
+112,https://tyumen.drom.ru/brilliance/v5/48136105.html,Brilliance,V5,Тюмень,2014,бензин,1.6,110,механика,передний,,,150000,левый,1 поколение,1.6 МТ Deluxe Plus,0,525000
+113,https://anapa.drom.ru/brilliance/v5/46783612.html,Brilliance,V5,Анапа,2017,бензин,1.5,143,АКПП,передний,,белый,66000,левый,"1 поколение, рестайлинг",1.5T AТ Sport,0,1350000
+114,https://novosibirsk.drom.ru/brilliance/v5/48965652.html,Brilliance,V5,Новосибирск,2014,бензин,1.6,110,АКПП,передний,,белый,57000,левый,1 поколение,,0,720000
+115,https://ulan-ude.drom.ru/brilliance/m1/49132486.html,Brilliance,M1,Улан-Удэ,2007,бензин,2.0,122,АКПП,передний,,,139000,левый,1 поколение,2.0 AT Comfort,0,290000
+116,https://voronezh.drom.ru/brilliance/v5/49126936.html,Brilliance,V5,Воронеж,2014,бензин,1.6,110,механика,передний,,черный,173522,левый,1 поколение,,0,629000
+117,https://ekaterinburg.drom.ru/brilliance/v5/49119917.html,Brilliance,V5,Екатеринбург,2015,бензин,1.6,110,механика,передний,,бордовый,188151,левый,1 поколение,,0,545000
+118,https://usk-kut.drom.ru/brilliance/v3/49116722.html,Brilliance,V3,Усть-Кут,2019,бензин,1.5,107,АКПП,передний,,серый,50000,левый,1 поколение,1.5 AT Deluxe,0,930000
+119,https://novokuznetsk.drom.ru/brilliance/v5/49071603.html,Brilliance,V5,Новокузнецк,2017,бензин,1.5,143,АКПП,передний,,черный,67550,левый,"1 поколение, рестайлинг",,0,970000
+120,https://novosibirsk.drom.ru/brilliance/m1/49115635.html,Brilliance,M1,Новосибирск,2007,бензин,2.0,122,АКПП,передний,,черный,238699,левый,1 поколение,2.0 AT Comfort,0,310000
+121,https://omsk.drom.ru/brilliance/v5/48561557.html,Brilliance,V5,Омск,2015,бензин,1.6,110,механика,передний,,черный,34500,левый,1 поколение,,0,599000
+122,https://kaltan.drom.ru/brilliance/h530/47735846.html,Brilliance,H530,Калтан,2014,бензин,1.6,110,АКПП,передний,,серебристый,179000,левый,1 поколение,1.6 AT Deluxe,0,450000
+123,https://kirov.drom.ru/brilliance/v5/49096528.html,Brilliance,V5,Киров,2015,бензин,1.6,110,механика,передний,,синий,117000,левый,1 поколение,1.6 МТ Deluxe,0,699000
+124,https://yugorsk.drom.ru/brilliance/v5/48413891.html,Brilliance,V5,Югорск,2014,бензин,1.6,110,АКПП,передний,,черный,148225,левый,1 поколение,,0,730000
+125,https://fyodorovskiy.drom.ru/brilliance/m2/48061281.html,Brilliance,M2,Фёдоровский,2009,бензин,1.8,136,механика,передний,седан,синий,200000,левый,1 поколение,1.8 MT Comfortable,0,200000
+126,https://yoshkar-ola.drom.ru/brilliance/v5/49081591.html,Brilliance,V5,Йошкар-Ола,2015,бензин,1.6,110,механика,передний,,белый,114868,левый,1 поколение,1.6 МТ Comfort,0,700000
+127,https://kyzyl.drom.ru/brilliance/v3/48052378.html,Brilliance,V3,Кызыл,2019,бензин,1.5,107,АКПП,передний,,белый,94000,левый,1 поколение,,0,950000
+128,https://uzhur.drom.ru/brilliance/v5/47177712.html,Brilliance,V5,Ужур,2017,бензин,1.5,143,АКПП,передний,,белый,75000,левый,"1 поколение, рестайлинг",1.5T AТ Deluxe,0,900000
+129,https://krasnodar.drom.ru/brilliance/h530/49073974.html,Brilliance,H530,Краснодар,2014,бензин,1.6,110,АКПП,передний,,,167000,левый,1 поколение,1.6 AT Deluxe,0,520000
+130,https://barnaul.drom.ru/brilliance/m2/48590637.html,Brilliance,M2,Барнаул,2007,бензин,1.8,136,механика,передний,седан,серебристый,205000,левый,1 поколение,,0,300000
+131,https://asbest.drom.ru/brilliance/m2/48047422.html,Brilliance,M2,Асбест,2008,бензин,1.8,136,механика,передний,седан,серебристый,180000,левый,1 поколение,1.8 MT Deluxe,0,278000
+132,https://krasnoyarsk.drom.ru/brilliance/v5/46039817.html,Brilliance,V5,Красноярск,2017,бензин,1.5,143,АКПП,передний,,черный,65000,левый,"1 поколение, рестайлинг",1.5T AТ Deluxe,0,940000
+133,https://novosibirsk.drom.ru/brilliance/v5/48500494.html,Brilliance,V5,Новосибирск,2014,бензин,1.6,110,механика,передний,,белый,99633,левый,1 поколение,1.6 МТ Deluxe,1,599000
+134,https://simferopol.drom.ru/brilliance/m1/48366026.html,Brilliance,M1,Симферополь,2007,бензин,2.0,122,механика,передний,,серый,357900,левый,1 поколение,2.0 MT Comfort,0,155000
+135,https://oktyabrskoe-krym.drom.ru/brilliance/m2/49047704.html,Brilliance,M2,Октябрьское,2008,бензин,1.8,136,механика,передний,седан,серебристый,275000,левый,1 поколение,1.8 MT Comfortable,0,200000
+136,https://astrahan.drom.ru/brilliance/h530/49045894.html,Brilliance,H530,Астрахань,2015,бензин,1.6,110,АКПП,передний,,белый,49600,левый,1 поколение,,0,535000
+137,https://kineshma.drom.ru/brilliance/m1/47678388.html,Brilliance,M1,Кинешма,2007,бензин,2.0,122,механика,передний,,серый,280000,левый,1 поколение,2.0 MT Comfort,0,135000
+138,https://omsk.drom.ru/brilliance/v5/48912705.html,Brilliance,V5,Омск,2014,бензин,1.6,110,механика,передний,,белый,156000,левый,1 поколение,,0,525000
+139,https://krasnodar.drom.ru/brilliance/v3/48350351.html,Brilliance,V3,Краснодар,2019,бензин,1.5,107,механика,передний,,серый,38000,левый,1 поколение,1.5 MT Comfort,1,949000
+140,https://ufa.drom.ru/brilliance/v5/48349571.html,Brilliance,V5,Уфа,2014,бензин,1.6,110,АКПП,передний,,белый,75920,левый,1 поколение,,0,633600
+141,https://yaroslavl.drom.ru/brilliance/v5/47244362.html,Brilliance,V5,Ярославль,2015,бензин,1.6,110,механика,передний,,красный,63890,левый,1 поколение,1.6 МТ Comfort,0,520000
+142,https://torzhok.drom.ru/brilliance/m2/49013529.html,Brilliance,M2,Торжок,2009,бензин,1.8,136,механика,передний,седан,синий,233000,левый,1 поколение,1.8 MT Comfortable,0,180000
+143,https://novosibirsk.drom.ru/brilliance/v3/47919250.html,Brilliance,V3,Новосибирск,2019,бензин,1.5,107,автомат,передний,,белый,54500,левый,,,0,1100000
+144,https://omsk.drom.ru/brilliance/v5/44997855.html,Brilliance,V5,Омск,2014,бензин,1.6,110,АКПП,передний,,черный,78000,левый,1 поколение,1.6 AТ Comfort,0,790000
+145,https://moscow.drom.ru/brilliance/v5/45527706.html,Brilliance,V5,Москва,2015,бензин,1.6,110,АКПП,передний,,серый,42000,левый,1 поколение,1.6 AТ Comfort Plus,0,850000
+146,https://uglovoe-krym.drom.ru/brilliance/h530/48980287.html,Brilliance,H530,Угловое,2014,бензин,1.6,110,АКПП,передний,,серый,167000,левый,1 поколение,,0,540000
+147,https://chelyabinsk.drom.ru/brilliance/m2/48619329.html,Brilliance,M2,Челябинск,2007,бензин,1.8,136,механика,передний,седан,серебристый,160000,левый,1 поколение,,0,280000
+148,https://barnaul.drom.ru/brilliance/m1/48975991.html,Brilliance,M1,Барнаул,2007,бензин,2.0,122,АКПП,передний,,черный,250000,левый,1 поколение,2.0 AT Comfort,1,260000
+149,https://perm.drom.ru/brilliance/v5/46942904.html,Brilliance,V5,Пермь,2017,бензин,1.5,143,АКПП,передний,,серый,66000,левый,"1 поколение, рестайлинг",1.5T AТ Sport,0,800000
+150,https://krasnodar.drom.ru/brilliance/m2/46826845.html,Brilliance,M2,Краснодар,2008,бензин,1.8,136,механика,передний,седан,серый,150000,левый,1 поколение,,0,220000
+151,https://moscow.drom.ru/brilliance/v3/48278437.html,Brilliance,V3,Москва,2019,бензин,1.5,107,механика,передний,,серый,52417,левый,1 поколение,,0,945000
+152,https://ishim.drom.ru/brilliance/m2/48954998.html,Brilliance,M2,Ишим,2008,бензин,1.8,136,механика,передний,седан,серый,247000,левый,1 поколение,,0,190000
+153,https://orsk.drom.ru/brilliance/m2/48954532.html,Brilliance,M2,Орск,2007,бензин,1.8,136,механика,передний,седан,серебристый,150000,левый,1 поколение,,0,170000
+154,https://anzhero-sudzhensk.drom.ru/brilliance/v5/47920379.html,Brilliance,V5,Анжеро-Судженск,2014,бензин,1.6,110,механика,передний,,черный,76000,левый,1 поколение,1.6 МТ Comfort Plus,1,690000
+155,https://orsk.drom.ru/brilliance/m2/48950889.html,Brilliance,M2,Орск,2007,бензин,1.8,136,механика,передний,седан,серебристый,,левый,1 поколение,,1,170000
+156,https://astrahan.drom.ru/brilliance/v5/48228727.html,Brilliance,V5,Астрахань,2015,бензин,1.6,110,АКПП,передний,,бордовый,45000,левый,1 поколение,1.6 AТ Deluxe Plus,0,819900
+157,https://kurgan.drom.ru/brilliance/v5/46251188.html,Brilliance,V5,Курган,2014,бензин,1.6,110,механика,передний,,серый,170000,левый,1 поколение,1.6 МТ Comfort,0,495000
+158,https://belorechensk.drom.ru/brilliance/v3/48604325.html,Brilliance,V3,Белореченск,2019,бензин,1.5,112,механика,передний,,белый,40000,левый,"1 поколение, рестайлинг",1.5 MT,0,1150000
+159,https://krasnoyarsk.drom.ru/brilliance/m2/48603488.html,Brilliance,M2,Красноярск,2007,бензин,1.8,136,механика,передний,седан,серебристый,250000,левый,1 поколение,,1,210000
+160,https://kyzyl.drom.ru/brilliance/v5/47420657.html,Brilliance,V5,Кызыл,2017,бензин,1.5,143,АКПП,передний,,серый,56000,левый,"1 поколение, рестайлинг",1.5T AТ Sport,1,780000
+161,https://prokopyevsk.drom.ru/brilliance/v5/48030773.html,Brilliance,V5,Прокопьевск,2014,бензин,1.6,110,АКПП,передний,,серый,101763,левый,1 поколение,1.6 AТ Deluxe,0,665000
+162,https://krasnoyarsk.drom.ru/brilliance/v5/48918516.html,Brilliance,V5,Красноярск,2015,бензин,1.6,110,механика,передний,,бордовый,76700,левый,1 поколение,1.6 МТ Deluxe,0,690000
+163,https://krasnoyarsk.drom.ru/brilliance/v5/47879262.html,Brilliance,V5,Красноярск,2014,бензин,1.6,110,механика,передний,,белый,97000,левый,1 поколение,,0,660000
+164,https://novosibirsk.drom.ru/brilliance/v5/48908027.html,Brilliance,V5,Новосибирск,2014,бензин,1.6,110,АКПП,передний,,белый,53000,левый,1 поколение,1.6 AТ Comfort Plus,0,745000
+165,https://tyumen.drom.ru/brilliance/m2/48557077.html,Brilliance,M2,Тюмень,2008,бензин,1.8,136,механика,передний,седан,серебристый,236000,левый,1 поколение,1.8 MT Comfortable,0,180000
+166,https://cheboksary.drom.ru/brilliance/h530/47663368.html,Brilliance,H530,Чебоксары,2015,бензин,1.6,110,механика,передний,,красный,126500,левый,1 поколение,,0,590000
+167,https://bakhchysaray.drom.ru/brilliance/m2/48426944.html,Brilliance,M2,Бахчисарай,2007,бензин,2.4,136,механика,передний,седан,черный,180000,левый,,,0,320000
+168,https://abakan.drom.ru/brilliance/v3/48199809.html,Brilliance,V3,Абакан,2019,бензин,1.5,107,АКПП,передний,,белый,97000,левый,1 поколение,,0,950000
+169,https://kyzyl.drom.ru/brilliance/v5/48882648.html,Brilliance,V5,Кызыл,2017,бензин,1.5,143,АКПП,передний,,черный,100000,левый,"1 поколение, рестайлинг",1.5T AТ Sport,1,780000
+170,https://prokopyevsk.drom.ru/brilliance/m2/48530203.html,Brilliance,M2,Прокопьевск,2007,бензин,1.8,133,механика,передний,седан,синий,91149,левый,,,0,465000
+171,https://cherkessk.drom.ru/brilliance/h230/47849080.html,Brilliance,H230,Черкесск,2013,бензин,1.5,105,автомат,передний,седан,черный,1600,левый,,,0,310000
+172,https://krasniy-yar-samara.drom.ru/brilliance/v5/48869534.html,Brilliance,V5,Красный Яр,2015,бензин,1.6,110,механика,передний,,бордовый,70800,левый,1 поколение,1.6 МТ Comfort Plus,0,599000
+173,https://moscow.drom.ru/brilliance/v5/43583910.html,Brilliance,V5,Москва,2014,бензин,1.6,110,механика,передний,,золотистый,303000,левый,1 поколение,1.6 МТ Comfort Plus,0,450000
+174,https://belorechensk.drom.ru/brilliance/h530/43921549.html,Brilliance,H530,Белореченск,2015,бензин,1.6,110,механика,передний,,белый,80000,левый,1 поколение,1.6 MT Deluxe,0,700000
+175,https://yaroslavl.drom.ru/brilliance/m2/48860234.html,Brilliance,M2,Ярославль,2007,бензин,1.8,136,механика,передний,седан,красный,140000,левый,1 поколение,,0,260000
+176,https://moscow.drom.ru/brilliance/v3/48854147.html,Brilliance,V3,Москва,2019,бензин,1.5,107,механика,передний,,черный,11470,левый,1 поколение,1.5 MT Comfort,0,835000
+177,https://novosibirsk.drom.ru/brilliance/v5/48840290.html,Brilliance,V5,Новосибирск,2014,бензин,1.6,110,механика,передний,,белый,155000,левый,1 поколение,,0,375000
+178,https://barnaul.drom.ru/brilliance/v3/48834461.html,Brilliance,V3,Барнаул,2019,бензин,1.5,107,АКПП,передний,,черный,19000,левый,1 поколение,1.5 AT Deluxe,0,1150000
+179,https://chelyabinsk.drom.ru/brilliance/m2/48829369.html,Brilliance,M2,Челябинск,2007,бензин,1.8,136,механика,передний,седан,серебристый,206100,левый,1 поколение,,0,220000
+180,https://armavir.drom.ru/alfa_romeo/156/48826834.html,Alfa Romeo,156,Армавир,1999,бензин,2.0,155,автомат,передний,седан,серебристый,260000,левый,,,0,350000
+181,https://ulyanovsk.drom.ru/alfa_romeo/156/48821848.html,Alfa Romeo,156,Ульяновск,1998,бензин,1.7,144,механика,передний,седан,черный,320000,левый,1 поколение,1.8 MT T.Spark,0,155000
+182,https://sochi.drom.ru/alfa_romeo/giulia/49148389.html,Alfa Romeo,Giulia,Сочи,2017,бензин,2.0,200,АКПП,задний,,белый,49000,левый,2 поколение,2.0 AT,0,2100000
+183,https://istra.drom.ru/alfa_romeo/156/48816510.html,Alfa Romeo,156,Истра,1998,бензин,1.7,144,механика,передний,седан,серебристый,291200,левый,1 поколение,1.8 MT T.Spark,0,320000
+184,https://simferopol.drom.ru/alfa_romeo/147/48815367.html,Alfa Romeo,147,Симферополь,2002,бензин,2.0,150,механика,передний,хэтчбек 5 дв.,черный,190000,левый,1 поколение,2.0 MT T.Spark,0,390000
+185,https://moscow.drom.ru/alfa_romeo/147/46703700.html,Alfa Romeo,147,Москва,2002,бензин,1.6,105,механика,передний,хэтчбек 5 дв.,коричневый,290000,левый,1 поколение,1.6 MT T.Spark,0,410000
+186,https://moscow.drom.ru/alfa_romeo/stelvio/48115259.html,Alfa Romeo,Stelvio,Москва,2017,бензин,2.0,280,АКПП,4WD,,синий,42200,левый,1 поколение,2.0 AT,0,3200000
+187,https://slavyansk-na-kubani.drom.ru/alfa_romeo/33/49128390.html,Alfa Romeo,33,Славянск-На-Кубани,1989,бензин,1.5,114,механика,4WD,универсал,серый,222333,левый,,,0,130000
+188,https://chelyabinsk.drom.ru/alfa_romeo/156/49125124.html,Alfa Romeo,156,Челябинск,1997,бензин,2.0,155,механика,передний,седан,синий,163000,левый,1 поколение,2.0 MT T.Spark,0,200000
+189,https://moscow.drom.ru/alfa_romeo/stelvio/48789058.html,Alfa Romeo,Stelvio,Москва,2019,бензин,2.0,280,АКПП,4WD,,черный,19500,левый,1 поколение,2.0 AT,0,3319000
+190,https://makhachkala.drom.ru/alfa_romeo/156/47762688.html,Alfa Romeo,156,Махачкала,1999,бензин,1.7,144,механика,передний,седан,черный,185000,левый,1 поколение,1.8 MT T.Spark,0,300000
+191,https://novoaltaysk.drom.ru/alfa_romeo/156/46149244.html,Alfa Romeo,156,Новоалтайск,2001,бензин,2.0,150,механика,передний,седан,красный,231085,левый,1 поколение,2.0 MT T.Spark,0,225000
+192,https://chelyabinsk.drom.ru/alfa_romeo/159/49118833.html,Alfa Romeo,159,Челябинск,2008,дизель,1.9,150,механика,передний,седан,коричневый,196600,левый,,,0,850000
+193,https://kolomna.drom.ru/alfa_romeo/156/47024196.html,Alfa Romeo,156,Коломна,2001,бензин,2.0,150,механика,передний,универсал,серебристый,135000,левый,1 поколение,2.0 MT T.Spark,0,105000
+194,https://kaliningrad.drom.ru/alfa_romeo/146/49111319.html,Alfa Romeo,146,Калининград,1997,бензин,1.7,144,механика,передний,,черный,307700,левый,1 поколение,1.8 MT T.Spark,0,150000
+195,https://berezniky.drom.ru/alfa_romeo/156/49103010.html,Alfa Romeo,156,Березники,1999,бензин,2.0,155,механика,передний,седан,красный,232000,левый,1 поколение,2.0 MT T.Spark,0,250000
+196,https://moscow.drom.ru/alfa_romeo/giulia/49099071.html,Alfa Romeo,Giulia,Москва,2019,бензин,2.0,280,АКПП,4WD,,белый,46700,левый,2 поколение,2.0 AT Q4,0,2285000
+197,https://chelyabinsk.drom.ru/alfa_romeo/stelvio/44072731.html,Alfa Romeo,Stelvio,Челябинск,2017,бензин,2.0,280,АКПП,4WD,,серый,42000,левый,1 поколение,2.0 AT,0,2750000
+198,https://krasnoyarsk.drom.ru/alfa_romeo/156/44245522.html,Alfa Romeo,156,Красноярск,2001,бензин,2.0,150,механика,передний,универсал,серый,70000,левый,1 поколение,2.0 MT T.Spark,0,230000
+199,https://sevastopol.drom.ru/alfa_romeo/giulia/45926297.html,Alfa Romeo,Giulia,Севастополь,2017,бензин,2.0,200,АКПП,задний,,бордовый,52000,левый,2 поколение,2.0 AT,0,2350000
+200,https://orenburg.drom.ru/alfa_romeo/159/47721858.html,,,,,,,,,,,,,,,,0,
+201,https://yevpatoriya.drom.ru/alfa_romeo/mi-to/48746897.html,Alfa Romeo,MiTo,Евпатория,2014,бензин,1.4,170,робот,передний,,бежевый,46000,левый,"1 поколение, рестайлинг",1.4 AMT,0,1500000

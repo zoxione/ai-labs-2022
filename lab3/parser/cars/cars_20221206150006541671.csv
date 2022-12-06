@@ -1,0 +1,102 @@
+Id,Url,Brand,Model,Region,Year,Engine,EngineVolume,Power,Transmission,Drive,Body,Color,Mileage,Wheel,Generation,Complectation,IsSold,Price
+202,https://sochi.drom.ru/alfa_romeo/146/47342133.html,Alfa Romeo,146,Сочи,2000,бензин,1.6,120,механика,передний,,серый,260000,левый,1 поколение,1.6 MT T.Spark,1,140000
+203,https://spb.drom.ru/alfa_romeo/brera/48050223.html,Alfa Romeo,Brera,Санкт-Петербург,2007,бензин,3.2,260,АКПП,4WD,,красный,149905,левый,1 поколение,3.2 AT,0,1249000
+204,https://moscow.drom.ru/alfa_romeo/156/49077712.html,Alfa Romeo,156,Москва,2005,бензин,2.0,165,механика,передний,седан,серебристый,260000,левый,"1 поколение, 2 рестайлинг",2.0 MT JTS,0,480000
+205,https://moscow.drom.ru/alfa_romeo/giulietta/49076722.html,Alfa Romeo,Giulietta,Москва,2014,бензин,1.4,170,робот,передний,хэтчбек 5 дв.,серый,99365,левый,3 поколение,,0,1177000
+206,https://krasnodar.drom.ru/alfa_romeo/156/49007659.html,Alfa Romeo,156,Краснодар,1998,бензин,1.6,120,механика,передний,седан,зеленый,240000,левый,1 поколение,1.6 MT T.Spark,1,90000
+207,https://penza.drom.ru/alfa_romeo/stelvio/48727287.html,Alfa Romeo,Stelvio,Пенза,2017,бензин,2.0,280,АКПП,4WD,,белый,39038,левый,1 поколение,2.0 AT,0,2800000
+208,https://spb.drom.ru/alfa_romeo/147/48727158.html,Alfa Romeo,147,Санкт-Петербург,2008,бензин,1.6,105,механика,передний,хэтчбек 5 дв.,серебристый,182000,левый,"1 поколение, рестайлинг",1.6 MT T.Spark,0,535000
+209,https://lipetsk.drom.ru/alfa_romeo/stelvio/48031749.html,Alfa Romeo,Stelvio,Липецк,2017,бензин,2.0,280,АКПП,4WD,,серебристый,53000,левый,1 поколение,2.0 AT,0,2599000
+210,https://slavyansk-na-kubani.drom.ru/alfa_romeo/33/49056263.html,Alfa Romeo,33,Славянск-На-Кубани,1989,бензин,1.5,,механика,4WD,универсал,черный,222222,левый,,,0,130000
+211,https://vladivostok.drom.ru/alfa_romeo/giulietta/48228773.html,Alfa Romeo,Giulietta,Владивосток,2013,бензин,1.6,160,автомат,передний,хэтчбек 5 дв.,белый,20000,правый,,,1,550000
+212,https://moscow.drom.ru/alfa_romeo/156/49050069.html,Alfa Romeo,156,Москва,2005,бензин,2.0,165,механика,передний,седан,серый,259600,левый,"1 поколение, 2 рестайлинг",2.0 MT JTS,0,590000
+213,https://moscow.drom.ru/alfa_romeo/stelvio/49049176.html,Alfa Romeo,Stelvio,Москва,2018,бензин,2.0,280,АКПП,4WD,,белый,34140,левый,1 поколение,2.0 AT,0,2400000
+214,https://ufa.drom.ru/alfa_romeo/159/49047945.html,,,,,,,,,,,,,,,,0,
+215,https://voronezh.drom.ru/alfa_romeo/156/48009940.html,Alfa Romeo,156,Воронеж,1998,бензин,1.7,144,механика,передний,седан,голубой,290000,левый,1 поколение,1.8 MT T.Spark,0,170000
+216,https://rostov-na-donu.drom.ru/alfa_romeo/giulietta/48525513.html,Alfa Romeo,Giulietta,Ростов-на-Дону,2014,бензин,1.4,170,робот,передний,хэтчбек 5 дв.,черный,178000,левый,3 поколение,,0,1300000
+217,https://biysk.drom.ru/alfa_romeo/giulietta/46813994.html,Alfa Romeo,Giulietta,Бийск,2012,бензин,1.4,170,автомат,передний,хэтчбек 5 дв.,фиолетовый,78538,правый,,,0,1000000
+218,https://spb.drom.ru/alfa_romeo/156/47315930.html,Alfa Romeo,156,Санкт-Петербург,1999,бензин,2.0,155,механика,передний,седан,красный,203000,левый,1 поколение,2.0 MT T.Spark,0,800000
+219,https://spb.drom.ru/alfa_romeo/156/47315738.html,Alfa Romeo,156,Санкт-Петербург,1999,бензин,2.0,155,механика,передний,седан,серебристый,255000,левый,1 поколение,2.0 MT T.Spark,0,780000
+220,https://tver.drom.ru/alfa_romeo/156/49016482.html,Alfa Romeo,156,Тверь,2001,бензин,2.0,155,механика,передний,седан,зеленый,315000,левый,,,0,240000
+221,https://izhevsk.drom.ru/alfa_romeo/giulia/49014122.html,Alfa Romeo,Giulia,Ижевск,2017,бензин,2.0,200,АКПП,задний,,бордовый,75800,левый,2 поколение,2.0 AT,0,2540000
+222,https://simferopol.drom.ru/alfa_romeo/156/49012957.html,Alfa Romeo,156,Симферополь,1999,бензин,1.7,144,механика,передний,седан,черный,293000,левый,1 поколение,1.8 MT T.Spark,0,250000
+223,https://kazan.drom.ru/alfa_romeo/159/49011375.html,Alfa Romeo,159,Казань,2007,бензин,2.2,185,механика,передний,седан,черный,85500,левый,1 поколение,2.2 MT Elegant ,0,1150000
+224,https://krasnodar.drom.ru/alfa_romeo/147/46859033.html,Alfa Romeo,147,Краснодар,2006,бензин,1.6,120,механика,передний,хэтчбек 3 дв.,синий,163000,левый,"1 поколение, рестайлинг",1.6 MT T.Spark,0,250000
+225,https://tyumen.drom.ru/alfa_romeo/156/48378361.html,Alfa Romeo,156,Тюмень,2001,бензин,1.7,140,механика,передний,седан,серебристый,170000,левый,1 поколение,1.8 MT T.Spark,0,180000
+226,https://moscow.drom.ru/alfa_romeo/giulia/48161013.html,Alfa Romeo,Giulia,Москва,2017,бензин,2.0,280,автомат,задний,,белый,85000,левый,,,0,2150000
+227,https://moscow.drom.ru/alfa_romeo/gt/48991569.html,Alfa Romeo,GT,Москва,2005,бензин,2.0,165,робот,передний,,синий,200000,левый,1 поколение,2.0 AMT,1,401000
+228,https://simferopol.drom.ru/alfa_romeo/147/48639701.html,Alfa Romeo,147,Симферополь,2001,бензин,1.6,120,механика,передний,хэтчбек 5 дв.,голубой,193123,левый,1 поколение,1.6 MT T.Spark,0,275000
+229,https://moscow.drom.ru/alfa_romeo/giulietta/48296732.html,Alfa Romeo,Giulietta,Москва,2012,бензин,1.4,170,робот,передний,хэтчбек 5 дв.,серебристый,141829,левый,3 поколение,,0,649000
+230,https://nefteyugansk.drom.ru/alfa_romeo/166/43956939.html,Alfa Romeo,166,Нефтеюганск,2000,бензин,2.0,205,механика,передний,,зеленый,180000,левый,,,0,270000
+231,https://krasnodar.drom.ru/alfa_romeo/giulia/48536099.html,Alfa Romeo,Giulia,Краснодар,2018,бензин,2.0,280,автомат,задний,,белый,94100,левый,,,0,2250000
+232,https://moscow.drom.ru/alfa_romeo/mi-to/48639641.html,Alfa Romeo,MiTo,Москва,2014,бензин,1.4,140,робот,передний,,красный,61700,левый,"1 поколение, рестайлинг",1.4 AMT,0,777000
+233,https://chelyabinsk.drom.ru/alfa_romeo/155/47946595.html,Alfa Romeo,155,Челябинск,1992,бензин,1.8,129,механика,передний,,бордовый,285800,левый,1 поколение,1.8 MT T.Spark,0,50000
+234,https://syzran.drom.ru/alfa_romeo/147/46909165.html,Alfa Romeo,147,Сызрань,2000,бензин,1.6,120,механика,передний,хэтчбек 3 дв.,синий,235000,левый,1 поколение,1.6 MT T.Spark,0,300000
+235,https://rostov-na-donu.drom.ru/alfa_romeo/147/42908833.html,Alfa Romeo,147,Ростов-на-Дону,2007,бензин,2.0,150,робот,передний,хэтчбек 5 дв.,красный,182442,левый,"1 поколение, рестайлинг",2.0 AMT T.Spark Selespeed,0,550000
+236,https://vladimir.drom.ru/alfa_romeo/146/48968890.html,Alfa Romeo,146,Владимир,1998,бензин,1.4,103,механика,передний,,черный,300000,левый,1 поколение,1.4 MT T.Spark,1,135000
+237,https://moscow.drom.ru/alfa_romeo/giulia/48966119.html,Alfa Romeo,Giulia,Москва,2020,бензин,2.0,280,автомат,задний,,серый,10600,левый,,,0,3050000
+238,https://surgut.drom.ru/alfa_romeo/giulietta/48607768.html,Alfa Romeo,Giulietta,Сургут,1985,бензин,1.8,122,механика,задний,седан,коричневый,132000,левый,2 поколение,1.8 MT,0,370000
+239,https://moscow.drom.ru/alfa_romeo/giulia/48957227.html,Alfa Romeo,Giulia,Москва,2017,бензин,2.9,510,АКПП,задний,,черный,22000,левый,2 поколение,2.9 AT QV,0,5500000
+240,https://moscow.drom.ru/alfa_romeo/giulia/48957045.html,Alfa Romeo,Giulia,Москва,2017,бензин,2.9,510,АКПП,задний,,красный,45000,левый,2 поколение,2.9 AT QV,0,5500000
+241,https://tyumen.drom.ru/alfa_romeo/mi-to/44823728.html,Alfa Romeo,MiTo,Тюмень,2009,бензин,1.4,120,механика,передний,,черный,221959,левый,,,0,599000
+242,https://pskov.drom.ru/alfa_romeo/147/47030906.html,Alfa Romeo,147,Псков,2008,дизель,1.9,115,механика,передний,хэтчбек 3 дв.,черный,110000,левый,,,0,920000
+243,https://krasnoyarsk.drom.ru/alfa_romeo/159/48943362.html,Alfa Romeo,159,Красноярск,2006,бензин,2.2,185,механика,передний,седан,бордовый,230000,левый,1 поколение,2.2 MT Elegant ,0,700000
+244,https://grayvoron.drom.ru/alfa_romeo/147/47527397.html,Alfa Romeo,147,Грайворон,2001,бензин,1.6,105,механика,передний,хэтчбек 3 дв.,серебристый,400000,левый,1 поколение,1.6 MT T.Spark,0,300000
+245,https://spb.drom.ru/alfa_romeo/mi-to/46884175.html,Alfa Romeo,MiTo,Санкт-Петербург,2008,бензин,1.4,155,механика,передний,,красный,113300,левый,,,0,990000
+246,https://moscow.drom.ru/alfa_romeo/stelvio/46850086.html,Alfa Romeo,Stelvio,Москва,2017,дизель,2.1,210,АКПП,4WD,,черный,34000,левый,1 поколение,2.2 TD AT,0,5000000
+247,https://krasnodar.drom.ru/alfa_romeo/giulietta/47550783.html,Alfa Romeo,Giulietta,Краснодар,2014,бензин,1.7,240,автомат,передний,хэтчбек 5 дв.,черный,140000,левый,,,0,1350000
+248,https://abakan.drom.ru/alfa_romeo/giulietta/44323514.html,Alfa Romeo,Giulietta,Абакан,2012,бензин,1.4,170,автомат,передний,хэтчбек 5 дв.,серый,106000,правый,,,0,905000
+249,https://medyn.drom.ru/alfa_romeo/147/47901604.html,Alfa Romeo,147,Медынь,2003,бензин,2.0,150,механика,передний,хэтчбек 5 дв.,красный,199000,левый,1 поколение,2.0 MT T.Spark,1,320000
+250,https://moscow.drom.ru/alfa_romeo/giulietta/47898228.html,Alfa Romeo,Giulietta,Москва,2012,бензин,1.4,170,робот,передний,хэтчбек 5 дв.,красный,69245,левый,3 поколение,,0,870000
+251,https://moscow.drom.ru/alfa_romeo/147/48926270.html,Alfa Romeo,147,Москва,2007,бензин,2.0,150,робот,передний,хэтчбек 5 дв.,черный,158500,левый,"1 поколение, рестайлинг",2.0 AMT T.Spark Selespeed,0,445000
+252,https://krasnodar.drom.ru/alfa_romeo/156/48924970.html,Alfa Romeo,156,Краснодар,2002,бензин,1.7,140,механика,передний,седан,серебристый,247000,левый,1 поколение,1.8 MT T.Spark,1,160000
+253,https://togliatti.drom.ru/alfa_romeo/giulietta/46566198.html,Alfa Romeo,Giulietta,Тольятти,2014,бензин,1.4,170,робот,передний,хэтчбек 5 дв.,красный,106944,левый,3 поколение,,0,1900000
+254,https://buynaksk.drom.ru/alfa_romeo/164/48584076.html,Alfa Romeo,164,Буйнакск,1990,бензин,3.0,184,механика,передний,,зеленый,484500,левый,1 поколение,3.0 MT V6,0,95000
+255,https://sevastopol.drom.ru/alfa_romeo/giulietta/45321272.html,Alfa Romeo,Giulietta,Севастополь,2010,бензин,1.4,120,механика,передний,хэтчбек 5 дв.,красный,135000,левый,3 поколение,1.4 MT,0,1350000
+256,https://zarechniy-sverd.drom.ru/alfa_romeo/giulietta/46415461.html,Alfa Romeo,Giulietta,Заречный,2014,бензин,1.4,170,робот,передний,хэтчбек 5 дв.,черный,80200,левый,3 поколение,1.4T AT Exclusive E5 ,0,1240000
+257,https://bratsk.drom.ru/alfa_romeo/156/46649384.html,Alfa Romeo,156,Братск,1999,бензин,1.6,120,механика,передний,седан,черный,162000,левый,1 поколение,1.6 MT T.Spark,0,300000
+258,https://kamensk-uralskiy.drom.ru/alfa_romeo/156/43055933.html,Alfa Romeo,156,Каменск-Уральский,2004,бензин,2.0,147,механика,передний,седан,желтый,156000,левый,,,0,370000
+259,https://krasnoyarsk.drom.ru/alfa_romeo/gt/44606174.html,Alfa Romeo,GT,Красноярск,2007,бензин,2.0,165,робот,передний,,черный,96600,левый,1 поколение,2.0 AMT,0,850000
+260,https://ramenskoe.drom.ru/alfa_romeo/155/48210321.html,Alfa Romeo,155,Раменское,1993,бензин,1.8,129,механика,передний,,синий,359000,левый,1 поколение,1.8 MT T.Spark,0,79000
+261,https://abinsk.drom.ru/alfa_romeo/166/47015131.html,Alfa Romeo,166,Абинск,1999,бензин,2.5,190,АКПП,передний,,фиолетовый,270000,левый,1 поколение,2.5 AT 24V,0,300000
+262,https://moscow.drom.ru/alfa_romeo/166/48898617.html,Alfa Romeo,166,Москва,1999,бензин,2.5,190,механика,передний,,зеленый,100000,левый,1 поколение,,1,69999
+263,https://krasnodar.drom.ru/alfa_romeo/159/48895641.html,Alfa Romeo,159,Краснодар,2010,бензин,1.8,140,механика,передний,седан,черный,180000,левый,"1 поколение, рестайлинг",1.8 MT Medium ,1,770000
+264,https://tyumen.drom.ru/alfa_romeo/156/46533553.html,Alfa Romeo,156,Тюмень,2003,бензин,2.0,165,механика,передний,седан,черный,130000,левый,"1 поколение, рестайлинг",2.0 MT JTS,0,380000
+265,https://gresovskiy.drom.ru/alfa_romeo/stelvio/48883508.html,Alfa Romeo,Stelvio,Грэсовский,2018,бензин,2.0,280,АКПП,4WD,,красный,61000,левый,1 поколение,2.0 AT,0,2320000
+266,https://krasnoyarsk.drom.ru/alfa_romeo/156/47144219.html,Alfa Romeo,156,Красноярск,2001,дизель,2.4,140,механика,передний,седан,серебристый,87000,левый,1 поколение,2.4 MT JTD,0,300000
+267,https://spb.drom.ru/alfa_romeo/156/48880404.html,Alfa Romeo,156,Санкт-Петербург,2003,бензин,2.0,150,АКПП,передний,седан,черный,158000,левый,"1 поколение, 2 рестайлинг",2.0 AT T.Spark Selespeed,0,465000
+268,https://perm.drom.ru/alfa_romeo/gt/45321192.html,Alfa Romeo,GT,Пермь,2008,бензин,2.0,165,робот,передний,,черный,156000,левый,1 поколение,2.0 AMT,0,470999
+269,https://surgut.drom.ru/alfa_romeo/147/48854883.html,Alfa Romeo,147,Сургут,2002,бензин,1.6,105,механика,передний,хэтчбек 5 дв.,красный,150000,левый,1 поколение,1.6 MT T.Spark,0,320000
+270,https://novokuznetsk.drom.ru/alfa_romeo/166/45545641.html,Alfa Romeo,166,Новокузнецк,1999,бензин,3.0,226,механика,передний,,серебристый,150000,левый,1 поколение,,0,150000
+271,https://neryungri.drom.ru/alfa_romeo/156/40109532.html,Alfa Romeo,156,Нерюнгри,2002,бензин,2.0,150,механика,передний,седан,серебристый,139000,левый,1 поколение,2.0 MT T.Spark,0,160000
+272,https://moscow.drom.ru/alfa_romeo/giulia/48545778.html,Alfa Romeo,Giulia,Москва,2018,бензин,2.0,280,автомат,задний,,черный,54010,левый,,,0,2350000
+273,https://moscow.drom.ru/alfa_romeo/spider/47480959.html,Alfa Romeo,Spider,Москва,2008,бензин,3.2,260,АКПП,4WD,,голубой,53700,левый,"3 поколение, рестайлинг",3.2 AT,0,2200000
+274,https://bryuhovetskaya.drom.ru/alfa_romeo/146/47808518.html,Alfa Romeo,146,Брюховецкая,1997,бензин,1.6,120,механика,передний,,серый,300000,левый,1 поколение,1.6 MT T.Spark,0,210000
+275,https://krasnodar.drom.ru/alfa_romeo/giulia/49095867.html,Alfa Romeo,Giulia,,2022,бензин,2.0,280,АКПП,4WD,,белый,14175,левый,2 поколение,2.0 AT Q4,0,4700000
+276,https://novosibirsk.drom.ru/alfa_romeo/giulietta/46131508.html,Alfa Romeo,Giulietta,,2012,бензин,1.4,120,автомат,передний,хэтчбек 5 дв.,,45000,правый,,,0,800000
+277,https://krasnodar.drom.ru/alfa_romeo/giulia/44910461.html,Alfa Romeo,Giulia,,2019,дизель,2.1,190,АКПП,задний,,черный,86999,левый,2 поколение,2.2 TD AT,0,2200000
+278,https://novosibirsk.drom.ru/alfa_romeo/giulietta/48166384.html,Alfa Romeo,Giulietta,,2020,бензин,1.4,150,механика,передний,хэтчбек 5 дв.,белый,30,левый,,,0,3800000
+279,https://spb.drom.ru/alfa_romeo/stelvio/47813664.html,Alfa Romeo,Stelvio,,2019,бензин,2.0,280,АКПП,4WD,,,32000,левый,1 поколение,2.0 AT,0,1700000
+280,https://ufa.drom.ru/bentley/continental_gt/44677097.html,Bentley,Continental GT,Уфа,2006,бензин,6.0,560,автомат,4WD,купе,зеленый,89855,левый,,,0,2149000
+281,https://moscow.drom.ru/bentley/flying_spur/45944885.html,Bentley,Flying Spur,Москва,2020,бензин,6.0,635,робот,4WD,,синий,9300,левый,3 поколение,6.0 SAT Flying Spur W12,0,26200000
+282,https://moscow.drom.ru/bentley/bentayga/45145800.html,Bentley,Bentayga,Москва,2019,дизель,4.0,435,автомат,4WD,,синий,7200,левый,,,0,19999000
+283,https://moscow.drom.ru/bentley/continental_gt/46168304.html,Bentley,Continental GT,Москва,2013,бензин,4.0,507,АКПП,4WD,купе,черный,11600,левый,2 поколение,4.0 AT V8 ,0,7800000
+284,https://naberezhnye-chelny.drom.ru/bentley/continental_gt/47665585.html,Bentley,Continental GT,Набережные Челны,2005,бензин,6.0,560,АКПП,4WD,купе,зеленый,72000,левый,1 поколение,6.0 AT GT,0,2450000
+285,https://yaroslavl.drom.ru/bentley/continental_gt/48803180.html,Bentley,Continental GT,Ярославль,2012,бензин,6.0,575,автомат,4WD,купе,серебристый,72300,левый,,,0,4950000
+286,https://feodosiya.drom.ru/bentley/continental_gt/44157748.html,Bentley,Continental GT,Феодосия,2011,бензин,6.0,560,АКПП,4WD,купе,синий,35000,левый,"1 поколение, рестайлинг",6.0 AT GT,0,6500000
+287,https://irkutsk.drom.ru/bentley/continental_gt/48445376.html,Bentley,Continental GT,Иркутск,2012,бензин,4.0,507,АКПП,4WD,купе,золотистый,28000,левый,2 поколение,4.0 AT V8 ,0,6999999
+288,https://izhevsk.drom.ru/bentley/continental_gt/47372330.html,Bentley,Continental GT,Ижевск,2006,бензин,6.0,560,АКПП,4WD,купе,черный,57000,левый,1 поколение,,0,1999000
+289,https://moscow.drom.ru/bentley/continental_gt/45129990.html,Bentley,Continental GT,Москва,2020,бензин,6.0,635,робот,4WD,купе,серый,5300,левый,3 поколение,,0,23950000
+290,https://moscow.drom.ru/bentley/arnage/42938162.html,Bentley,Arnage,Москва,2003,бензин,6.8,457,автомат,задний,,серый,4025,левый,,,0,11000000
+291,https://grozniy.drom.ru/bentley/flying_spur/49129164.html,Bentley,Flying Spur,Грозный,2006,бензин,6.0,560,АКПП,4WD,,белый,155836,левый,1 поколение,,0,2100000
+292,https://simferopol.drom.ru/bentley/continental_gt/47317662.html,Bentley,Continental GT,Симферополь,2012,бензин,4.0,507,АКПП,4WD,купе,серебристый,35000,левый,2 поколение,4.0 AT V8 ,0,5000000
+293,https://kirov.drom.ru/bentley/continental_gt/48100676.html,Bentley,Continental GT,Киров,2017,бензин,4.0,528,АКПП,4WD,купе,белый,43504,левый,2 поколение,4.0 AT V8 S ,0,9999000
+294,https://chelyabinsk.drom.ru/bentley/continental_gt/47756175.html,Bentley,Continental GT,Челябинск,2012,бензин,6.0,575,АКПП,4WD,купе,серый,30000,левый,2 поколение,6.0 AT ,0,5650000
+295,https://krasnoyarsk.drom.ru/bentley/flying_spur/47752874.html,Bentley,Flying Spur,Красноярск,2013,бензин,6.0,626,автомат,4WD,,синий,101000,левый,,,0,5999999
+296,https://tomsk.drom.ru/bentley/bentayga/47263865.html,Bentley,Bentayga,Томск,2016,бензин,6.0,608,АКПП,4WD,,белый,35000,левый,1 поколение,6.0 AT 4WD Bentayga W12,0,13000000
+297,https://saratov.drom.ru/bentley/flying_spur/48782610.html,Bentley,Flying Spur,Саратов,2005,бензин,6.0,560,АКПП,4WD,,черный,114000,левый,1 поколение,6.0 AT Continental Flying Spur,0,1870000
+298,https://moscow.drom.ru/bentley/continental_gt/48765480.html,Bentley,Continental GT,Москва,2012,бензин,6.0,575,АКПП,4WD,купе,синий,88000,левый,2 поколение,6.0 AT GT,0,4700000
+299,https://moscow.drom.ru/bentley/continental_gt/48426149.html,Bentley,Continental GT,Москва,2015,бензин,4.0,528,АКПП,4WD,купе,бордовый,43000,левый,2 поколение,,0,8630000
+300,https://moscow.drom.ru/bentley/bentayga/48080269.html,Bentley,Bentayga,Москва,2018,дизель,4.0,435,автомат,4WD,,коричневый,76000,левый,,,0,10700000
+301,https://moscow.drom.ru/bentley/flying_spur/47739813.html,,,,,,,,,,,,,,,,0,
+302,https://moscow.drom.ru/bentley/flying_spur/47408556.html,,,,,,,,,,,,,,,,0,

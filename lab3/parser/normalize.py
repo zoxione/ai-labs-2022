@@ -1,5 +1,7 @@
 import datetime
 import argparse
+import os
+from pathlib import Path
 
 import numpy as np
 import pandas as pd
@@ -11,53 +13,80 @@ from selenium.webdriver.chrome.options import Options
 
 
 parserArgs = argparse.ArgumentParser()
-parserArgs.add_argument('--input', nargs='+', help='Пути к входным данным', required=True)
+parserArgs.add_argument('--input', type=str, default='', help='Путь к входным данным')
 args = parserArgs.parse_args()
 
+chooseProperty = ['Id', 'Url', 'Brand', 'Model', 'Year', 'EngineVolume', 'Power', 'Drive', 'Mileage', 'Price']
+
+
+def files(path):
+    for file in os.listdir(path):
+        if os.path.isfile(os.path.join(path, file)):
+            yield file
+
+
 # Функция для преобразования строк в числа в DataFrame
-def df_string_to_number(df):
-   dfCopy = df.copy(deep=True)
+def df_to_number(df):
+    dfCopy = df.copy(deep=True)
 
-   for column in dfCopy.columns.values.tolist():
-      for property in propertyList:
-         if column == property.name:
-            for i in range(len(property.values)):
-               dfCopy[column] = dfCopy[column].replace([property.values[i]], int(len(property.values) - i))
-            break
+    dfCopy['Year'] = dfCopy['Year'].apply(int)
+    dfCopy['Power'] = dfCopy['Power'].apply(int)
+    dfCopy['Mileage'] = pd.to_numeric(dfCopy['Mileage'], errors='coerce')
+    dfCopy['Mileage'] = dfCopy['Mileage'].fillna(0)
+    dfCopy['Price'] = dfCopy['Price'].apply(int)
 
-      # Зануляем пустые значения
-      dfCopy[column] = dfCopy[column].replace(np.nan, 0)
+    # dfCopy = dfCopy[['Year', 'EngineVolume', 'Power', 'Drive', 'Mileage']]
 
-      # Зануляем строки, которых нет в параметрах
-      for value in dfCopy[column]:
-         if type(value) is str:
-            dfCopy[column] = dfCopy[column].replace([value], 0)
+    # for column in dfCopy.columns.values.tolist():
+        # if
 
-   return dfCopy
+    return dfCopy
 
 
-#./normalize.py --input cars_20221206123816478055.csv cars_20221206123935723457.csv cars_20221206124944227138.csv
+#./normalize.py --input ./cars
 if __name__ == '__main__':
     try:
-        if len(args.input) == 0:
+        if args.input == '':
             raise Exception('Не указан путь к данным!\n')
 
-        print('Скрипт запущен в', datetime.datetime.now())
-        print('Всего итераций: ' + str(len(args.input)) + '\n')
+        inputFiles = [];
+        for file in files(args.input):
+            inputFiles.append(file)
 
-        dfInput1 = pd.read_csv(args.input[0])
-        for i in range(1, len(args.input)):
-            dfInput2 = pd.read_csv(args.input[i])
+        print('Скрипт запущен в', datetime.datetime.now())
+        print('Всего итераций: ' + str(len(inputFiles)) + '\n')
+
+        dfInput1 = pd.read_csv(args.input + '/' + inputFiles[0])
+        dfInput1 = dfInput1[chooseProperty]
+        for i in range(1, len(inputFiles)):
+            dfInput2 = pd.read_csv(args.input + '/' + inputFiles[i])
+            dfInput2 = dfInput2[chooseProperty]
+
+            # Зануляем пустые значения
+            # dfInput1 = dfInput1.fillna(0)
+            # dfInput2 = dfInput2.fillna(0)
+            dfInput1 = dfInput1.dropna()
+            dfInput2 = dfInput2.dropna()
+
             dfInput1 = pd.concat([dfInput1, dfInput2], ignore_index=True)
-            print('Выполнена итерация [' + str(i) + '/' + str(len(args.input)) + ']');
+            print('Выполнена итерация [' + str(i) + '/' + str(len(inputFiles) - 1) + ']');
+
+        # Удаляем дубликаты
+        dfInput1 = dfInput1.drop_duplicates(subset=['Url']);
+
+        # Сортируем по Id
+        dfInput1 = dfInput1.sort_values(by=['Id'])
+
+        # Преобразуем в числа
+        dfInput1 = df_to_number(dfInput1)
 
     except Exception as e:
         print('\nОшибка при выполнении программы: ' + str(e))
 
     finally:
         now = datetime.datetime.now();
-        dfInput1.to_csv('normalize_' + now.strftime('%Y%m%d%H%M%S%f') + '.csv', index=False);
-        print('\nСохранено в файл normalize_' + now.strftime('%Y%m%d%H%M%S%f') + '.csv');
+        dfInput1.to_csv('normalize_cars_' + now.strftime('%Y%m%d%H%M%S%f') + '.csv', index=False);
+        print('\nСохранено в файл normalize_cars_' + now.strftime('%Y%m%d%H%M%S%f') + '.csv');
 
-        #winsound.PlaySound('SystemExit', winsound.SND_ALIAS)
+        winsound.PlaySound('SystemExit', winsound.SND_ALIAS)
         input('\nНажмите Enter для выхода...');

@@ -1,5 +1,5 @@
-set loopcount=10
-set x=0
+set loopcount=2
+set x=6001
 :loop
 set /a x2=x+100
 start /b python ./parse.py --input "prefetch_cars_20221206122926365004.csv" --start %x% --end %x2%

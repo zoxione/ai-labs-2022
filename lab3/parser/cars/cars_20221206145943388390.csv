@@ -1,0 +1,102 @@
+Id,Url,Brand,Model,Region,Year,Engine,EngineVolume,Power,Transmission,Drive,Body,Color,Mileage,Wheel,Generation,Complectation,IsSold,Price
+909,https://irkutsk.drom.ru/acura/rdx/48364172.html,Acura,RDX,Иркутск,2009,бензин,2.3,240,АКПП,4WD,,черный,275000,левый,"1 поколение, рестайлинг",SH-AWD Technology,0,1520000
+910,https://tver.drom.ru/acura/rdx/48222918.html,Acura,RDX,Тверь,2008,бензин,2.3,240,АКПП,4WD,,серый,300000,левый,1 поколение,SH-AWD Base,0,980000
+911,https://moscow.drom.ru/acura/rdx/47224245.html,Acura,RDX,Москва,2007,бензин,2.3,240,АКПП,4WD,,черный,175000,левый,1 поколение,SH-AWD Technology,0,1030000
+912,https://vladivostok.drom.ru/acura/rdx/48784522.html,Acura,RDX,Владивосток,2014,бензин,3.5,277,АКПП,4WD,,белый,59000,левый,2 поколение,Techno,1,1840000
+913,https://belorechensk.drom.ru/acura/mdx/48567406.html,Acura,MDX,Белореченск,2001,бензин,3.5,240,АКПП,4WD,,серый,270001,левый,1 поколение,,1,590000
+914,https://novosibirsk.drom.ru/acura/tsx/48563230.html,Acura,TSX,Новосибирск,2005,бензин,2.4,200,АКПП,передний,седан,черный,290000,левый,1 поколение,2.4 AT TSX,0,499000
+915,https://zheleznogorsk-krasnoyarsk.drom.ru/acura/mdx/45872996.html,Acura,MDX,Железногорск,2003,бензин,3.5,180,автомат,4WD,,черный,280000,левый,,,0,750000
+916,https://krasnodar.drom.ru/acura/rdx/39436090.html,Acura,RDX,Краснодар,2007,бензин,2.3,240,АКПП,4WD,,синий,185000,левый,1 поколение,SH-AWD Technology,0,800000
+917,https://novosibirsk.drom.ru/acura/rdx/47927179.html,Acura,RDX,Новосибирск,2014,бензин,3.5,277,АКПП,4WD,,черный,218000,левый,2 поколение,Techno,0,1750000
+918,https://barnaul.drom.ru/acura/rdx/48208747.html,Acura,RDX,Барнаул,2008,бензин,2.3,240,АКПП,4WD,,бордовый,174000,левый,1 поколение,SH-AWD Technology,0,1250000
+919,https://kyzyl.drom.ru/acura/tsx/47531641.html,Acura,TSX,Кызыл,2003,бензин,2.4,200,АКПП,передний,седан,серебристый,232429,левый,1 поколение,2.4 AT TSX,0,600000
+920,https://seltso.drom.ru/acura/mdx/46070938.html,Acura,MDX,Сельцо,2004,бензин,3.5,265,АКПП,4WD,,черный,250000,левый,"1 поколение, рестайлинг",3.5 AWD AT,0,650000
+921,https://vladivostok.drom.ru/acura/rdx/48894747.html,Acura,RDX,Владивосток,2011,бензин,2.3,240,АКПП,4WD,,черный,125000,левый,"1 поколение, рестайлинг",SH-AWD Technology,0,1200000
+922,https://moscow.drom.ru/acura/mdx/45462838.html,Acura,MDX,Москва,2003,бензин,3.5,260,АКПП,4WD,,серый,239394,левый,"1 поколение, рестайлинг",3.5 AWD AT,1,530000
+923,https://mirniy.drom.ru/acura/rsx/48890641.html,Acura,RSX,Мирный,2003,бензин,2.0,200,механика,передний,,синий,100000,левый,1 поколение,2.0 MT RSX Type S,0,888000
+924,https://magadan.drom.ru/acura/mdx/47857635.html,Acura,MDX,Магадан,2007,бензин,3.7,299,автомат,4WD,,черный,145000,левый,,,0,1650000
+925,https://spb.drom.ru/acura/rdx/47196901.html,Acura,RDX,Санкт-Петербург,2007,бензин,2.3,240,АКПП,4WD,,серый,300000,левый,1 поколение,SH-AWD Technology,0,1000000
+926,https://irkutsk.drom.ru/acura/tl/46922987.html,Acura,TL,Иркутск,2004,бензин,3.2,270,АКПП,передний,,серебристый,198500,левый,3 поколение,3.2 AT TL,0,810000
+927,https://sevastopol.drom.ru/acura/zdx/47160158.html,Acura,ZDX,Севастополь,2010,бензин,3.7,300,АКПП,4WD,,белый,115150,левый,1 поколение,3.7 AT SH-AWD ZDX w/ Advance Package,0,1650000
+928,https://moscow.drom.ru/acura/mdx/47201723.html,Acura,MDX,Москва,2014,бензин,3.5,290,АКПП,4WD,,белый,115116,левый,3 поколение,,0,2499000
+929,https://ordynskoe.drom.ru/acura/mdx/47609322.html,Acura,MDX,Ордынское,2007,бензин,3.7,300,АКПП,4WD,,черный,162000,левый,2 поколение,3.7 AWD AT Sport,0,950000
+930,https://omsk.drom.ru/acura/rdx/48882719.html,Acura,RDX,Омск,2011,бензин,2.3,240,АКПП,4WD,,белый,196000,левый,"1 поколение, рестайлинг",SH-AWD Base,0,1530000
+931,https://ussuriisk.drom.ru/acura/mdx/48878687.html,Acura,MDX,Уссурийск,2003,бензин,3.5,265,АКПП,4WD,,синий,168000,левый,"1 поколение, рестайлинг",3.5 AWD AT,0,700000
+932,https://habarovsk.drom.ru/acura/mdx/48878330.html,Acura,MDX,Хабаровск,2004,бензин,3.5,265,АКПП,4WD,,черный,200000,левый,"1 поколение, рестайлинг",3.5 AWD AT,0,450000
+933,https://rostov-na-donu.drom.ru/acura/rdx/48190115.html,Acura,RDX,Ростов-на-Дону,2010,бензин,2.3,240,АКПП,передний,,серый,169000,левый,"1 поколение, рестайлинг",,0,1199900
+934,https://novosibirsk.drom.ru/acura/mdx/47867173.html,Acura,MDX,Новосибирск,2014,бензин,3.5,290,АКПП,4WD,,серебристый,145000,левый,3 поколение,3.5 AT AWD Techno,0,2350000
+935,https://petropavlovsk-kamchatskiy.drom.ru/acura/rdx/46911502.html,Acura,RDX,Петропавловск-Камчатский,2008,бензин,2.3,240,АКПП,4WD,,черный,130000,левый,1 поколение,SH-AWD Technology,0,950000
+936,https://ekaterinburg.drom.ru/acura/zdx/45479841.html,Acura,ZDX,Екатеринбург,2010,бензин,3.7,304,автомат,4WD,,черный,215000,левый,,,0,1550000
+937,https://krasnodar.drom.ru/acura/rsx/47610553.html,Acura,RSX,Краснодар,2001,бензин,2.0,160,механика,передний,,белый,212000,левый,1 поколение,2.0 MT RSX,0,600000
+938,https://nadim.drom.ru/acura/mdx/48866789.html,Acura,MDX,Надым,2009,бензин,3.7,300,АКПП,4WD,,серый,179250,левый,2 поколение,3.7 AWD AT,0,1350000
+939,https://nizhnevartovsk.drom.ru/acura/mdx/48524682.html,Acura,MDX,Нижневартовск,2004,бензин,3.5,265,АКПП,4WD,,серебристый,187595,левый,"1 поколение, рестайлинг",3.5 AWD AT,0,900000
+940,https://magadan.drom.ru/acura/mdx/48514831.html,Acura,MDX,Магадан,2007,бензин,3.7,300,АКПП,4WD,,черный,162000,левый,2 поколение,3.7 AWD AT,0,1370000
+941,https://voronezh.drom.ru/acura/tsx/48183507.html,Acura,TSX,Воронеж,2004,бензин,2.4,200,АКПП,передний,седан,серый,220000,левый,1 поколение,2.4 AT TSX,0,570000
+942,https://blagoveshchensk.drom.ru/acura/rl/48174316.html,Acura,RL,Благовещенск,2004,бензин,3.5,300,АКПП,4WD,,серый,167535,левый,2 поколение,3.5 AT SH-AWD RL,0,770000
+943,https://moscow.drom.ru/acura/zdx/47833799.html,Acura,ZDX,Москва,2010,бензин,3.7,300,АКПП,4WD,,черный,110000,левый,1 поколение,3.7 AT SH-AWD ZDX,0,1400000
+944,https://tomsk.drom.ru/acura/mdx/47503378.html,Acura,MDX,Томск,2008,бензин,3.7,300,АКПП,4WD,,черный,192000,левый,2 поколение,3.7 AWD AT Sport,0,1100000
+945,https://vladivostok.drom.ru/acura/rdx/47500221.html,Acura,RDX,Владивосток,2009,бензин,2.3,240,АКПП,4WD,,черный,164000,левый,1 поколение,SH-AWD Technology,0,1200000
+946,https://novosibirsk.drom.ru/acura/mdx/47109489.html,Acura,MDX,Новосибирск,2011,бензин,3.7,300,АКПП,4WD,,черный,240000,левый,"2 поколение, рестайлинг",3.7 AWD AT,1,1650000
+947,https://norilsk.drom.ru/acura/mdx/46889085.html,Acura,MDX,Норильск,2002,бензин,3.5,240,АКПП,4WD,,,210000,левый,1 поколение,,0,350000
+948,https://shchelkovo.drom.ru/acura/rdx/48862306.html,Acura,RDX,Щёлково,2008,бензин,2.3,240,АКПП,4WD,,черный,125720,левый,1 поколение,SH-AWD Technology,0,850000
+949,https://habarovsk.drom.ru/acura/rdx/48006108.html,Acura,RDX,Хабаровск,2009,бензин,2.3,240,АКПП,4WD,,серый,61070,левый,"1 поколение, рестайлинг",SH-AWD Technology,0,1150000
+950,https://cherepanovo.drom.ru/acura/mdx/48513284.html,Acura,MDX,Черепаново,2003,бензин,3.5,265,АКПП,4WD,,черный,229834,левый,"1 поколение, рестайлинг",3.5 AWD AT,0,670000
+951,https://novosibirsk.drom.ru/acura/rsx/48846259.html,Acura,RSX,Новосибирск,2005,бензин,2.0,201,механика,передний,,оранжевый,160000,левый,"1 поколение, рестайлинг",2.0 MT RSX Type S,1,450000
+952,https://novokuznetsk.drom.ru/acura/mdx/48833140.html,Acura,MDX,Новокузнецк,2001,бензин,3.5,240,АКПП,4WD,,серый,380000,левый,1 поколение,3.5 AWD AT Touring Package,1,450000
+953,https://tyumen.drom.ru/acura/tsx/46385177.html,Acura,TSX,Тюмень,2004,бензин,2.4,200,АКПП,передний,седан,серый,241000,левый,1 поколение,2.4 AT TSX,0,670000
+954,https://vladivostok.drom.ru/acura/mdx/48051365.html,Acura,MDX,Владивосток,2001,бензин,3.5,240,АКПП,4WD,,желтый,225,левый,1 поколение,3.5 AWD AT,0,430000
+955,https://ekaterinburg.drom.ru/acura/mdx/47802144.html,Acura,MDX,Екатеринбург,2007,бензин,3.7,300,АКПП,4WD,,черный,144444,левый,2 поколение,3.7 AWD AT,0,1100000
+956,https://moscow.drom.ru/acura/rlx/46794680.html,Acura,RLX,Москва,2014,бензин,3.5,314,автомат,4WD,,черный,100000,левый,,,1,2500000
+957,https://vladivostok.drom.ru/acura/mdx/47445105.html,Acura,MDX,,2022,бензин,3.5,290,АКПП,4WD,,красный,новый автомобиль,левый,4 поколение,3.5 SH-AWD AT A-Spec,0,6600000
+958,https://novosibirsk.drom.ru/acura/rdx/48145208.html,Acura,RDX,,2022,бензин,2.0,272,автомат,4WD,,красный,21,левый,,,0,4200000
+959,https://vladivostok.drom.ru/acura/mdx/43484374.html,Acura,MDX,,2021,бензин,3.5,280,автомат,4WD,,серый,новый автомобиль,левый,,,0,6800000
+960,https://spb.drom.ru/acura/rdx/47451325.html,Acura,RDX,,2021,бензин,2.0,272,АКПП,4WD,,,3000,левый,3 поколение,2.0 SH-AWD AT Technology Package,0,1750000
+961,https://moscow.drom.ru/acura/mdx/48968459.html,Acura,MDX,,2018,бензин,3.5,290,АКПП,передний,,черный,53000,левый,"3 поколение, рестайлинг",,0,1700000
+962,https://moscow.drom.ru/evolute/i-pro/48803836.html,Evolute,i-Pro,Москва,2022,электр,,163,АКПП,передний,,белый,,левый,1 поколение,53 kWh,0,3013525
+963,https://moscow.drom.ru/evolute/i-pro/48803771.html,Evolute,i-Pro,Москва,2022,электр,,163,АКПП,передний,,белый,,левый,1 поколение,53 kWh,0,3013525
+964,https://moscow.drom.ru/evolute/i-pro/48803786.html,Evolute,i-Pro,Москва,2022,электр,,163,АКПП,передний,,белый,,левый,1 поколение,53 kWh,0,3013525
+965,https://moscow.drom.ru/evolute/i-pro/48803741.html,Evolute,i-Pro,Москва,2022,электр,,163,АКПП,передний,,белый,,левый,1 поколение,53 kWh,0,3013525
+966,https://moscow.drom.ru/evolute/i-pro/48803747.html,Evolute,i-Pro,Москва,2022,электр,,163,АКПП,передний,,белый,,левый,1 поколение,53 kWh,0,3013525
+967,https://moscow.drom.ru/evolute/i-pro/48803692.html,Evolute,i-Pro,Москва,2022,электр,,163,АКПП,передний,,белый,,левый,1 поколение,53 kWh,0,3013525
+968,https://moscow.drom.ru/evolute/i-pro/48803719.html,Evolute,i-Pro,Москва,2022,электр,,163,АКПП,передний,,белый,,левый,1 поколение,53 kWh,0,3013525
+969,https://moscow.drom.ru/evolute/i-pro/48803579.html,Evolute,i-Pro,Москва,2022,электр,,163,АКПП,передний,,белый,,левый,1 поколение,53 kWh,0,3011435
+970,https://moscow.drom.ru/evolute/i-pro/48803582.html,Evolute,i-Pro,Москва,2022,электр,,163,АКПП,передний,,белый,,левый,1 поколение,53 kWh,0,3006800
+971,https://moscow.drom.ru/evolute/i-pro/48803381.html,Evolute,i-Pro,Москва,2022,электр,,163,АКПП,передний,,белый,,левый,1 поколение,53 kWh,0,3006800
+972,https://krasnodar.drom.ru/evolute/i-pro/48802392.html,Evolute,i-Pro,Краснодар,2022,электр,,150,автомат,передний,,белый,,левый,,,0,2990000
+973,https://krasnodar.drom.ru/evolute/i-pro/48802386.html,Evolute,i-Pro,Краснодар,2022,электр,,150,автомат,передний,,белый,,левый,,,0,2990000
+974,https://moscow.drom.ru/evolute/i-pro/48797854.html,Evolute,i-Pro,Москва,2022,электр,,163,АКПП,передний,,белый,,левый,1 поколение,53 kWh,0,2990000
+975,https://moscow.drom.ru/evolute/i-pro/49122261.html,Evolute,i-Pro,Москва,2022,электр,,163,АКПП,передний,,белый,,левый,1 поколение,53 kWh,0,2990000
+976,https://moscow.drom.ru/evolute/i-pro/49122255.html,Evolute,i-Pro,Москва,2022,электр,,163,АКПП,передний,,белый,,левый,1 поколение,53 kWh,0,2990000
+977,https://moscow.drom.ru/evolute/i-pro/49122249.html,Evolute,i-Pro,Москва,2022,электр,,163,АКПП,передний,,белый,,левый,1 поколение,53 kWh,0,2990000
+978,https://moscow.drom.ru/evolute/i-pro/49122243.html,Evolute,i-Pro,Москва,2022,электр,,163,АКПП,передний,,белый,,левый,1 поколение,53 kWh,0,2990000
+979,https://moscow.drom.ru/evolute/i-joy/49122242.html,Evolute,i-Joy,Москва,2022,электр,,176,АКПП,передний,,черный,,левый,1 поколение,53 kWh,0,3490000
+980,https://moscow.drom.ru/evolute/i-pro/49122237.html,Evolute,i-Pro,Москва,2022,электр,,163,АКПП,передний,,белый,,левый,1 поколение,53 kWh,0,2990000
+981,https://moscow.drom.ru/evolute/i-pro/49122231.html,Evolute,i-Pro,Москва,2022,электр,,163,АКПП,передний,,белый,,левый,1 поколение,53 kWh,0,2990000
+982,https://moscow.drom.ru/evolute/i-pro/49122226.html,Evolute,i-Pro,Москва,2022,электр,,163,АКПП,передний,,белый,,левый,1 поколение,53 kWh,0,2990000
+983,https://moscow.drom.ru/evolute/i-joy/49122224.html,Evolute,i-Joy,Москва,2022,электр,,176,АКПП,передний,,синий,,левый,1 поколение,53 kWh,0,3490000
+984,https://moscow.drom.ru/evolute/i-joy/49122223.html,Evolute,i-Joy,Москва,2022,электр,,176,АКПП,передний,,черный,,левый,1 поколение,53 kWh,0,3490000
+985,https://moscow.drom.ru/evolute/i-joy/49122222.html,Evolute,i-Joy,Москва,2022,электр,,176,АКПП,передний,,черный,,левый,1 поколение,53 kWh,0,3490000
+986,https://moscow.drom.ru/evolute/i-joy/49122221.html,Evolute,i-Joy,Москва,2022,электр,,176,АКПП,передний,,черный,,левый,1 поколение,53 kWh,0,3490000
+987,https://moscow.drom.ru/evolute/i-pro/49122217.html,Evolute,i-Pro,Москва,2022,электр,,163,АКПП,передний,,белый,,левый,1 поколение,53 kWh,0,2990000
+988,https://moscow.drom.ru/evolute/i-joy/49122216.html,Evolute,i-Joy,Москва,2022,электр,,176,АКПП,передний,,черный,,левый,1 поколение,53 kWh,0,3490000
+989,https://moscow.drom.ru/evolute/i-pro/49122213.html,Evolute,i-Pro,Москва,2022,электр,,163,АКПП,передний,,белый,,левый,1 поколение,53 kWh,0,2990000
+990,https://moscow.drom.ru/evolute/i-pro/49122208.html,Evolute,i-Pro,Москва,2022,электр,,163,АКПП,передний,,белый,,левый,1 поколение,53 kWh,0,2990000
+991,https://moscow.drom.ru/evolute/i-pro/49122203.html,Evolute,i-Pro,Москва,2022,электр,,163,АКПП,передний,,белый,,левый,1 поколение,53 kWh,0,2990000
+992,https://moscow.drom.ru/evolute/i-joy/49122202.html,Evolute,i-Joy,Москва,2022,электр,,176,АКПП,передний,,черный,,левый,1 поколение,53 kWh,0,3490000
+993,https://moscow.drom.ru/evolute/i-joy/49122201.html,Evolute,i-Joy,Москва,2022,электр,,176,АКПП,передний,,синий,,левый,1 поколение,53 kWh,0,3490000
+994,https://moscow.drom.ru/evolute/i-joy/49122200.html,Evolute,i-Joy,Москва,2022,электр,,176,АКПП,передний,,черный,,левый,1 поколение,53 kWh,0,3490000
+995,https://moscow.drom.ru/evolute/i-pro/49122016.html,Evolute,i-Pro,Москва,2022,электр,,163,АКПП,передний,,белый,,левый,1 поколение,53 kWh,0,2990000
+996,https://moscow.drom.ru/evolute/i-pro/49122018.html,Evolute,i-Pro,Москва,2022,электр,,163,АКПП,передний,,белый,,левый,1 поколение,53 kWh,0,2990000
+997,https://moscow.drom.ru/evolute/i-pro/49100539.html,Evolute,i-Pro,Москва,2022,электр,,163,АКПП,передний,,белый,,левый,1 поколение,53 kWh,0,2990000
+998,https://moscow.drom.ru/evolute/i-pro/49088760.html,Evolute,i-Pro,Москва,2022,электр,,163,АКПП,передний,,белый,,левый,1 поколение,53 kWh,0,2990000
+999,https://moscow.drom.ru/evolute/i-pro/49088761.html,Evolute,i-Pro,Москва,2022,электр,,163,АКПП,передний,,белый,,левый,1 поколение,53 kWh,0,2990000
+1000,https://moscow.drom.ru/evolute/i-pro/49088762.html,Evolute,i-Pro,Москва,2022,электр,,163,АКПП,передний,,белый,,левый,1 поколение,53 kWh,0,2990000
+1001,https://moscow.drom.ru/evolute/i-pro/49088763.html,Evolute,i-Pro,Москва,2022,электр,,163,АКПП,передний,,белый,,левый,1 поколение,53 kWh,0,2990000
+1002,https://moscow.drom.ru/evolute/i-pro/49088764.html,Evolute,i-Pro,Москва,2022,электр,,163,АКПП,передний,,белый,,левый,1 поколение,53 kWh,0,2990000
+1003,https://moscow.drom.ru/evolute/i-pro/49078029.html,Evolute,i-Pro,Москва,2022,электр,,163,АКПП,передний,,белый,,левый,1 поколение,53 kWh,0,2990000
+1004,https://moscow.drom.ru/evolute/i-pro/49078030.html,Evolute,i-Pro,Москва,2022,электр,,163,АКПП,передний,,белый,,левый,1 поколение,53 kWh,0,2990000
+1005,https://moscow.drom.ru/evolute/i-pro/49078025.html,Evolute,i-Pro,Москва,2022,электр,,163,АКПП,передний,,белый,,левый,1 поколение,53 kWh,0,2990000
+1006,https://simferopol.drom.ru/evolute/i-pro/49071992.html,Evolute,i-Pro,Симферополь,2022,электр,,150,автомат,передний,,белый,,левый,,,0,2990000
+1007,https://spb.drom.ru/evolute/i-pro/48727246.html,Evolute,i-Pro,Санкт-Петербург,2022,электр,,163,АКПП,передний,,белый,,левый,1 поколение,53 kWh,0,2990000
+1008,https://voronezh.drom.ru/evolute/i-pro/49050619.html,Evolute,i-Pro,Воронеж,2022,электр,,163,АКПП,передний,,белый,,левый,1 поколение,53 kWh,0,2990000
+1009,https://moscow.drom.ru/evolute/i-pro/49050425.html,Evolute,i-Pro,Москва,2022,электр,,163,АКПП,передний,,белый,,левый,1 поколение,53 kWh,0,2990000
