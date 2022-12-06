@@ -143,7 +143,70 @@
             </Attribute>
           </value>
         </entry>
+        <entry key="\parser\cars\cars_20221207003531380497.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\parser\cars\cars_20221207004005819360.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\parser\cars\cars_20221207004528885577.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\parser\cars\cars_20221207005242964603.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\parser\cars\cars_20221207011626434583.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\parser\cars\cars_20221207011842938599.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\parser\cars\cars_20221207012447489120.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\parser\cars\cars_20221207020442936080.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
         <entry key="\parser\normalize_cars_20221206171853287918.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\parser\prefetch_cars\prefetch_cars.csv">
           <value>
             <Attribute>
               <option name="separator" value="," />
@@ -185,7 +248,77 @@
             </Attribute>
           </value>
         </entry>
+        <entry key="\parser\prefetch_cars\prefetch_cars__0_0_20221206234608757706.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\parser\prefetch_cars\prefetch_cars__11_30_20221207005158862804.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
         <entry key="\parser\prefetch_cars\prefetch_cars__130_130_20221206232025446726.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\parser\prefetch_cars\prefetch_cars__1_2_20221206234344885254.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\parser\prefetch_cars\prefetch_cars__31_35_20221207010636106598.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\parser\prefetch_cars\prefetch_cars__36_40_20221207014300108069.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\parser\prefetch_cars\prefetch_cars__3_10_20221207001916247827.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\parser\prefetch_cars\prefetch_cars__41_50_20221207010847600534.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\parser\prefetch_cars\prefetch_cars__60_64_20221207020304034272.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\parser\prefetch_cars\prefetch_cars__62_64_20221207020246741737.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\parser\prefetch_cars\prefetch_cars__65_69_20221207013701431123.csv">
           <value>
             <Attribute>
               <option name="separator" value="," />
