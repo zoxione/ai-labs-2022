@@ -1,5 +1,7 @@
 import datetime
 import argparse
+import threading
+
 import pandas as pd
 import winsound
 from selenium import webdriver
@@ -22,6 +24,8 @@ chrome_options.add_argument("--disable-extensions")
 driver = webdriver.Chrome(options=chrome_options)
 
 carsData = []
+ITERATION = 0;
+COUNT_ITERATION = args.end - args.start + 1;
 
 
 def getTree(url):
@@ -156,51 +160,74 @@ def parsingOnce(tree, url):
 
     return carData;
 
+def saveData(df):
+    now = datetime.datetime.now();
+    dfOutput = df.copy(deep=True);
+    dfOutput = dfOutput.drop(labels=['Brand'], axis=1);
+    dfOutput = dfOutput.merge(pd.DataFrame(carsData), how='right', on=['Url']);
+    dfOutput.to_csv('./cars/cars_' + now.strftime('%Y%m%d%H%M%S%f') + '.csv', index=False);
+    print('Сохранено в файл ./cars/cars_' + now.strftime('%Y%m%d%H%M%S%f') + '.csv');
+
+
+def thread(num, url, iter):
+    print('Запуск потока ' + str(num + 1));
+
+    tree = getTree(url);
+    res = parsingOnce(tree, url);
+    carsData.append(res);
+    print('Выполнена итерация [' + str(ITERATION + 1) + '/' + str(COUNT_ITERATION) + ']');
+    print('Осталось времени: ' + str(((COUNT_ITERATION - ITERATION + 1) * 2) / 60) + ' минут\n');
+
+    print('Завершение потока ' + str(num + 1));
+    return;
+
 
 #./parse.py --input ./prefetch_cars/prefetch_cars_20221206122926365004.csv --start 0 --end 10
 if __name__ == '__main__':
-    try:
-        if args.input == '':
-            raise Exception('Не указан путь к данным!\n')
+    while True:
+        try:
+            if args.input == '':
+                raise Exception('Не указан путь к данным!\n')
 
-        ITERATION = 1;
-        COUNT_ITERATION = args.end - args.start + 1;
+            print('Скрипт запущен в', datetime.datetime.now())
+            print('Всего итераций: ' + str(COUNT_ITERATION));
+            print('Примерное время выполнения: ' + str((COUNT_ITERATION * 2) / 60) + ' минут\n');
 
-        print('Скрипт запущен в', datetime.datetime.now())
-        print('Всего итераций: ' + str(COUNT_ITERATION));
-        print('Примерное время выполнения: ' + str((COUNT_ITERATION * 2) / 60) + ' минут\n');
+            print('Чтение данных из файла ' + args.input + '\n');
+            dfInput = pd.read_csv(args.input);
+            urls = dfInput.Url;
 
-        print('Чтение данных из файла ' + args.input + '\n');
-        dfInput = pd.read_csv(args.input);
-        urls = dfInput.Url;
-
-        for i in range(args.start, args.end + 1):
-            tree = getTree(urls[i]);
-            res = parsingOnce(tree, urls[i]);
-            carsData.append(res);
-            print('Выполнена итерация [' + str(ITERATION) + '/' + str(COUNT_ITERATION) + ']');
-            print('Осталось времени: ' + str(((COUNT_ITERATION - ITERATION) * 2) / 60) + ' минут\n');
-            ITERATION += 1;
-
-        for car in carsData:
-            if car['Price'] == '':
-                print('Повторный парсинг страницы ' + car['Url']);
-                tree = getTree(car['Url']);
-                res = parsingOnce(tree, car['Url']);
-                carsData.remove(car);
+            for i in range(args.start + ITERATION, args.end + 1):
+                tree = getTree(urls[i]);
+                res = parsingOnce(tree, urls[i]);
                 carsData.append(res);
+                print('Выполнена итерация [' + str(ITERATION + 1) + '/' + str(COUNT_ITERATION) + ']');
+                print('Осталось времени: ' + str(((COUNT_ITERATION - ITERATION + 1) * 2) / 60) + ' минут\n');
+                ITERATION += 1;
 
-    except Exception as e:
-        print('Ошибка при парсинге')
-        print(e)
+            saveData(dfInput);
 
-    finally:
-        now = datetime.datetime.now();
-        dfOutput = dfInput.copy(deep=True);
-        dfOutput = dfOutput.merge(pd.DataFrame(carsData), how='right', on=['Url']);
-        dfOutput.to_csv('./cars/cars_' + now.strftime('%Y%m%d%H%M%S%f') + '.csv', index=False);
-        print('Сохранено в файл ./cars/cars_' + now.strftime('%Y%m%d%H%M%S%f') + '.csv');
+            isChange = False;
+            for car in carsData:
+                if car['Price'] == '':
+                    isChange = True;
+                    print('Повторный парсинг страницы ' + car['Url']);
+                    tree = getTree(car['Url']);
+                    res = parsingOnce(tree, car['Url']);
+                    carsData.remove(car);
+                    carsData.append(res);
 
-        winsound.PlaySound('SystemExit', winsound.SND_ALIAS)
-        driver.quit()
-        input('\nНажмите Enter для выхода...');
+            if isChange:
+                saveData(dfInput);
+
+            winsound.PlaySound('SystemExit', winsound.SND_ALIAS)
+            driver.quit()
+            input('\nНажмите Enter для выхода...');
+            break;
+
+        except BaseException as e:
+            print('Ошибка при парсинге')
+            print(e)
+            saveData(dfInput);
+            print('Перезапуск скрипта')
+            continue
