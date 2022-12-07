@@ -182,8 +182,10 @@ def thread(num, url, iter):
     return;
 
 
-#./parse.py --input ./prefetch_cars/prefetch_cars_20221206122926365004.csv --start 0 --end 10
+#./parse.py --input ./prefetch_cars/prefetch_cars.csv --start 216326 --end 216326
 if __name__ == '__main__':
+    isErrorAgain = False;
+
     while True:
         try:
             if args.input == '':
@@ -229,5 +231,13 @@ if __name__ == '__main__':
             print('Ошибка при парсинге')
             print(e)
             saveData(dfInput);
+
+            if isErrorAgain:
+                winsound.PlaySound('SystemExit', winsound.SND_ALIAS)
+                driver.quit()
+                input('\nНажмите Enter для выхода...');
+                break;
+
             print('Перезапуск скрипта')
+            isErrorAgain = True;
             continue
