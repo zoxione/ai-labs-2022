@@ -3,7 +3,7 @@ import joblib
 import numpy as np
 import pandas as pd
 from matplotlib import pyplot as plt
-from sklearn.linear_model import LinearRegression
+from sklearn.linear_model import LinearRegression, LogisticRegression
 from sklearn.metrics import mean_squared_error
 from sklearn.model_selection import train_test_split
 np.seterr(divide='ignore', invalid='ignore')
@@ -38,7 +38,8 @@ def trainMode():
     X_train, X_test, Y_train, Y_test = train_test_split(X, Y, test_size=0.1, random_state=42)
 
     # Обучение модели и получение предсказания
-    model = LinearRegression()
+    # model = LinearRegression()
+    model = LogisticRegression(solver='liblinear', max_iter=10000)
     model.fit(X_train, Y_train)
     print('[4] Модель обучена');
 
@@ -50,7 +51,7 @@ def trainMode():
     print('[5] Оценка качества модели');
     print('MSE train: %.3f, test: %.3f' % (mseTrain, mseTest))
     print('RMSE train: %.3f, test: %.3f' % (np.sqrt(mseTrain), np.sqrt(mseTest)))
-    score = model.score(X, Y)
+    score = model.score(X_test, Y_test)
     print('R2 score: %.3f' % score)
 
     # Сохранение модели
@@ -59,7 +60,7 @@ def trainMode():
 
 
 def inferenceMode():
-    print('Выбран режим inference - применение модели\n');
+    print('\n\nВыбран режим inference - применение модели\n');
 
     print('[1] Чтение модели из файла', args.model);
     model = joblib.load(args.model);

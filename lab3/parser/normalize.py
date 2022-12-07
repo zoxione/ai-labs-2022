@@ -34,7 +34,6 @@ def df_to_number(df):
     dfCopy['Mileage'] = pd.to_numeric(dfCopy['Mileage'], errors='coerce')
     dfCopy['Mileage'] = dfCopy['Mileage'].fillna(0)
     dfCopy['Price'] = dfCopy['Price'].apply(int)
-    
 
     # Save unique values
     uniques = {}
@@ -56,7 +55,6 @@ def df_to_number(df):
     #dfCopy['Color'] = pd.factorize(dfCopy['Color'])[0] + 1 
     #dfCopy['Wheel'] = pd.factorize(dfCopy['Wheel'])[0] + 1
 
-    
     with open('uniques.json', 'w') as fp:
         json.dump(uniques, fp)
 
@@ -82,7 +80,7 @@ if __name__ == '__main__':
             dfInput2 = pd.read_csv(args.input + '/' + inputFiles[i])
             dfInput2 = dfInput2[chooseProperty]
 
-            # Зануляем пустые значения
+            # Удаляем пустые значения
             # dfInput1 = dfInput1.fillna(0)
             # dfInput2 = dfInput2.fillna(0)
             dfInput1 = dfInput1.dropna()
@@ -94,12 +92,13 @@ if __name__ == '__main__':
         # Удаляем дубликаты
         dfInput1 = dfInput1.drop_duplicates(subset=['Url']);
 
+        # Сортируем по Id
+        dfInput1 = dfInput1.sort_values(by=['Id'])
+
         now = datetime.datetime.now();
         dfInput1.to_csv('normalize_cars_' + now.strftime('%Y%m%d%H%M%S%f') + '.csv', index=False);
         print('\nСохранено в файл normalize_cars_' + now.strftime('%Y%m%d%H%M%S%f') + '.csv');
-
-        # Сортируем по Id
-        dfInput1 = dfInput1.sort_values(by=['Id'])
+        print('Всего записей: ' + str(len(dfInput1)))
 
         # Преобразуем в числа
         dfInput1 = df_to_number(dfInput1)

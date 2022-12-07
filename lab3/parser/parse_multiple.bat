@@ -1,3 +1,4 @@
+@echo off
 set loopcount=20
 set x=4000
 :loop

@@ -94,6 +94,20 @@
             </Attribute>
           </value>
         </entry>
+        <entry key="\parser\cars\cars_20221207173353871401.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\parser\cars\cars_20221207173427227989.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
         <entry key="\parser\cars\cars_20221207182625167245.csv">
           <value>
             <Attribute>
@@ -102,6 +116,48 @@
           </value>
         </entry>
         <entry key="\parser\cars\cars_20221207212953981170.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\parser\cars\cars_20221207232004866867.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\parser\cars\cars_20221207232007203734.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\parser\cars\cars_20221207232115824934.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\parser\cars\cars_20221207232143528291.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\parser\cars\cars_20221207232207389872.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\parser\cars\cars_20221207233040349282.csv">
           <value>
             <Attribute>
               <option name="separator" value="," />
@@ -130,6 +186,13 @@
           </value>
         </entry>
         <entry key="\parser\normalize_cars_20221207184436233154.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\parser\normalize_cars_20221207233643811040.csv">
           <value>
             <Attribute>
               <option name="separator" value="," />

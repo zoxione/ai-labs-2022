@@ -1,0 +1,111 @@
+Id,Url,Brand,Model,Region,Year,Engine,EngineVolume,Power,Transmission,Drive,Body,Color,Mileage,Wheel,Generation,Complectation,IsSold,Price
+102020,https://moscow.drom.ru/dongfeng/h30_cross/48855149.html,Dongfeng,H30 Cross,Москва,2014,бензин,1.6,117,механика,передний,,серый,73443,левый,1 поколение,1.6 MT Comfort,0,555000
+102021,https://ufa.drom.ru/dongfeng/h30_cross/48158768.html,Dongfeng,H30 Cross,Уфа,2016,бензин,1.6,117,механика,передний,,серебристый,94000,левый,1 поколение,1.6 MT Comfort,0,575000
+102022,https://novosibirsk.drom.ru/dongfeng/df6/49083679.html,Dongfeng,DF6,,2022,дизель,2.3,163,механика,4WD,,зеленый,,левый,,,0,3190000
+102023,https://habarovsk.drom.ru/dongfeng/fengon_ix5/48733292.html,Dongfeng,Fengon iX5,,2019,бензин,1.5,,автомат,4WD,,белый,18500,левый,,,0,1550000
+102024,https://vladivostok.drom.ru/dongfeng/forthing_t5_evo/48932818.html,Dongfeng,Forthing T5 EVO,,2022,бензин,1.5,192,автомат,передний,,белый,1,левый,,,0,2254000
+102025,https://novokuznetsk.drom.ru/dongfeng/h30_cross/47042007.html,Dongfeng,H30 Cross,Новокузнецк,2016,бензин,1.6,117,АКПП,передний,,серебристый,140000,левый,1 поколение,1.6 AT Luxury,1,500000
+102026,https://novosibirsk.drom.ru/dongfeng/580/47727743.html,Dongfeng,580,Новосибирск,2021,бензин,1.5,145,вариатор,передний,,красный,,левый,"1 поколение, рестайлинг",1.5T CVT Luxury,1,2199000
+102027,https://lipetsk.drom.ru/dongfeng/s30/48693979.html,Dongfeng,S30,Липецк,2014,бензин,1.6,117,АКПП,передний,,черный,87000,левый,1 поколение,1.6 AT Luxury,1,500000
+102028,https://tyumen.drom.ru/dongfeng/580/47971004.html,Dongfeng,580,Тюмень,2022,бензин,1.5,145,вариатор,передний,,белый,,левый,"1 поколение, рестайлинг",1.5T CVT Luxury,0,2299000
+102029,https://ufa.drom.ru/dongfeng/h30_cross/45932134.html,Dongfeng,H30 Cross,Уфа,2016,бензин,1.6,117,АКПП,передний,,серый,122000,левый,1 поколение,1.6 AT Luxury,1,629000
+102030,https://moscow.drom.ru/dongfeng/580/47931403.html,Dongfeng,580,Москва,2021,бензин,1.5,145,вариатор,передний,,красный,,левый,"1 поколение, рестайлинг",1.5T CVT Luxury,0,2199000
+102031,https://abakan.drom.ru/dongfeng/580/47098245.html,Dongfeng,580,Абакан,2021,бензин,1.5,145,вариатор,передний,,бордовый,,левый,"1 поколение, рестайлинг",1.5T CVT Luxury,0,2199000
+102032,https://moscow.drom.ru/dongfeng/ax7/46962896.html,Dongfeng,AX7,Москва,2017,бензин,2.0,140,АКПП,передний,,белый,62824,левый,1 поколение,,0,1249000
+102033,https://tyumen.drom.ru/dongfeng/ax7/48992564.html,Dongfeng,AX7,Тюмень,2018,бензин,2.0,140,АКПП,передний,,коричневый,82917,левый,1 поколение,,0,1499000
+102034,https://elektrostal.drom.ru/dongfeng/h30_cross/48643475.html,Dongfeng,H30 Cross,Электросталь,2016,бензин,1.6,117,АКПП,передний,,белый,174500,левый,1 поколение,1.6 AT Luxury,0,499000
+102035,https://moscow.drom.ru/dongfeng/580/48301359.html,Dongfeng,580,Москва,2021,бензин,1.8,132,механика,передний,,синий,,левый,"1 поколение, рестайлинг",1.8 MT Comfort,0,1929000
+102036,https://moscow.drom.ru/dongfeng/580/48301363.html,Dongfeng,580,Москва,2021,бензин,1.5,145,вариатор,передний,,,,левый,"1 поколение, рестайлинг",1.5T CVT Luxury,0,2199000
+102037,https://moscow.drom.ru/dongfeng/580/48301364.html,Dongfeng,580,Москва,2021,бензин,1.5,145,вариатор,передний,,синий,,левый,"1 поколение, рестайлинг",1.5T CVT Luxury,0,2199000
+102038,https://novosibirsk.drom.ru/dongfeng/s30/48297115.html,Dongfeng,S30,Новосибирск,2015,бензин,1.6,117,АКПП,передний,,серый,15000,левый,1 поколение,1.6 AT Luxury,0,140000
+102039,https://tula.drom.ru/dongfeng/ax7/47622765.html,Dongfeng,AX7,Тула,2017,бензин,2.0,140,АКПП,передний,,серебристый,63025,левый,1 поколение,,0,1139000
+102040,https://krasnoyarsk.drom.ru/dongfeng/580/46362572.html,Dongfeng,580,Красноярск,2021,бензин,1.8,132,механика,передний,,коричневый,13000,левый,"1 поколение, рестайлинг",1.8 MT Comfort,0,2350000
+102041,https://ekaterinburg.drom.ru/dongfeng/df6/48972904.html,Dongfeng,DF6,Екатеринбург,2022,дизель,2.3,163,механика,4WD,,серебристый,,левый,,,0,3178000
+102042,https://ekaterinburg.drom.ru/dongfeng/df6/48971012.html,Dongfeng,DF6,Екатеринбург,2022,дизель,2.3,163,механика,4WD,,белый,,левый,,,0,3226000
+102043,https://salehard.drom.ru/dongfeng/ax7/48969527.html,Dongfeng,AX7,Салехард,2017,бензин,2.0,140,АКПП,передний,,серебристый,47000,левый,1 поколение,2.0 AT Luxury,0,1600000
+102044,https://moscow.drom.ru/dongfeng/580/47931385.html,Dongfeng,580,Москва,2021,бензин,1.5,145,вариатор,передний,,коричневый,,левый,"1 поколение, рестайлинг",1.5T CVT Luxury,0,2199000
+102045,https://moscow.drom.ru/dongfeng/580/47931390.html,,,,,,,,,,,,,,,,0,
+102046,https://moscow.drom.ru/dongfeng/580/47931391.html,Dongfeng,580,Москва,2021,бензин,1.5,145,вариатор,передний,,синий,,левый,"1 поколение, рестайлинг",1.5T CVT Luxury,0,2199000
+102047,https://moscow.drom.ru/dongfeng/580/47931400.html,Dongfeng,580,Москва,2021,бензин,1.5,145,вариатор,передний,,синий,,левый,"1 поколение, рестайлинг",1.5T CVT Luxury,0,2204000
+102048,https://moscow.drom.ru/dongfeng/580/47931401.html,Dongfeng,580,Москва,2021,бензин,1.5,145,вариатор,передний,,коричневый,,левый,"1 поколение, рестайлинг",1.5T CVT Luxury,0,2199000
+102049,https://novokuznetsk.drom.ru/dongfeng/ax7/47912424.html,Dongfeng,AX7,Новокузнецк,2018,бензин,2.0,140,АКПП,передний,,коричневый,80000,левый,1 поколение,2.0 AT Luxury,1,1350000
+102050,https://bryansk.drom.ru/dongfeng/580/49078333.html,,,,,,,,,,,,,,,,0,
+102051,https://kaliningrad.drom.ru/dongfeng/580/47052225.html,Dongfeng,580,Калининград,2021,бензин,1.8,132,механика,передний,,серый,26119,левый,"1 поколение, рестайлинг",1.8 MT Comfort,0,1745000
+102052,https://krasnoyarsk.drom.ru/dongfeng/ax7/48719486.html,Dongfeng,AX7,Красноярск,2019,бензин,2.0,140,АКПП,передний,,коричневый,36000,левый,1 поколение,2.0 AT Luxury,0,1470000
+102053,https://ekaterinburg.drom.ru/dongfeng/df6/49056909.html,Dongfeng,DF6,Екатеринбург,2022,дизель,2.3,163,механика,4WD,,серебристый,,левый,,,0,3178000
+102054,https://ekaterinburg.drom.ru/dongfeng/df6/49056906.html,Dongfeng,DF6,Екатеринбург,2022,дизель,2.3,163,механика,4WD,,белый,,левый,,,0,3226000
+102055,https://ufa.drom.ru/dongfeng/580/48365692.html,Dongfeng,580,Уфа,2021,бензин,1.8,132,механика,передний,,фиолетовый,34202,левый,"1 поколение, рестайлинг",1.8 MT Comfort,0,1709100
+102056,https://astrahan.drom.ru/dongfeng/h30_cross/46307974.html,Dongfeng,H30 Cross,Астрахань,2015,бензин,1.6,117,АКПП,передний,,серебристый,117000,левый,1 поколение,1.6 AT Luxury,0,520000
+102057,https://ekaterinburg.drom.ru/dongfeng/580/48356455.html,Dongfeng,580,Екатеринбург,2021,бензин,1.5,145,вариатор,передний,,голубой,,левый,"1 поколение, рестайлинг",1.5T CVT Luxury,0,2247000
+102058,https://ekaterinburg.drom.ru/dongfeng/580/48356465.html,Dongfeng,580,Екатеринбург,2021,бензин,1.5,145,вариатор,передний,,синий,,левый,"1 поколение, рестайлинг",1.5T CVT Luxury,0,2243000
+102059,https://ekaterinburg.drom.ru/dongfeng/580/48356468.html,Dongfeng,580,Екатеринбург,2021,бензин,1.5,145,вариатор,передний,,бордовый,,левый,"1 поколение, рестайлинг",1.5T CVT Luxury,0,2239000
+102060,https://ekaterinburg.drom.ru/dongfeng/df6/47346845.html,Dongfeng,DF6,Екатеринбург,2022,дизель,2.5,136,механика,4WD,,серебристый,,левый,1 поколение,2.5 MT Comfort ,0,2890000
+102061,https://ekaterinburg.drom.ru/dongfeng/df6/47346849.html,Dongfeng,DF6,Екатеринбург,2022,дизель,2.5,136,механика,4WD,,синий,,левый,1 поколение,2.5 MT Comfort ,0,3220000
+102062,https://krasnodar.drom.ru/dongfeng/ax7/49034938.html,Dongfeng,AX7,Краснодар,2017,бензин,2.0,140,АКПП,передний,,белый,80774,левый,1 поколение,,0,1290000
+102063,https://moscow.drom.ru/dongfeng/580/47994010.html,Dongfeng,580,Москва,2021,бензин,1.5,145,вариатор,передний,,белый,,левый,"1 поколение, рестайлинг",1.5T CVT Luxury,0,2199000
+102064,https://moscow.drom.ru/dongfeng/df6/47994016.html,Dongfeng,DF6,Москва,2022,дизель,2.5,136,механика,4WD,,белый,,левый,1 поколение,2.5 MT Comfort ,0,2890000
+102065,https://novorossiysk.drom.ru/dongfeng/s30/49024710.html,Dongfeng,S30,Новороссийск,2015,бензин,1.6,117,АКПП,передний,,белый,52000,левый,1 поколение,1.6 AT Luxury,1,590000
+102066,https://moscow.drom.ru/dongfeng/580/48680100.html,Dongfeng,580,Москва,2019,бензин,1.8,132,механика,передний,,коричневый,184678,левый,"1 поколение, рестайлинг",1.8 MT Comfort,1,1035000
+102067,https://simferopol.drom.ru/dongfeng/df6/48621872.html,Dongfeng,DF6,Симферополь,2022,дизель,2.5,136,механика,4WD,,синий,,левый,1 поколение,2.5 MT Comfort ,0,2699990
+102068,https://novokuznetsk.drom.ru/dongfeng/h30_cross/48853989.html,Dongfeng,H30 Cross,Новокузнецк,2016,бензин,1.6,117,механика,передний,,серебристый,143600,левый,1 поколение,1.6 MT Comfort,1,525000
+102069,https://moscow.drom.ru/dongfeng/580/48653090.html,Dongfeng,580,Москва,2021,бензин,1.5,145,вариатор,передний,,синий,,левый,"1 поколение, рестайлинг",1.5T CVT Luxury,0,2199000
+102070,https://ekaterinburg.drom.ru/dongfeng/580/46454459.html,Dongfeng,580,Екатеринбург,2021,бензин,1.5,145,вариатор,передний,,черный,,левый,"1 поколение, рестайлинг",1.5T CVT Luxury,0,2239000
+102071,https://moscow.drom.ru/dongfeng/h30_cross/49131596.html,Dongfeng,H30 Cross,Москва,2016,бензин,1.6,117,АКПП,передний,,серый,35427,левый,1 поколение,1.6 AT Luxury,0,635000
+102072,https://moscow.drom.ru/dongfeng/ax7/48439378.html,Dongfeng,AX7,Москва,2018,бензин,2.0,140,АКПП,передний,,черный,135500,левый,1 поколение,,0,1116000
+102073,https://chany.drom.ru/dongfeng/h30_cross/49128898.html,Dongfeng,H30 Cross,Чаны,2014,бензин,1.6,117,АКПП,передний,,серый,103900,левый,1 поколение,1.6 AT Luxury,0,679000
+102074,https://tula.drom.ru/dongfeng/ax7/49122365.html,Dongfeng,AX7,Тула,2018,бензин,2.0,140,АКПП,передний,,коричневый,43000,левый,1 поколение,,0,1369000
+102075,https://krasnoyarsk.drom.ru/dongfeng/580/47093532.html,Dongfeng,580,Красноярск,2021,бензин,1.5,145,вариатор,передний,,серый,2000,левый,"1 поколение, рестайлинг",1.5T CVT Luxury,0,2450000
+102076,https://novorossiysk.drom.ru/dongfeng/h30_cross/49113581.html,Dongfeng,H30 Cross,Новороссийск,2015,бензин,1.6,117,механика,передний,,серый,216000,левый,1 поколение,1.6 MT Comfort,0,470000
+102077,https://omsk.drom.ru/dongfeng/s30/47683535.html,Dongfeng,S30,Омск,2014,бензин,1.6,117,механика,передний,,белый,96408,левый,1 поколение,1.6 MT Comfort,0,439000
+102078,https://abakan.drom.ru/dongfeng/580/49112267.html,Dongfeng,580,Абакан,2021,бензин,1.5,145,вариатор,передний,,бордовый,,левый,"1 поколение, рестайлинг",1.5T CVT Luxury,0,2149900
+102079,https://moscow.drom.ru/dongfeng/df6/48781176.html,Dongfeng,DF6,Москва,2022,дизель,2.3,163,механика,4WD,,белый,,левый,,,0,2990000
+102080,https://moscow.drom.ru/dongfeng/df6/48781177.html,Dongfeng,DF6,Москва,2022,дизель,2.3,163,механика,4WD,,белый,,левый,,,0,2990000
+102081,https://moscow.drom.ru/dongfeng/df6/48781179.html,Dongfeng,DF6,Москва,2022,дизель,2.3,163,механика,4WD,,серебристый,,левый,,,0,2990000
+102082,https://krasnoyarsk.drom.ru/dongfeng/ax7/47743514.html,Dongfeng,AX7,Красноярск,2018,бензин,2.0,140,АКПП,передний,,серебристый,30000,левый,1 поколение,2.0 AT Prestige,0,1420000
+102083,https://kazan.drom.ru/dongfeng/s30/49103447.html,Dongfeng,S30,Казань,2014,бензи,,,,,,белый,120000,левый,,,0,370000
+102084,https://almetievsk.drom.ru/dongfeng/s30/49095234.html,Dongfeng,S30,Альметьевск,2014,бензин,1.6,117,механика,передний,,серебристый,164000,левый,1 поколение,1.6 MT Comfort,0,535000
+102085,https://vladivostok.drom.ru/dongfeng/fengon_ix5/49092292.html,Dongfeng,Fengon iX5,Владивосток,2019,бензин,1.5,180,автомат,передний,,белый,32000,левый,,,1,1520000
+102086,https://novosibirsk.drom.ru/dongfeng/580/48176122.html,Dongfeng,580,Новосибирск,2021,бензин,1.5,145,вариатор,передний,,коричневый,,левый,"1 поколение, рестайлинг",1.5T CVT Luxury,0,1999900
+102087,https://novosibirsk.drom.ru/dongfeng/580/47725022.html,Dongfeng,580,Новосибирск,2021,бензин,1.8,132,механика,передний,,черный,новый автомобиль,левый,"1 поколение, рестайлинг",1.8 MT Comfort,0,1897000
+102088,https://novosibirsk.drom.ru/dongfeng/df6/48166689.html,Dongfeng,DF6,Новосибирск,2022,дизель,2.5,136,механика,4WD,,белый,,левый,1 поколение,2.5 MT Comfort ,0,3150000
+102089,https://bryansk.drom.ru/dongfeng/580/49078338.html,,,,,,,,,,,,,,,,0,
+102090,https://moscow.drom.ru/dongfeng/ax7/48268630.html,Dongfeng,AX7,Москва,2018,бензин,2.0,140,АКПП,передний,,серебристый,81630,левый,1 поколение,,0,1039000
+102091,https://volgograd.drom.ru/dongfeng/h30_cross/48947015.html,Dongfeng,H30 Cross,Волгоград,2016,бензин,1.6,117,механика,передний,,белый,98000,левый,1 поколение,1.6 MT Comfort,0,647000
+102092,https://surgut.drom.ru/dongfeng/ax7/48938735.html,Dongfeng,AX7,Сургут,2018,бензин,2.0,140,АКПП,передний,,коричневый,81000,левый,1 поколение,2.0 AT Luxury,0,1380000
+102093,https://izhevsk.drom.ru/dongfeng/580/45863756.html,Dongfeng,580,Ижевск,2021,бензин,1.5,145,вариатор,передний,,серебристый,,левый,"1 поколение, рестайлинг",1.5T CVT Luxury,0,2199000
+102094,https://krasnoyarsk.drom.ru/dongfeng/580/47820032.html,Dongfeng,580,Красноярск,2021,бензин,1.5,145,вариатор,передний,,белый,,левый,"1 поколение, рестайлинг",1.5T CVT Luxury,1,2200000
+102095,https://simferopol.drom.ru/dongfeng/580/46972435.html,Dongfeng,580,Симферополь,2021,бензин,1.8,132,механика,передний,,синий,,левый,"1 поколение, рестайлинг",1.8 MT Comfort,0,1999000
+102096,https://simferopol.drom.ru/dongfeng/580/48528640.html,Dongfeng,580,Симферополь,2021,бензин,1.8,132,механика,передний,,белый,,левый,"1 поколение, рестайлинг",1.8 MT Comfort,0,1999000
+102097,https://simferopol.drom.ru/dongfeng/580/48528720.html,Dongfeng,580,Симферополь,2021,бензин,1.5,145,вариатор,передний,,бежевый,,левый,"1 поколение, рестайлинг",1.5T CVT Luxury,0,2269000
+102098,https://simferopol.drom.ru/dongfeng/df6/48529818.html,Dongfeng,DF6,Симферополь,2022,дизель,2.5,136,механика,4WD,,серый,,левый,1 поколение,2.5 MT Comfort ,0,2900000
+102099,https://simferopol.drom.ru/dongfeng/df6/48529859.html,Dongfeng,DF6,Симферополь,2022,дизель,2.5,136,механика,4WD,,черный,,левый,1 поколение,2.5 MT Comfort ,0,2900000
+102100,https://murmansk.drom.ru/dongfeng/580/47519530.html,Dongfeng,580,Мурманск,2021,бензин,1.5,145,вариатор,передний,,серый,270,левый,"1 поколение, рестайлинг",1.5T CVT Luxury,0,1900000
+102101,https://ekaterinburg.drom.ru/dongfeng/df6/47192370.html,Dongfeng,DF6,Екатеринбург,2022,дизель,2.5,136,механика,4WD,,белый,,левый,1 поколение,2.5 MT Comfort ,0,3336000
+102102,https://novosibirsk.drom.ru/dongfeng/df6/48884069.html,Dongfeng,DF6,Новосибирск,2022,дизель,2.5,136,механика,4WD,,белый,115,левый,1 поколение,2.5 MT Comfort ,0,2775487
+102103,https://novosibirsk.drom.ru/dongfeng/h30_cross/48880167.html,Dongfeng,H30 Cross,Новосибирск,2015,бензин,1.6,117,АКПП,передний,,белый,122000,левый,1 поколение,1.6 AT Luxury,1,600000
+102104,https://ufa.drom.ru/dongfeng/580/48877962.html,Dongfeng,580,Уфа,2021,бензин,1.5,145,вариатор,передний,,коричневый,4800,левый,"1 поколение, рестайлинг",1.5T CVT Luxury,0,1899990
+102105,https://mezhdurechensk.drom.ru/dongfeng/s30/48187521.html,Dongfeng,S30,Междуреченск,2015,бензин,1.6,117,механика,передний,,серебристый,129500,левый,1 поколение,1.6 MT Comfort,0,500000
+102106,https://naberezhnye-chelny.drom.ru/dongfeng/h30_cross/48867782.html,Dongfeng,H30 Cross,Набережные Челны,2014,бензин,1.6,117,механика,передний,,красный,98000,левый,1 поколение,1.6 MT Comfort,0,363507
+102107,https://saratov.drom.ru/dongfeng/mpv/48143302.html,Dongfeng,MPV,Саратов,2007,бензин,2.0,110,механика,задний,,серый,270000,левый,1 поколение,,0,520000
+102108,https://voronezh.drom.ru/dongfeng/ax7/48172713.html,Dongfeng,AX7,Воронеж,2018,бензин,2.0,140,АКПП,передний,,белый,79000,левый,1 поколение,2.0 AT Luxury,0,1450000
+102109,https://kazan.drom.ru/dongfeng/h30_cross/47506012.html,Dongfeng,H30 Cross,Казань,2014,бензин,1.6,117,механика,передний,,белый,92712,левый,1 поколение,1.6 MT Comfort,0,449200
+102110,https://nizhniy-novgorod.drom.ru/dongfeng/ax7/48834882.html,Dongfeng,AX7,Нижний Новгород,2019,бензин,2.0,140,АКПП,передний,,серебристый,26000,левый,1 поколение,,0,1530000
+102111,https://moscow.drom.ru/dongfeng/df6/47931395.html,Dongfeng,DF6,Москва,2022,дизель,2.5,136,механика,4WD,,черный,,левый,1 поколение,2.5 MT Comfort ,0,2890000
+102112,https://volgograd.drom.ru/dongfeng/ax7/49160548.html,Dongfeng,AX7,Волгоград,2017,бензин,2.0,140,АКПП,передний,,белый,89077,левый,1 поколение,2.0 AT Prestige,0,1340000
+102113,https://anapa.drom.ru/dongfeng/h30_cross/49159973.html,Dongfeng,H30 Cross,Анапа,2015,бензин,1.6,117,АКПП,передний,,,74000,левый,1 поколение,1.6 AT Luxury,0,577777
+102114,https://novosibirsk.drom.ru/dongfeng/580/47717815.html,Dongfeng,580,Новосибирск,2021,бензин,1.5,145,вариатор,передний,,черный,,левый,"1 поколение, рестайлинг",1.5T CVT Luxury,0,2199000
+102115,https://novosibirsk.drom.ru/dongfeng/580/47708437.html,Dongfeng,580,Новосибирск,2021,бензин,1.8,132,механика,передний,,черный,,левый,"1 поколение, рестайлинг",1.8 MT Comfort,0,1851000
+102116,https://novosibirsk.drom.ru/dongfeng/df6/49080047.html,Dongfeng,DF6,Новосибирск,2022,дизель,2.5,136,механика,4WD,,синий,,левый,1 поколение,2.5 MT Comfort ,0,3150000
+102117,https://novosibirsk.drom.ru/dongfeng/580/47697618.html,Dongfeng,580,Новосибирск,2021,бензин,1.8,132,механика,передний,,синий,,левый,"1 поколение, рестайлинг",1.8 MT Comfort,0,1851000
+102118,https://moscow.drom.ru/dongfeng/ax7/48817451.html,Dongfeng,AX7,Москва,2019,бензин,2.0,140,АКПП,передний,,коричневый,70000,левый,1 поколение,2.0 AT Prestige,0,1550000
+102119,https://volsk.drom.ru/dongfeng/h30_cross/49145111.html,Dongfeng,H30 Cross,Вольск,2016,бензин,1.6,117,АКПП,передний,,белый,74500,левый,1 поколение,1.6 AT Luxury,0,580000
+102120,https://tyumen.drom.ru/dongfeng/580/48107647.html,Dongfeng,580,Тюмень,2021,бензин,1.5,145,вариатор,передний,,синий,,левый,"1 поколение, рестайлинг",1.5T CVT Luxury,0,1999900
+102121,https://velikiy-novgorod.drom.ru/dongfeng/h30_cross/48816743.html,Dongfeng,H30 Cross,Великий Новгород,2014,бензин,1.6,117,АКПП,передний,,красный,126000,левый,1 поколение,1.6 AT Luxury,0,449888
+102122,https://moscow.drom.ru/dongfeng/ax7/48467663.html,Dongfeng,AX7,Москва,2017,бензин,2.0,140,АКПП,передний,,белый,128000,левый,1 поколение,2.0 AT Luxury,0,1205000
+102123,https://moscow.drom.ru/dongfeng/580/48459830.html,,,,,,,,,,,,,,,,0,
+102124,https://volgograd.drom.ru/dongfeng/h30_cross/47401145.html,Dongfeng,H30 Cross,Волгоград,2016,бензин,1.6,117,АКПП,передний,,белый,126501,левый,1 поколение,1.6 AT Luxury,0,730000
+102125,https://moscow.drom.ru/dongfeng/580/48653091.html,Dongfeng,580,Москва,2021,бензин,1.5,145,вариатор,передний,,черный,,левый,"1 поколение, рестайлинг",1.5T CVT Luxury,0,2199000
+102126,https://novokuznetsk.drom.ru/dongfeng/h30_cross/49135571.html,Dongfeng,H30 Cross,Новокузнецк,2016,бензин,1.6,117,АКПП,передний,,серый,78560,левый,1 поколение,1.6 AT Luxury,0,650000
+102127,https://tomsk.drom.ru/dongfeng/h30_cross/49134412.html,Dongfeng,H30 Cross,Томск,2014,бензин,1.6,117,механика,передний,,белый,99000,левый,1 поколение,1.6 MT Comfort,0,599000
+102128,https://feodosiya.drom.ru/dongfeng/ax7/48054779.html,Dongfeng,AX7,Феодосия,2017,бензин,2.0,140,АКПП,передний,,серебристый,31000,левый,1 поколение,,0,1290000
+102129,https://moscow.drom.ru/dongfeng/h30_cross/49131941.html,Dongfeng,H30 Cross,Москва,2016,бензин,1.6,117,АКПП,передний,,белый,87080,левый,1 поколение,1.6 AT Luxury,0,662000

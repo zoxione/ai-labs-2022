@@ -13,14 +13,14 @@ parser.add_argument('--predictions', type=str, default='', help='Путь к п�
 args = parser.parse_args()
 
 
-# def exitMode():
-#     input('\nНажмите Enter для выхода...');
+def exitMode():
+    input('\nНажмите Enter для выхода...');
 
 
 # ./evaluate.py --ground_truth ./train.csv  --predictions ./result_to_commit.csv
 if __name__ == '__main__':
     try:
-        print('[1] Чтение обучающих данных из файла', args.ground_truth);
+        print('\n\n[1] Чтение обучающих данных из файла', args.ground_truth);
         dfTrain = pd.read_csv(args.ground_truth);
         print('[2] Чтение предсказанных данных из файла', args.predictions);
         dfPredict = pd.read_csv(args.predictions);
@@ -47,5 +47,5 @@ if __name__ == '__main__':
 
     except Exception as e:
         print(e)
-    # finally:
-    #     exitMode();
+    finally:
+        exitMode();
