@@ -15,7 +15,7 @@ if __name__ == "__main__":
     st.sidebar.markdown("Статистика")
 
     st.write("Таблица: ")
-    dfParams = pd.read_csv("params.csv")
+    dfParams = pd.read_csv("../params.csv")
     st.dataframe(dfParams)
     st.caption("Количество записей: " + str(dfParams.shape[0]))
 
