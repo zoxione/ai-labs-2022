@@ -1,0 +1,1080 @@
+Id,Url,Brand,Model,Region,Year,Engine,EngineVolume,Power,Transmission,Drive,Body,Color,Mileage,Wheel,Generation,Complectation,IsSold,Price
+211979,https://moscow.drom.ru/ford/kuga/49116433.html,Ford,Kuga,Москва,2013,дизель,2.0,140,робот,4WD,,черный,194306,левый,,,0,1120000
+211980,https://novokuznetsk.drom.ru/ford/focus/46860713.html,Ford,Focus,Новокузнецк,2013,бензин,2.0,150,робот,передний,седан,серебристый,160,левый,3 поколение,2.0 PowerShift Titanium ,0,670000
+211981,https://ekaterinburg.drom.ru/ford/mondeo/49116294.html,Ford,Mondeo,Екатеринбург,2012,бензин,2.3,161,АКПП,передний,седан,синий,160000,левый,"4 поколение, рестайлинг",,0,680000
+211982,https://krasnodar.drom.ru/ford/focus/49116220.html,Ford,Focus,Краснодар,2013,бензин,1.6,125,робот,передний,хэтчбек 5 дв.,белый,99000,левый,3 поколение,1.6 PowerShift Sport Limited Edition,1,730000
+211983,https://voronezh.drom.ru/ford/kuga/49116240.html,Ford,Kuga,Воронеж,2013,бензин,1.6,150,механика,передний,,серый,221870,левый,2 поколение,,0,940000
+211984,https://irkutsk.drom.ru/ford/focus/48273211.html,Ford,Focus,Иркутск,2012,бензин,1.6,105,механика,передний,седан,белый,238000,левый,3 поколение,1.6 MT Trend,0,580000
+211985,https://sevastopol.drom.ru/ford/kuga/47344035.html,Ford,Kuga,Севастополь,2011,дизель,2.0,163,робот,4WD,,серый,147000,левый,1 поколение,2.0 TDCi AWD DSG Titanium,0,910000
+211986,https://kazan.drom.ru/ford/focus/49116122.html,Ford,Focus,Казань,2012,бензин,2.0,150,робот,передний,хэтчбек 5 дв.,черный,226301,левый,3 поколение,,0,508000
+211987,https://tyumen.drom.ru/ford/focus/48968800.html,Ford,Focus,Тюмень,2012,бензин,1.6,105,механика,передний,хэтчбек 5 дв.,черный,162000,левый,3 поколение,1.6 MT Trend,0,620000
+211988,https://moscow.drom.ru/ford/focus/49115992.html,Ford,Focus,Москва,2010,бензин,2.0,145,АКПП,передний,хэтчбек 5 дв.,черный,176500,левый,"2 поколение, рестайлинг",,0,520000
+211989,https://beryozovka.drom.ru/ford/focus/49115590.html,Ford,Focus,Берёзовка,2011,бензин,2.0,145,АКПП,передний,седан,синий,103000,левый,"2 поколение, рестайлинг",,1,500000
+211990,https://krasnoyarsk.drom.ru/ford/f150/47436437.html,Ford,F150,Красноярск,2012,бензин,3.5,365,АКПП,4WD,,белый,129000,левый,"7 поколение, рестайлинг",3.5 AT 4x4 FX4 SuperCab Styleside 6-1/2',0,2399000
+211991,https://tyumen.drom.ru/ford/tourneo_connect/48860834.html,Ford,Tourneo Connect,Тюмень,2013,дизель,1.8,90,механика,передний,,белый,178393,левый,"1 поколение, рестайлинг",,0,779000
+211992,https://krasnoyarsk.drom.ru/ford/f150/47392285.html,Ford,F150,Красноярск,2012,бензин,3.5,365,АКПП,4WD,,белый,129000,левый,"7 поколение, рестайлинг",3.5 AT 4x4 FX4 SuperCab Styleside 6-1/2',0,2399000
+211993,https://dmitrov.drom.ru/ford/mondeo/48794198.html,Ford,Mondeo,Дмитров,2011,бензин,2.0,200,робот,передний,седан,черный,150000,левый,"4 поколение, рестайлинг",2.0 SCTi Powershift AT Titanium,0,350000
+211994,https://engels.drom.ru/ford/focus/48793773.html,,,,,,,,,,,,,,,,0,
+211995,https://yoshkar-ola.drom.ru/ford/focus/48793038.html,Ford,Focus,Йошкар-Ола,2013,бензин,1.6,105,механика,передний,универсал,серый,187787,левый,3 поколение,1.6 MT Trend,0,697000
+211996,https://ryazan.drom.ru/ford/focus/48792702.html,Ford,Focus,Рязань,2012,бензин,1.6,125,робот,передний,седан,серый,86000,левый,3 поколение,,0,890000
+211997,https://moscow.drom.ru/ford/focus/48792528.html,Ford,Focus,Москва,2011,бензин,1.8,125,механика,передний,седан,серый,310000,левый,"2 поколение, рестайлинг",1.8 MT Comfort ,1,460000
+211998,https://moscow.drom.ru/ford/focus/48792454.html,Ford,Focus,Москва,2012,бензин,1.6,125,робот,передний,хэтчбек 5 дв.,красный,250000,левый,3 поколение,1.6 PowerShift Titanium,1,625000
+211999,https://moscow.drom.ru/ford/focus/48791376.html,Ford,Focus,Москва,2012,бензин,2.0,150,механика,передний,седан,черный,113000,левый,3 поколение,,0,700000
+212000,https://perm.drom.ru/ford/focus/48790946.html,Ford,Focus,Пермь,2013,бензин,1.6,125,механика,передний,универсал,серебристый,113000,левый,3 поколение,,0,759000
+212001,https://tyumen.drom.ru/ford/explorer/48789573.html,Ford,Explorer,Тюмень,2011,бензин,3.5,294,АКПП,4WD,джип/suv 5 дв.,бордовый,160000,левый,5 поколение,,0,1550000
+212002,https://michurinsk.drom.ru/ford/focus/48789412.html,Ford,Focus,Мичуринск,2011,бензин,1.6,100,механика,передний,хэтчбек 5 дв.,серый,288000,левый,"2 поколение, рестайлинг",1.6 MT Comfort ,0,230000
+212003,https://chita.drom.ru/ford/focus/48788327.html,Ford,Focus,Чита,2013,бензин,1.6,125,робот,передний,седан,черный,187220,левый,3 поколение,,0,550000
+212004,https://moscow.drom.ru/ford/focus/48786821.html,Ford,Focus,Москва,2012,бензин,1.6,105,механика,передний,универсал,серый,202000,левый,3 поколение,1.6 MT Trend,0,550000
+212005,https://tambov.drom.ru/ford/focus/48786771.html,Ford,Focus,Тамбов,2010,бензин,2.0,145,АКПП,передний,хэтчбек 5 дв.,белый,191300,левый,"2 поколение, рестайлинг",2.0 AT Comfort ,0,520000
+212006,https://krasnoyarsk.drom.ru/ford/focus/48786047.html,Ford,Focus,Красноярск,2011,бензин,2.0,145,АКПП,передний,седан,серебристый,155000,левый,"2 поколение, рестайлинг",2.0 AT Titanium,0,580000
+212007,https://irkutsk.drom.ru/ford/focus/48784953.html,Ford,Focus,Иркутск,2011,бензин,1.6,125,механика,передний,хэтчбек 5 дв.,коричневый,201000,левый,3 поколение,1.6 MT Trend Sport,0,680000
+212008,https://syktyvkar.drom.ru/ford/focus/48784140.html,Ford,Focus,Сыктывкар,2013,бензин,1.6,105,автомат,передний,седан,синий,102459,,,,0,770000
+212009,https://ryazan.drom.ru/ford/kuga/48783715.html,Ford,Kuga,Рязань,2013,дизель,2.0,140,робот,4WD,,оранжевый,194200,левый,,,0,1120000
+212010,https://moscow.drom.ru/ford/focus/48661473.html,Ford,Focus,Москва,2014,бензин,1.6,125,робот,передний,хэтчбек 5 дв.,черный,86000,левый,3 поколение,,0,725000
+212011,https://tyumen.drom.ru/ford/focus/48651282.html,Ford,Focus,Тюмень,2011,бензин,1.6,100,механика,передний,хэтчбек 5 дв.,белый,199000,левый,"2 поколение, рестайлинг",1.6 MT Comfort ,0,400000
+212012,https://kazan.drom.ru/ford/focus/48446912.html,Ford,Focus,Казань,2013,бензин,1.6,125,механика,передний,хэтчбек 5 дв.,синий,153387,левый,3 поколение,,0,680000
+212013,https://krasnoyarsk.drom.ru/ford/focus/48726399.html,Ford,Focus,Красноярск,2013,бензин,2.0,150,механика,передний,хэтчбек 5 дв.,черный,208000,левый,3 поколение,,0,697000
+212014,https://ekaterinburg.drom.ru/ford/focus/49129708.html,Ford,Focus,Екатеринбург,2012,бензин,1.6,125,механика,передний,хэтчбек 5 дв.,серый,147448,левый,3 поколение,,0,699000
+212015,https://barnaul.drom.ru/ford/focus/49129620.html,Ford,Focus,Барнаул,2012,бензин,2.0,150,робот,передний,седан,серый,212000,левый,3 поколение,2.0 PowerShift Trend ,0,650000
+212016,https://yevpatoriya.drom.ru/ford/fusion/49129681.html,Ford,Fusion,Евпатория,2011,бензин,1.6,100,АКПП,передний,хэтчбек 5 дв.,голубой,114000,левый,"1 поколение, рестайлинг",1.6 AT Elegance,0,580000
+212017,https://ufa.drom.ru/ford/focus/49129549.html,Ford,Focus,Уфа,2014,бензин,1.6,125,робот,передний,седан,белый,117279,левый,3 поколение,,0,799000
+212018,https://grozniy.drom.ru/ford/focus/49129410.html,Ford,Focus,Грозный,2013,бензин,1.6,105,робот,передний,седан,серый,171000,левый,3 поколение,,0,680000
+212019,https://znamenskoe-chechnya.drom.ru/ford/focus/49129238.html,Ford,Focus,Знаменское,2012,бензин,2.0,150,робот,передний,седан,белый,134000,левый,3 поколение,,0,860000
+212020,https://yevpatoriya.drom.ru/ford/focus/49129158.html,Ford,Focus,Евпатория,2014,бензин,1.6,125,робот,передний,хэтчбек 5 дв.,черный,,левый,3 поколение,,0,670000
+212021,https://krasnoyarsk.drom.ru/ford/focus/49063157.html,Ford,Focus,Красноярск,2012,бензин,1.6,125,робот,передний,универсал,серебристый,137000,левый,3 поколение,1.6 PowerShift Titanium ,0,657000
+212022,https://chelyabinsk.drom.ru/ford/mondeo/46574719.html,Ford,Mondeo,Челябинск,2012,бензин,1.6,120,механика,передний,седан,черный,166000,левый,"4 поколение, рестайлинг",1.6 MT Ambiente,1,585000
+212023,https://sochi.drom.ru/ford/focus/49128593.html,Ford,Focus,Сочи,2013,бензин,1.6,105,робот,передний,хэтчбек 5 дв.,белый,91500,левый,3 поколение,1.6 PowerShift Trend ,0,640000
+212024,https://kaliningrad.drom.ru/ford/kuga/49128824.html,Ford,Kuga,Калининград,2013,бензин,1.6,182,АКПП,4WD,,белый,143000,левый,2 поколение,1.6 EcoBoost AT 4WD Titanium Plus,0,1000000
+212025,https://tyumen.drom.ru/ford/focus/49128694.html,Ford,Focus,Тюмень,2012,бензин,1.6,105,механика,передний,хэтчбек 5 дв.,черный,149462,левый,3 поколение,,1,695000
+212026,https://tyumen.drom.ru/ford/focus/49128628.html,Ford,Focus,Тюмень,2013,бензин,1.6,125,робот,передний,хэтчбек 5 дв.,синий,169000,левый,3 поколение,,0,580000
+212027,https://novosibirsk.drom.ru/ford/focus/49128605.html,Ford,Focus,Новосибирск,2013,бензин,1.6,125,робот,передний,седан,черный,91400,левый,3 поколение,,0,750000
+212028,https://novokuznetsk.drom.ru/ford/kuga/49010732.html,Ford,Kuga,Новокузнецк,2014,бензин,1.6,150,АКПП,4WD,,черный,178000,левый,2 поколение,,0,1160000
+212029,https://chelyabinsk.drom.ru/ford/focus/49128504.html,Ford,Focus,Челябинск,2012,бензин,2.0,150,механика,передний,седан,черный,175000,левый,3 поколение,2.0 MT Trend Sport,1,700000
+212030,https://surgut.drom.ru/ford/focus/44818035.html,Ford,Focus,Сургут,2011,бензин,1.6,125,механика,передний,хэтчбек 5 дв.,синий,240000,левый,3 поколение,,0,570000
+212031,https://surgut.drom.ru/ford/explorer/48354555.html,Ford,Explorer,Сургут,2014,бензин,3.5,294,АКПП,4WD,джип/suv 5 дв.,серебристый,156000,левый,5 поколение,,0,1700000
+212032,https://ekaterinburg.drom.ru/ford/mondeo/49128412.html,Ford,Mondeo,Екатеринбург,2010,бензин,2.3,161,АКПП,передний,седан,фиолетовый,84105,левый,4 поколение,,0,700000
+212033,https://krasnodar.drom.ru/ford/focus/48425109.html,Ford,Focus,Краснодар,2010,,,,,,седан,белый,282000,левый,,,0,700000
+212034,https://krasnodar.drom.ru/ford/mondeo/48423373.html,Ford,Mondeo,Краснодар,2010,бензин,2.3,161,АКПП,передний,седан,серебристый,80000,левый,"4 поколение, рестайлинг",2.3 AT Titanium ,0,980000
+212035,https://naberezhnye-chelny.drom.ru/ford/focus/48422487.html,Ford,Focus,Набережные Челны,2011,бензин,1.6,101,механика,передний,седан,серебристый,233357,левый,,,0,430000
+212036,https://irkutsk.drom.ru/ford/ranger/48418312.html,Ford,Ranger,Иркутск,2013,дизель,2.2,150,механика,4WD,,синий,180000,левый,3 поколение,2.2 TDCi MT XLT двойная кабина,0,1950000
+212037,https://novosibirsk.drom.ru/ford/mondeo/48417529.html,Ford,Mondeo,Новосибирск,2012,бензин,2.3,161,АКПП,передний,седан,черный,152000,левый,"4 поколение, рестайлинг",2.3 AT Titanium Black ,0,840000
+212038,https://ust-ilimsk.drom.ru/ford/focus/48353876.html,Ford,Focus,Усть-Илимск,2011,бензин,1.4,80,механика,передний,хэтчбек 3 дв.,синий,180000,левый,"2 поколение, рестайлинг",1.4 MT Comfort,0,350000
+212039,https://bogoroditsk.drom.ru/ford/mondeo/48081275.html,Ford,Mondeo,Богородицк,2011,бензин,2.0,145,механика,передний,седан,коричневый,150000,левый,"4 поколение, рестайлинг",,0,730000
+212040,https://samara.drom.ru/ford/kuga/48080912.html,Ford,Kuga,Самара,2011,бензин,2.5,200,АКПП,4WD,,,106523,левый,1 поколение,,0,995000
+212041,https://grozniy.drom.ru/ford/focus/48080139.html,Ford,Focus,Грозный,2013,бензин,1.6,125,робот,передний,хэтчбек 5 дв.,серебристый,170000,левый,3 поколение,1.6 PowerShift Titanium,0,540000
+212042,https://novosibirsk.drom.ru/ford/focus/48079048.html,Ford,Focus,Новосибирск,2010,бензин,1.8,125,механика,передний,хэтчбек 5 дв.,синий,277377,левый,"2 поколение, рестайлинг",,0,370000
+212043,https://beloyarskiy-hmao.drom.ru/ford/kuga/48077491.html,Ford,Kuga,Белоярский,2014,бензин,2.5,150,АКПП,передний,,серый,172648,левый,2 поколение,2.5 AT 2WD Trend,0,1100000
+212044,https://vyazma.drom.ru/ford/mondeo/48076845.html,,,,,,,,,,,,,,,,0,
+212045,https://simferopol.drom.ru/ford/focus/48076375.html,Ford,Focus,Симферополь,2014,бензин,2.0,160,робот,передний,седан,синий,100000,левый,3 поколение,2.0 PowerShift Titanium,0,750000
+212046,https://tomsk.drom.ru/ford/focus/48075342.html,Ford,Focus,Томск,2012,бензин,2.0,150,механика,передний,хэтчбек 5 дв.,черный,195000,левый,3 поколение,2.0 MT Titanium ,0,777777
+212047,https://novosibirsk.drom.ru/ford/focus/48075189.html,Ford,Focus,Новосибирск,2010,бензин,1.4,80,механика,передний,хэтчбек 5 дв.,синий,195000,левый,"2 поколение, рестайлинг",,0,395000
+212048,https://habarovsk.drom.ru/ford/mondeo/48074061.html,Ford,Mondeo,Хабаровск,2012,бензин,2.0,240,робот,передний,лифтбек,коричневый,190000,левый,"4 поколение, рестайлинг",2.0 SCTi Powershift Sport ,0,650000
+212049,https://berezovskiy-kemer.drom.ru/ford/focus/48072035.html,Ford,Focus,Берёзовский,2011,бензин,1.6,100,механика,передний,хэтчбек 5 дв.,белый,150000,левый,"2 поколение, рестайлинг",1.6 MT Comfort ,0,550000
+212050,https://moscow.drom.ru/ford/focus/48070276.html,Ford,Focus,Москва,2012,бензин,1.6,105,робот,передний,хэтчбек 5 дв.,красный,148556,левый,3 поколение,,0,549000
+212051,https://anapa.drom.ru/ford/kuga/47987158.html,Ford,Kuga,Анапа,2014,бензин,1.6,150,АКПП,4WD,,белый,240000,левый,2 поколение,1.6 EcoBoost AT 4WD Titanium,0,1150000
+212052,https://simferopol.drom.ru/ford/focus/47742943.html,Ford,Focus,Симферополь,2011,бензин,1.6,125,робот,передний,хэтчбек 5 дв.,коричневый,115000,левый,3 поколение,,0,625000
+212053,https://novokuznetsk.drom.ru/ford/focus/48781248.html,Ford,Focus,Новокузнецк,2012,бензин,1.6,125,робот,передний,седан,синий,122600,левый,3 поколение,,0,650000
+212054,https://irkutsk.drom.ru/ford/focus/48781250.html,Ford,Focus,Иркутск,2012,бензин,1.6,125,механика,передний,седан,серый,186,левый,3 поколение,,0,650000
+212055,https://samara.drom.ru/ford/explorer/48781212.html,Ford,Explorer,Самара,2014,бензин,3.5,294,АКПП,4WD,джип/suv 5 дв.,серый,103000,левый,5 поколение,,0,1790000
+212056,https://kolomna.drom.ru/ford/kuga/48781194.html,Ford,Kuga,Коломна,2013,бензин,1.6,150,АКПП,4WD,,коричневый,158609,левый,2 поколение,,0,1029000
+212057,https://vologda.drom.ru/ford/focus/48780961.html,Ford,Focus,Вологда,2013,бензин,1.6,125,механика,передний,хэтчбек 5 дв.,белый,170018,левый,3 поколение,,0,559000
+212058,https://chelyabinsk.drom.ru/ford/focus/48780194.html,Ford,Focus,Челябинск,2012,бензин,1.6,125,робот,передний,седан,черный,152000,левый,3 поколение,1.6 PowerShift Titanium ,0,670000
+212059,https://spb.drom.ru/ford/kuga/48779694.html,,,,,,,,,,,,,,,,0,
+212060,https://naberezhnye-chelny.drom.ru/ford/focus/48778590.html,,,,,,,,,,,,,,,,0,
+212061,https://korkino.drom.ru/ford/ranger/48778645.html,,,,,,,,,,,,,,,,0,
+212062,https://urus-martan.drom.ru/ford/focus/48778326.html,,,,,,,,,,,,,,,,0,
+212063,https://krasnodar.drom.ru/ford/focus/48778202.html,,,,,,,,,,,,,,,,0,
+212064,https://uhta.drom.ru/ford/focus/48778104.html,,,,,,,,,,,,,,,,0,
+212065,https://novosibirsk.drom.ru/ford/focus/48778009.html,,,,,,,,,,,,,,,,0,
+212066,https://artem.drom.ru/ford/mondeo/48776436.html,,,,,,,,,,,,,,,,0,
+212067,https://mayma.drom.ru/ford/kuga/48775134.html,,,,,,,,,,,,,,,,0,
+212068,https://anzhero-sudzhensk.drom.ru/ford/kuga/48775075.html,,,,,,,,,,,,,,,,0,
+212069,https://omsk.drom.ru/ford/mondeo/48774514.html,,,,,,,,,,,,,,,,0,
+212070,https://novosibirsk.drom.ru/ford/focus/48774111.html,,,,,,,,,,,,,,,,0,
+212071,https://kemerovo.drom.ru/ford/focus/48773782.html,,,,,,,,,,,,,,,,0,
+212072,https://minvody.drom.ru/ford/s-max/48772769.html,,,,,,,,,,,,,,,,0,
+212073,https://kyzyl.drom.ru/ford/focus/47741467.html,,,,,,,,,,,,,,,,0,
+212074,https://perm.drom.ru/ford/mondeo/47737899.html,,,,,,,,,,,,,,,,0,
+212075,https://vladivostok.drom.ru/ford/kuga/47735175.html,,,,,,,,,,,,,,,,0,
+212076,https://kartaly.drom.ru/ford/focus/47409705.html,,,,,,,,,,,,,,,,0,
+212077,https://abakan.drom.ru/ford/focus/47403226.html,,,,,,,,,,,,,,,,0,
+212078,https://krasnoyarsk.drom.ru/ford/focus/47367695.html,,,,,,,,,,,,,,,,0,
+212079,https://krasnoyarsk.drom.ru/ford/focus/47333001.html,,,,,,,,,,,,,,,,0,
+212080,https://lyantor.drom.ru/ford/mondeo/47184577.html,,,,,,,,,,,,,,,,0,
+212081,https://abakan.drom.ru/ford/mondeo/47062942.html,,,,,,,,,,,,,,,,0,
+212082,https://surgut.drom.ru/ford/focus/47023360.html,,,,,,,,,,,,,,,,0,
+212083,https://novosibirsk.drom.ru/ford/focus/46969972.html,,,,,,,,,,,,,,,,0,
+212084,https://novoaltaysk.drom.ru/ford/fusion/46954089.html,,,,,,,,,,,,,,,,0,
+212085,https://dolgoprudniy.drom.ru/ford/focus/46802885.html,,,,,,,,,,,,,,,,0,
+212086,https://borodino.drom.ru/ford/mondeo/46786338.html,,,,,,,,,,,,,,,,0,
+212087,https://novokuybyshevsk.drom.ru/ford/focus/46579030.html,,,,,,,,,,,,,,,,0,
+212088,https://zheleznogorsk-krasnoyarsk.drom.ru/ford/focus/46535417.html,,,,,,,,,,,,,,,,0,
+212089,https://volgograd.drom.ru/ford/focus/46412096.html,,,,,,,,,,,,,,,,0,
+212090,https://spb.drom.ru/ford/focus/46409712.html,,,,,,,,,,,,,,,,0,
+212091,https://engels.drom.ru/ford/focus/46399176.html,,,,,,,,,,,,,,,,0,
+212092,https://chelyabinsk.drom.ru/ford/focus/46341157.html,,,,,,,,,,,,,,,,0,
+212093,https://volgograd.drom.ru/ford/kuga/49095519.html,,,,,,,,,,,,,,,,0,
+212094,https://yugorsk.drom.ru/ford/focus/49095422.html,,,,,,,,,,,,,,,,0,
+212095,https://irkutsk.drom.ru/ford/mondeo/48591204.html,,,,,,,,,,,,,,,,0,
+212096,https://orenburg.drom.ru/ford/focus/49095335.html,,,,,,,,,,,,,,,,0,
+212097,https://sterlitamak.drom.ru/ford/kuga/49095323.html,,,,,,,,,,,,,,,,0,
+212098,https://chelyabinsk.drom.ru/ford/kuga/49095244.html,,,,,,,,,,,,,,,,0,
+212099,https://sterlitamak.drom.ru/ford/focus/49095236.html,,,,,,,,,,,,,,,,0,
+212100,https://moscow.drom.ru/ford/focus/49095018.html,,,,,,,,,,,,,,,,0,
+212101,https://stavropol.drom.ru/ford/focus/48325327.html,,,,,,,,,,,,,,,,0,
+212102,https://nazran.drom.ru/ford/focus/46505552.html,Ford,Focus,Назрань,2012,бензин,1.6,125,робот,передний,хэтчбек 5 дв.,серебристый,258000,левый,3 поколение,,0,575000
+212103,https://vyatskie-polyany.drom.ru/ford/focus/49094771.html,,,,,,,,,,,,,,,,0,
+212104,https://zima.drom.ru/ford/focus/49094742.html,,,,,,,,,,,,,,,,0,
+212105,https://anapa.drom.ru/ford/focus/49094717.html,,,,,,,,,,,,,,,,0,
+212106,https://chelyabinsk.drom.ru/ford/mondeo/49094636.html,,,,,,,,,,,,,,,,0,
+212107,https://novosibirsk.drom.ru/ford/mondeo/49094454.html,,,,,,,,,,,,,,,,0,
+212108,https://voronezh.drom.ru/ford/kuga/49094388.html,,,,,,,,,,,,,,,,0,
+212109,https://tomsk.drom.ru/ford/kuga/49094284.html,,,,,,,,,,,,,,,,0,
+212110,https://tyumen.drom.ru/ford/mondeo/49094214.html,,,,,,,,,,,,,,,,0,
+212111,https://grozniy.drom.ru/ford/focus/49094124.html,Ford,Focus,Грозный,2012,бензин,1.6,125,робот,передний,седан,серебристый,176000,левый,3 поколение,,0,660000
+212112,https://chelyabinsk.drom.ru/ford/focus/48392252.html,,,,,,,,,,,,,,,,0,
+212113,https://omsk.drom.ru/ford/focus/33590447.html,,,,,,,,,,,,,,,,0,
+212114,https://grozniy.drom.ru/ford/focus/49111294.html,Ford,Focus,Грозный,2014,бензин,1.6,105,механика,передний,седан,серебристый,,левый,3 поколение,,0,620000
+212115,https://grozniy.drom.ru/ford/focus/49111267.html,Ford,Focus,Грозный,2013,бензин,1.6,125,механика,передний,седан,черный,187000,левый,3 поколение,,0,920000
+212116,https://grozniy.drom.ru/ford/focus/49111236.html,Ford,Focus,Грозный,2011,бензин,1.6,125,механика,передний,седан,белый,285000,левый,3 поколение,,0,720000
+212117,https://spb.drom.ru/ford/kuga/49111164.html,,,,,,,,,,,,,,,,0,
+212118,https://moscow.drom.ru/ford/kuga/48246270.html,,,,,,,,,,,,,,,,0,
+212119,https://moscow.drom.ru/ford/explorer/49111027.html,,,,,,,,,,,,,,,,0,
+212120,https://moscow.drom.ru/ford/mondeo/49111024.html,,,,,,,,,,,,,,,,0,
+212121,https://volgograd.drom.ru/ford/mondeo/49110962.html,,,,,,,,,,,,,,,,0,
+212122,https://grozniy.drom.ru/ford/focus/48766728.html,Ford,Focus,Грозный,2011,бензин,1.6,150,механика,передний,седан,черный,213498,левый,3 поколение,,0,650000
+212123,https://tyumen.drom.ru/ford/focus/49110738.html,,,,,,,,,,,,,,,,0,
+212124,https://nazran.drom.ru/ford/focus/48763217.html,Ford,Focus,Назрань,2011,бензин,1.6,125,механика,передний,седан,коричневый,177000,левый,3 поколение,,0,690000
+212125,https://novocherkassk.drom.ru/ford/focus/49110563.html,,,,,,,,,,,,,,,,0,
+212126,https://krasnodar.drom.ru/ford/focus/48312918.html,,,,,,,,,,,,,,,,0,
+212127,https://novorossiysk.drom.ru/ford/focus/49110429.html,,,,,,,,,,,,,,,,0,
+212128,https://kaluga.drom.ru/ford/focus/47048523.html,,,,,,,,,,,,,,,,0,
+212129,https://bakhchysaray.drom.ru/ford/focus/48068992.html,,,,,,,,,,,,,,,,0,
+212130,https://belgorod.drom.ru/ford/focus/49110321.html,,,,,,,,,,,,,,,,0,
+212131,https://spb.drom.ru/ford/focus/49110150.html,,,,,,,,,,,,,,,,0,
+212132,https://stavropol.drom.ru/ford/focus/49110126.html,,,,,,,,,,,,,,,,0,
+212133,https://novokuznetsk.drom.ru/ford/ranger/48786241.html,,,,,,,,,,,,,,,,0,
+212134,https://krasnoyarsk.drom.ru/ford/focus/48734344.html,,,,,,,,,,,,,,,,0,
+212135,https://usoliye-sibirskoe.drom.ru/ford/galaxy/45588390.html,,,,,,,,,,,,,,,,0,
+212136,https://habarovsk.drom.ru/ford/focus/48048434.html,,,,,,,,,,,,,,,,0,
+212137,https://voronezh.drom.ru/ford/mondeo/49111701.html,,,,,,,,,,,,,,,,0,
+212138,https://spb.drom.ru/ford/focus/49111663.html,,,,,,,,,,,,,,,,0,
+212139,https://himki.drom.ru/ford/mondeo/48081527.html,,,,,,,,,,,,,,,,0,
+212140,https://moscow.drom.ru/ford/focus/49111630.html,,,,,,,,,,,,,,,,0,
+212141,https://tyumen.drom.ru/ford/focus/48778508.html,,,,,,,,,,,,,,,,0,
+212142,https://moscow.drom.ru/ford/kuga/49111521.html,,,,,,,,,,,,,,,,0,
+212143,https://spb.drom.ru/ford/focus/46763860.html,,,,,,,,,,,,,,,,0,
+212144,https://moscow.drom.ru/ford/s-max/47751996.html,,,,,,,,,,,,,,,,0,
+212145,https://habarovsk.drom.ru/ford/focus/46192944.html,,,,,,,,,,,,,,,,0,
+212146,https://golyshmanovo.drom.ru/ford/mondeo/48783259.html,,,,,,,,,,,,,,,,0,
+212147,https://spb.drom.ru/ford/focus/48783173.html,,,,,,,,,,,,,,,,0,
+212148,https://moscow.drom.ru/ford/focus/48782916.html,,,,,,,,,,,,,,,,0,
+212149,https://krasnodar.drom.ru/ford/focus/48782719.html,,,,,,,,,,,,,,,,0,
+212150,https://belgorod.drom.ru/ford/focus/48782431.html,,,,,,,,,,,,,,,,0,
+212151,https://simferopol.drom.ru/ford/fiesta/48782114.html,,,,,,,,,,,,,,,,0,
+212152,https://spb.drom.ru/ford/focus/48781781.html,,,,,,,,,,,,,,,,0,
+212153,https://kazan.drom.ru/ford/kuga/49099325.html,,,,,,,,,,,,,,,,0,
+212154,https://verhnyaya-pyshma.drom.ru/ford/focus/49099303.html,,,,,,,,,,,,,,,,0,
+212155,https://cheboksary.drom.ru/ford/focus/48518722.html,,,,,,,,,,,,,,,,0,
+212156,https://moscow.drom.ru/ford/mondeo/49098873.html,,,,,,,,,,,,,,,,0,
+212157,https://novokuznetsk.drom.ru/ford/focus/48655231.html,,,,,,,,,,,,,,,,0,
+212158,https://moscow.drom.ru/ford/focus/49098863.html,,,,,,,,,,,,,,,,0,
+212159,https://belgorod.drom.ru/ford/mondeo/49098809.html,,,,,,,,,,,,,,,,0,
+212160,https://moscow.drom.ru/ford/focus/49098744.html,,,,,,,,,,,,,,,,0,
+212161,https://yaroslavl.drom.ru/ford/focus/49098735.html,,,,,,,,,,,,,,,,0,
+212162,https://tomsk.drom.ru/ford/focus/49098650.html,,,,,,,,,,,,,,,,0,
+212163,https://ekaterinburg.drom.ru/ford/kuga/49098579.html,,,,,,,,,,,,,,,,0,
+212164,https://ekaterinburg.drom.ru/ford/focus/49098470.html,,,,,,,,,,,,,,,,0,
+212165,https://cherkessk.drom.ru/ford/focus/49098122.html,,,,,,,,,,,,,,,,0,
+212166,https://moscow.drom.ru/ford/focus/49098440.html,,,,,,,,,,,,,,,,0,
+212167,https://krasnodar.drom.ru/ford/kuga/49098371.html,,,,,,,,,,,,,,,,0,
+212168,https://orenburg.drom.ru/ford/focus/49098297.html,,,,,,,,,,,,,,,,0,
+212169,https://kerch.drom.ru/ford/mondeo/49098263.html,,,,,,,,,,,,,,,,0,
+212170,https://belovo.drom.ru/ford/focus/48894064.html,,,,,,,,,,,,,,,,0,
+212171,https://nizhniy-ingash.drom.ru/ford/focus/49098104.html,,,,,,,,,,,,,,,,0,
+212172,https://surgut.drom.ru/ford/focus/48746691.html,,,,,,,,,,,,,,,,0,
+212173,https://chelyabinsk.drom.ru/ford/mondeo/49110107.html,,,,,,,,,,,,,,,,0,
+212174,https://spb.drom.ru/ford/fiesta/49110091.html,,,,,,,,,,,,,,,,0,
+212175,https://zlatoust.drom.ru/ford/focus/48960326.html,,,,,,,,,,,,,,,,0,
+212176,https://khanty-mansiysk.drom.ru/ford/focus/49109297.html,,,,,,,,,,,,,,,,0,
+212177,https://samara.drom.ru/ford/kuga/49109702.html,,,,,,,,,,,,,,,,0,
+212178,https://sochi.drom.ru/ford/kuga/49109623.html,,,,,,,,,,,,,,,,0,
+212179,https://kemerovo.drom.ru/ford/focus/48301497.html,,,,,,,,,,,,,,,,0,
+212180,https://shahty.drom.ru/ford/focus/49109263.html,,,,,,,,,,,,,,,,0,
+212181,https://korsakov.drom.ru/ford/focus/49109116.html,,,,,,,,,,,,,,,,0,
+212182,https://habarovsk.drom.ru/ford/mondeo/48819357.html,,,,,,,,,,,,,,,,0,
+212183,https://rostov-na-donu.drom.ru/ford/focus/49109031.html,,,,,,,,,,,,,,,,0,
+212184,https://krasnodar.drom.ru/ford/focus/49108950.html,,,,,,,,,,,,,,,,0,
+212185,https://ulyanovsk.drom.ru/ford/focus/49108869.html,,,,,,,,,,,,,,,,0,
+212186,https://moscow.drom.ru/ford/focus/49108623.html,,,,,,,,,,,,,,,,0,
+212187,https://tyumen.drom.ru/ford/focus/49108511.html,,,,,,,,,,,,,,,,0,
+212188,https://tyumen.drom.ru/ford/focus/49108510.html,,,,,,,,,,,,,,,,0,
+212189,https://kolomna.drom.ru/ford/focus/49108407.html,,,,,,,,,,,,,,,,0,
+212190,https://prokopyevsk.drom.ru/ford/focus/49108205.html,,,,,,,,,,,,,,,,0,
+212191,https://borodino.drom.ru/ford/focus/46848637.html,,,,,,,,,,,,,,,,0,
+212192,https://ekaterinburg.drom.ru/ford/focus/49107986.html,,,,,,,,,,,,,,,,0,
+212193,https://abakan.drom.ru/ford/focus/48772220.html,,,,,,,,,,,,,,,,0,
+212194,https://melnikovo.drom.ru/ford/focus/48613742.html,,,,,,,,,,,,,,,,0,
+212195,https://nazran.drom.ru/ford/mondeo/48436496.html,,,,,,,,,,,,,,,,0,
+212196,https://spb.drom.ru/ford/focus/48435786.html,,,,,,,,,,,,,,,,0,
+212197,https://krasnodar.drom.ru/ford/focus/48435009.html,,,,,,,,,,,,,,,,0,
+212198,https://moscow.drom.ru/ford/kuga/49111336.html,,,,,,,,,,,,,,,,0,
+212199,https://moscow.drom.ru/ford/kuga/48433877.html,,,,,,,,,,,,,,,,0,
+212200,https://krasnoyarsk.drom.ru/ford/focus/48433541.html,,,,,,,,,,,,,,,,0,
+212201,https://surgut.drom.ru/ford/focus/48432772.html,,,,,,,,,,,,,,,,0,
+212202,https://moscow.drom.ru/ford/focus/48432269.html,,,,,,,,,,,,,,,,0,
+212203,https://nizhniy-novgorod.drom.ru/ford/focus/48428394.html,,,,,,,,,,,,,,,,0,
+212204,https://nizhnevartovsk.drom.ru/ford/focus/48362034.html,,,,,,,,,,,,,,,,0,
+212205,https://kiselevsk.drom.ru/ford/focus/48298522.html,,,,,,,,,,,,,,,,0,
+212206,https://kurgan.drom.ru/ford/focus/48276974.html,,,,,,,,,,,,,,,,0,
+212207,https://samara.drom.ru/ford/kuga/48092892.html,,,,,,,,,,,,,,,,0,
+212208,https://samara.drom.ru/ford/focus/48092894.html,,,,,,,,,,,,,,,,0,
+212209,https://simferopol.drom.ru/ford/kuga/48089264.html,,,,,,,,,,,,,,,,0,
+212210,https://moscow.drom.ru/ford/mondeo/48086057.html,,,,,,,,,,,,,,,,0,
+212211,https://krasnoyarsk.drom.ru/ford/mondeo/48084501.html,,,,,,,,,,,,,,,,0,
+212212,https://arhangelsk.drom.ru/ford/explorer/48082206.html,,,,,,,,,,,,,,,,0,
+212213,https://krasnodar.drom.ru/ford/explorer/41316652.html,,,,,,,,,,,,,,,,0,
+212214,https://moscow.drom.ru/ford/kuga/49107915.html,,,,,,,,,,,,,,,,0,
+212215,https://moscow.drom.ru/ford/focus/49107888.html,,,,,,,,,,,,,,,,0,
+212216,https://sochi.drom.ru/ford/focus/48547102.html,,,,,,,,,,,,,,,,0,
+212217,https://moscow.drom.ru/ford/explorer/48166685.html,,,,,,,,,,,,,,,,0,
+212218,https://simferopol.drom.ru/ford/tourneo_connect/49026562.html,,,,,,,,,,,,,,,,0,
+212219,https://anzhero-sudzhensk.drom.ru/ford/explorer/49107283.html,,,,,,,,,,,,,,,,0,
+212220,https://ulyanovsk.drom.ru/ford/focus/49107277.html,,,,,,,,,,,,,,,,0,
+212221,https://ulyanovsk.drom.ru/ford/focus/49107213.html,,,,,,,,,,,,,,,,0,
+212222,https://krasnodar.drom.ru/ford/focus/49106862.html,,,,,,,,,,,,,,,,0,
+212223,https://anapa.drom.ru/ford/kuga/48763077.html,,,,,,,,,,,,,,,,0,
+212224,https://prokopyevsk.drom.ru/ford/focus/48644130.html,,,,,,,,,,,,,,,,0,
+212225,https://pyatigorsk.drom.ru/ford/focus/49106700.html,,,,,,,,,,,,,,,,0,
+212226,https://novorossiysk.drom.ru/ford/focus/49106665.html,,,,,,,,,,,,,,,,0,
+212227,https://chita.drom.ru/ford/mondeo/49106576.html,,,,,,,,,,,,,,,,0,
+212228,https://mariinsk.drom.ru/ford/focus/49106327.html,,,,,,,,,,,,,,,,0,
+212229,https://sterlitamak.drom.ru/ford/focus/49106325.html,,,,,,,,,,,,,,,,0,
+212230,https://irkutsk.drom.ru/ford/focus/49106151.html,,,,,,,,,,,,,,,,0,
+212231,https://krasnoyarsk.drom.ru/ford/focus/49106050.html,,,,,,,,,,,,,,,,0,
+212232,https://omsk.drom.ru/ford/focus/48434842.html,,,,,,,,,,,,,,,,0,
+212233,https://novosibirsk.drom.ru/ford/focus/48774944.html,,,,,,,,,,,,,,,,0,
+212234,https://vladivostok.drom.ru/ford/fusion/48407144.html,,,,,,,,,,,,,,,,0,
+212235,https://salsk.drom.ru/ford/focus/48425262.html,,,,,,,,,,,,,,,,0,
+212236,https://krasnoyarsk.drom.ru/ford/focus/49105689.html,,,,,,,,,,,,,,,,0,
+212237,https://sochi.drom.ru/ford/focus/49105617.html,,,,,,,,,,,,,,,,0,
+212238,https://cherepovets.drom.ru/ford/focus/48465330.html,,,,,,,,,,,,,,,,0,
+212239,https://berezovskiy-sverd.drom.ru/ford/focus/49105412.html,,,,,,,,,,,,,,,,0,
+212240,https://syktyvkar.drom.ru/ford/mondeo/49105396.html,,,,,,,,,,,,,,,,0,
+212241,https://krasnoufimsk.drom.ru/ford/focus/48587453.html,,,,,,,,,,,,,,,,0,
+212242,https://grozniy.drom.ru/ford/focus/49105034.html,Ford,Focus,Грозный,2011,бензин,1.6,125,робот,передний,седан,серебристый,234000,левый,3 поколение,,0,740000
+212243,https://sterlitamak.drom.ru/ford/mondeo/49104940.html,,,,,,,,,,,,,,,,0,
+212244,https://spb.drom.ru/ford/focus/46425626.html,,,,,,,,,,,,,,,,0,
+212245,https://krasnodar.drom.ru/ford/fiesta/49046585.html,,,,,,,,,,,,,,,,0,
+212246,https://dinskaya.drom.ru/ford/explorer/47884432.html,,,,,,,,,,,,,,,,0,
+212247,https://kirov.drom.ru/ford/ranger/45379781.html,,,,,,,,,,,,,,,,0,
+212248,https://novye-atagi.drom.ru/ford/focus/49104518.html,Ford,Focus,Новые Атаги,2011,бензин,1.6,125,робот,передний,седан,коричневый,229000,левый,3 поколение,,1,670000
+212249,https://ulan-ude.drom.ru/ford/focus/49104433.html,,,,,,,,,,,,,,,,0,
+212250,https://novosibirsk.drom.ru/ford/mondeo/48367342.html,,,,,,,,,,,,,,,,0,
+212251,https://aleysk.drom.ru/ford/focus/49103823.html,,,,,,,,,,,,,,,,0,
+212252,https://krasnokamensk.drom.ru/ford/focus/46535750.html,,,,,,,,,,,,,,,,0,
+212253,https://novorossiysk.drom.ru/ford/focus/46131483.html,,,,,,,,,,,,,,,,0,
+212254,https://voronezh.drom.ru/ford/focus/45882572.html,,,,,,,,,,,,,,,,0,
+212255,https://novokuznetsk.drom.ru/ford/kuga/45731819.html,,,,,,,,,,,,,,,,0,
+212256,https://tomsk.drom.ru/ford/kuga/44760112.html,,,,,,,,,,,,,,,,0,
+212257,https://novosibirsk.drom.ru/ford/f150/42963561.html,,,,,,,,,,,,,,,,0,
+212258,https://nazran.drom.ru/ford/focus/49100377.html,Ford,Focus,Назрань,2013,бензин,2.0,160,механика,передний,седан,коричневый,380000,левый,3 поколение,,0,650000
+212259,https://kaliningrad.drom.ru/ford/mondeo/49100326.html,,,,,,,,,,,,,,,,0,
+212260,https://krasnodar.drom.ru/ford/focus/49100173.html,,,,,,,,,,,,,,,,0,
+212261,https://tver.drom.ru/ford/mondeo/49100131.html,,,,,,,,,,,,,,,,0,
+212262,https://chelyabinsk.drom.ru/ford/focus/46697997.html,,,,,,,,,,,,,,,,0,
+212263,https://krasnodar.drom.ru/ford/focus/49100035.html,,,,,,,,,,,,,,,,0,
+212264,https://voronezh.drom.ru/ford/mondeo/49100023.html,,,,,,,,,,,,,,,,0,
+212265,https://chelyabinsk.drom.ru/ford/mondeo/48788484.html,,,,,,,,,,,,,,,,0,
+212266,https://korkino.drom.ru/ford/ranger/47296368.html,,,,,,,,,,,,,,,,0,
+212267,https://kirov.drom.ru/ford/focus/49099731.html,,,,,,,,,,,,,,,,0,
+212268,https://novorossiysk.drom.ru/ford/mondeo/49099674.html,,,,,,,,,,,,,,,,0,
+212269,https://krasnoyarsk.drom.ru/ford/focus/45180606.html,,,,,,,,,,,,,,,,0,
+212270,https://ufa.drom.ru/ford/mondeo/49099544.html,,,,,,,,,,,,,,,,0,
+212271,https://krasnodar.drom.ru/ford/focus/49099443.html,,,,,,,,,,,,,,,,0,
+212272,https://kazan.drom.ru/ford/kuga/49099328.html,,,,,,,,,,,,,,,,0,
+212273,https://chita.drom.ru/ford/focus/48795486.html,,,,,,,,,,,,,,,,0,
+212274,https://spb.drom.ru/ford/mondeo/49100942.html,,,,,,,,,,,,,,,,0,
+212275,https://voronezh.drom.ru/ford/focus/49100912.html,,,,,,,,,,,,,,,,0,
+212276,https://belgorod.drom.ru/ford/focus/48771656.html,,,,,,,,,,,,,,,,0,
+212277,https://armavir.drom.ru/ford/mondeo/48771664.html,,,,,,,,,,,,,,,,0,
+212278,https://naberezhnye-chelny.drom.ru/ford/focus/48771551.html,,,,,,,,,,,,,,,,0,
+212279,https://tambov.drom.ru/ford/focus/48771124.html,,,,,,,,,,,,,,,,0,
+212280,https://izhevsk.drom.ru/ford/mondeo/48770891.html,,,,,,,,,,,,,,,,0,
+212281,https://kazan.drom.ru/ford/mondeo/48770125.html,,,,,,,,,,,,,,,,0,
+212282,https://irkutsk.drom.ru/ford/focus/48768450.html,,,,,,,,,,,,,,,,0,
+212283,https://kazan.drom.ru/ford/focus/48766144.html,,,,,,,,,,,,,,,,0,
+212284,https://spb.drom.ru/ford/focus/48765544.html,,,,,,,,,,,,,,,,0,
+212285,https://perm.drom.ru/ford/focus/48765106.html,,,,,,,,,,,,,,,,0,
+212286,https://bryansk.drom.ru/ford/mondeo/48764793.html,,,,,,,,,,,,,,,,0,
+212287,https://slyudyanka.drom.ru/ford/focus/48763651.html,,,,,,,,,,,,,,,,0,
+212288,https://habarovsk.drom.ru/ford/focus/48762829.html,,,,,,,,,,,,,,,,0,
+212289,https://ulan-ude.drom.ru/ford/focus/48761224.html,,,,,,,,,,,,,,,,0,
+212290,https://irkutsk.drom.ru/ford/mondeo/48753884.html,,,,,,,,,,,,,,,,0,
+212291,https://magnitogorsk.drom.ru/ford/galaxy/48426457.html,,,,,,,,,,,,,,,,0,
+212292,https://grozniy.drom.ru/ford/focus/48425315.html,,,,,,,,,,,,,,,,0,
+212293,https://vladimir.drom.ru/ford/focus/48020836.html,,,,,,,,,,,,,,,,0,
+212294,https://kuytun.drom.ru/ford/kuga/47903114.html,,,,,,,,,,,,,,,,0,
+212295,https://langepas.drom.ru/ford/focus/47784834.html,,,,,,,,,,,,,,,,0,
+212296,https://revda.drom.ru/ford/focus/47751360.html,,,,,,,,,,,,,,,,0,
+212297,https://ekaterinburg.drom.ru/ford/mustang/47750889.html,,,,,,,,,,,,,,,,0,
+212298,https://nyagan.drom.ru/ford/kuga/47746408.html,,,,,,,,,,,,,,,,0,
+212299,https://samara.drom.ru/ford/focus/47744838.html,,,,,,,,,,,,,,,,0,
+212300,https://spb.drom.ru/ford/mondeo/47743200.html,,,,,,,,,,,,,,,,0,
+212301,https://chelyabinsk.drom.ru/ford/f150/47476922.html,,,,,,,,,,,,,,,,0,
+212302,https://irkutsk.drom.ru/ford/mondeo/47415747.html,,,,,,,,,,,,,,,,0,
+212303,https://irkutsk.drom.ru/ford/focus/47371471.html,,,,,,,,,,,,,,,,0,
+212304,https://krymsk.drom.ru/ford/focus/47106978.html,,,,,,,,,,,,,,,,0,
+212305,https://barnaul.drom.ru/ford/focus/47088039.html,,,,,,,,,,,,,,,,0,
+212306,https://tyumen.drom.ru/ford/focus/47008368.html,,,,,,,,,,,,,,,,0,
+212307,https://habarovsk.drom.ru/ford/explorer/46937685.html,,,,,,,,,,,,,,,,0,
+212308,https://tyumen.drom.ru/ford/focus/46862262.html,,,,,,,,,,,,,,,,0,
+212309,https://barnaul.drom.ru/ford/focus/46748448.html,,,,,,,,,,,,,,,,0,
+212310,https://omsk.drom.ru/ford/focus/46717923.html,,,,,,,,,,,,,,,,0,
+212311,https://spb.drom.ru/ford/focus/46419467.html,,,,,,,,,,,,,,,,0,
+212312,https://moscow.drom.ru/ford/galaxy/46300579.html,,,,,,,,,,,,,,,,0,
+212313,https://krasnoyarsk.drom.ru/ford/focus/49097833.html,,,,,,,,,,,,,,,,0,
+212314,https://pyatigorsk.drom.ru/ford/mondeo/49097414.html,,,,,,,,,,,,,,,,0,
+212315,https://novosibirsk.drom.ru/ford/focus/49097374.html,,,,,,,,,,,,,,,,0,
+212316,https://neryungri.drom.ru/ford/escape/49097135.html,,,,,,,,,,,,,,,,0,
+212317,https://surgut.drom.ru/ford/focus/49097025.html,,,,,,,,,,,,,,,,0,
+212318,https://barnaul.drom.ru/ford/focus/48501916.html,,,,,,,,,,,,,,,,0,
+212319,https://spb.drom.ru/ford/kuga/49096777.html,,,,,,,,,,,,,,,,0,
+212320,https://ulety.drom.ru/ford/focus/49096704.html,,,,,,,,,,,,,,,,0,
+212321,https://ekaterinburg.drom.ru/ford/ranger/49096510.html,,,,,,,,,,,,,,,,0,
+212322,https://moscow.drom.ru/ford/tourneo_custom/49096494.html,,,,,,,,,,,,,,,,0,
+212323,https://novorossiysk.drom.ru/ford/focus/48937059.html,,,,,,,,,,,,,,,,0,
+212324,https://maykop.drom.ru/ford/focus/49096475.html,,,,,,,,,,,,,,,,0,
+212325,https://spb.drom.ru/ford/kuga/49096441.html,,,,,,,,,,,,,,,,0,
+212326,https://krasnoyarsk.drom.ru/ford/focus/48947006.html,,,,,,,,,,,,,,,,0,
+212327,https://kemerovo.drom.ru/ford/kuga/48892514.html,,,,,,,,,,,,,,,,0,
+212328,https://moscow.drom.ru/ford/kuga/49096005.html,,,,,,,,,,,,,,,,0,
+212329,https://ekaterinburg.drom.ru/ford/focus/49095944.html,,,,,,,,,,,,,,,,0,
+212330,https://talitsa.drom.ru/ford/ranger/49095895.html,,,,,,,,,,,,,,,,0,
+212331,https://sevastopol.drom.ru/ford/focus/49095827.html,,,,,,,,,,,,,,,,0,
+212332,https://krasnodar.drom.ru/ford/focus/49095544.html,,,,,,,,,,,,,,,,0,
+212333,https://grozniy.drom.ru/ford/focus/49103473.html,Ford,Focus,Грозный,2012,бензин,1.6,125,робот,передний,седан,белый,190000,левый,3 поколение,,0,720000
+212334,https://novosibirsk.drom.ru/ford/explorer/48701640.html,,,,,,,,,,,,,,,,0,
+212335,https://volgodonsk.drom.ru/ford/focus/49103259.html,,,,,,,,,,,,,,,,0,
+212336,https://komsomolsk.drom.ru/ford/focus/48941112.html,,,,,,,,,,,,,,,,0,
+212337,https://nizhniy-novgorod.drom.ru/ford/focus/49103131.html,,,,,,,,,,,,,,,,0,
+212338,https://chelyabinsk.drom.ru/ford/focus/49103026.html,,,,,,,,,,,,,,,,0,
+212339,https://voronezh.drom.ru/ford/focus/49103018.html,,,,,,,,,,,,,,,,0,
+212340,https://ekaterinburg.drom.ru/ford/mustang/48342394.html,,,,,,,,,,,,,,,,0,
+212341,https://surgut.drom.ru/ford/focus/49102636.html,,,,,,,,,,,,,,,,0,
+212342,https://irkutsk.drom.ru/ford/focus/49102592.html,,,,,,,,,,,,,,,,0,
+212343,https://kemerovo.drom.ru/ford/mondeo/49102565.html,,,,,,,,,,,,,,,,0,
+212344,https://krasnodar.drom.ru/ford/mondeo/47355185.html,,,,,,,,,,,,,,,,0,
+212345,https://omsk.drom.ru/ford/focus/47394340.html,,,,,,,,,,,,,,,,0,
+212346,https://novosibirsk.drom.ru/ford/focus/49102271.html,,,,,,,,,,,,,,,,0,
+212347,https://krasnoyarsk.drom.ru/ford/explorer/48263955.html,,,,,,,,,,,,,,,,0,
+212348,https://novokuznetsk.drom.ru/ford/mondeo/48529316.html,,,,,,,,,,,,,,,,0,
+212349,https://volgograd.drom.ru/ford/focus/48760904.html,,,,,,,,,,,,,,,,0,
+212350,https://kemerovo.drom.ru/ford/focus/48663854.html,,,,,,,,,,,,,,,,0,
+212351,https://minusinsk.drom.ru/ford/focus/43110496.html,,,,,,,,,,,,,,,,0,
+212352,https://spb.drom.ru/ford/kuga/48425347.html,,,,,,,,,,,,,,,,0,
+212353,https://ishim.drom.ru/ford/focus/48319162.html,,,,,,,,,,,,,,,,0,
+212354,https://novokuznetsk.drom.ru/ford/mondeo/48441696.html,,,,,,,,,,,,,,,,0,
+212355,https://angarsk.drom.ru/ford/focus/49089299.html,,,,,,,,,,,,,,,,0,
+212356,https://barnaul.drom.ru/ford/focus/47545807.html,,,,,,,,,,,,,,,,0,
+212357,https://krasnoyarsk.drom.ru/ford/focus/49043498.html,,,,,,,,,,,,,,,,0,
+212358,https://habarovsk.drom.ru/ford/kuga/47643004.html,,,,,,,,,,,,,,,,0,
+212359,https://moscow.drom.ru/ford/explorer/49088939.html,,,,,,,,,,,,,,,,0,
+212360,https://habarovsk.drom.ru/ford/focus/47118326.html,,,,,,,,,,,,,,,,0,
+212361,https://yoshkar-ola.drom.ru/ford/mondeo/49088871.html,,,,,,,,,,,,,,,,0,
+212362,https://spb.drom.ru/ford/kuga/49028709.html,,,,,,,,,,,,,,,,0,
+212363,https://krasnodar.drom.ru/ford/mondeo/48398786.html,,,,,,,,,,,,,,,,0,
+212364,https://makhachkala.drom.ru/ford/focus/48760118.html,,,,,,,,,,,,,,,,0,
+212365,https://tver.drom.ru/ford/focus/48759957.html,,,,,,,,,,,,,,,,0,
+212366,https://semenov.drom.ru/ford/focus/48759872.html,,,,,,,,,,,,,,,,0,
+212367,https://spb.drom.ru/ford/focus/48759770.html,,,,,,,,,,,,,,,,0,
+212368,https://chelyabinsk.drom.ru/ford/kuga/48758725.html,,,,,,,,,,,,,,,,0,
+212369,https://tyumen.drom.ru/ford/focus/48758371.html,,,,,,,,,,,,,,,,0,
+212370,https://ivanovo.drom.ru/ford/kuga/48758164.html,,,,,,,,,,,,,,,,0,
+212371,https://tavda.drom.ru/ford/kuga/48756095.html,,,,,,,,,,,,,,,,0,
+212372,https://ekaterinburg.drom.ru/ford/kuga/48756053.html,,,,,,,,,,,,,,,,0,
+212373,https://saratov.drom.ru/ford/kuga/49085756.html,,,,,,,,,,,,,,,,0,
+212374,https://irkutsk.drom.ru/ford/focus/47386985.html,,,,,,,,,,,,,,,,0,
+212375,https://spb.drom.ru/ford/focus/49085590.html,,,,,,,,,,,,,,,,0,
+212376,https://moscow.drom.ru/ford/focus/49039689.html,,,,,,,,,,,,,,,,0,
+212377,https://moscow.drom.ru/ford/focus/45380543.html,,,,,,,,,,,,,,,,0,
+212378,https://moscow.drom.ru/ford/mondeo/49039692.html,,,,,,,,,,,,,,,,0,
+212379,https://moscow.drom.ru/ford/mondeo/49039696.html,,,,,,,,,,,,,,,,0,
+212380,https://orenburg.drom.ru/ford/mondeo/45186164.html,,,,,,,,,,,,,,,,0,
+212381,https://ekaterinburg.drom.ru/ford/focus/48688859.html,,,,,,,,,,,,,,,,0,
+212382,https://gai.drom.ru/ford/focus/46330255.html,,,,,,,,,,,,,,,,0,
+212383,https://novokuznetsk.drom.ru/ford/mondeo/49084823.html,,,,,,,,,,,,,,,,0,
+212384,https://rostov-na-donu.drom.ru/ford/mondeo/49084490.html,,,,,,,,,,,,,,,,0,
+212385,https://novomoskovsk.drom.ru/ford/focus/49084281.html,Ford,Focus,Новомосковск,2013,бензин,1.6,105,механика,передний,хэтчбек 5 дв.,белый,176000,левый,3 поколение,1.6 MT Trend,0,619000
+212386,https://serov.drom.ru/ford/focus/48358894.html,,,,,,,,,,,,,,,,0,
+212387,https://moscow.drom.ru/ford/focus/49084070.html,,,,,,,,,,,,,,,,0,
+212388,https://irbit.drom.ru/ford/focus/48781795.html,,,,,,,,,,,,,,,,0,
+212389,https://yanaul.drom.ru/ford/focus/49083874.html,,,,,,,,,,,,,,,,0,
+212390,https://moscow.drom.ru/ford/focus/48604668.html,,,,,,,,,,,,,,,,0,
+212391,https://leninsk-kuznetskiy.drom.ru/ford/focus/48739644.html,,,,,,,,,,,,,,,,0,
+212392,https://tula.drom.ru/ford/fiesta/49082841.html,,,,,,,,,,,,,,,,0,
+212393,https://novosibirsk.drom.ru/ford/focus/48326979.html,,,,,,,,,,,,,,,,0,
+212394,https://tyumen.drom.ru/ford/kuga/48732200.html,,,,,,,,,,,,,,,,0,
+212395,https://zavodoukovsk.drom.ru/ford/focus/48778212.html,,,,,,,,,,,,,,,,0,
+212396,https://angarsk.drom.ru/ford/focus/46408394.html,,,,,,,,,,,,,,,,0,
+212397,https://irkutsk.drom.ru/ford/focus/49080603.html,,,,,,,,,,,,,,,,0,
+212398,https://tyumen.drom.ru/ford/focus/48897097.html,,,,,,,,,,,,,,,,0,
+212399,https://novosibirsk.drom.ru/ford/focus/49080272.html,,,,,,,,,,,,,,,,0,
+212400,https://blagoveshchensk.drom.ru/ford/kuga/47508565.html,,,,,,,,,,,,,,,,0,
+212401,https://kemerovo.drom.ru/ford/focus/36448661.html,,,,,,,,,,,,,,,,0,
+212402,https://irkutsk.drom.ru/ford/focus/48752995.html,,,,,,,,,,,,,,,,0,
+212403,https://kemerovo.drom.ru/ford/kuga/48586474.html,,,,,,,,,,,,,,,,0,
+212404,https://omsk.drom.ru/ford/f350/48244710.html,,,,,,,,,,,,,,,,0,
+212405,https://krasnoyarsk.drom.ru/ford/focus/49079620.html,,,,,,,,,,,,,,,,0,
+212406,https://omsk.drom.ru/ford/focus/47540630.html,,,,,,,,,,,,,,,,0,
+212407,https://irkutsk.drom.ru/ford/focus/49079365.html,,,,,,,,,,,,,,,,0,
+212408,https://stavropol.drom.ru/ford/mondeo/49078965.html,,,,,,,,,,,,,,,,0,
+212409,https://cheremhovo.drom.ru/ford/kuga/48330765.html,,,,,,,,,,,,,,,,0,
+212410,https://habarovsk.drom.ru/ford/focus/47389873.html,,,,,,,,,,,,,,,,0,
+212411,https://irkutsk.drom.ru/ford/focus/48745314.html,,,,,,,,,,,,,,,,0,
+212412,https://spb.drom.ru/ford/focus/49078256.html,,,,,,,,,,,,,,,,0,
+212413,https://novosibirsk.drom.ru/ford/focus/46621819.html,,,,,,,,,,,,,,,,0,
+212414,https://chelyabinsk.drom.ru/ford/focus/46523118.html,,,,,,,,,,,,,,,,0,
+212415,https://kiselevsk.drom.ru/ford/mondeo/46502320.html,,,,,,,,,,,,,,,,0,
+212416,https://ulan-ude.drom.ru/ford/focus/46077613.html,,,,,,,,,,,,,,,,0,
+212417,https://chita.drom.ru/ford/f150/46039786.html,Ford,F150,Чита,2011,бензин,6.2,411,АКПП,4WD,,белый,130000,левый,"7 поколение, рестайлинг",,0,3150000
+212418,https://novosibirsk.drom.ru/ford/focus/45995506.html,Ford,Focus,Новосибирск,2010,бензин,1.6,100,механика,передний,хэтчбек 5 дв.,синий,177000,левый,"2 поколение, рестайлинг",1.6 MT Comfort ,0,517000
+212419,https://ulyanovsk.drom.ru/ford/focus/45934678.html,Ford,Focus,Ульяновск,2012,бензин,1.6,105,механика,передний,хэтчбек 5 дв.,серебристый,169000,левый,3 поколение,,0,559000
+212420,https://abakan.drom.ru/ford/focus/45815056.html,Ford,Focus,Абакан,2010,бензин,1.6,100,механика,передний,седан,серебристый,226000,левый,"2 поколение, рестайлинг",1.6 MT Comfort,0,540000
+212421,https://tyumen.drom.ru/ford/focus/44779865.html,Ford,Focus,Тюмень,2012,бензин,1.6,105,механика,передний,седан,синий,265000,левый,3 поколение,1.6 MT Trend,0,616000
+212422,https://nizhnevartovsk.drom.ru/ford/focus/44683185.html,Ford,Focus,Нижневартовск,2013,бензин,1.6,105,механика,передний,универсал,белый,98500,левый,3 поколение,1.6 MT Trend,0,470000
+212423,https://moscow.drom.ru/ford/kuga/48270753.html,Ford,Kuga,Москва,2013,бензин,1.6,182,АКПП,4WD,,серый,88334,левый,2 поколение,,0,999000
+212424,https://izhevsk.drom.ru/ford/kuga/49088389.html,Ford,Kuga,Ижевск,2013,бензин,1.6,150,АКПП,4WD,,коричневый,136342,левый,2 поколение,,0,1119000
+212425,https://surgut.drom.ru/ford/focus/49088037.html,Ford,Focus,Сургут,2011,бензин,1.6,125,робот,передний,седан,серый,126500,левый,3 поколение,1.6 PowerShift Trend Sport ,0,430000
+212426,https://gudermes.drom.ru/ford/focus/48743844.html,Ford,Focus,Гудермес,2013,бензин,1.6,125,робот,передний,седан,белый,162000,левый,3 поколение,,0,820000
+212427,https://grozniy.drom.ru/ford/focus/46386509.html,Ford,Focus,Грозный,2012,бензин,1.6,125,робот,передний,универсал,коричневый,216000,левый,3 поколение,1.6 PowerShift Titanium ,0,750000
+212428,https://chelyabinsk.drom.ru/ford/focus/46433998.html,Ford,Focus,Челябинск,2011,бензин,1.6,105,механика,передний,седан,черный,195000,левый,3 поколение,1.6 MT Trend,1,565000
+212429,https://nozhay-yurt.drom.ru/ford/focus/48048099.html,Ford,Focus,Ножай-Юрт,2011,бензин,2.0,150,робот,передний,седан,серебристый,218000,левый,3 поколение,,0,835000
+212430,https://spb.drom.ru/ford/focus/49087888.html,Ford,Focus,Санкт-Петербург,2010,бензин,1.6,100,механика,передний,хэтчбек 3 дв.,серебристый,150000,левый,"2 поколение, рестайлинг",,0,380000
+212431,https://tsotsi-yurt.drom.ru/ford/focus/48380818.html,Ford,Focus,Цоци-Юрт,2012,бензин,1.6,105,механика,передний,седан,белый,228000,левый,3 поколение,,0,675000
+212432,https://perm.drom.ru/ford/focus/48749745.html,Ford,Focus,Пермь,2010,бензин,1.6,100,АКПП,передний,хэтчбек 5 дв.,белый,124000,левый,"2 поколение, рестайлинг",1.6 AT Comfort ,0,235000
+212433,https://spb.drom.ru/ford/focus/47722504.html,Ford,Focus,Санкт-Петербург,2012,бензин,1.6,105,механика,передний,универсал,белый,241313,левый,3 поколение,1.6 MT Trend,0,390000
+212434,https://naberezhnye-chelny.drom.ru/ford/kuga/47721481.html,Ford,Kuga,Набережные Челны,2012,дизель,2.0,163,механика,4WD,,коричневый,152000,левый,1 поколение,2.0 TDCi AWD MT Titanium,0,949000
+212435,https://taganrog.drom.ru/ford/focus/47717270.html,Ford,Focus,Таганрог,2013,бензин,1.6,125,механика,передний,хэтчбек 5 дв.,синий,221000,левый,3 поколение,,0,695000
+212436,https://kamensk-uralskiy.drom.ru/ford/focus/47715589.html,Ford,Focus,Каменск-Уральский,2011,бензин,1.6,125,механика,передний,хэтчбек 5 дв.,черный,169000,левый,3 поколение,,0,720000
+212437,https://chelyabinsk.drom.ru/ford/focus/47715200.html,Ford,Focus,Челябинск,2010,бензин,1.6,100,механика,передний,хэтчбек 5 дв.,серый,235000,левый,"2 поколение, рестайлинг",1.6 MT Ghia,0,410000
+212438,https://omsk.drom.ru/ford/focus/47714581.html,Ford,Focus,Омск,2014,бензин,1.6,105,механика,передний,хэтчбек 5 дв.,белый,95000,левый,3 поколение,,0,730000
+212439,https://novosibirsk.drom.ru/ford/focus/47714202.html,Ford,Focus,Новосибирск,2014,бензин,1.6,105,робот,передний,хэтчбек 5 дв.,синий,111111,левый,3 поколение,1.6 PowerShift SYNC Edition,0,745000
+212440,https://sevastopol.drom.ru/ford/mondeo/47474765.html,Ford,Mondeo,Севастополь,2011,дизель,2.0,140,АКПП,передний,седан,черный,162000,левый,"4 поколение, рестайлинг",2.0 TDCi AT Titanium Black ,1,835000
+212441,https://irkutsk.drom.ru/ford/focus/47426083.html,Ford,Focus,Иркутск,2011,бензин,2.0,150,робот,передний,хэтчбек 5 дв.,серебристый,192000,левый,3 поколение,2.0 PowerShift Trend Sport,0,600000
+212442,https://yaroslavl.drom.ru/ford/kuga/47388152.html,Ford,Kuga,Ярославль,2010,бензин,2.5,200,АКПП,4WD,,черный,170000,левый,1 поколение,,0,1000000
+212443,https://chelyabinsk.drom.ru/ford/focus/47384240.html,Ford,Focus,Челябинск,2012,бензин,1.6,125,робот,передний,хэтчбек 5 дв.,белый,145000,левый,3 поколение,1.6 PowerShift Titanium,0,695000
+212444,https://ekaterinburg.drom.ru/ford/focus/47366559.html,Ford,Focus,Екатеринбург,2011,бензин,1.6,105,механика,передний,хэтчбек 5 дв.,белый,220000,левый,3 поколение,1.6 MT Trend,0,595000
+212445,https://askarovo.drom.ru/ford/tourneo_custom/47334880.html,Ford,Tourneo Custom,Аскарово,2013,дизель,2.2,125,механика,передний,,серебристый,225000,левый,1 поколение,,0,1400000
+212446,https://yalta.drom.ru/ford/kuga/47299827.html,Ford,Kuga,Ялта,2012,дизель,2.0,140,робот,4WD,,коричневый,185000,левый,1 поколение,2.0 TDCi AWD DSG Titanium,0,950000
+212447,https://nizhniy-tagil.drom.ru/ford/focus/47131402.html,Ford,Focus,Нижний Тагил,2012,бензин,1.6,105,робот,передний,хэтчбек 5 дв.,белый,103000,левый,3 поколение,,0,730000
+212448,https://surgut.drom.ru/ford/focus/47051113.html,Ford,Focus,Сургут,2012,бензин,1.6,125,механика,передний,седан,серый,255000,левый,3 поколение,1.6 MT Trend Sport ,0,670000
+212449,https://habarovsk.drom.ru/ford/focus/46816248.html,Ford,Focus,Хабаровск,2012,бензин,1.6,105,механика,передний,хэтчбек 5 дв.,белый,170000,левый,3 поколение,,0,520000
+212450,https://pyatigorsk.drom.ru/ford/focus/46726437.html,Ford,Focus,Пятигорск,2012,бензин,1.6,125,робот,передний,хэтчбек 5 дв.,серебристый,195195,левый,3 поколение,1.6 Ti-VCT DSG Trend,0,650000
+212451,https://berezniky.drom.ru/ford/focus/46726913.html,Ford,Focus,Березники,2013,бензин,1.6,125,механика,передний,хэтчбек 5 дв.,белый,127000,левый,3 поколение,,0,525000
+212452,https://omsk.drom.ru/ford/focus/46722641.html,Ford,Focus,Омск,2011,бензин,1.6,100,АКПП,передний,седан,синий,168000,левый,"2 поколение, рестайлинг",1.6 AT Comfort,0,523000
+212453,https://stavropol.drom.ru/ford/fusion/48754607.html,Ford,Fusion,Ставрополь,2014,бензин,2.0,240,АКПП,передний,седан,красный,200000,левый,2 поколение,2.0 SelectShift Titanium,0,975000
+212454,https://ekaterinburg.drom.ru/ford/focus/49094025.html,Ford,Focus,Екатеринбург,2012,бензин,1.6,105,робот,передний,седан,черный,124073,левый,3 поколение,1.6 PowerShift Trend Sport ,0,680000
+212455,https://barnaul.drom.ru/ford/focus/47389993.html,Ford,Focus,Барнаул,2014,бензин,1.6,125,робот,передний,универсал,серебристый,130000,левый,3 поколение,1.6 PowerShift Trend,0,760000
+212456,https://meskety.drom.ru/ford/focus/49093717.html,Ford,Focus,Мескеты,2011,бензин,1.6,125,механика,передний,седан,черный,260000,левый,3 поколение,,0,745000
+212457,https://divnoe.drom.ru/ford/mondeo/49093547.html,Ford,Mondeo,Дивное,2011,бензин,2.0,145,механика,передний,седан,черный,219196,левый,"4 поколение, рестайлинг",2.0 Flexifuel MT Titanium,0,870000
+212458,https://grozniy.drom.ru/ford/focus/49093509.html,Ford,Focus,Грозный,2011,бензин,1.6,105,механика,передний,седан,белый,190000,левый,3 поколение,,0,550000
+212459,https://grozniy.drom.ru/ford/focus/49093466.html,Ford,Focus,Грозный,2012,дизель,2.0,140,робот,передний,седан,черный,155000,левый,3 поколение,,0,730000
+212460,https://moscow.drom.ru/ford/mondeo/48435583.html,Ford,Mondeo,Москва,2010,дизель,2.0,115,механика,передний,универсал,белый,167000,левый,4 поколение,,0,595000
+212461,https://buynaksk.drom.ru/ford/focus/47791140.html,Ford,Focus,Буйнакск,2013,бензин,1.6,125,робот,передний,седан,белый,,левый,3 поколение,,0,730000
+212462,https://novosibirsk.drom.ru/ford/focus/48889618.html,Ford,Focus,Новосибирск,2011,бензин,1.6,125,робот,передний,седан,серый,180000,левый,3 поколение,,0,537000
+212463,https://salsk.drom.ru/ford/focus/48410623.html,Ford,Focus,Сальск,2013,бензин,1.6,125,робот,передний,хэтчбек 5 дв.,белый,132422,левый,3 поколение,,0,719900
+212464,https://ufa.drom.ru/ford/focus/49093324.html,Ford,Focus,Уфа,2012,бензин,1.6,105,робот,передний,хэтчбек 5 дв.,серый,149122,левый,3 поколение,,0,588000
+212465,https://tyumen.drom.ru/ford/focus/47855211.html,Ford,Focus,Тюмень,2010,бензин,1.6,100,АКПП,передний,хэтчбек 5 дв.,серебристый,170000,левый,"2 поколение, рестайлинг",,0,480000
+212466,https://moscow.drom.ru/ford/kuga/48145899.html,Ford,Kuga,Москва,2014,дизель,2.0,140,робот,4WD,,черный,98000,левый,2 поколение,,0,845000
+212467,https://moscow.drom.ru/ford/focus/48885720.html,Ford,Focus,Москва,2014,бензин,1.6,125,робот,передний,хэтчбек 5 дв.,серый,96000,левый,3 поколение,,0,615000
+212468,https://megion.drom.ru/ford/focus/49093059.html,Ford,Focus,Мегион,2014,бензин,1.6,105,робот,передний,хэтчбек 5 дв.,серый,227000,левый,3 поколение,,0,700000
+212469,https://sayanogorsk.drom.ru/ford/focus/49093050.html,Ford,Focus,Саяногорск,2011,бензин,1.6,125,робот,передний,седан,черный,176000,левый,3 поколение,,0,610000
+212470,https://ekaterinburg.drom.ru/ford/s-max/49092990.html,Ford,S-MAX,Екатеринбург,2012,бензин,2.0,145,механика,передний,,серебристый,186512,левый,"1 поколение, рестайлинг",,0,960000
+212471,https://orenburg.drom.ru/ford/s-max/46360130.html,Ford,S-MAX,Оренбург,2010,бензин,2.3,161,АКПП,передний,,черный,247000,левый,"1 поколение, рестайлинг",2.3 AT Titanium ,0,945000
+212472,https://krasnodar.drom.ru/ford/focus_st/46356504.html,Ford,Focus ST,Краснодар,2012,бензин,2.0,249,механика,передний,хэтчбек 5 дв.,золотистый,128000,левый,3 поколение,2.0 MT ST3,0,1100000
+212473,https://voronezh.drom.ru/ford/kuga/48393279.html,Ford,Kuga,Воронеж,2012,дизель,2.0,164,автомат,4WD,,черный,68000,левый,,,0,1050000
+212474,https://ladozhskaya.drom.ru/ford/focus/48741489.html,Ford,Focus,Ладожская,2010,бензин,1.8,125,механика,передний,хэтчбек 5 дв.,черный,243000,левый,"2 поколение, рестайлинг",,0,500000
+212475,https://moscow.drom.ru/ford/focus/49077968.html,Ford,Focus,Москва,2013,бензин,1.6,125,робот,передний,хэтчбек 5 дв.,серый,98577,левый,3 поколение,,0,790000
+212476,https://krasnodar.drom.ru/ford/kuga/48750332.html,Ford,Kuga,Краснодар,2013,бензин,1.6,182,АКПП,4WD,,белый,201000,левый,2 поколение,1.6 EcoBoost AT 4WD Titanium,0,950000
+212477,https://armavir.drom.ru/ford/focus/48749971.html,Ford,Focus,Армавир,2013,бензин,1.6,125,механика,передний,хэтчбек 5 дв.,синий,254000,левый,3 поколение,,0,670000
+212478,https://pyatigorsk.drom.ru/ford/explorer/48749755.html,Ford,Explorer,Пятигорск,2014,бензин,3.5,294,АКПП,4WD,джип/suv 5 дв.,белый,103068,левый,5 поколение,,0,1980000
+212479,https://kurgan.drom.ru/ford/kuga/48748433.html,Ford,Kuga,Курган,2012,бензин,1.6,150,АКПП,4WD,,зеленый,172000,левый,2 поколение,,0,1070000
+212480,https://tula.drom.ru/ford/kuga/48748363.html,Ford,Kuga,Тула,2013,бензин,1.6,182,АКПП,4WD,,коричневый,108000,левый,2 поколение,1.6 EcoBoost AT 4WD Titanium Plus,0,1028000
+212481,https://korenovsk.drom.ru/ford/focus/48747336.html,Ford,Focus,Кореновск,2012,бензин,1.6,105,робот,передний,хэтчбек 5 дв.,черный,138000,левый,3 поколение,1.6 PowerShift Trend Sport ,0,565000
+212482,https://salsk.drom.ru/ford/fusion/48747366.html,Ford,Fusion,Сальск,2010,бензин,1.6,100,механика,передний,хэтчбек 5 дв.,белый,193000,левый,"1 поколение, рестайлинг",,0,540000
+212483,https://irkutsk.drom.ru/ford/focus/48747173.html,Ford,Focus,Иркутск,2011,бензин,1.6,100,механика,передний,хэтчбек 3 дв.,белый,137415,левый,"2 поколение, рестайлинг",1.6 MT Comfort,0,570000
+212484,https://moscow.drom.ru/ford/mondeo/48746864.html,Ford,Mondeo,Москва,2011,дизель,2.0,140,АКПП,передний,универсал,серый,317000,левый,"4 поколение, рестайлинг",2.0 TDCi AT Titanium ,0,849000
+212485,https://samara.drom.ru/ford/focus/48745631.html,Ford,Focus,Самара,2012,бензин,1.6,105,механика,передний,хэтчбек 5 дв.,белый,80000,левый,3 поколение,,0,659900
+212486,https://prokopyevsk.drom.ru/ford/mondeo/48744917.html,Ford,Mondeo,Прокопьевск,2011,бензин,2.0,145,механика,передний,седан,серый,160000,левый,"4 поколение, рестайлинг",,0,250000
+212487,https://chelyabinsk.drom.ru/ford/focus/48742692.html,Ford,Focus,Челябинск,2011,бензин,1.6,115,механика,передний,универсал,серебристый,177500,левый,"2 поколение, рестайлинг",1.6 Ti-VCT MT Titanium,0,640000
+212488,https://moscow.drom.ru/ford/kuga/48741519.html,,,,,,,,,,,,,,,,0,
+212489,https://spb.drom.ru/ford/kuga/48741348.html,Ford,Kuga,Санкт-Петербург,2012,дизель,2.0,140,механика,передний,,серый,168000,левый,1 поколение,,0,899000
+212490,https://spb.drom.ru/ford/kuga/48741006.html,Ford,Kuga,Санкт-Петербург,2013,дизель,2.0,140,робот,4WD,,черный,136071,левый,,,0,1065000
+212491,https://tyumen.drom.ru/ford/focus/48403049.html,Ford,Focus,Тюмень,2012,бензин,1.6,105,робот,передний,хэтчбек 5 дв.,коричневый,132807,левый,3 поколение,,0,595000
+212492,https://barnaul.drom.ru/ford/explorer/48402572.html,Ford,Explorer,Барнаул,2012,бензин,3.5,294,АКПП,4WD,джип/suv 5 дв.,серебристый,181000,левый,5 поколение,3.5 AT Limited ,0,1550000
+212493,https://novosibirsk.drom.ru/ford/focus/49092752.html,Ford,Focus,Новосибирск,2012,бензин,2.0,150,механика,передний,седан,серебристый,140000,левый,3 поколение,2.0 MT Titanium,0,950000
+212494,https://tyumen.drom.ru/ford/focus/49009430.html,Ford,Focus,Тюмень,2013,бензин,1.6,125,механика,передний,хэтчбек 5 дв.,синий,168000,левый,3 поколение,1.6 MT Trend Sport,1,540000
+212495,https://orel.drom.ru/ford/focus/49092405.html,Ford,Focus,Орел,2010,бензин,1.6,100,механика,передний,универсал,белый,158000,левый,"2 поколение, рестайлинг",,0,450000
+212496,https://moscow.drom.ru/ford/focus/46646838.html,Ford,Focus,Москва,2012,бензин,2.0,150,робот,передний,универсал,серый,111000,левый,3 поколение,,0,699000
+212497,https://moscow.drom.ru/ford/focus/48403167.html,Ford,Focus,Москва,2012,дизель,2.0,140,робот,передний,седан,черный,128000,левый,3 поколение,,0,699000
+212498,https://sredneuralsk.drom.ru/ford/focus/49091996.html,Ford,Focus,Среднеуральск,2011,бензин,1.6,125,механика,передний,хэтчбек 5 дв.,черный,169401,левый,3 поколение,,0,750000
+212499,https://krasnoyarsk.drom.ru/ford/focus/48244121.html,Ford,Focus,Красноярск,2013,бензин,1.6,105,робот,передний,седан,красный,94000,левый,3 поколение,,0,669000
+212500,https://kirov.drom.ru/ford/focus/49091430.html,Ford,Focus,Киров,2013,бензин,1.6,105,механика,передний,седан,серый,184000,левый,3 поколение,,0,570000
+212501,https://perm.drom.ru/ford/focus/46740632.html,Ford,Focus,Пермь,2012,бензин,1.6,105,механика,передний,хэтчбек 5 дв.,белый,78000,левый,3 поколение,,0,648000
+212502,https://solikamsk.drom.ru/ford/focus/46741402.html,Ford,Focus,Соликамск,2010,бензин,1.8,125,механика,передний,седан,черный,162000,левый,"2 поколение, рестайлинг",1.8 MT Comfort ,0,425000
+212503,https://maykop.drom.ru/ford/focus/47498208.html,Ford,Focus,Майкоп,2012,бензин,1.6,85,механика,передний,хэтчбек 5 дв.,белый,190000,левый,3 поколение,,0,600000
+212504,https://samara.drom.ru/ford/focus/48749330.html,Ford,Focus,Самара,2011,бензин,1.6,125,робот,передний,хэтчбек 5 дв.,серый,176700,левый,3 поколение,,0,519000
+212505,https://irkutsk.drom.ru/ford/focus/47259588.html,Ford,Focus,Иркутск,2013,бензин,2.0,149,,передний,универсал,серебристый,110000,левый,,,0,755000
+212506,https://krasnoyarsk.drom.ru/ford/focus/48569618.html,Ford,Focus,Красноярск,2012,бензин,1.6,125,робот,передний,хэтчбек 5 дв.,синий,196000,левый,3 поколение,1.6 PowerShift Trend Sport ,0,648000
+212507,https://irkutsk.drom.ru/ford/explorer/49090501.html,Ford,Explorer,Иркутск,2013,бензин,3.5,294,АКПП,4WD,джип/suv 5 дв.,серебристый,160000,левый,5 поколение,3.5 AT Limited Plus ,0,1850000
+212508,https://shuya.drom.ru/ford/mondeo/49090394.html,Ford,Mondeo,Шуя,2010,бензин,2.0,145,механика,передний,седан,серебристый,167000,левый,"4 поколение, рестайлинг",2.0 MT Trend,0,529000
+212509,https://tyumen.drom.ru/ford/fusion/48498229.html,Ford,Fusion,Тюмень,2011,бензин,1.6,100,АКПП,передний,хэтчбек 5 дв.,синий,137254,левый,"1 поколение, рестайлинг",,0,575000
+212510,https://bratsk.drom.ru/ford/focus/48153641.html,Ford,Focus,Братск,2010,бензин,1.6,100,АКПП,передний,седан,черный,146000,левый,"2 поколение, рестайлинг",,0,559000
+212511,https://kemerovo.drom.ru/ford/focus/48618854.html,Ford,Focus,Кемерово,2013,бензин,1.6,125,робот,передний,хэтчбек 5 дв.,белый,220000,левый,3 поколение,1.6 PowerShift Trend Sport ,1,570000
+212512,https://abakan.drom.ru/ford/focus/49089440.html,Ford,Focus,Абакан,2012,бензин,2.0,150,робот,передний,универсал,черный,153000,левый,3 поколение,2.0 PowerShift Titanium ,0,750000
+212513,https://moscow.drom.ru/ford/kuga/48755091.html,Ford,Kuga,Москва,2013,бензин,1.6,150,АКПП,4WD,,серый,95500,левый,2 поколение,1.6 EcoBoost AT 4WD Titanium,0,1330000
+212514,https://grozniy.drom.ru/ford/focus/48754680.html,Ford,Focus,Грозный,2011,бензин,1.6,125,робот,передний,седан,черный,125,левый,3 поколение,1.6 Ti-VCT DSG Titanium,0,700000
+212515,https://chernogorsk.drom.ru/ford/focus/48754582.html,Ford,Focus,Черногорск,2011,бензин,1.6,100,механика,передний,универсал,серый,260000,левый,"2 поколение, рестайлинг",1.6 MT Comfort ,0,475000
+212516,https://novosibirsk.drom.ru/ford/galaxy/48754420.html,Ford,Galaxy,Новосибирск,2014,дизель,2.0,141,механика,передний,,желтый,440000,левый,,,0,650000
+212517,https://yurga.drom.ru/ford/focus/48753002.html,Ford,Focus,Юрга,2013,бензин,1.6,125,робот,передний,седан,коричневый,100000,левый,3 поколение,,0,760000
+212518,https://omsk.drom.ru/ford/focus/48752408.html,Ford,Focus,Омск,2011,бензин,1.6,105,механика,передний,хэтчбек 5 дв.,голубой,88000,левый,3 поколение,1.6 MT Trend,0,730000
+212519,https://irkutsk.drom.ru/ford/kuga/48752350.html,Ford,Kuga,Иркутск,2014,бензин,1.6,150,АКПП,4WD,,черный,143,левый,2 поколение,1.6 EcoBoost AT 4WD Titanium,0,1180000
+212520,https://kislovodsk.drom.ru/ford/mondeo/48750628.html,Ford,Mondeo,Кисловодск,2014,бензин,1.6,120,механика,передний,седан,белый,84000,левый,"4 поколение, рестайлинг",1.6 MT Ambiente,0,750000
+212521,https://samara.drom.ru/ford/kuga/48415807.html,Ford,Kuga,Самара,2014,бензин,1.6,150,АКПП,4WD,,серебристый,73282,левый,2 поколение,,0,1329900
+212522,https://sevastopol.drom.ru/ford/focus/48414514.html,Ford,Focus,Севастополь,2012,бензин,1.6,125,робот,передний,хэтчбек 5 дв.,бордовый,159000,левый,3 поколение,1.6 PowerShift Titanium,0,675000
+212523,https://gagarin.drom.ru/ford/kuga/48411987.html,Ford,Kuga,Гагарин,2013,бензин,1.6,150,механика,передний,,золотистый,172000,левый,2 поколение,1.6 EcoBoost MT 2WD Trend Plus,0,950000
+212524,https://severskaya.drom.ru/ford/focus/48409649.html,Ford,Focus,Северская,2012,бензин,1.6,125,механика,передний,универсал,серебристый,175142,левый,3 поколение,,0,630000
+212525,https://magnitogorsk.drom.ru/ford/focus/48409598.html,Ford,Focus,Магнитогорск,2010,бензин,1.8,125,механика,передний,седан,фиолетовый,130000,левый,"2 поколение, рестайлинг",,0,320000
+212526,https://orehovo-zuevo.drom.ru/ford/focus/48409460.html,,,,,,,,,,,,,,,,0,
+212527,https://ekaterinburg.drom.ru/ford/focus/48368791.html,,,,,,,,,,,,,,,,0,
+212528,https://vladivostok.drom.ru/ford/explorer/48346628.html,,,,,,,,,,,,,,,,0,
+212529,https://spb.drom.ru/ford/focus/48069710.html,,,,,,,,,,,,,,,,0,
+212530,https://ishim.drom.ru/ford/focus/48069576.html,,,,,,,,,,,,,,,,0,
+212531,https://simferopol.drom.ru/ford/mondeo/48068879.html,,,,,,,,,,,,,,,,0,
+212532,https://ivanovo.drom.ru/ford/mondeo/48068269.html,,,,,,,,,,,,,,,,0,
+212533,https://moscow.drom.ru/ford/focus/49087832.html,,,,,,,,,,,,,,,,0,
+212534,https://cheboksary.drom.ru/ford/focus/49087705.html,,,,,,,,,,,,,,,,0,
+212535,https://anzhero-sudzhensk.drom.ru/ford/focus/49087701.html,,,,,,,,,,,,,,,,0,
+212536,https://moscow.drom.ru/ford/focus/48745749.html,,,,,,,,,,,,,,,,0,
+212537,https://tver.drom.ru/ford/ecosport/49087646.html,,,,,,,,,,,,,,,,0,
+212538,https://spb.drom.ru/ford/kuga/49087597.html,,,,,,,,,,,,,,,,0,
+212539,https://barnaul.drom.ru/ford/focus/45196235.html,,,,,,,,,,,,,,,,0,
+212540,https://prokopyevsk.drom.ru/ford/focus/48751577.html,,,,,,,,,,,,,,,,0,
+212541,https://moscow.drom.ru/ford/ecosport/49087521.html,,,,,,,,,,,,,,,,0,
+212542,https://rasskazovo.drom.ru/ford/focus/49087438.html,,,,,,,,,,,,,,,,0,
+212543,https://petrozavodsk.drom.ru/ford/kuga/49087191.html,,,,,,,,,,,,,,,,0,
+212544,https://spb.drom.ru/ford/focus/49087187.html,,,,,,,,,,,,,,,,0,
+212545,https://barnaul.drom.ru/ford/focus/48023787.html,,,,,,,,,,,,,,,,0,
+212546,https://kemerovo.drom.ru/ford/focus/49087029.html,,,,,,,,,,,,,,,,0,
+212547,https://spb.drom.ru/ford/focus/49086701.html,,,,,,,,,,,,,,,,0,
+212548,https://nadterechnoe.drom.ru/ford/focus/49086636.html,Ford,Focus,Надтеречное,2013,бензин,1.6,125,робот,передний,седан,серый,146000,левый,3 поколение,,0,685000
+212549,https://nizhniy-novgorod.drom.ru/ford/kuga/49086245.html,,,,,,,,,,,,,,,,0,
+212550,https://spb.drom.ru/ford/focus/49085917.html,,,,,,,,,,,,,,,,0,
+212551,https://sharypovo.drom.ru/ford/focus/47868649.html,,,,,,,,,,,,,,,,0,
+212552,https://zalari.drom.ru/ford/mondeo/49085782.html,,,,,,,,,,,,,,,,0,
+212553,https://ekaterinburg.drom.ru/ford/mustang/46708574.html,,,,,,,,,,,,,,,,0,
+212554,https://novosibirsk.drom.ru/ford/focus/46687126.html,,,,,,,,,,,,,,,,0,
+212555,https://tulun.drom.ru/ford/mondeo/46514851.html,,,,,,,,,,,,,,,,0,
+212556,https://surgut.drom.ru/ford/focus/45360831.html,,,,,,,,,,,,,,,,0,
+212557,https://stavropol.drom.ru/ford/focus/45178923.html,,,,,,,,,,,,,,,,0,
+212558,https://elets.drom.ru/ford/focus/44777770.html,,,,,,,,,,,,,,,,0,
+212559,https://astrahan.drom.ru/ford/mondeo/44174750.html,,,,,,,,,,,,,,,,0,
+212560,https://kemerovo.drom.ru/ford/focus/43362957.html,,,,,,,,,,,,,,,,0,
+212561,https://taseevo.drom.ru/ford/focus/37738512.html,,,,,,,,,,,,,,,,0,
+212562,https://abakan.drom.ru/ford/focus/38957803.html,,,,,,,,,,,,,,,,0,
+212563,https://spb.drom.ru/ford/kuga/49077883.html,,,,,,,,,,,,,,,,0,
+212564,https://tyumen.drom.ru/ford/mondeo/49077863.html,,,,,,,,,,,,,,,,0,
+212565,https://kommunar.drom.ru/ford/mondeo/49077745.html,,,,,,,,,,,,,,,,0,
+212566,https://grozniy.drom.ru/ford/focus/49077710.html,Ford,Focus,Грозный,2014,бензин,1.6,125,робот,передний,седан,черный,195000,левый,3 поколение,,0,795000
+212567,https://krasnodar.drom.ru/ford/focus/49077607.html,,,,,,,,,,,,,,,,0,
+212568,https://grozniy.drom.ru/ford/focus/49077154.html,Ford,Focus,Грозный,2012,бензин,1.6,125,механика,передний,седан,черный,229000,левый,3 поколение,,1,799000
+212569,https://mayrtup.drom.ru/ford/focus/49077068.html,Ford,Focus,Майртуп,2012,бензин,2.0,150,робот,передний,седан,серебристый,260000,левый,3 поколение,,0,415000
+212570,https://penza.drom.ru/ford/focus/49077046.html,,,,,,,,,,,,,,,,0,
+212571,https://moscow.drom.ru/ford/focus/49077008.html,,,,,,,,,,,,,,,,0,
+212572,https://perm.drom.ru/ford/focus/49076917.html,,,,,,,,,,,,,,,,0,
+212573,https://orenburg.drom.ru/ford/focus/49082792.html,,,,,,,,,,,,,,,,0,
+212574,https://maslyanino.drom.ru/ford/focus/48752008.html,,,,,,,,,,,,,,,,0,
+212575,https://borovichi.drom.ru/ford/focus/48478254.html,,,,,,,,,,,,,,,,0,
+212576,https://chelyabinsk.drom.ru/ford/focus/49082475.html,,,,,,,,,,,,,,,,0,
+212577,https://ekaterinburg.drom.ru/ford/focus/49082419.html,,,,,,,,,,,,,,,,0,
+212578,https://murom.drom.ru/ford/focus/48700052.html,Ford,Focus,Муром,2010,бензин,1.8,125,механика,передний,седан,черный,132000,левый,"2 поколение, рестайлинг",1.8 MT Comfort ,0,460000
+212579,https://surgut.drom.ru/ford/focus/48156545.html,,,,,,,,,,,,,,,,0,
+212580,https://krasnodar.drom.ru/ford/focus/49082212.html,,,,,,,,,,,,,,,,0,
+212581,https://krasnodar.drom.ru/ford/kuga/49082176.html,,,,,,,,,,,,,,,,0,
+212582,https://novosibirsk.drom.ru/ford/focus/49081873.html,,,,,,,,,,,,,,,,0,
+212583,https://feodosiya.drom.ru/ford/focus/48738547.html,,,,,,,,,,,,,,,,0,
+212584,https://borodino.drom.ru/ford/kuga/48223676.html,,,,,,,,,,,,,,,,0,
+212585,https://novosibirsk.drom.ru/ford/focus/48103326.html,,,,,,,,,,,,,,,,0,
+212586,https://chita.drom.ru/ford/focus/49081613.html,,,,,,,,,,,,,,,,0,
+212587,https://kirov.drom.ru/ford/focus/49081555.html,,,,,,,,,,,,,,,,0,
+212588,https://nazran.drom.ru/ford/focus/47742357.html,Ford,Focus,Назрань,2012,бензин,1.6,105,механика,передний,хэтчбек 5 дв.,черный,,левый,3 поколение,,0,570000
+212589,https://murmansk.drom.ru/ford/mondeo/45355375.html,,,,,,,,,,,,,,,,0,
+212590,https://alushta.drom.ru/ford/focus/48830975.html,,,,,,,,,,,,,,,,0,
+212591,https://ekaterinburg.drom.ru/ford/focus/49081055.html,,,,,,,,,,,,,,,,0,
+212592,https://shchelkovo.drom.ru/ford/focus/49080973.html,,,,,,,,,,,,,,,,0,
+212593,https://moscow.drom.ru/ford/edge/49074067.html,,,,,,,,,,,,,,,,0,
+212594,https://moscow.drom.ru/ford/kuga/49074054.html,,,,,,,,,,,,,,,,0,
+212595,https://simferopol.drom.ru/ford/focus/47924174.html,,,,,,,,,,,,,,,,0,
+212596,https://moscow.drom.ru/ford/focus/49073865.html,,,,,,,,,,,,,,,,0,
+212597,https://krasnodar.drom.ru/ford/mondeo/49073618.html,,,,,,,,,,,,,,,,0,
+212598,https://novosibirsk.drom.ru/ford/mondeo/49073600.html,,,,,,,,,,,,,,,,0,
+212599,https://novokuznetsk.drom.ru/ford/focus/48755578.html,,,,,,,,,,,,,,,,0,
+212600,https://kazan.drom.ru/ford/focus/49073569.html,,,,,,,,,,,,,,,,0,
+212601,https://georgievsk.drom.ru/ford/focus/49073460.html,,,,,,,,,,,,,,,,0,
+212602,https://tomsk.drom.ru/ford/focus/47873062.html,,,,,,,,,,,,,,,,0,
+212603,https://moscow.drom.ru/ford/explorer/47903326.html,,,,,,,,,,,,,,,,0,
+212604,https://habarovsk.drom.ru/ford/fiesta/49072850.html,,,,,,,,,,,,,,,,0,
+212605,https://simferopol.drom.ru/ford/mondeo/48914184.html,,,,,,,,,,,,,,,,0,
+212606,https://novosibirsk.drom.ru/ford/kuga/48880922.html,,,,,,,,,,,,,,,,0,
+212607,https://kiselevsk.drom.ru/ford/focus/47337182.html,,,,,,,,,,,,,,,,0,
+212608,https://kaluga.drom.ru/ford/mondeo/48740757.html,,,,,,,,,,,,,,,,0,
+212609,https://kurgan.drom.ru/ford/kuga/49072296.html,,,,,,,,,,,,,,,,0,
+212610,https://simferopol.drom.ru/ford/mondeo/49072042.html,,,,,,,,,,,,,,,,0,
+212611,https://ekaterinburg.drom.ru/ford/mondeo/49072030.html,,,,,,,,,,,,,,,,0,
+212612,https://salsk.drom.ru/ford/focus/48389738.html,,,,,,,,,,,,,,,,0,
+212613,https://novosibirsk.drom.ru/ford/kuga/48067626.html,,,,,,,,,,,,,,,,0,
+212614,https://kemerovo.drom.ru/ford/focus/48060078.html,,,,,,,,,,,,,,,,0,
+212615,https://syktyvkar.drom.ru/ford/kuga/48060171.html,,,,,,,,,,,,,,,,0,
+212616,https://habarovsk.drom.ru/ford/focus/48058376.html,,,,,,,,,,,,,,,,0,
+212617,https://abakan.drom.ru/ford/focus/47835385.html,,,,,,,,,,,,,,,,0,
+212618,https://spb.drom.ru/ford/focus/47733581.html,,,,,,,,,,,,,,,,0,
+212619,https://gubaha.drom.ru/ford/focus/47732622.html,,,,,,,,,,,,,,,,0,
+212620,https://neftekamsk-bash.drom.ru/ford/focus/47732479.html,,,,,,,,,,,,,,,,0,
+212621,https://egorievsk.drom.ru/ford/focus/47729399.html,,,,,,,,,,,,,,,,0,
+212622,https://novosibirsk.drom.ru/ford/focus/47724577.html,,,,,,,,,,,,,,,,0,
+212623,https://ekaterinburg.drom.ru/ford/focus/47707603.html,,,,,,,,,,,,,,,,0,
+212624,https://lensk.drom.ru/ford/fiesta/47524778.html,,,,,,,,,,,,,,,,0,
+212625,https://krasnoyarsk.drom.ru/ford/focus/47518853.html,,,,,,,,,,,,,,,,0,
+212626,https://moscow.drom.ru/ford/focus/47398919.html,,,,,,,,,,,,,,,,0,
+212627,https://khanty-mansiysk.drom.ru/ford/mondeo/47398938.html,,,,,,,,,,,,,,,,0,
+212628,https://belorechensk.drom.ru/ford/focus/47399363.html,,,,,,,,,,,,,,,,0,
+212629,https://pavlovsk-altai.drom.ru/ford/focus/47320914.html,,,,,,,,,,,,,,,,0,
+212630,https://abakan.drom.ru/ford/focus/47063108.html,,,,,,,,,,,,,,,,0,
+212631,https://moscow.drom.ru/ford/focus/47031748.html,,,,,,,,,,,,,,,,0,
+212632,https://omsk.drom.ru/ford/focus/46966697.html,,,,,,,,,,,,,,,,0,
+212633,https://chelyabinsk.drom.ru/ford/focus/48401942.html,,,,,,,,,,,,,,,,0,
+212634,https://moscow.drom.ru/ford/mondeo/48399325.html,,,,,,,,,,,,,,,,0,
+212635,https://lyubertsy.drom.ru/ford/focus/48398387.html,,,,,,,,,,,,,,,,0,
+212636,https://leninsk-kuznetskiy.drom.ru/ford/focus/48396817.html,,,,,,,,,,,,,,,,0,
+212637,https://nizhneudinsk.drom.ru/ford/focus/48394958.html,,,,,,,,,,,,,,,,0,
+212638,https://tver.drom.ru/ford/focus/48393508.html,,,,,,,,,,,,,,,,0,
+212639,https://velikiy-novgorod.drom.ru/ford/kuga/48393290.html,,,,,,,,,,,,,,,,0,
+212640,https://kansk.drom.ru/ford/focus/48374779.html,,,,,,,,,,,,,,,,0,
+212641,https://lyantor.drom.ru/ford/focus/48057865.html,,,,,,,,,,,,,,,,0,
+212642,https://stariy-oskol.drom.ru/ford/focus/48058005.html,,,,,,,,,,,,,,,,0,
+212643,https://anapa.drom.ru/ford/focus/48058063.html,,,,,,,,,,,,,,,,0,
+212644,https://krasnoyarsk.drom.ru/ford/explorer/48056500.html,,,,,,,,,,,,,,,,0,
+212645,https://abakan.drom.ru/ford/focus/48055572.html,,,,,,,,,,,,,,,,0,
+212646,https://tobolsk.drom.ru/ford/focus/48055541.html,,,,,,,,,,,,,,,,0,
+212647,https://kotlas.drom.ru/ford/kuga/48055310.html,,,,,,,,,,,,,,,,0,
+212648,https://ramenskoe.drom.ru/ford/fusion/48053562.html,,,,,,,,,,,,,,,,0,
+212649,https://tula.drom.ru/ford/mondeo/48050954.html,,,,,,,,,,,,,,,,0,
+212650,https://kamensk-uralskiy.drom.ru/ford/fiesta/48049225.html,,,,,,,,,,,,,,,,0,
+212651,https://chita.drom.ru/ford/focus/48048916.html,,,,,,,,,,,,,,,,0,
+212652,https://ekaterinburg.drom.ru/ford/focus/47993495.html,,,,,,,,,,,,,,,,0,
+212653,https://surgut.drom.ru/ford/focus/49076914.html,,,,,,,,,,,,,,,,0,
+212654,https://yevpatoriya.drom.ru/ford/kuga/49076863.html,,,,,,,,,,,,,,,,0,
+212655,https://bratsk.drom.ru/ford/focus/49076484.html,,,,,,,,,,,,,,,,0,
+212656,https://krasnodar.drom.ru/ford/fiesta/49076317.html,,,,,,,,,,,,,,,,0,
+212657,https://saratov.drom.ru/ford/kuga/49076266.html,,,,,,,,,,,,,,,,0,
+212658,https://kizlyar.drom.ru/ford/focus/48287232.html,,,,,,,,,,,,,,,,0,
+212659,https://hasavyurt.drom.ru/ford/focus/48677638.html,,,,,,,,,,,,,,,,0,
+212660,https://krasnodar.drom.ru/ford/galaxy/49076149.html,,,,,,,,,,,,,,,,0,
+212661,https://spb.drom.ru/ford/focus/49076050.html,,,,,,,,,,,,,,,,0,
+212662,https://makhachkala.drom.ru/ford/focus/48672282.html,Ford,Focus,Махачкала,2011,бензин,1.6,125,робот,передний,седан,белый,166000,левый,3 поколение,,0,650000
+212663,https://moscow.drom.ru/ford/kuga/49076004.html,,,,,,,,,,,,,,,,0,
+212664,https://cheboksary.drom.ru/ford/focus/49075810.html,,,,,,,,,,,,,,,,0,
+212665,https://omsk.drom.ru/ford/mondeo/48581253.html,,,,,,,,,,,,,,,,0,
+212666,https://ekaterinburg.drom.ru/ford/focus/48243954.html,,,,,,,,,,,,,,,,0,
+212667,https://raduzhniy-hanty.drom.ru/ford/focus/49075017.html,,,,,,,,,,,,,,,,0,
+212668,https://komsomolsk.drom.ru/ford/kuga/49074776.html,,,,,,,,,,,,,,,,0,
+212669,https://kemerovo.drom.ru/ford/focus/48678458.html,,,,,,,,,,,,,,,,0,
+212670,https://omsk.drom.ru/ford/focus/48939679.html,,,,,,,,,,,,,,,,0,
+212671,https://moscow.drom.ru/ford/focus/49074406.html,,,,,,,,,,,,,,,,0,
+212672,https://irkutsk.drom.ru/ford/kuga/48365807.html,,,,,,,,,,,,,,,,0,
+212673,https://moscow.drom.ru/ford/explorer/49059468.html,,,,,,,,,,,,,,,,0,
+212674,https://chita.drom.ru/ford/focus/47583875.html,,,,,,,,,,,,,,,,0,
+212675,https://moscow.drom.ru/ford/focus/49059448.html,,,,,,,,,,,,,,,,0,
+212676,https://moscow.drom.ru/ford/explorer/49059428.html,,,,,,,,,,,,,,,,0,
+212677,https://mozdok.drom.ru/ford/kuga/49059392.html,,,,,,,,,,,,,,,,0,
+212678,https://volgograd.drom.ru/ford/mondeo/49059339.html,,,,,,,,,,,,,,,,0,
+212679,https://volgograd.drom.ru/ford/fusion/48730119.html,,,,,,,,,,,,,,,,0,
+212680,https://sochi.drom.ru/ford/mondeo/48730041.html,,,,,,,,,,,,,,,,0,
+212681,https://moscow.drom.ru/ford/mondeo/48729854.html,,,,,,,,,,,,,,,,0,
+212682,https://moscow.drom.ru/ford/explorer/48728658.html,,,,,,,,,,,,,,,,0,
+212683,https://spb.drom.ru/ford/focus/48727642.html,,,,,,,,,,,,,,,,0,
+212684,https://nyagan.drom.ru/ford/mondeo/48727390.html,,,,,,,,,,,,,,,,0,
+212685,https://kemerovo.drom.ru/ford/focus/48724647.html,,,,,,,,,,,,,,,,0,
+212686,https://izhevsk.drom.ru/ford/kuga/48723950.html,,,,,,,,,,,,,,,,0,
+212687,https://barnaul.drom.ru/ford/tourneo_connect/48723462.html,,,,,,,,,,,,,,,,0,
+212688,https://abakan.drom.ru/ford/focus/48721601.html,,,,,,,,,,,,,,,,0,
+212689,https://kemerovo.drom.ru/ford/mondeo/48720142.html,,,,,,,,,,,,,,,,0,
+212690,https://spb.drom.ru/ford/focus/48718413.html,,,,,,,,,,,,,,,,0,
+212691,https://minusinsk.drom.ru/ford/kuga/48542994.html,,,,,,,,,,,,,,,,0,
+212692,https://tula.drom.ru/ford/kuga/48381369.html,,,,,,,,,,,,,,,,0,
+212693,https://spb.drom.ru/ford/kuga/48043809.html,,,,,,,,,,,,,,,,0,
+212694,https://kazan.drom.ru/ford/focus/48043810.html,,,,,,,,,,,,,,,,0,
+212695,https://abakan.drom.ru/ford/focus/48043814.html,,,,,,,,,,,,,,,,0,
+212696,https://samara.drom.ru/ford/focus/48042760.html,,,,,,,,,,,,,,,,0,
+212697,https://spb.drom.ru/ford/mondeo/47826810.html,,,,,,,,,,,,,,,,0,
+212698,https://barnaul.drom.ru/ford/focus/47710614.html,,,,,,,,,,,,,,,,0,
+212699,https://tyumen.drom.ru/ford/focus/47709828.html,,,,,,,,,,,,,,,,0,
+212700,https://angarsk.drom.ru/ford/focus/47705520.html,,,,,,,,,,,,,,,,0,
+212701,https://krymsk.drom.ru/ford/focus/47672972.html,,,,,,,,,,,,,,,,0,
+212702,https://moscow.drom.ru/ford/focus/47599897.html,,,,,,,,,,,,,,,,0,
+212703,https://khanty-mansiysk.drom.ru/ford/focus/47553959.html,,,,,,,,,,,,,,,,0,
+212704,https://novosibirsk.drom.ru/ford/focus/47404528.html,,,,,,,,,,,,,,,,0,
+212705,https://yaroslavl.drom.ru/ford/fusion/47377175.html,,,,,,,,,,,,,,,,0,
+212706,https://chita.drom.ru/ford/focus/47376084.html,,,,,,,,,,,,,,,,0,
+212707,https://habarovsk.drom.ru/ford/kuga/47374266.html,,,,,,,,,,,,,,,,0,
+212708,https://krasnoyarsk.drom.ru/ford/focus/47372796.html,,,,,,,,,,,,,,,,0,
+212709,https://ufa.drom.ru/ford/kuga/47369208.html,,,,,,,,,,,,,,,,0,
+212710,https://belgorod.drom.ru/ford/focus/47344067.html,,,,,,,,,,,,,,,,0,
+212711,https://yevpatoriya.drom.ru/ford/focus/47253300.html,,,,,,,,,,,,,,,,0,
+212712,https://zlatoust.drom.ru/ford/kuga/47199494.html,,,,,,,,,,,,,,,,0,
+212713,https://volgograd.drom.ru/ford/focus/49064799.html,,,,,,,,,,,,,,,,0,
+212714,https://angarsk.drom.ru/ford/focus/49064782.html,,,,,,,,,,,,,,,,0,
+212715,https://nizhniy-novgorod.drom.ru/ford/focus/49064371.html,,,,,,,,,,,,,,,,0,
+212716,https://chelyabinsk.drom.ru/ford/focus/48902420.html,,,,,,,,,,,,,,,,0,
+212717,https://slavyansk-na-kubani.drom.ru/ford/mondeo/49064211.html,,,,,,,,,,,,,,,,0,
+212718,https://chita.drom.ru/ford/mondeo/48818323.html,,,,,,,,,,,,,,,,0,
+212719,https://samara.drom.ru/ford/focus/48380569.html,,,,,,,,,,,,,,,,0,
+212720,https://krasnoyarsk.drom.ru/ford/kuga/49063796.html,,,,,,,,,,,,,,,,0,
+212721,https://berdsk.drom.ru/ford/focus/49063845.html,,,,,,,,,,,,,,,,0,
+212722,https://simferopol.drom.ru/ford/s-max/49063827.html,,,,,,,,,,,,,,,,0,
+212723,https://kemerovo.drom.ru/ford/focus/48539400.html,,,,,,,,,,,,,,,,0,
+212724,https://moscow.drom.ru/ford/focus/48740118.html,,,,,,,,,,,,,,,,0,
+212725,https://strezhevoy.drom.ru/ford/mondeo/48710539.html,,,,,,,,,,,,,,,,0,
+212726,https://khanty-mansiysk.drom.ru/ford/explorer/49063579.html,,,,,,,,,,,,,,,,0,
+212727,https://moscow.drom.ru/ford/focus/49063575.html,,,,,,,,,,,,,,,,0,
+212728,https://yaroslavl.drom.ru/ford/focus/49063432.html,,,,,,,,,,,,,,,,0,
+212729,https://khanty-mansiysk.drom.ru/ford/focus/49063337.html,,,,,,,,,,,,,,,,0,
+212730,https://tambov.drom.ru/ford/kuga/49063336.html,,,,,,,,,,,,,,,,0,
+212731,https://zavodoukovsk.drom.ru/ford/focus/49062952.html,,,,,,,,,,,,,,,,0,
+212732,https://vladivostok.drom.ru/ford/kuga/49062920.html,,,,,,,,,,,,,,,,0,
+212733,https://izhevsk.drom.ru/ford/focus/49062843.html,,,,,,,,,,,,,,,,0,
+212734,https://tomsk.drom.ru/ford/focus/48747087.html,,,,,,,,,,,,,,,,0,
+212735,https://irbit.drom.ru/ford/focus/49062693.html,,,,,,,,,,,,,,,,0,
+212736,https://kemerovo.drom.ru/ford/focus/49062419.html,,,,,,,,,,,,,,,,0,
+212737,https://obninsk.drom.ru/ford/mondeo/45687806.html,Ford,Mondeo,Обнинск,2012,бензин,2.3,161,АКПП,передний,седан,серебристый,191000,левый,"4 поколение, рестайлинг",,0,820000
+212738,https://obninsk.drom.ru/ford/focus/48328331.html,,,,,,,,,,,,,,,,0,
+212739,https://irkutsk.drom.ru/ford/focus/49062546.html,,,,,,,,,,,,,,,,0,
+212740,https://moscow.drom.ru/ford/econoline/48553534.html,,,,,,,,,,,,,,,,0,
+212741,https://novosibirsk.drom.ru/ford/focus/49062399.html,,,,,,,,,,,,,,,,0,
+212742,https://stavropol.drom.ru/ford/focus/47625499.html,Ford,Focus,Ставрополь,2013,бензин,1.6,105,механика,передний,хэтчбек 5 дв.,белый,152000,левый,3 поколение,1.6 MT Trend,1,608399
+212743,https://nizhniy-novgorod.drom.ru/ford/ecosport/49062299.html,,,,,,,,,,,,,,,,0,
+212744,https://volgograd.drom.ru/ford/focus/49062253.html,,,,,,,,,,,,,,,,0,
+212745,https://kemerovo.drom.ru/ford/focus/48988270.html,,,,,,,,,,,,,,,,0,
+212746,https://spb.drom.ru/ford/tourneo/47331925.html,,,,,,,,,,,,,,,,0,
+212747,https://anapa.drom.ru/ford/kuga/49061955.html,,,,,,,,,,,,,,,,0,
+212748,https://grozniy.drom.ru/ford/mondeo/49061940.html,Ford,Mondeo,Грозный,2011,бензин,1.6,120,механика,передний,седан,серебристый,183000,левый,"4 поколение, рестайлинг",,0,650000
+212749,https://gelendzhik.drom.ru/ford/focus/49061807.html,,,,,,,,,,,,,,,,0,
+212750,https://labinsk.drom.ru/ford/c-max/49061753.html,,,,,,,,,,,,,,,,0,
+212751,https://komsomolsk.drom.ru/ford/kuga/49061740.html,,,,,,,,,,,,,,,,0,
+212752,https://gudermes.drom.ru/ford/focus/49061689.html,Ford,Focus,Гудермес,2014,бензин,2.0,150,робот,передний,седан,черный,100000,левый,3 поколение,,0,965000
+212753,https://sochi.drom.ru/ford/kuga/49066721.html,,,,,,,,,,,,,,,,0,
+212754,https://spb.drom.ru/ford/explorer/49066682.html,,,,,,,,,,,,,,,,0,
+212755,https://spb.drom.ru/ford/mondeo/49066493.html,,,,,,,,,,,,,,,,0,
+212756,https://saratov.drom.ru/ford/focus/49066415.html,,,,,,,,,,,,,,,,0,
+212757,https://sevastopol.drom.ru/ford/focus/49066392.html,,,,,,,,,,,,,,,,0,
+212758,https://ekaterinburg.drom.ru/ford/focus/49066358.html,,,,,,,,,,,,,,,,0,
+212759,https://dyurtyuli.drom.ru/ford/focus/49066279.html,,,,,,,,,,,,,,,,0,
+212760,https://rostov-na-donu.drom.ru/ford/mondeo/49066053.html,,,,,,,,,,,,,,,,0,
+212761,https://izhevsk.drom.ru/ford/focus/48728594.html,,,,,,,,,,,,,,,,0,
+212762,https://usoliye-sibirskoe.drom.ru/ford/focus/49065955.html,,,,,,,,,,,,,,,,0,
+212763,https://ekaterinburg.drom.ru/ford/focus/49065796.html,,,,,,,,,,,,,,,,0,
+212764,https://izhevsk.drom.ru/ford/focus/49065753.html,,,,,,,,,,,,,,,,0,
+212765,https://surgut.drom.ru/ford/focus/47330991.html,,,,,,,,,,,,,,,,0,
+212766,https://simferopol.drom.ru/ford/focus/45505777.html,,,,,,,,,,,,,,,,0,
+212767,https://simferopol.drom.ru/ford/focus/49065186.html,,,,,,,,,,,,,,,,0,
+212768,https://spb.drom.ru/ford/mondeo/49065171.html,,,,,,,,,,,,,,,,0,
+212769,https://sevastopol.drom.ru/ford/focus/49065068.html,,,,,,,,,,,,,,,,0,
+212770,https://krasnoyarsk.drom.ru/ford/fusion/49064989.html,,,,,,,,,,,,,,,,0,
+212771,https://novosibirsk.drom.ru/ford/mustang/49064737.html,,,,,,,,,,,,,,,,0,
+212772,https://krasnodar.drom.ru/ford/focus/49064801.html,,,,,,,,,,,,,,,,0,
+212773,https://krasnodar.drom.ru/ford/focus/49067739.html,,,,,,,,,,,,,,,,0,
+212774,https://karabulak.drom.ru/ford/focus/49067720.html,Ford,Focus,Карабулак,2012,дизель,2.0,140,робот,передний,седан,белый,177500,левый,3 поколение,,0,690000
+212775,https://spb.drom.ru/ford/focus/49067650.html,,,,,,,,,,,,,,,,0,
+212776,https://moscow.drom.ru/ford/explorer/48916912.html,,,,,,,,,,,,,,,,0,
+212777,https://moscow.drom.ru/ford/explorer/48916905.html,,,,,,,,,,,,,,,,0,
+212778,https://krasnodar.drom.ru/ford/focus/49067627.html,,,,,,,,,,,,,,,,0,
+212779,https://sochi.drom.ru/ford/focus/48724945.html,,,,,,,,,,,,,,,,0,
+212780,https://spb.drom.ru/ford/focus/49067445.html,,,,,,,,,,,,,,,,0,
+212781,https://grozniy.drom.ru/ford/focus/48721021.html,Ford,Focus,Грозный,2012,бензин,1.6,125,робот,передний,седан,коричневый,237000,левый,3 поколение,,0,650000
+212782,https://spb.drom.ru/ford/kuga/49067367.html,,,,,,,,,,,,,,,,0,
+212783,https://omsk.drom.ru/ford/focus/49067085.html,,,,,,,,,,,,,,,,0,
+212784,https://krasnoyarsk.drom.ru/ford/kuga/48134265.html,,,,,,,,,,,,,,,,0,
+212785,https://uva.drom.ru/ford/focus/49066841.html,,,,,,,,,,,,,,,,0,
+212786,https://krasnodar.drom.ru/ford/ecosport/48758907.html,,,,,,,,,,,,,,,,0,
+212787,https://kuznetsk.drom.ru/ford/focus/49066789.html,,,,,,,,,,,,,,,,0,
+212788,https://novokuznetsk.drom.ru/ford/focus/49066784.html,,,,,,,,,,,,,,,,0,
+212789,https://moscow.drom.ru/ford/explorer/48356768.html,,,,,,,,,,,,,,,,0,
+212790,https://obninsk.drom.ru/ford/focus/48350218.html,,,,,,,,,,,,,,,,0,
+212791,https://omsk.drom.ru/ford/focus/49066745.html,,,,,,,,,,,,,,,,0,
+212792,https://kurgan.drom.ru/ford/focus/49066731.html,,,,,,,,,,,,,,,,0,
+212793,https://krasnoyarsk.drom.ru/ford/focus/48401030.html,,,,,,,,,,,,,,,,0,
+212794,https://irkutsk.drom.ru/ford/mondeo/48607450.html,,,,,,,,,,,,,,,,0,
+212795,https://novomoskovsk.drom.ru/ford/c-max/47588810.html,Ford,C-MAX,Новомосковск,2010,бензин,1.6,150,механика,передний,,синий,190000,левый,2 поколение,,0,689000
+212796,https://novomoskovsk.drom.ru/ford/focus/47579534.html,Ford,Focus,Новомосковск,2012,бензин,1.6,125,механика,передний,универсал,серый,97000,левый,3 поколение,1.6 MT Trend,0,779000
+212797,https://novomoskovsk.drom.ru/ford/mondeo/47573804.html,Ford,Mondeo,Новомосковск,2012,бензин,2.0,145,механика,передний,седан,серебристый,260000,левый,"4 поколение, рестайлинг",2.0 Flexifuel MT Trend,0,689000
+212798,https://ekaterinburg.drom.ru/ford/focus/49071643.html,,,,,,,,,,,,,,,,0,
+212799,https://krymsk.drom.ru/ford/ranger/49071489.html,,,,,,,,,,,,,,,,0,
+212800,https://samara.drom.ru/ford/focus/49071452.html,,,,,,,,,,,,,,,,0,
+212801,https://kansk.drom.ru/ford/mondeo/47565545.html,,,,,,,,,,,,,,,,0,
+212802,https://abakan.drom.ru/ford/focus/48395163.html,,,,,,,,,,,,,,,,0,
+212803,https://murmansk.drom.ru/ford/explorer/46372409.html,,,,,,,,,,,,,,,,0,
+212804,https://habarovsk.drom.ru/ford/focus/49071024.html,,,,,,,,,,,,,,,,0,
+212805,https://novosibirsk.drom.ru/ford/focus/47933791.html,,,,,,,,,,,,,,,,0,
+212806,https://novosibirsk.drom.ru/ford/ranger/48581921.html,,,,,,,,,,,,,,,,0,
+212807,https://grozniy.drom.ru/ford/focus/49070727.html,Ford,Focus,Грозный,2014,бензин,1.6,125,робот,передний,седан,черный,195000,левый,3 поколение,,0,795000
+212808,https://shali.drom.ru/ford/focus/49070682.html,Ford,Focus,Шали,2013,бензин,1.6,125,робот,передний,седан,белый,83000,левый,3 поколение,,0,830000
+212809,https://novosibirsk.drom.ru/ford/focus/49070579.html,,,,,,,,,,,,,,,,0,
+212810,https://moscow.drom.ru/ford/focus/48733179.html,,,,,,,,,,,,,,,,0,
+212811,https://krasnoyarsk.drom.ru/ford/focus/49052790.html,,,,,,,,,,,,,,,,0,
+212812,https://biysk.drom.ru/ford/focus/49070393.html,,,,,,,,,,,,,,,,0,
+212813,https://moscow.drom.ru/ford/mondeo/47041080.html,,,,,,,,,,,,,,,,0,
+212814,https://tyumen.drom.ru/ford/explorer/47041864.html,,,,,,,,,,,,,,,,0,
+212815,https://chelyabinsk.drom.ru/ford/focus/46957408.html,,,,,,,,,,,,,,,,0,
+212816,https://krasnodar.drom.ru/ford/focus/46963530.html,,,,,,,,,,,,,,,,0,
+212817,https://borzya.drom.ru/ford/focus/46815331.html,,,,,,,,,,,,,,,,0,
+212818,https://kemerovo.drom.ru/ford/mondeo/46795066.html,,,,,,,,,,,,,,,,0,
+212819,https://borzya.drom.ru/ford/kuga/46679529.html,,,,,,,,,,,,,,,,0,
+212820,https://raduzhniy-hanty.drom.ru/ford/mondeo/46377267.html,,,,,,,,,,,,,,,,0,
+212821,https://tula.drom.ru/ford/tourneo_custom/46375687.html,,,,,,,,,,,,,,,,0,
+212822,https://nizhniy-novgorod.drom.ru/ford/fiesta/46375351.html,,,,,,,,,,,,,,,,0,
+212823,https://samara.drom.ru/ford/galaxy/46331039.html,,,,,,,,,,,,,,,,0,
+212824,https://novosibirsk.drom.ru/ford/focus/46043685.html,,,,,,,,,,,,,,,,0,
+212825,https://mezhdurechensk.drom.ru/ford/kuga/45960549.html,,,,,,,,,,,,,,,,0,
+212826,https://barnaul.drom.ru/ford/focus/45839170.html,,,,,,,,,,,,,,,,0,
+212827,https://yahroma.drom.ru/ford/focus/44553349.html,,,,,,,,,,,,,,,,0,
+212828,https://tyumen.drom.ru/ford/focus/43769008.html,,,,,,,,,,,,,,,,0,
+212829,https://uray.drom.ru/ford/tourneo/41986497.html,,,,,,,,,,,,,,,,0,
+212830,https://prokopyevsk.drom.ru/ford/kuga/41883979.html,,,,,,,,,,,,,,,,0,
+212831,https://spb.drom.ru/ford/focus/49067755.html,,,,,,,,,,,,,,,,0,
+212832,https://sunzha-ingushetia.drom.ru/ford/focus/49067743.html,Ford,Focus,Сунжа,2013,бензин,2.0,150,робот,передний,седан,белый,153000,левый,3 поколение,2.0 PowerShift Titanium ,0,730000
+212833,https://ekaterinburg.drom.ru/ford/mondeo/47699063.html,,,,,,,,,,,,,,,,0,
+212834,https://krasnodar.drom.ru/ford/focus/47698769.html,,,,,,,,,,,,,,,,0,
+212835,https://moscow.drom.ru/ford/focus/47696783.html,,,,,,,,,,,,,,,,0,
+212836,https://yaroslavl.drom.ru/ford/focus/47696316.html,,,,,,,,,,,,,,,,0,
+212837,https://krasnoyarsk.drom.ru/ford/focus/47693971.html,,,,,,,,,,,,,,,,0,
+212838,https://balebey.drom.ru/ford/explorer/47692584.html,,,,,,,,,,,,,,,,0,
+212839,https://ussuriisk.drom.ru/ford/focus/47691450.html,,,,,,,,,,,,,,,,0,
+212840,https://vladivostok.drom.ru/ford/kuga/47690222.html,,,,,,,,,,,,,,,,0,
+212841,https://spb.drom.ru/ford/kuga/47364956.html,,,,,,,,,,,,,,,,0,
+212842,https://orenburg.drom.ru/ford/focus/47363596.html,,,,,,,,,,,,,,,,0,
+212843,https://ekaterinburg.drom.ru/ford/focus/47361363.html,,,,,,,,,,,,,,,,0,
+212844,https://irkutsk.drom.ru/ford/focus/47358259.html,,,,,,,,,,,,,,,,0,
+212845,https://chelyabinsk.drom.ru/ford/focus/47325706.html,,,,,,,,,,,,,,,,0,
+212846,https://saratov.drom.ru/ford/focus/47029261.html,,,,,,,,,,,,,,,,0,
+212847,https://gai.drom.ru/ford/kuga/47018240.html,,,,,,,,,,,,,,,,0,
+212848,https://tomsk.drom.ru/ford/focus/47003974.html,,,,,,,,,,,,,,,,0,
+212849,https://krasnoyarsk.drom.ru/ford/focus/46694109.html,,,,,,,,,,,,,,,,0,
+212850,https://tomsk.drom.ru/ford/focus/46569278.html,,,,,,,,,,,,,,,,0,
+212851,https://askiz.drom.ru/ford/focus/46507149.html,,,,,,,,,,,,,,,,0,
+212852,https://sayansk.drom.ru/ford/focus/46390189.html,,,,,,,,,,,,,,,,0,
+212853,https://bodaibo.drom.ru/ford/kuga/48380355.html,,,,,,,,,,,,,,,,0,
+212854,https://moscow.drom.ru/ford/kuga/48380214.html,,,,,,,,,,,,,,,,0,
+212855,https://minvody.drom.ru/ford/focus/48378876.html,,,,,,,,,,,,,,,,0,
+212856,https://kemerovo.drom.ru/ford/focus/48378387.html,,,,,,,,,,,,,,,,0,
+212857,https://kazan.drom.ru/ford/kuga/48377193.html,,,,,,,,,,,,,,,,0,
+212858,https://zimovniki.drom.ru/ford/focus/48376507.html,,,,,,,,,,,,,,,,0,
+212859,https://chernogorsk.drom.ru/ford/mondeo/48375274.html,,,,,,,,,,,,,,,,0,
+212860,https://tomsk.drom.ru/ford/focus/48371975.html,,,,,,,,,,,,,,,,0,
+212861,https://moscow.drom.ru/ford/explorer/48037261.html,,,,,,,,,,,,,,,,0,
+212862,https://minusinsk.drom.ru/ford/fusion/48035272.html,,,,,,,,,,,,,,,,0,
+212863,https://zavodoukovsk.drom.ru/ford/focus/48034645.html,,,,,,,,,,,,,,,,0,
+212864,https://tyumen.drom.ru/ford/focus/48032759.html,,,,,,,,,,,,,,,,0,
+212865,https://yalutorovsk.drom.ru/ford/focus/48032579.html,,,,,,,,,,,,,,,,0,
+212866,https://tula.drom.ru/ford/focus/48031481.html,,,,,,,,,,,,,,,,0,
+212867,https://novokuznetsk.drom.ru/ford/focus/48030289.html,,,,,,,,,,,,,,,,0,
+212868,https://vladivostok.drom.ru/ford/tourneo_custom/48030405.html,,,,,,,,,,,,,,,,0,
+212869,https://volgograd.drom.ru/ford/kuga/48028961.html,,,,,,,,,,,,,,,,0,
+212870,https://sovetskiy-krym.drom.ru/ford/explorer/49059313.html,,,,,,,,,,,,,,,,0,
+212871,https://moscow.drom.ru/ford/focus/47968913.html,,,,,,,,,,,,,,,,0,
+212872,https://syktyvkar.drom.ru/ford/explorer/47700185.html,,,,,,,,,,,,,,,,0,
+212873,https://penza.drom.ru/ford/kuga/48033861.html,,,,,,,,,,,,,,,,0,
+212874,https://moscow.drom.ru/ford/focus/48721525.html,,,,,,,,,,,,,,,,0,
+212875,https://moscow.drom.ru/ford/s-max/48721576.html,,,,,,,,,,,,,,,,0,
+212876,https://tyumen.drom.ru/ford/mondeo/47272240.html,,,,,,,,,,,,,,,,0,
+212877,https://irkutsk.drom.ru/ford/kuga/48433883.html,,,,,,,,,,,,,,,,0,
+212878,https://naro-fominsk.drom.ru/ford/focus/49061248.html,,,,,,,,,,,,,,,,0,
+212879,https://achinsk.drom.ru/ford/explorer/48719918.html,,,,,,,,,,,,,,,,0,
+212880,https://saransk.drom.ru/ford/focus/49061139.html,,,,,,,,,,,,,,,,0,
+212881,https://ekaterinburg.drom.ru/ford/focus/49060930.html,,,,,,,,,,,,,,,,0,
+212882,https://tyumen.drom.ru/ford/focus/49060850.html,,,,,,,,,,,,,,,,0,
+212883,https://barnaul.drom.ru/ford/explorer/48236767.html,,,,,,,,,,,,,,,,0,
+212884,https://surgut.drom.ru/ford/kuga/48743616.html,,,,,,,,,,,,,,,,0,
+212885,https://novokuznetsk.drom.ru/ford/mondeo/48406049.html,,,,,,,,,,,,,,,,0,
+212886,https://tyumen.drom.ru/ford/focus/49013105.html,,,,,,,,,,,,,,,,0,
+212887,https://barnaul.drom.ru/ford/kuga/48095174.html,,,,,,,,,,,,,,,,0,
+212888,https://tomsk.drom.ru/ford/kuga/46766923.html,,,,,,,,,,,,,,,,0,
+212889,https://irkutsk.drom.ru/ford/focus/49059835.html,,,,,,,,,,,,,,,,0,
+212890,https://krasnoyarsk.drom.ru/ford/fusion/46652275.html,,,,,,,,,,,,,,,,0,
+212891,https://velikiy-novgorod.drom.ru/ford/mondeo/49059743.html,,,,,,,,,,,,,,,,0,
+212892,https://himki.drom.ru/ford/mondeo/49059578.html,,,,,,,,,,,,,,,,0,
+212893,https://spb.drom.ru/ford/focus/47021104.html,Ford,Focus,Санкт-Петербург,2013,бензин,1.6,125,робот,передний,универсал,серебристый,173000,левый,3 поколение,,0,595000
+212894,https://spb.drom.ru/ford/focus/48047024.html,,,,,,,,,,,,,,,,0,
+212895,https://zavodoukovsk.drom.ru/ford/focus/49069947.html,,,,,,,,,,,,,,,,0,
+212896,https://irkutsk.drom.ru/ford/focus/46388248.html,,,,,,,,,,,,,,,,0,
+212897,https://tyumen.drom.ru/ford/focus/49069870.html,,,,,,,,,,,,,,,,0,
+212898,https://barnaul.drom.ru/ford/focus/48527778.html,,,,,,,,,,,,,,,,0,
+212899,https://perm.drom.ru/ford/explorer/46377897.html,,,,,,,,,,,,,,,,0,
+212900,https://bratsk.drom.ru/ford/focus/49069168.html,,,,,,,,,,,,,,,,0,
+212901,https://pskov.drom.ru/ford/focus/49069139.html,,,,,,,,,,,,,,,,0,
+212902,https://novokuznetsk.drom.ru/ford/kuga/48980465.html,,,,,,,,,,,,,,,,0,
+212903,https://irkutsk.drom.ru/ford/kuga/48777453.html,,,,,,,,,,,,,,,,0,
+212904,https://markova.drom.ru/ford/focus/49068923.html,,,,,,,,,,,,,,,,0,
+212905,https://novosibirsk.drom.ru/ford/focus/48017074.html,,,,,,,,,,,,,,,,0,
+212906,https://vladivostok.drom.ru/ford/explorer/49051499.html,,,,,,,,,,,,,,,,0,
+212907,https://omsk.drom.ru/ford/focus/48467504.html,,,,,,,,,,,,,,,,0,
+212908,https://chelyabinsk.drom.ru/ford/focus/49068742.html,,,,,,,,,,,,,,,,0,
+212909,https://barnaul.drom.ru/ford/focus/49068733.html,,,,,,,,,,,,,,,,0,
+212910,https://stavropol.drom.ru/ford/focus/49068571.html,,,,,,,,,,,,,,,,0,
+212911,https://vladivostok.drom.ru/ford/kuga/47017932.html,,,,,,,,,,,,,,,,0,
+212912,https://krasnoyarsk.drom.ru/ford/focus/48390667.html,,,,,,,,,,,,,,,,0,
+212913,https://troytsk-chelabinsk.drom.ru/ford/tourneo_connect/46826955.html,,,,,,,,,,,,,,,,0,
+212914,https://omsk.drom.ru/ford/mondeo/48969647.html,,,,,,,,,,,,,,,,0,
+212915,https://krasnodar.drom.ru/ford/focus/49058626.html,,,,,,,,,,,,,,,,0,
+212916,https://buturlinovka.drom.ru/ford/focus/48713526.html,,,,,,,,,,,,,,,,0,
+212917,https://izhevsk.drom.ru/ford/focus/49058513.html,,,,,,,,,,,,,,,,0,
+212918,https://abakan.drom.ru/ford/focus/48507030.html,,,,,,,,,,,,,,,,0,
+212919,https://novokuznetsk.drom.ru/ford/fiesta/49057624.html,Ford,Fiesta,Новокузнецк,2011,бензин,1.4,96,АКПП,передний,хэтчбек 5 дв.,черный,122580,левый,6 поколение,,0,640000
+212920,https://novosibirsk.drom.ru/ford/ranger/45656438.html,Ford,Ranger,Новосибирск,2010,дизель,2.5,143,механика,4WD,,серебристый,303000,левый,"2 поколение, рестайлинг",2.5 TDCi MT XLT Двойная кабина,0,975000
+212921,https://spb.drom.ru/ford/focus/49057195.html,Ford,Focus,Санкт-Петербург,2010,бензин,1.8,125,механика,передний,хэтчбек 5 дв.,серый,316000,левый,"2 поколение, рестайлинг",1.8 MT Titanium,0,420000
+212922,https://tyumen.drom.ru/ford/focus/49057081.html,Ford,Focus,Тюмень,2012,бензин,1.6,85,механика,передний,хэтчбек 5 дв.,белый,185000,левый,3 поколение,,0,570000
+212923,https://ryazan.drom.ru/ford/mondeo/49056919.html,Ford,Mondeo,Рязань,2013,бензин,2.0,145,механика,передний,седан,черный,229500,левый,"4 поколение, рестайлинг",2.0 MT Trend ,1,620000
+212924,https://krasnoyarsk.drom.ru/ford/focus/49056639.html,Ford,Focus,Красноярск,2013,бензин,1.6,125,робот,передний,хэтчбек 5 дв.,белый,166000,левый,3 поколение,,0,962000
+212925,https://moscow.drom.ru/ford/mondeo/49056586.html,Ford,Mondeo,Москва,2010,бензин,1.6,125,механика,передний,седан,черный,151941,левый,4 поколение,1.6 MT Ambiente,0,501000
+212926,https://tambov.drom.ru/ford/focus/49056535.html,Ford,Focus,Тамбов,2012,бензин,1.6,105,механика,передний,хэтчбек 5 дв.,серебристый,149000,левый,3 поколение,1.6 MT Trend,0,695000
+212927,https://spb.drom.ru/ford/kuga/49056479.html,Ford,Kuga,Санкт-Петербург,2011,дизель,2.0,163,робот,4WD,,белый,203000,левый,1 поколение,2.0 TDCi PowerShift Titanium S ,0,1050000
+212928,https://ufa.drom.ru/ford/focus/49056296.html,Ford,Focus,Уфа,2013,бензин,1.6,105,робот,передний,седан,серебристый,145500,левый,3 поколение,1.6 PowerShift Trend ,1,698000
+212929,https://olekminsk.drom.ru/ford/ranger/47152244.html,Ford,Ranger,Олёкминск,2010,дизель,2.5,143,механика,4WD,,серебристый,98554,левый,"2 поколение, рестайлинг",,0,1100000
+212930,https://irkutsk.drom.ru/ford/focus/47680919.html,Ford,Focus,Иркутск,2013,бензин,2.0,150,механика,передний,седан,белый,170000,левый,3 поколение,2.0 MT Titanium,0,800000
+212931,https://abakan.drom.ru/ford/focus/48106737.html,Ford,Focus,Абакан,2011,бензин,1.6,105,механика,передний,хэтчбек 5 дв.,черный,170000,левый,3 поколение,1.6 MT Trend,0,649000
+212932,https://nizhniy-novgorod.drom.ru/ford/focus/49055902.html,Ford,Focus,Нижний Новгород,2012,бензин,1.6,125,робот,передний,хэтчбек 5 дв.,белый,30234,левый,3 поколение,1.6 PowerShift Titanium,1,905000
+212933,https://chita.drom.ru/ford/focus/46357280.html,Ford,Focus,Чита,2011,бензин,1.6,125,механика,передний,хэтчбек 5 дв.,серый,315000,левый,3 поколение,,0,200000
+212934,https://naberezhnye-chelny.drom.ru/ford/focus/46341253.html,Ford,Focus,Набережные Челны,2012,бензин,2.0,150,робот,передний,универсал,серый,141000,левый,3 поколение,2.0 PowerShift Titanium ,0,650000
+212935,https://miass.drom.ru/ford/focus/46177118.html,Ford,Focus,Миасс,2011,дизель,1.8,115,механика,передний,седан,серебристый,129000,левый,"2 поколение, рестайлинг",1.8 TDCi MT Titanium ,1,630000
+212936,https://chelyabinsk.drom.ru/ford/fiesta/46204186.html,Ford,Fiesta,Челябинск,2011,бензин,1.4,96,АКПП,передний,хэтчбек 5 дв.,бордовый,168000,левый,6 поколение,,0,550000
+212937,https://novosibirsk.drom.ru/ford/focus/46048709.html,Ford,Focus,Новосибирск,2011,бензин,1.6,125,механика,передний,хэтчбек 5 дв.,серый,77000,левый,3 поколение,1.6 MT Trend Sport,0,850000
+212938,https://krasnoyarsk.drom.ru/ford/focus/46041260.html,Ford,Focus,Красноярск,2013,бензин,1.6,105,механика,передний,седан,белый,129000,левый,3 поколение,1.6 MT Trend,0,705000
+212939,https://osinniki.drom.ru/ford/focus/45827982.html,Ford,Focus,Осинники,2011,бензин,1.6,100,механика,передний,седан,белый,150000,левый,"2 поколение, рестайлинг",1.6 MT Comfort,0,600000
+212940,https://anapa.drom.ru/ford/focus/45006654.html,Ford,Focus,Анапа,2011,бензин,1.6,100,механика,передний,хэтчбек 5 дв.,серебристый,162000,левый,"2 поколение, рестайлинг",1.6 MT Comfort ,0,555000
+212941,https://kazan.drom.ru/ford/focus/44888646.html,Ford,Focus,Казань,2013,бензин,1.6,125,механика,передний,хэтчбек 5 дв.,синий,145118,левый,3 поколение,,0,633857
+212942,https://chelyabinsk.drom.ru/ford/mondeo/44503251.html,Ford,Mondeo,Челябинск,2013,бензин,1.6,120,механика,передний,седан,,123000,левый,"4 поколение, рестайлинг",,0,650000
+212943,https://barnaul.drom.ru/ford/focus/43828634.html,Ford,Focus,Барнаул,2012,бензин,1.6,125,робот,передний,хэтчбек 5 дв.,красный,140000,левый,3 поколение,1.6 PowerShift Trend Sport ,0,650000
+212944,https://rostov-na-donu.drom.ru/ford/focus/48717644.html,Ford,Focus,Ростов-на-Дону,2012,бензин,2.0,150,робот,передний,универсал,серебристый,185380,левый,3 поколение,2.0 PowerShift Titanium ,0,680000
+212945,https://grozniy.drom.ru/ford/focus/49059279.html,Ford,Focus,Грозный,2013,бензин,1.6,105,робот,передний,седан,черный,260000,левый,3 поколение,1.6 PowerShift Trend ,0,470000
+212946,https://yevpatoriya.drom.ru/ford/explorer/49059221.html,Ford,Explorer,Евпатория,2012,бензин,3.5,294,АКПП,4WD,джип/suv 5 дв.,черный,150000,левый,5 поколение,,0,1500000
+212947,https://krasnodar.drom.ru/ford/kuga/48748449.html,Ford,Kuga,Краснодар,2011,дизель,2.0,140,робот,4WD,,белый,192000,левый,1 поколение,2.0 TDCi AWD DSG Titanium,1,1050000
+212948,https://nizhniy-novgorod.drom.ru/ford/focus/49059120.html,Ford,Focus,Нижний Новгород,2011,бензин,1.6,115,механика,передний,седан,черный,163000,левый,"2 поколение, рестайлинг",1.6 Ti-VCT MT Comfort,0,465000
+212949,https://spb.drom.ru/ford/focus/49058825.html,Ford,Focus,Санкт-Петербург,2010,бензин,1.4,80,механика,передний,хэтчбек 5 дв.,серебристый,174632,левый,"2 поколение, рестайлинг",1.4 MT Comfort,0,385000
+212950,https://orenburg.drom.ru/ford/focus/49058724.html,Ford,Focus,Оренбург,2013,бензин,1.6,125,робот,передний,хэтчбек 5 дв.,синий,,левый,3 поколение,1.6 PowerShift Trend ,0,700000
+212951,https://balaklava.drom.ru/ford/kuga/49058673.html,Ford,Kuga,Балаклава,2012,бензин,2.5,200,АКПП,4WD,,черный,126000,левый,1 поколение,2.5 AWD AT Titanium,0,1040000
+212952,https://chelyabinsk.drom.ru/ford/c-max/48735343.html,Ford,C-MAX,Челябинск,2010,бензин,1.6,125,механика,передний,,серый,250000,левый,2 поколение,,0,499000
+212953,https://kemerovo.drom.ru/ford/focus/48391051.html,Ford,Focus,Кемерово,2012,бензин,2.0,150,робот,передний,хэтчбек 5 дв.,черный,156000,левый,3 поколение,2.0 PowerShift Titanium ,0,715000
+212954,https://spb.drom.ru/ford/focus/48390293.html,Ford,Focus,Санкт-Петербург,2011,бензин,1.6,125,робот,передний,хэтчбек 5 дв.,серый,183000,левый,3 поколение,,0,550000
+212955,https://togliatti.drom.ru/ford/fiesta/48389630.html,Ford,Fiesta,Тольятти,2010,бензин,1.4,96,АКПП,передний,хэтчбек 3 дв.,белый,110000,левый,6 поколение,1.4 AT Titanium 3dr.,0,615000
+212956,https://divnogorsk.drom.ru/ford/mondeo/48388951.html,Ford,Mondeo,Дивногорск,2010,бензин,2.3,161,АКПП,передний,седан,черный,220000,левый,4 поколение,2.3 AT Titanium X,0,800000
+212957,https://kalininskaya.drom.ru/ford/focus/48386418.html,Ford,Focus,Калининская,2012,бензин,2.0,150,робот,передний,хэтчбек 5 дв.,коричневый,170000,левый,3 поколение,2.0 PowerShift Titanium ,0,700000
+212958,https://kaluga.drom.ru/ford/focus/48384662.html,Ford,Focus,Калуга,2011,бензин,2.0,145,механика,передний,седан,белый,119000,левый,"2 поколение, рестайлинг",2.0 MT Comfort ,0,540000
+212959,https://surgut.drom.ru/ford/focus/48384197.html,Ford,Focus,Сургут,2011,бензин,1.6,125,робот,передний,седан,серебристый,140000,левый,3 поколение,,0,470000
+212960,https://novosibirsk.drom.ru/ford/focus/48383919.html,Ford,Focus,Новосибирск,2011,бензин,1.6,105,механика,передний,седан,серебристый,144000,левый,3 поколение,1.6 MT Trend,0,630000
+212961,https://tomsk.drom.ru/ford/focus/48383196.html,Ford,Focus,Томск,2011,бензин,1.6,105,механика,передний,седан,синий,160000,левый,3 поколение,,0,740000
+212962,https://chunskiy.drom.ru/ford/focus/48382475.html,Ford,Focus,Чунский,2011,бензин,2.0,150,робот,передний,хэтчбек 5 дв.,серый,174000,левый,3 поколение,2.0 PowerShift Titanium ,0,590000
+212963,https://kaliningrad.drom.ru/ford/focus/48357050.html,Ford,Focus,Калининград,2013,бензин,1.6,105,механика,передний,седан,серебристый,240000,левый,3 поколение,,0,530000
+212964,https://tobolsk.drom.ru/ford/kuga/48055169.html,Ford,Kuga,Тобольск,2013,дизель,2.0,140,робот,4WD,,серый,104000,левый,2 поколение,2.0 TDCi Powershift 4WD Titanium,0,1150000
+212965,https://khanty-mansiysk.drom.ru/ford/focus/48047805.html,Ford,Focus,Ханты-Мансийск,2011,бензин,1.6,105,механика,передний,хэтчбек 5 дв.,серебристый,158000,левый,3 поколение,1.6 MT Trend,0,620000
+212966,https://emva.drom.ru/ford/mondeo/48047737.html,Ford,Mondeo,Емва,2013,бензин,2.0,145,механика,передний,седан,черный,96000,левый,"4 поколение, рестайлинг",2.0 MT Trend ,0,900000
+212967,https://spb.drom.ru/ford/focus/48046575.html,Ford,Focus,Санкт-Петербург,2013,бензин,1.6,125,робот,передний,хэтчбек 5 дв.,красный,145206,левый,3 поколение,,0,810694
+212968,https://chelyabinsk.drom.ru/ford/focus/48045700.html,Ford,Focus,Челябинск,2012,бензин,1.6,105,механика,передний,хэтчбек 5 дв.,черный,204000,левый,3 поколение,1.6 MT Trend,0,460000
+212969,https://kazan.drom.ru/ford/focus/48044971.html,Ford,Focus,Казань,2013,бензин,1.6,85,механика,передний,хэтчбек 5 дв.,серый,169000,левый,3 поколение,1.6 Ti-VCT MT Trend,0,620000
+212970,https://kostroma.drom.ru/ford/focus/48045116.html,Ford,Focus,Кострома,2011,бензин,1.6,105,механика,передний,седан,черный,140000,левый,3 поколение,1.6 MT Trend,0,615000
+212971,https://irkutsk.drom.ru/ford/focus/48044246.html,Ford,Focus,Иркутск,2013,бензин,1.6,125,механика,передний,седан,синий,147700,левый,3 поколение,1.6 MT Trend Sport ,0,690000
+212972,https://izhevsk.drom.ru/ford/focus/48043954.html,Ford,Focus,Ижевск,2013,бензин,1.6,105,механика,передний,универсал,,220000,левый,3 поколение,1.6 MT Trend,0,600000
+212973,https://krasnodar.drom.ru/ford/mondeo/48733223.html,Ford,Mondeo,Краснодар,2012,дизель,2.0,140,автомат,передний,седан,серебристый,158939,,,,0,860000
+212974,https://spb.drom.ru/ford/fiesta/48392758.html,Ford,Fiesta,Санкт-Петербург,2010,бензин,1.4,96,АКПП,передний,хэтчбек 3 дв.,зеленый,186000,левый,6 поколение,,0,479900
+212975,https://samara.drom.ru/ford/focus/48740541.html,Ford,Focus,Самара,2012,бензин,1.6,125,механика,передний,универсал,синий,165000,левый,3 поколение,,0,709900
+212976,https://krasnodar.drom.ru/ford/mondeo/48740218.html,Ford,Mondeo,Краснодар,2012,бензин,2.3,161,АКПП,передний,седан,серый,145524,левый,"4 поколение, рестайлинг",,0,827800
+212977,https://naberezhnye-chelny.drom.ru/ford/mondeo/48739934.html,Ford,Mondeo,Набережные Челны,2012,бензин,2.0,145,механика,передний,седан,серебристый,207150,левый,"4 поколение, рестайлинг",,0,733200
+212978,https://nizhniy-novgorod.drom.ru/ford/focus/48739019.html,Ford,Focus,Нижний Новгород,2013,бензин,1.6,125,робот,передний,хэтчбек 5 дв.,белый,156000,левый,3 поколение,1.6 PowerShift Trend ,0,700000
+212979,https://seversk.drom.ru/ford/mondeo/48737680.html,Ford,Mondeo,Северск,2012,бензин,2.0,200,робот,передний,седан,серебристый,160000,левый,"4 поколение, рестайлинг",,0,830000
+212980,https://murmansk.drom.ru/ford/focus/48737490.html,Ford,Focus,Мурманск,2012,бензин,1.6,125,робот,передний,хэтчбек 5 дв.,серебристый,146000,левый,3 поколение,,0,580000
+212981,https://mariinsk.drom.ru/ford/focus/48736520.html,Ford,Focus,Мариинск,2011,бензин,1.6,125,механика,передний,седан,серебристый,239780,левый,3 поколение,1.6 MT Trend,0,600000
+212982,https://krasnoyarsk.drom.ru/ford/focus/48735054.html,Ford,Focus,Красноярск,2011,бензин,2.0,145,механика,передний,хэтчбек 5 дв.,серый,196000,левый,"2 поколение, рестайлинг",2.0 MT Titanium,0,590000
+212983,https://derbent.drom.ru/ford/focus/48734592.html,Ford,Focus,Дербент,2011,бензин,1.4,80,механика,передний,хэтчбек 5 дв.,синий,390000,левый,"2 поколение, рестайлинг",,0,435000
+212984,https://krasnoyarsk.drom.ru/ford/focus/48734467.html,Ford,Focus,Красноярск,2013,бензин,1.6,85,механика,передний,хэтчбек 5 дв.,синий,104000,левый,3 поколение,,0,650000
+212985,https://krasnoyarsk.drom.ru/ford/mondeo/48734048.html,Ford,Mondeo,Красноярск,2010,бензин,2.3,161,АКПП,передний,седан,черный,230000,левый,4 поколение,2.3 AT Ghia,0,800000
+212986,https://krasnodar.drom.ru/ford/mondeo/48733976.html,Ford,Mondeo,Краснодар,2012,бензин,2.0,240,робот,передний,седан,белый,215000,левый,"4 поколение, рестайлинг",2.0 SCTi Powershift AT Titanium Black ,0,750000
+212987,https://tyumen.drom.ru/ford/explorer/48733910.html,Ford,Explorer,Тюмень,2012,бензин,3.5,294,АКПП,4WD,джип/suv 5 дв.,черный,148000,левый,5 поколение,3.5 AT Limited Plus ,0,1750000
+212988,https://shahty.drom.ru/ford/focus/48733652.html,Ford,Focus,Шахты,2011,бензин,1.6,100,механика,передний,седан,белый,170000,левый,"2 поколение, рестайлинг",1.6 MT Comfort,0,600000
+212989,https://novosibirsk.drom.ru/ford/mondeo/48733671.html,Ford,Mondeo,Новосибирск,2010,бензин,2.3,161,АКПП,передний,седан,розовый,114000,левый,4 поколение,2.3 AT Titanium X,0,699000
+212990,https://alatyr.drom.ru/ford/focus/48731931.html,Ford,Focus,Алатырь,2010,бензин,1.6,100,механика,передний,седан,бордовый,230000,левый,"2 поколение, рестайлинг",,0,450000
+212991,https://nizhniy-novgorod.drom.ru/ford/focus/48392207.html,Ford,Focus,Нижний Новгород,2011,бензин,2.0,,автомат,передний,седан,черный,147479,,,,0,680000
+212992,https://moscow.drom.ru/ford/mondeo/48391989.html,Ford,Mondeo,Москва,2012,бензин,2.0,200,робот,передний,седан,серый,121122,левый,"4 поколение, рестайлинг",,0,699000
+212993,https://moscow.drom.ru/ford/focus/49053102.html,Ford,Focus,Москва,2012,бензин,1.6,105,механика,передний,седан,белый,180000,левый,3 поколение,1.6 MT Trend,0,480000
+212994,https://krasnoyarsk.drom.ru/ford/focus/48527011.html,Ford,Focus,Красноярск,2011,бензин,1.6,105,механика,передний,хэтчбек 5 дв.,синий,130000,левый,3 поколение,1.6 MT Trend,1,500000
+212995,https://asbest.drom.ru/ford/kuga/47495005.html,Ford,Kuga,Асбест,2014,бензин,2.5,150,АКПП,передний,,черный,163000,левый,2 поколение,2.5 AT 2WD Trend,0,1150000
+212996,https://novokuznetsk.drom.ru/ford/mondeo/49051187.html,Ford,Mondeo,Новокузнецк,2011,бензин,2.3,161,АКПП,передний,седан,коричневый,189000,левый,"4 поколение, рестайлинг",2.3 AT Titanium Black ,0,850000
+212997,https://ekaterinburg.drom.ru/ford/focus/49052916.html,Ford,Focus,Екатеринбург,2012,бензин,2.0,150,робот,передний,седан,черный,163499,левый,3 поколение,,0,749650
+212998,https://kemerovo.drom.ru/ford/focus/48935359.html,Ford,Focus,Кемерово,2011,бензин,1.6,100,механика,передний,хэтчбек 5 дв.,серый,177000,левый,"2 поколение, рестайлинг",1.6 MT Comfort ,0,479000
+212999,https://beliy-yar.drom.ru/ford/focus/49052750.html,Ford,Focus,Белый Яр,2010,бензин,1.8,125,механика,передний,хэтчбек 3 дв.,белый,150000,левый,"2 поколение, рестайлинг",1.8 MT Comfort,0,452000
+213000,https://tyumen.drom.ru/ford/focus/47945614.html,Ford,Focus,Тюмень,2013,бензин,1.6,105,робот,передний,универсал,серый,214000,левый,3 поколение,1.6 PowerShift Trend ,0,650000
+213001,https://tomsk.drom.ru/ford/focus/48965414.html,Ford,Focus,Томск,2012,бензин,1.6,125,робот,передний,хэтчбек 5 дв.,серый,182000,левый,3 поколение,,1,625000
+213002,https://yalta.drom.ru/ford/kuga/47560657.html,Ford,Kuga,Ялта,2013,бензин,1.6,182,АКПП,4WD,,белый,205000,левый,2 поколение,1.6 EcoBoost AT 4WD Titanium,0,950000
+213003,https://novokuznetsk.drom.ru/ford/focus/49052207.html,Ford,Focus,Новокузнецк,2011,бензин,1.8,125,механика,передний,хэтчбек 5 дв.,белый,178000,левый,"2 поколение, рестайлинг",1.8 MT Titanium,1,495000
+213004,https://tyumen.drom.ru/ford/focus/49052516.html,Ford,Focus,Тюмень,2012,бензин,2.0,150,робот,передний,хэтчбек 5 дв.,белый,130000,левый,3 поколение,2.0 PowerShift Trend ,1,620000
+213005,https://novosibirsk.drom.ru/ford/fusion/49052402.html,Ford,Fusion,Новосибирск,2011,бензин,1.6,100,механика,передний,хэтчбек 5 дв.,белый,165000,левый,"1 поколение, рестайлинг",1.6 MT Fusion+,0,420000
+213006,https://kiselevsk.drom.ru/ford/ecosport/49052371.html,,,,,,,,,,,,,,,,0,
+213007,https://novosibirsk.drom.ru/ford/mondeo/48600561.html,Ford,Mondeo,Новосибирск,2012,бензин,2.3,161,АКПП,передний,седан,синий,180000,левый,"4 поколение, рестайлинг",2.3 AT Trend ,0,750000
+213008,https://krasnoyarsk.drom.ru/ford/focus/47665570.html,Ford,Focus,Красноярск,2011,бензин,1.8,125,механика,передний,седан,белый,190000,левый,"2 поколение, рестайлинг",1.8 MT Comfort ,0,505000
+213009,https://perm.drom.ru/ford/focus/45639810.html,Ford,Focus,Пермь,2010,бензин,1.6,115,механика,передний,хэтчбек 5 дв.,черный,138000,левый,"2 поколение, рестайлинг",1.6 Ti-VCT MT Sport Edition,0,458000
+213010,https://barnaul.drom.ru/ford/kuga/48632833.html,Ford,Kuga,Барнаул,2013,бензин,1.6,150,АКПП,4WD,,,134000,левый,2 поколение,,0,550000
+213011,https://novokuznetsk.drom.ru/ford/focus/46319599.html,Ford,Focus,Новокузнецк,2012,бензин,1.6,80,механика,передний,хэтчбек 5 дв.,синий,110000,левый,,,0,679000
+213012,https://tomsk.drom.ru/ford/focus/47175709.html,Ford,Focus,Томск,2011,бензин,1.6,125,робот,передний,хэтчбек 5 дв.,серебристый,223000,левый,3 поколение,,0,620000
+213013,https://anapa.drom.ru/ford/mondeo/48906227.html,Ford,Mondeo,Анапа,2011,бензин,2.0,200,робот,передний,седан,коричневый,150300,левый,"4 поколение, рестайлинг",2.0 SCTi Powershift AT Titanium,0,720000
+213014,https://krasnodar.drom.ru/ford/focus/47443596.html,Ford,Focus,Краснодар,2013,бензин,1.6,125,механика,передний,хэтчбек 5 дв.,красный,182000,левый,3 поколение,1.6 MT Trend Sport,0,665000
+213015,https://spb.drom.ru/ford/kuga/49055331.html,,,,,,,,,,,,,,,,0,
+213016,https://moscow.drom.ru/ford/focus/48886335.html,,,,,,,,,,,,,,,,0,
+213017,https://moscow.drom.ru/ford/focus/47397804.html,,,,,,,,,,,,,,,,0,
+213018,https://pyatigorsk.drom.ru/ford/focus/46020687.html,,,,,,,,,,,,,,,,0,
+213019,https://ekaterinburg.drom.ru/ford/focus/49055114.html,,,,,,,,,,,,,,,,0,
+213020,https://reutov.drom.ru/ford/focus/48268619.html,,,,,,,,,,,,,,,,0,
+213021,https://ulan-ude.drom.ru/ford/focus/49054817.html,,,,,,,,,,,,,,,,0,
+213022,https://pyatigorsk.drom.ru/ford/focus/49054598.html,,,,,,,,,,,,,,,,0,
+213023,https://voronezh.drom.ru/ford/focus/49054535.html,,,,,,,,,,,,,,,,0,
+213024,https://volgograd.drom.ru/ford/focus/49054394.html,,,,,,,,,,,,,,,,0,
+213025,https://kemerovo.drom.ru/ford/focus/49054275.html,,,,,,,,,,,,,,,,0,
+213026,https://grozniy.drom.ru/ford/focus/48711278.html,,,,,,,,,,,,,,,,0,
+213027,https://grozniy.drom.ru/ford/focus/49053883.html,Ford,Focus,Грозный,2014,бензин,1.6,125,робот,передний,седан,черный,203000,левый,3 поколение,,0,780000
+213028,https://simferopol.drom.ru/ford/focus/48901013.html,,,,,,,,,,,,,,,,0,
+213029,https://vyselki.drom.ru/ford/focus/49053235.html,,,,,,,,,,,,,,,,0,
+213030,https://achhoy-martan.drom.ru/ford/focus/49053213.html,Ford,Focus,Ачхой-Мартан,2012,бензин,1.6,125,робот,передний,седан,синий,227000,левый,3 поколение,,0,749000
+213031,https://novosibirsk.drom.ru/ford/focus/47910306.html,,,,,,,,,,,,,,,,0,
+213032,https://moscow.drom.ru/ford/kuga/47372610.html,,,,,,,,,,,,,,,,0,
+213033,https://bryansk.drom.ru/ford/focus/49050315.html,,,,,,,,,,,,,,,,0,
+213034,https://sochi.drom.ru/ford/focus/48714102.html,,,,,,,,,,,,,,,,0,
+213035,https://novorossiysk.drom.ru/ford/focus/48713935.html,,,,,,,,,,,,,,,,0,
+213036,https://moscow.drom.ru/ford/explorer/48713689.html,,,,,,,,,,,,,,,,0,
+213037,https://armavir.drom.ru/ford/focus/48713562.html,,,,,,,,,,,,,,,,0,
+213038,https://tobolsk.drom.ru/ford/focus/48712986.html,,,,,,,,,,,,,,,,0,
+213039,https://spb.drom.ru/ford/focus/48711440.html,,,,,,,,,,,,,,,,0,
+213040,https://nakhodka.drom.ru/ford/focus/48707947.html,,,,,,,,,,,,,,,,0,
+213041,https://irkutsk.drom.ru/ford/kuga/48707843.html,,,,,,,,,,,,,,,,0,
+213042,https://krasnoyarsk.drom.ru/ford/focus/48707548.html,,,,,,,,,,,,,,,,0,
+213043,https://grozniy.drom.ru/ford/focus/48370858.html,,,,,,,,,,,,,,,,0,
+213044,https://dedovsk.drom.ru/ford/focus/48370479.html,,,,,,,,,,,,,,,,0,
+213045,https://krasnoyarsk.drom.ru/ford/focus/48368289.html,,,,,,,,,,,,,,,,0,
+213046,https://novosibirsk.drom.ru/ford/mondeo/48367813.html,,,,,,,,,,,,,,,,0,
+213047,https://zvenigorod.drom.ru/ford/mondeo/48367493.html,,,,,,,,,,,,,,,,0,
+213048,https://orenburg.drom.ru/ford/kuga/48366607.html,,,,,,,,,,,,,,,,0,
+213049,https://belousovo.drom.ru/ford/focus/48366419.html,,,,,,,,,,,,,,,,0,
+213050,https://spb.drom.ru/ford/galaxy/48366330.html,,,,,,,,,,,,,,,,0,
+213051,https://krasnoyarsk.drom.ru/ford/focus/48364478.html,,,,,,,,,,,,,,,,0,
+213052,https://usoliye-sibirskoe.drom.ru/ford/focus/48364368.html,,,,,,,,,,,,,,,,0,
+213053,https://abakan.drom.ru/ford/focus/47911925.html,,,,,,,,,,,,,,,,0,
+213054,https://sayansk.drom.ru/ford/focus/48088597.html,,,,,,,,,,,,,,,,0,
+213055,https://irkutsk.drom.ru/ford/focus/46209050.html,,,,,,,,,,,,,,,,0,
+213056,https://voronezh.drom.ru/ford/focus/49051360.html,,,,,,,,,,,,,,,,0,
+213057,https://barnaul.drom.ru/ford/focus/48712594.html,,,,,,,,,,,,,,,,0,

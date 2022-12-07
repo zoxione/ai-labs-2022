@@ -35,8 +35,6 @@ def df_to_number(df):
     dfCopy['Mileage'] = dfCopy['Mileage'].fillna(0)
     dfCopy['Price'] = dfCopy['Price'].apply(int)
     
-    print(dfCopy)
-    
     dfCopy['Brand'] = pd.factorize(dfCopy['Brand'])[0] + 1 
     #dfCopy['Brand'].map( {'volvo':0 , 'bmw':1, 'audi':2} )
     
@@ -48,14 +46,7 @@ def df_to_number(df):
     dfCopy['Drive'] = pd.factorize(dfCopy['Drive'])[0] + 1 
     #dfCopy['Body'] = pd.factorize(dfCopy['Body'])[0] + 1 
     #dfCopy['Color'] = pd.factorize(dfCopy['Color'])[0] + 1 
-    #dfCopy['Wheel'] = pd.factorize(dfCopy['Wheel'])[0] + 1 
-    
-    
-
-    # dfCopy = dfCopy[['Year', 'EngineVolume', 'Power', 'Drive', 'Mileage']]
-
-    # for column in dfCopy.columns.values.tolist():
-        # if
+    #dfCopy['Wheel'] = pd.factorize(dfCopy['Wheel'])[0] + 1
 
     return dfCopy
 
@@ -91,9 +82,12 @@ if __name__ == '__main__':
         # Удаляем дубликаты
         dfInput1 = dfInput1.drop_duplicates(subset=['Url']);
 
+        now = datetime.datetime.now();
+        dfInput1.to_csv('normalize_cars_' + now.strftime('%Y%m%d%H%M%S%f') + '.csv', index=False);
+        print('\nСохранено в файл normalize_cars_' + now.strftime('%Y%m%d%H%M%S%f') + '.csv');
+
         # Сортируем по Id
         dfInput1 = dfInput1.sort_values(by=['Id'])
-        
 
         # Преобразуем в числа
         dfInput1 = df_to_number(dfInput1)
@@ -103,8 +97,8 @@ if __name__ == '__main__':
 
     finally:
         now = datetime.datetime.now();
-        dfInput1.to_csv('normalize_cars_' + now.strftime('%Y%m%d%H%M%S%f') + '.csv', index=False);
-        print('\nСохранено в файл normalize_cars_' + now.strftime('%Y%m%d%H%M%S%f') + '.csv');
+        dfInput1.to_csv('normalize_cars_numbers_' + now.strftime('%Y%m%d%H%M%S%f') + '.csv', index=False);
+        print('\nСохранено в файл normalize_cars_numbers_' + now.strftime('%Y%m%d%H%M%S%f') + '.csv');
 
         winsound.PlaySound('SystemExit', winsound.SND_ALIAS)
         input('\nНажмите Enter для выхода...');

@@ -182,7 +182,7 @@ def thread(num, url, iter):
     return;
 
 
-#./parse.py --input ./prefetch_cars/prefetch_cars.csv --start 216326 --end 216326
+#./parse.py --input ./prefetch_cars/prefetch_cars.csv --start 216324 --end 216324
 if __name__ == '__main__':
     isErrorAgain = False;
 
@@ -202,25 +202,18 @@ if __name__ == '__main__':
             for i in range(args.start + ITERATION, args.end + 1):
                 tree = getTree(urls[i]);
                 res = parsingOnce(tree, urls[i]);
+
+                while res['Price'] == '':
+                    print('Повторная попытка получения данных...');
+                    tree = getTree(urls[i]);
+                    res = parsingOnce(tree, urls[i]);
+
                 carsData.append(res);
                 print('Выполнена итерация [' + str(ITERATION + 1) + '/' + str(COUNT_ITERATION) + ']');
                 print('Осталось времени: ' + str(((COUNT_ITERATION - ITERATION + 1) * 2) / 60) + ' минут\n');
                 ITERATION += 1;
 
             saveData(dfInput);
-
-            isChange = False;
-            for car in carsData:
-                if car['Price'] == '':
-                    isChange = True;
-                    print('Повторный парсинг страницы ' + car['Url']);
-                    tree = getTree(car['Url']);
-                    res = parsingOnce(tree, car['Url']);
-                    carsData.remove(car);
-                    carsData.append(res);
-
-            if isChange:
-                saveData(dfInput);
 
             winsound.PlaySound('SystemExit', winsound.SND_ALIAS)
             driver.quit()

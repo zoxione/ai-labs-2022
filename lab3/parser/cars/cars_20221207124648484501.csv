@@ -1,0 +1,1124 @@
+Id,Url,Brand,Model,Region,Year,Engine,EngineVolume,Power,Transmission,Drive,Body,Color,Mileage,Wheel,Generation,Complectation,IsSold,Price
+10902,https://shymanovsk.drom.ru/honda/stream/49064285.html,Honda,Stream,Шимановск,2003,бензин,1.7,130,АКПП,передний,,черный,200000,правый,1 поколение,1.7 L S package,0,485000
+10903,https://mezhdurechensk.drom.ru/honda/stepwgn/49070574.html,Honda,Stepwgn,Междуреченск,2000,бензин,2.0,135,АКПП,передний,,белый,298000,правый,"1 поколение, рестайлинг",,0,530000
+10904,https://usoliye-sibirskoe.drom.ru/honda/edix/49070477.html,Honda,Edix,Усолье-Сибирское,2004,бензин,1.7,130,АКПП,передний,,зеленый,350000,правый,1 поколение,1.7 17X,0,420000
+10905,https://tyumen.drom.ru/honda/fit_aria/49070376.html,Honda,Fit Aria,Тюмень,2003,бензин,1.3,86,вариатор,передний,,белый,240000,правый,1 поколение,1.3 A,1,150000
+10906,https://biysk.drom.ru/honda/mobilio/47250058.html,Honda,Mobilio,Бийск,2002,бензин,1.5,90,вариатор,передний,,голубой,223000,правый,1 поколение,1.5 Y,0,360000
+10907,https://kogalym.drom.ru/honda/odyssey/48627645.html,Honda,Odyssey,Когалым,2000,бензин,2.3,150,АКПП,передний,,серый,407000,правый,2 поколение,2.3 L,1,450000
+10908,https://kamen-na-obi.drom.ru/honda/hr-v/49070197.html,Honda,HR-V,Камень-на-Оби,2002,бензин,1.6,125,автомат,4WD,джип/suv 5 дв.,серый,215000,левый,,,1,450000
+10909,https://svobodniy.drom.ru/honda/fit/49061294.html,Honda,Fit,Свободный,2002,бензин,1.3,86,вариатор,передний,,красный,149000,правый,1 поколение,1.3 A,1,295000
+10910,https://habarovsk.drom.ru/honda/fit_aria/49070090.html,Honda,Fit Aria,Хабаровск,2003,бензин,1.5,90,вариатор,4WD,,серый,236672,правый,1 поколение,1.5 W,0,300000
+10911,https://baykalsk.drom.ru/honda/stream/49069999.html,Honda,Stream,Байкальск,2001,бензин,1.7,130,АКПП,передний,,черный,228708,правый,1 поколение,,1,250000
+10912,https://irkutsk.drom.ru/honda/stream/49069980.html,Honda,Stream,Иркутск,2002,бензин,1.7,130,АКПП,передний,,черный,67000,правый,1 поколение,1.7 G,0,435000
+10913,https://tyumen.drom.ru/honda/odyssey/48846820.html,Honda,Odyssey,Тюмень,2002,бензин,3.0,210,АКПП,4WD,,синий,250000,правый,"2 поколение, рестайлинг",3.0 Absolute,0,800000
+10914,https://barnaul.drom.ru/honda/hr-v/49035474.html,Honda,HR-V,Барнаул,2000,бензин,1.6,105,вариатор,4WD,джип/suv 5 дв.,синий,170000,правый,1 поколение,1.6 J4 NAVI Player ,1,385000
+10915,https://novosibirsk.drom.ru/honda/accord/49069729.html,Honda,Accord,Новосибирск,2001,бензин,1.8,140,АКПП,передний,седан,серый,294500,правый,"6 поколение, рестайлинг",1.8 VTS,0,395000
+10916,https://novosibirsk.drom.ru/honda/fit/49069673.html,Honda,Fit,Новосибирск,2003,бензин,1.5,110,вариатор,передний,,серебристый,250000,правый,1 поколение,,1,350000
+10917,https://irkutsk.drom.ru/honda/odyssey/49068414.html,Honda,Odyssey,Иркутск,2000,бензин,2.3,150,АКПП,передний,,белый,300000,правый,2 поколение,2.3 L,1,347000
+10918,https://ulan-ude.drom.ru/honda/hr-v/46485734.html,Honda,HR-V,Улан-Удэ,2000,бензин,1.6,105,вариатор,4WD,джип/suv 5 дв.,,200000,правый,1 поколение,1.6 J4,0,380000
+10919,https://angarsk.drom.ru/honda/stream/48494165.html,Honda,Stream,Ангарск,2003,бензин,1.7,130,АКПП,передний,,серебристый,300000,правый,1 поколение,1.7 L comfort selection ,0,390000
+10920,https://komsomolsk.drom.ru/honda/hr-v/48955245.html,Honda,HR-V,Комсомольск-на-Амуре,2002,бензин,1.6,125,вариатор,4WD,джип/suv 5 дв.,белый,130000,правый,"1 поколение, рестайлинг",1.6 JS4,0,390000
+10921,https://ussuriisk.drom.ru/honda/hr-v/49068187.html,Honda,HR-V,Уссурийск,2000,бензин,1.6,105,вариатор,4WD,джип/suv 5 дв.,белый,190000,правый,1 поколение,1.6 J4 NAVI Player ,0,290000
+10922,https://vladivostok.drom.ru/honda/fit/49068171.html,Honda,Fit,Владивосток,2002,бензин,1.3,86,вариатор,передний,,красный,202000,правый,1 поколение,1.3 A,1,350000
+10923,https://ussuriisk.drom.ru/honda/hr-v/49068110.html,Honda,HR-V,Уссурийск,2001,бензин,1.6,105,вариатор,передний,джип/suv 5 дв.,серый,19500,правый,1 поколение,1.6 J NAVI Player ,0,310000
+10924,https://knevichi.drom.ru/honda/fit/49068099.html,Honda,Fit,Кневичи,2002,бензин,1.3,86,вариатор,4WD,,серый,334789,правый,1 поколение,,0,280000
+10925,https://ekaterinburg.drom.ru/honda/stream/48740310.html,Honda,Stream,Екатеринбург,2001,бензин,1.7,130,АКПП,передний,,белый,272000,правый,1 поколение,1.7 G,1,445000
+10926,https://ust-ilimsk.drom.ru/honda/odyssey/48740258.html,Honda,Odyssey,Усть-Илимск,2000,бензин,2.3,150,АКПП,передний,,серый,136000,правый,2 поколение,,0,490000
+10927,https://shushenskoe.drom.ru/honda/hr-v/48739252.html,Honda,HR-V,Шушенское,2000,бензин,1.6,125,вариатор,4WD,джип/suv 5 дв.,серый,290000,правый,1 поколение,1.6 JS4,0,500000
+10928,https://ulan-ude.drom.ru/honda/cr-v/48739133.html,Honda,CR-V,Улан-Удэ,2003,бензин,2.4,160,АКПП,4WD,,черный,269,левый,2 поколение,,0,770000
+10929,https://amga.drom.ru/honda/hr-v/48737398.html,Honda,HR-V,Амга,2003,бензин,1.6,105,вариатор,передний,джип/suv 5 дв.,серебристый,102135,правый,"1 поколение, рестайлинг",1.6 J,0,500000
+10930,https://vladivostok.drom.ru/honda/s2000/48736659.html,Honda,S2000,Владивосток,2002,бензин,2.0,240,механика,задний,,желтый,85000,левый,1 поколение,,0,2200000
+10931,https://knyaze-volkonskoe.drom.ru/honda/fit/48734743.html,Honda,Fit,Князе-Волконское,2002,бензин,1.3,86,вариатор,передний,,серый,212800,правый,1 поколение,1.3 W,0,300000
+10932,https://tayshet.drom.ru/honda/stepwgn/48734723.html,Honda,Stepwgn,Тайшет,2000,бензин,2.0,135,АКПП,передний,,серый,268913,правый,"1 поколение, рестайлинг",,0,450000
+10933,https://kemerovo.drom.ru/honda/odyssey/48733836.html,Honda,Odyssey,Кемерово,2002,бензин,2.3,150,АКПП,4WD,,серый,320000,правый,"2 поколение, рестайлинг",2.3 Absolute,0,520000
+10934,https://magadan.drom.ru/honda/fit/48733613.html,Honda,Fit,Магадан,2002,бензин,1.3,86,вариатор,4WD,,белый,322041,правый,1 поколение,1.3 A 4WD,0,270000
+10935,https://batyrevo.drom.ru/honda/cr-v/48733428.html,Honda,CR-V,Батырево,2000,бензин,2.0,147,механика,4WD,,серебристый,240000,левый,"1 поколение, рестайлинг",,0,480000
+10936,https://gorno-altaysk.drom.ru/honda/cr-v/48732454.html,Honda,CR-V,Горно-Алтайск,2002,бензин,2.4,160,АКПП,4WD,,серебристый,250000,левый,2 поколение,2.4 AT 4WD LX,0,600000
+10937,https://vladivostok.drom.ru/honda/hr-v/48731654.html,Honda,HR-V,Владивосток,2002,бензин,1.6,105,вариатор,передний,джип/suv 5 дв.,серый,155,правый,"1 поколение, рестайлинг",1.6 J special ,0,455000
+10938,https://krasnoyarsk.drom.ru/honda/stream/48731372.html,Honda,Stream,Красноярск,2000,бензин,1.7,130,АКПП,4WD,,белый,25000,правый,1 поколение,1.7 L,0,350000
+10939,https://mysky.drom.ru/honda/fit/48413187.html,Honda,Fit,Мыски,2001,бензин,1.3,86,вариатор,передний,,голубой,295000,правый,1 поколение,,0,335000
+10940,https://rubtsovsk.drom.ru/honda/cr-v/48389105.html,,,,,,,,,,,,,,,,0,
+10941,https://vladivostok.drom.ru/honda/stream/48388800.html,Honda,Stream,Владивосток,2001,бензин,1.7,130,АКПП,4WD,,серый,69000,правый,1 поколение,,0,340000
+10942,https://saransk.drom.ru/honda/accord/48386966.html,Honda,Accord,Саранск,2001,бензин,2.0,147,АКПП,передний,седан,черный,380000,левый,"6 поколение, рестайлинг",,0,365000
+10943,https://novosibirsk.drom.ru/honda/civic_type_r/48386915.html,,,,,,,,,,,,,,,,0,
+10944,https://tikhoretsk.drom.ru/honda/civic/48386040.html,,,,,,,,,,,,,,,,0,
+10945,https://kamensk-uralskiy.drom.ru/honda/logo/48385831.html,,,,,,,,,,,,,,,,0,
+10946,https://vilyuchinsk.drom.ru/honda/stream/48384241.html,,,,,,,,,,,,,,,,0,
+10947,https://aginskoe.drom.ru/honda/cr-v/48382513.html,,,,,,,,,,,,,,,,0,
+10948,https://vladivostok.drom.ru/honda/hr-v/48382060.html,,,,,,,,,,,,,,,,0,
+10949,https://lyubertsy.drom.ru/honda/shuttle/48381806.html,,,,,,,,,,,,,,,,0,
+10950,https://obluchie.drom.ru/honda/stream/48350703.html,,,,,,,,,,,,,,,,0,
+10951,https://irkutsk.drom.ru/honda/civic_ferio/48144463.html,,,,,,,,,,,,,,,,0,
+10952,https://ust-ilimsk.drom.ru/honda/stream/48120347.html,,,,,,,,,,,,,,,,0,
+10953,https://irkutsk.drom.ru/honda/mobilio/48045225.html,,,,,,,,,,,,,,,,0,
+10954,https://krasnoyarsk.drom.ru/honda/cr-v/48043657.html,,,,,,,,,,,,,,,,0,
+10955,https://novoaltaysk.drom.ru/honda/civic/48043288.html,,,,,,,,,,,,,,,,0,
+10956,https://novosibirsk.drom.ru/honda/civic/48043380.html,,,,,,,,,,,,,,,,0,
+10957,https://krasnoyarsk.drom.ru/honda/stream/48352245.html,,,,,,,,,,,,,,,,0,
+10958,https://ulan-ude.drom.ru/honda/fit/48152852.html,,,,,,,,,,,,,,,,0,
+10959,https://ussuriisk.drom.ru/honda/hr-v/48796628.html,,,,,,,,,,,,,,,,0,
+10960,https://komsomolsk.drom.ru/honda/hr-v/49072292.html,,,,,,,,,,,,,,,,0,
+10961,https://dalnegorsk.drom.ru/honda/accord/45553174.html,,,,,,,,,,,,,,,,0,
+10962,https://krasnoyarsk.drom.ru/honda/odyssey/49072183.html,,,,,,,,,,,,,,,,0,
+10963,https://zarubino.drom.ru/honda/accord/49072132.html,,,,,,,,,,,,,,,,0,
+10964,https://belogorsk.drom.ru/honda/fit/49072173.html,,,,,,,,,,,,,,,,0,
+10965,https://shuya.drom.ru/honda/accord/47358994.html,,,Шуя,2004,бензин,2.0,"155 л.с., ",механика,передний,седан,красный,328000,левый,7 поколение,2.0 MT Comfort,0,379000₽
+10966,https://irkutsk.drom.ru/honda/odyssey/49071860.html,,,,,,,,,,,,,,,,0,
+10967,https://krasnoyarsk.drom.ru/honda/torneo/48867449.html,,,,,,,,,,,,,,,,0,
+10968,https://novomoskovsk.drom.ru/honda/cr-v/47826748.html,Honda,CR-V,Новомосковск,2001,бензин,2.4,160,механика,4WD,,бордовый,289000,левый,2 поколение,2.4 MT 4WD LX,0,459000
+10969,https://irkutsk.drom.ru/honda/partner/48698785.html,,,,,,,,,,,,,,,,0,
+10970,https://tomsk.drom.ru/honda/cr-v/46230474.html,,,,,,,,,,,,,,,,0,
+10971,https://artem.drom.ru/honda/hr-v/48665423.html,,,,,,,,,,,,,,,,0,
+10972,https://komsomolsk.drom.ru/honda/accord/49070745.html,,,,,,,,,,,,,,,,0,
+10973,https://armavir.drom.ru/honda/civic_ferio/47878184.html,Honda,Civic Ferio,Армавир,2001,бензин,1.5,105,АКПП,передний,,белый,185000,правый,3 поколение,1.5 Quality edition ,0,125000
+10974,https://salehard.drom.ru/honda/saber/49071621.html,,,,,,,,,,,,,,,,0,
+10975,https://omsk.drom.ru/honda/partner/49071478.html,,,,,,,,,,,,,,,,0,
+10976,https://krasnoyarsk.drom.ru/honda/fit/49071335.html,,,,,,,,,,,,,,,,0,
+10977,https://chita.drom.ru/honda/odyssey/46194067.html,,,,,,,,,,,,,,,,0,
+10978,https://irkutsk.drom.ru/honda/stream/47943099.html,,,,,,,,,,,,,,,,0,
+10979,https://krasnoyarsk.drom.ru/honda/cr-v/49065478.html,,,,,,,,,,,,,,,,0,
+10980,https://altayskoe.drom.ru/honda/cr-v/48967358.html,,,,,,,,,,,,,,,,0,
+10981,https://irkutsk.drom.ru/honda/accord/48740446.html,,,,,,,,,,,,,,,,0,
+10982,https://tashtagol.drom.ru/honda/stream/49064916.html,,,,,,,,,,,,,,,,0,
+10983,https://novosibirsk.drom.ru/honda/civic_ferio/48649780.html,,,,,,,,,,,,,,,,0,
+10984,https://gorno-altaysk.drom.ru/honda/stepwgn/49064729.html,,,,,,,,,,,,,,,,0,
+10985,https://irkutsk.drom.ru/honda/avancier/49064713.html,,,,,,,,,,,,,,,,0,
+10986,https://irkutsk.drom.ru/honda/accord/49064700.html,,,,,,,,,,,,,,,,0,
+10987,https://vladivostok.drom.ru/honda/fit/49064546.html,,,,,,,,,,,,,,,,0,
+10988,https://angarsk.drom.ru/honda/cr-v/49064389.html,,,,,,,,,,,,,,,,0,
+10989,https://obninsk.drom.ru/honda/civic/49064368.html,,,,,,,,,,,,,,,,0,
+10990,https://blagoveshchensk.drom.ru/honda/edix/49064302.html,,,,,,,,,,,,,,,,0,
+10991,https://novosibirsk.drom.ru/honda/fit/49063954.html,,,,,,,,,,,,,,,,0,
+10992,https://habarovsk.drom.ru/honda/odyssey/49063844.html,,,,,,,,,,,,,,,,0,
+10993,https://spb.drom.ru/honda/stepwgn/49063750.html,,,,,,,,,,,,,,,,0,
+10994,https://barnaul.drom.ru/honda/saber/49063652.html,,,,,,,,,,,,,,,,0,
+10995,https://novokuznetsk.drom.ru/honda/fit/49063618.html,,,,,,,,,,,,,,,,0,
+10996,https://boguchany.drom.ru/honda/cr-v/49063552.html,,,,,,,,,,,,,,,,0,
+10997,https://abakan.drom.ru/honda/cr-v/48970110.html,,,,,,,,,,,,,,,,0,
+10998,https://shira.drom.ru/honda/fit/49161579.html,,,,,,,,,,,,,,,,0,
+10999,https://krasnoyarsk.drom.ru/honda/accord/49161580.html,,,,,,,,,,,,,,,,0,
+11000,https://nizhnevartovsk.drom.ru/honda/civic/48602497.html,,,,,,,,,,,,,,,,0,
+11001,https://ishim.drom.ru/honda/fit/48456973.html,,,,,,,,,,,,,,,,0,
+11002,https://krasnoyarsk.drom.ru/honda/accord/49161308.html,,,,,,,,,,,,,,,,0,
+11003,https://tomsk.drom.ru/honda/ridgeline/49161207.html,,,,,,,,,,,,,,,,0,
+11004,https://usoliye-sibirskoe.drom.ru/honda/airwave/49161156.html,,,,,,,,,,,,,,,,0,
+11005,https://blagoveshchensk.drom.ru/honda/freed/49161140.html,,,,,,,,,,,,,,,,0,
+11006,https://moscow.drom.ru/honda/accord/49161044.html,,,,,,,,,,,,,,,,0,
+11007,https://krasnoyarsk.drom.ru/honda/civic/48367878.html,,,,,,,,,,,,,,,,0,
+11008,https://krasnoyarsk.drom.ru/honda/fit/48356199.html,,,,,,,,,,,,,,,,0,
+11009,https://krasnoyarsk.drom.ru/honda/freed/48858690.html,,,,,,,,,,,,,,,,0,
+11010,https://omsk.drom.ru/honda/freed/49160507.html,,,,,,,,,,,,,,,,0,
+11011,https://ussuriisk.drom.ru/honda/civic/48925779.html,,,,,,,,,,,,,,,,0,
+11012,https://tomsk.drom.ru/honda/fit/49160448.html,,,,,,,,,,,,,,,,0,
+11013,https://habarovsk.drom.ru/honda/insight/48975109.html,,,,,,,,,,,,,,,,0,
+11014,https://novosibirsk.drom.ru/honda/freed/47523997.html,,,,,,,,,,,,,,,,0,
+11015,https://artem.drom.ru/honda/insight/49160190.html,,,,,,,,,,,,,,,,0,
+11016,https://vladivostok.drom.ru/honda/fit/49118131.html,,,,,,,,,,,,,,,,0,
+11017,https://ulan-ude.drom.ru/honda/insight/48480145.html,,,,,,,,,,,,,,,,0,
+11018,https://neryungri.drom.ru/honda/fit/48213591.html,,,,,,,,,,,,,,,,0,
+11019,https://sovetskaya-gavan.drom.ru/honda/edix/48144045.html,,,,,,,,,,,,,,,,0,
+11020,https://ussuriisk.drom.ru/honda/fit/48143139.html,,,,,,,,,,,,,,,,0,
+11021,https://yashkino.drom.ru/honda/airwave/48142387.html,,,,,,,,,,,,,,,,0,
+11022,https://argun.drom.ru/honda/elysion/48142500.html,,,,,,,,,,,,,,,,0,
+11023,https://chita.drom.ru/honda/insight/48141490.html,,,,,,,,,,,,,,,,0,
+11024,https://prokopyevsk.drom.ru/honda/airwave/48141597.html,,,,,,,,,,,,,,,,0,
+11025,https://barnaul.drom.ru/honda/airwave/48141348.html,,,,,,,,,,,,,,,,0,
+11026,https://blagoveshchensk.drom.ru/honda/insight/48141424.html,,,,,,,,,,,,,,,,0,
+11027,https://chita.drom.ru/honda/fit/48075510.html,,,,,,,,,,,,,,,,0,
+11028,https://novokuznetsk.drom.ru/honda/cr-v/47972224.html,,,,,,,,,,,,,,,,0,
+11029,https://nizhnevartovsk.drom.ru/honda/accord/47888260.html,,,,,,,,,,,,,,,,0,
+11030,https://habarovsk.drom.ru/honda/cr-v/47805178.html,,,,,,,,,,,,,,,,0,
+11031,https://krasnoyarsk.drom.ru/honda/odyssey/47804804.html,,,,,,,,,,,,,,,,0,
+11032,https://suzun.drom.ru/honda/cr-v/47801739.html,,,,,,,,,,,,,,,,0,
+11033,https://omsk.drom.ru/honda/accord/47800968.html,,,,,,,,,,,,,,,,0,
+11034,https://yakutsk.drom.ru/honda/insight/47631594.html,,,,,,,,,,,,,,,,0,
+11035,https://vladivostok.drom.ru/honda/mobilio_spike/47553530.html,,,,,,,,,,,,,,,,0,
+11036,https://krasnokamsk.drom.ru/honda/civic/47492462.html,,,,,,,,,,,,,,,,0,
+11037,https://prokopyevsk.drom.ru/honda/fit/47475579.html,,,,,,,,,,,,,,,,0,
+11038,https://krasnoyarsk.drom.ru/honda/airwave/47471383.html,,,,,,,,,,,,,,,,0,
+11039,https://tovarkovo.drom.ru/honda/inspire/47470346.html,,,,,,,,,,,,,,,,0,
+11040,https://sevastopol.drom.ru/honda/jazz/47467376.html,,,,,,,,,,,,,,,,0,
+11041,https://barnaul.drom.ru/honda/fit/47461333.html,,,,,,,,,,,,,,,,0,
+11042,https://novosibirsk.drom.ru/honda/cr-v/47454476.html,,,,,,,,,,,,,,,,0,
+11043,https://blagoveshchensk.drom.ru/honda/insight/47454916.html,,,,,,,,,,,,,,,,0,
+11044,https://irkutsk.drom.ru/honda/accord/47450566.html,,,,,,,,,,,,,,,,0,
+11045,https://krasnoyarsk.drom.ru/honda/civic/47401210.html,,,,,,,,,,,,,,,,0,
+11046,https://biysk.drom.ru/honda/mobilio_spike/47299525.html,,,,,,,,,,,,,,,,0,
+11047,https://chita.drom.ru/honda/civic/47222197.html,,,,,,,,,,,,,,,,0,
+11048,https://tomsk.drom.ru/honda/cr-v/47205225.html,,,,,,,,,,,,,,,,0,
+11049,https://chita.drom.ru/honda/stream/47120213.html,,,,,,,,,,,,,,,,0,
+11050,https://shushenskoe.drom.ru/honda/stream/47076377.html,,,,,,,,,,,,,,,,0,
+11051,https://novosibirsk.drom.ru/honda/accord/47056053.html,,,,,,,,,,,,,,,,0,
+11052,https://gurievsk-kemer.drom.ru/honda/accord/46936921.html,,,,,,,,,,,,,,,,0,
+11053,https://shadrinsk.drom.ru/honda/accord/46802556.html,,,,,,,,,,,,,,,,0,
+11054,https://spassk-dalniy.drom.ru/honda/cr-v/46711776.html,,,,,,,,,,,,,,,,0,
+11055,https://ulan-ude.drom.ru/honda/freed/46598936.html,,,,,,,,,,,,,,,,0,
+11056,https://irkutsk.drom.ru/honda/stepwgn/46561432.html,,,,,,,,,,,,,,,,0,
+11057,https://magadan.drom.ru/honda/stream/48827627.html,,,,,,,,,,,,,,,,0,
+11058,https://petropavlovsk-kamchatskiy.drom.ru/honda/stepwgn/48659724.html,,,,,,,,,,,,,,,,0,
+11059,https://vladivostok.drom.ru/honda/cr-v/48656195.html,,,,,,,,,,,,,,,,0,
+11060,https://moscow.drom.ru/honda/stepwgn/48493469.html,,,,,,,,,,,,,,,,0,
+11061,https://vyselki.drom.ru/honda/civic/48493201.html,,,,,,,,,,,,,,,,0,
+11062,https://ulan-ude.drom.ru/honda/accord/48492716.html,,,,,,,,,,,,,,,,0,
+11063,https://krasnodar.drom.ru/honda/accord/48492310.html,,,,,,,,,,,,,,,,0,
+11064,https://voronezh.drom.ru/honda/jazz/48490670.html,,,,,,,,,,,,,,,,0,
+11065,https://gurievsk-kemer.drom.ru/honda/insight/48490593.html,,,,,,,,,,,,,,,,0,
+11066,https://irkutsk.drom.ru/honda/stepwgn/48489329.html,,,,,,,,,,,,,,,,0,
+11067,https://chernogorsk.drom.ru/honda/freed/48489083.html,,,,,,,,,,,,,,,,0,
+11068,https://spb.drom.ru/honda/accord/48487909.html,,,,,,,,,,,,,,,,0,
+11069,https://nizhniy-novgorod.drom.ru/honda/stepwgn/48487853.html,,,,,,,,,,,,,,,,0,
+11070,https://ussuriisk.drom.ru/honda/legend/48487856.html,,,,,,,,,,,,,,,,0,
+11071,https://omsk.drom.ru/honda/fr-v/48487502.html,,,,,,,,,,,,,,,,0,
+11072,https://novosibirsk.drom.ru/honda/stepwgn/48487636.html,,,,,,,,,,,,,,,,0,
+11073,https://kemerovo.drom.ru/honda/cr-v/48486041.html,,,,,,,,,,,,,,,,0,
+11074,https://kozelsk.drom.ru/honda/civic/48484410.html,,,,,,,,,,,,,,,,0,
+11075,https://lipovtsy.drom.ru/honda/airwave/48484326.html,,,,,,,,,,,,,,,,0,
+11076,https://irkutsk.drom.ru/honda/fit/48483430.html,,,,,,,,,,,,,,,,0,
+11077,https://vladivostok.drom.ru/honda/insight/49014126.html,,,,,,,,,,,,,,,,0,
+11078,https://ekaterinburg.drom.ru/honda/civic/49158703.html,,,,,,,,,,,,,,,,0,
+11079,https://habarovsk.drom.ru/honda/cr-v/49158617.html,,,,,,,,,,,,,,,,0,
+11080,https://krasnoyarsk.drom.ru/honda/civic/49158556.html,,,,,,,,,,,,,,,,0,
+11081,https://novosibirsk.drom.ru/honda/airwave/49158490.html,,,,,,,,,,,,,,,,0,
+11082,https://omsk.drom.ru/honda/fit/49158340.html,,,,,,,,,,,,,,,,0,
+11083,https://leninsk-kuznetskiy.drom.ru/honda/cr-v/49158237.html,,,,,,,,,,,,,,,,0,
+11084,https://ulan-ude.drom.ru/honda/airwave/49158127.html,,,,,,,,,,,,,,,,0,
+11085,https://irkutsk.drom.ru/honda/stepwgn/48451511.html,,,,,,,,,,,,,,,,0,
+11086,https://nakhodka.drom.ru/honda/fit_aria/49157946.html,,,,,,,,,,,,,,,,0,
+11087,https://nakhodka.drom.ru/honda/fit/49157859.html,,,,,,,,,,,,,,,,0,
+11088,https://tomsk.drom.ru/honda/accord/48774665.html,,,,,,,,,,,,,,,,0,
+11089,https://barnaul.drom.ru/honda/cr-v/49157731.html,,,,,,,,,,,,,,,,0,
+11090,https://borodino.drom.ru/honda/airwave/49157766.html,,,,,,,,,,,,,,,,0,
+11091,https://omsk.drom.ru/honda/accord/46736648.html,,,,,,,,,,,,,,,,0,
+11092,https://chita.drom.ru/honda/stream/48635283.html,,,,,,,,,,,,,,,,0,
+11093,https://shushenskoe.drom.ru/honda/airwave/49157759.html,,,,,,,,,,,,,,,,0,
+11094,https://tyumen.drom.ru/honda/accord/49157754.html,,,,,,,,,,,,,,,,0,
+11095,https://krasnoyarsk.drom.ru/honda/accord/49157665.html,,,,,,,,,,,,,,,,0,
+11096,https://blagoveshchensk.drom.ru/honda/freed/48542805.html,,,,,,,,,,,,,,,,0,
+11097,https://blagoveshchensk.drom.ru/honda/insight/46470504.html,,,,,,,,,,,,,,,,0,
+11098,https://minusinsk.drom.ru/honda/stepwgn/46453391.html,,,,,,,,,,,,,,,,0,
+11099,https://ulan-ude.drom.ru/honda/freed/46400325.html,,,,,,,,,,,,,,,,0,
+11100,https://bolshoy-kamen.drom.ru/honda/cr-v/46365188.html,,,,,,,,,,,,,,,,0,
+11101,https://ussuriisk.drom.ru/honda/crossroad/44570253.html,,,,,,,,,,,,,,,,0,
+11102,https://mysky.drom.ru/honda/accord/44577397.html,,,,,,,,,,,,,,,,0,
+11103,https://omsk.drom.ru/honda/accord/44065838.html,,,,,,,,,,,,,,,,0,
+11104,https://gorno-altaysk.drom.ru/honda/insight/42695593.html,,,,,,,,,,,,,,,,0,
+11105,https://krasnodar.drom.ru/honda/insight/48592560.html,,,,,,,,,,,,,,,,0,
+11106,https://sterlitamak.drom.ru/honda/civic/49067729.html,,,,,,,,,,,,,,,,0,
+11107,https://barnaul.drom.ru/honda/accord/46507926.html,,,,,,,,,,,,,,,,0,
+11108,https://tambov.drom.ru/honda/civic/49162544.html,,,,,,,,,,,,,,,,0,
+11109,https://krasnodar.drom.ru/honda/elysion/46966363.html,,,,,,,,,,,,,,,,0,
+11110,https://seversk.drom.ru/honda/cr-v/49162017.html,,,,,,,,,,,,,,,,0,
+11111,https://krasnoyarsk.drom.ru/honda/freed/49162004.html,,,,,,,,,,,,,,,,0,
+11112,https://krasnodar.drom.ru/honda/accord/49161964.html,,,,,,,,,,,,,,,,0,
+11113,https://novosibirsk.drom.ru/honda/civic/48954980.html,,,,,,,,,,,,,,,,0,
+11114,https://khanty-mansiysk.drom.ru/honda/accord/49161881.html,,,,,,,,,,,,,,,,0,
+11115,https://gurievsk-kemer.drom.ru/honda/stream/48624083.html,,,,,,,,,,,,,,,,0,
+11116,https://novokuznetsk.drom.ru/honda/accord/48885353.html,,,,,,,,,,,,,,,,0,
+11117,https://novosibirsk.drom.ru/honda/fit/49139273.html,,,,,,,,,,,,,,,,0,
+11118,https://kerch.drom.ru/honda/civic/48468131.html,,,,,,,,,,,,,,,,0,
+11119,https://novosibirsk.drom.ru/honda/stream/48733126.html,,,,,,,,,,,,,,,,0,
+11120,https://omsk.drom.ru/honda/insight/48645974.html,,,,,,,,,,,,,,,,0,
+11121,https://arsenyev.drom.ru/honda/ridgeline/48107308.html,,,,,,,,,,,,,,,,0,
+11122,https://krasnoyarsk.drom.ru/honda/accord/49157388.html,,,,,,,,,,,,,,,,0,
+11123,https://krasnoyarsk.drom.ru/honda/insight/48256899.html,,,,,,,,,,,,,,,,0,
+11124,https://krasnoyarsk.drom.ru/honda/insight/48909603.html,,,,,,,,,,,,,,,,0,
+11125,https://perm.drom.ru/honda/civic/49157150.html,,,,,,,,,,,,,,,,0,
+11126,https://irkutsk.drom.ru/honda/fit/48671281.html,,,,,,,,,,,,,,,,0,
+11127,https://barnaul.drom.ru/honda/cr-v/49156963.html,,,,,,,,,,,,,,,,0,
+11128,https://barnaul.drom.ru/honda/fit/48666190.html,,,,,,,,,,,,,,,,0,
+11129,https://sochi.drom.ru/honda/civic/49156935.html,,,,,,,,,,,,,,,,0,
+11130,https://tyumen.drom.ru/honda/civic/49156928.html,,,,,,,,,,,,,,,,0,
+11131,https://ussuriisk.drom.ru/honda/freed/49138595.html,,,,,,,,,,,,,,,,0,
+11132,https://surgut.drom.ru/honda/pilot/45255417.html,,,,,,,,,,,,,,,,0,
+11133,https://kemerovo.drom.ru/honda/freed/48647599.html,,,,,,,,,,,,,,,,0,
+11134,https://krasnoyarsk.drom.ru/honda/civic/49156770.html,,,,,,,,,,,,,,,,0,
+11135,https://zykovo.drom.ru/honda/airwave/47248750.html,,,,,,,,,,,,,,,,0,
+11136,https://novoaltaysk.drom.ru/honda/cr-v/49156764.html,,,,,,,,,,,,,,,,0,
+11137,https://nakhodka.drom.ru/honda/insight/49156575.html,,,,,,,,,,,,,,,,0,
+11138,https://vladivostok.drom.ru/honda/insight/49156681.html,,,,,,,,,,,,,,,,0,
+11139,https://rostov-na-donu.drom.ru/honda/elysion/49156676.html,,,,,,,,,,,,,,,,0,
+11140,https://novobureyskiy.drom.ru/honda/stream/49070142.html,,,,,,,,,,,,,,,,0,
+11141,https://kemerovo.drom.ru/honda/accord/49156558.html,,,,,,,,,,,,,,,,0,
+11142,https://ussuriisk.drom.ru/honda/airwave/48987498.html,,,,,,,,,,,,,,,,0,
+11143,https://tomsk.drom.ru/honda/fit/49156477.html,,,,,,,,,,,,,,,,0,
+11144,https://novosibirsk.drom.ru/honda/accord/49145309.html,,,,,,,,,,,,,,,,0,
+11145,https://novorossiysk.drom.ru/honda/fit/49156429.html,,,,,,,,,,,,,,,,0,
+11146,https://tobolsk.drom.ru/honda/civic/49156377.html,,,,,,,,,,,,,,,,0,
+11147,https://vladivostok.drom.ru/honda/fit/49156166.html,,,,,,,,,,,,,,,,0,
+11148,https://ussuriisk.drom.ru/honda/fit/49156235.html,,,,,,,,,,,,,,,,0,
+11149,https://birobidzhan.drom.ru/honda/fit/48881047.html,,,,,,,,,,,,,,,,0,
+11150,https://novosibirsk.drom.ru/honda/civic/47942734.html,,,,,,,,,,,,,,,,0,
+11151,https://vanino.drom.ru/honda/civic_ferio/48904680.html,,,,,,,,,,,,,,,,0,
+11152,https://homutovo-irk.drom.ru/honda/fit/49155648.html,,,,,,,,,,,,,,,,0,
+11153,https://omsk.drom.ru/honda/freed/49155966.html,,,,,,,,,,,,,,,,0,
+11154,https://barnaul.drom.ru/honda/zest/49154457.html,,,,,,,,,,,,,,,,0,
+11155,https://neryungri.drom.ru/honda/stream/49155812.html,,,,,,,,,,,,,,,,0,
+11156,https://vladivostok.drom.ru/honda/insight/45132846.html,,,,,,,,,,,,,,,,0,
+11157,https://ulyanovsk.drom.ru/honda/accord/48837033.html,,,,,,,,,,,,,,,,0,
+11158,https://lipetsk.drom.ru/honda/freed/48836578.html,,,,,,,,,,,,,,,,0,
+11159,https://barnaul.drom.ru/honda/jazz/48835928.html,,,,,,,,,,,,,,,,0,
+11160,https://leninsk-kuznetskiy.drom.ru/honda/civic/48835122.html,,,,,,,,,,,,,,,,0,
+11161,https://omsk.drom.ru/honda/accord/48834974.html,,,,,,,,,,,,,,,,0,
+11162,https://povarovo.drom.ru/honda/civic/48834778.html,,,,,,,,,,,,,,,,0,
+11163,https://simferopol.drom.ru/honda/civic/48834801.html,,,,,,,,,,,,,,,,0,
+11164,https://artem.drom.ru/honda/airwave/48834366.html,,,,,,,,,,,,,,,,0,
+11165,https://novosibirsk.drom.ru/honda/accord/48834080.html,,,,,,,,,,,,,,,,0,
+11166,https://krasnodar.drom.ru/honda/civic/48833926.html,,,,,,,,,,,,,,,,0,
+11167,https://surgut.drom.ru/honda/civic/48833610.html,,,,,,,,,,,,,,,,0,
+11168,https://kizlyar.drom.ru/honda/stream/48832940.html,,,,,,,,,,,,,,,,0,
+11169,https://kemerovo.drom.ru/honda/civic/48832722.html,,,,,,,,,,,,,,,,0,
+11170,https://shymanovsk.drom.ru/honda/stream/48829730.html,,,,,,,,,,,,,,,,0,
+11171,https://yessentuki.drom.ru/honda/civic/48829594.html,,,,,,,,,,,,,,,,0,
+11172,https://krasnoyarsk.drom.ru/honda/civic/48829248.html,,,,,,,,,,,,,,,,0,
+11173,https://mogoitui.drom.ru/honda/fit_aria/48829201.html,,,,,,,,,,,,,,,,0,
+11174,https://vladivostok.drom.ru/honda/mobilio/48829082.html,,,,,,,,,,,,,,,,0,
+11175,https://kyahta.drom.ru/honda/fit/48828687.html,,,,,,,,,,,,,,,,0,
+11176,https://vladivostok.drom.ru/honda/fit/48828129.html,,,,,,,,,,,,,,,,0,
+11177,https://omsk.drom.ru/honda/accord/49159948.html,,,,,,,,,,,,,,,,0,
+11178,https://ketovo.drom.ru/honda/accord/49160051.html,,,,,,,,,,,,,,,,0,
+11179,https://krasnoyarsk.drom.ru/honda/stream/48450704.html,,,,,,,,,,,,,,,,0,
+11180,https://tayshet.drom.ru/honda/fit/49158660.html,,,,,,,,,,,,,,,,0,
+11181,https://irkutsk.drom.ru/honda/elysion/48689122.html,,,,,,,,,,,,,,,,0,
+11182,https://krasnoyarsk.drom.ru/honda/freed/48633264.html,,,,,,,,,,,,,,,,0,
+11183,https://chita.drom.ru/honda/airwave/49033725.html,,,,,,,,,,,,,,,,0,
+11184,https://krasnoyarsk.drom.ru/honda/cr-v/48078055.html,,,,,,,,,,,,,,,,0,
+11185,https://spb.drom.ru/honda/jazz/49159540.html,,,,,,,,,,,,,,,,0,
+11186,https://irkutsk.drom.ru/honda/stream/49159513.html,,,,,,,,,,,,,,,,0,
+11187,https://yakutsk.drom.ru/honda/fit/49159493.html,,,,,,,,,,,,,,,,0,
+11188,https://artem.drom.ru/honda/crossroad/47218478.html,,,,,,,,,,,,,,,,0,
+11189,https://chelyabinsk.drom.ru/honda/civic/49159186.html,,,,,,,,,,,,,,,,0,
+11190,https://ulan-ude.drom.ru/honda/stream/48995694.html,,,,,,,,,,,,,,,,0,
+11191,https://yakutsk.drom.ru/honda/freed/48417554.html,,,,,,,,,,,,,,,,0,
+11192,https://mysky.drom.ru/honda/freed/49158907.html,,,,,,,,,,,,,,,,0,
+11193,https://ulan-ude.drom.ru/honda/insight/49156438.html,,,,,,,,,,,,,,,,0,
+11194,https://novosibirsk.drom.ru/honda/freed/49158874.html,,,,,,,,,,,,,,,,0,
+11195,https://tomsk.drom.ru/honda/cr-v/47759285.html,,,,,,,,,,,,,,,,0,
+11196,https://kemerovo.drom.ru/honda/civic/49158620.html,,,,,,,,,,,,,,,,0,
+11197,https://vladivostok.drom.ru/honda/fit/49152118.html,,,,,,,,,,,,,,,,0,
+11198,https://tyumen.drom.ru/honda/civic/49152115.html,,,,,,,,,,,,,,,,0,
+11199,https://novokuznetsk.drom.ru/honda/fit/49152108.html,,,,,,,,,,,,,,,,0,
+11200,https://vladivostok.drom.ru/honda/freed/49152101.html,,,,,,,,,,,,,,,,0,
+11201,https://nakhodka.drom.ru/honda/stream/48993827.html,,,,,,,,,,,,,,,,0,
+11202,https://vladivostok.drom.ru/honda/stream/48773002.html,,,,,,,,,,,,,,,,0,
+11203,https://petropavlovsk-kamchatskiy.drom.ru/honda/airwave/48381809.html,,,,,,,,,,,,,,,,0,
+11204,https://vladivostok.drom.ru/honda/insight/48136892.html,,,,,,,,,,,,,,,,0,
+11205,https://vladivostok.drom.ru/honda/stream/49152052.html,,,,,,,,,,,,,,,,0,
+11206,https://angarsk.drom.ru/honda/accord/48754282.html,,,,,,,,,,,,,,,,0,
+11207,https://partizansk.drom.ru/honda/civic/48994255.html,,,,,,,,,,,,,,,,0,
+11208,https://vladivostok.drom.ru/honda/insight/48820293.html,,,,,,,,,,,,,,,,0,
+11209,https://angarsk.drom.ru/honda/fit/48818529.html,,,,,,,,,,,,,,,,0,
+11210,https://vladivostok.drom.ru/honda/freed/49123994.html,,,,,,,,,,,,,,,,0,
+11211,https://svobodniy.drom.ru/honda/insight/47307617.html,,,,,,,,,,,,,,,,0,
+11212,https://ryazan.drom.ru/honda/stepwgn/48827149.html,,,,,,,,,,,,,,,,0,
+11213,https://volno-nadezhdinskoe.drom.ru/honda/cr-v/48825781.html,,,,,,,,,,,,,,,,0,
+11214,https://sosnovoborsk.drom.ru/honda/accord/48825673.html,,,,,,,,,,,,,,,,0,
+11215,https://irkutsk.drom.ru/honda/accord/48825439.html,,,,,,,,,,,,,,,,0,
+11216,https://novosibirsk.drom.ru/honda/accord/48825048.html,,,,,,,,,,,,,,,,0,
+11217,https://sochi.drom.ru/honda/cr-v/48825071.html,,,,,,,,,,,,,,,,0,
+11218,https://sevastopol.drom.ru/honda/fit/48824687.html,,,,,,,,,,,,,,,,0,
+11219,https://sochi.drom.ru/honda/civic/48824617.html,,,,,,,,,,,,,,,,0,
+11220,https://novosibirsk.drom.ru/honda/fit/48824573.html,,,,,,,,,,,,,,,,0,
+11221,https://barnaul.drom.ru/honda/elysion/48824221.html,,,,,,,,,,,,,,,,0,
+11222,https://odintsovo.drom.ru/honda/pilot/48824199.html,,,,,,,,,,,,,,,,0,
+11223,https://habarovsk.drom.ru/honda/insight/48824123.html,,,,,,,,,,,,,,,,0,
+11224,https://irkutsk.drom.ru/honda/fit/48823839.html,,,,,,,,,,,,,,,,0,
+11225,https://ussuriisk.drom.ru/honda/airwave/48823196.html,,,,,,,,,,,,,,,,0,
+11226,https://krasnoyarsk.drom.ru/honda/stepwgn/48822605.html,,,,,,,,,,,,,,,,0,
+11227,https://irkutsk.drom.ru/honda/accord/48822035.html,,,,,,,,,,,,,,,,0,
+11228,https://abinsk.drom.ru/honda/cr-v/48821406.html,,,,,,,,,,,,,,,,0,
+11229,https://ekaterinburg.drom.ru/honda/civic/48820935.html,,,,,,,,,,,,,,,,0,
+11230,https://usoliye-sibirskoe.drom.ru/honda/accord/48820264.html,,,,,,,,,,,,,,,,0,
+11231,https://kyzyl.drom.ru/honda/stepwgn/48820111.html,,,,,,,,,,,,,,,,0,
+11232,https://vladivostok.drom.ru/honda/fit/48820136.html,,,,,,,,,,,,,,,,0,
+11233,https://krasnoperekopsk.drom.ru/honda/accord/48819632.html,,,,,,,,,,,,,,,,0,
+11234,https://krasnoyarsk.drom.ru/honda/accord/48819150.html,,,,,,,,,,,,,,,,0,
+11235,https://chita.drom.ru/honda/stepwgn/48819044.html,,,,,,,,,,,,,,,,0,
+11236,https://kazan.drom.ru/honda/civic/48713791.html,,,,,,,,,,,,,,,,0,
+11237,https://komsomolsk.drom.ru/honda/fit/49153395.html,,,,,,,,,,,,,,,,0,
+11238,https://chelyabinsk.drom.ru/honda/jazz/49066337.html,,,,,,,,,,,,,,,,0,
+11239,https://ussuriisk.drom.ru/honda/stepwgn/48775494.html,,,,,,,,,,,,,,,,0,
+11240,https://krasnoyarsk.drom.ru/honda/accord/48996226.html,,,,,,,,,,,,,,,,0,
+11241,https://tomsk.drom.ru/honda/fit_aria/49153329.html,,,,,,,,,,,,,,,,0,
+11242,https://novosibirsk.drom.ru/honda/stream/48701596.html,,,,,,,,,,,,,,,,0,
+11243,https://blagoveshchensk.drom.ru/honda/insight/48953658.html,,,,,,,,,,,,,,,,0,
+11244,https://kemerovo.drom.ru/honda/freed/48793039.html,,,,,,,,,,,,,,,,0,
+11245,https://ussuriisk.drom.ru/honda/freed/49044097.html,,,,,,,,,,,,,,,,0,
+11246,https://ulan-ude.drom.ru/honda/stepwgn/49153231.html,Honda,Stepwgn,Улан-Удэ,2006,бензин,2.0,155,АКПП,передний,,черный,500000,правый,3 поколение,,0,620000
+11247,https://mariinsk.drom.ru/honda/civic_ferio/48005147.html,Honda,Civic Ferio,Мариинск,2006,бензин,1.5,105,АКПП,4WD,,серый,214000,правый,"3 поколение, рестайлинг",1.5 C4,0,400000
+11248,https://novosibirsk.drom.ru/honda/accord/49127968.html,,,,,,,,,,,,,,,,0,
+11249,https://ulan-ude.drom.ru/honda/freed/49153190.html,,,,,,,,,,,,,,,,0,
+11250,https://novosibirsk.drom.ru/honda/civic_ferio/48845362.html,Honda,Civic Ferio,Новосибирск,2005,бензин,1.5,105,АКПП,передний,,серый,186842,правый,"3 поколение, рестайлинг",1.5 C,0,435000
+11251,https://irkutsk.drom.ru/honda/cr-v/49153146.html,Honda,CR-V,Иркутск,2008,бензин,2.4,166,АКПП,4WD,,серый,104174,левый,3 поколение,2.4 AT Executive,0,1304000
+11252,https://blagoveshchensk.drom.ru/honda/insight/49153138.html,,,,,,,,,,,,,,,,0,
+11253,https://novosibirsk.drom.ru/honda/cr-v/47480431.html,Honda,CR-V,Новосибирск,2008,бензин,2.4,166,АКПП,4WD,,серый,199400,левый,3 поколение,,0,1010000
+11254,https://vladivostok.drom.ru/honda/crossroad/49153123.html,Honda,Crossroad,Владивосток,2009,бензин,1.8,140,АКПП,передний,джип/suv 5 дв.,серый,138586,правый,2 поколение,1.8 18L HID edition ,0,935000
+11255,https://irkutsk.drom.ru/honda/fit/49071589.html,Honda,Fit,Иркутск,2009,бензин,1.3,100,вариатор,передний,,черный,87000,правый,2 поколение,1.3 G smart style edition,0,659000
+11256,https://belogorsk.drom.ru/honda/insight/48207877.html,Honda,Insight,Белогорск,2009,бензин,1.3,88,вариатор,передний,лифтбек,,156000,правый,2 поколение,1.3 L,0,735000
+11257,https://kazan.drom.ru/honda/civic/48821405.html,Honda,Civic,Казань,2007,бензин,1.3,95,вариатор,передний,седан,черный,,левый,8 поколение,,0,450000
+11258,https://kemerovo.drom.ru/honda/accord/47389919.html,Honda,Accord,Кемерово,2008,бензин,2.4,201,АКПП,передний,седан,черный,240000,левый,8 поколение,2.4 AT Executive,0,910000
+11259,https://chita.drom.ru/honda/accord/48298669.html,Honda,Accord,Чита,2008,бензин,2.4,201,АКПП,передний,седан,черный,313000,левый,8 поколение,2.4 AT Executive,0,830000
+11260,https://krasnoyarsk.drom.ru/honda/accord/49155201.html,Honda,Accord,Красноярск,2006,бензин,2.4,190,АКПП,передний,седан,серебристый,280000,левый,"7 поколение, рестайлинг",2.4 AT Executive,0,950000
+11261,https://vladivostok.drom.ru/honda/airwave/49155367.html,Honda,Airwave,Владивосток,2007,бензин,1.5,110,вариатор,передний,,серый,352268,правый,1 поколение,1.5 G sky roof  style edition ,1,200000
+11262,https://irkutsk.drom.ru/honda/civic_ferio/49155357.html,Honda,Civic Ferio,Иркутск,2005,бензин,1.5,105,АКПП,передний,,серый,216852,правый,"3 поколение, рестайлинг",1.5 C,0,435000
+11263,https://nazarovo.drom.ru/honda/accord/49155405.html,Honda,Accord,Назарово,2007,бензин,2.4,190,АКПП,передний,седан,серый,198000,левый,"7 поколение, рестайлинг",2.4 AT Executive,0,730000
+11264,https://belovo.drom.ru/honda/accord/49155164.html,Honda,Accord,Белово,2007,бензин,2.4,190,АКПП,передний,седан,коричневый,286666,левый,"7 поколение, рестайлинг",,0,760000
+11265,https://petropavlovsk-kamchatskiy.drom.ru/honda/fit/49155079.html,Honda,Fit,Петропавловск-Камчатский,2008,бензин,1.3,100,вариатор,передний,,черный,172000,правый,2 поколение,1.3 G,0,560000
+11266,https://ussuriisk.drom.ru/honda/airwave/49155049.html,Honda,Airwave,Уссурийск,2006,бензин,1.5,110,вариатор,передний,,серый,170000,правый,1 поколение,1.5 G,1,415000
+11267,https://dalnerechensk.drom.ru/honda/insight/48941611.html,Honda,Insight,Дальнереченск,2009,бензин,1.3,88,вариатор,передний,лифтбек,черный,143000,правый,2 поколение,1.3 L,0,628000
+11268,https://tomsk.drom.ru/honda/insight/49093257.html,Honda,Insight,Томск,2009,бензин,1.3,88,вариатор,передний,лифтбек,белый,191000,левый,2 поколение,1.3 Elegance,0,720000
+11269,https://irkutsk.drom.ru/honda/cr-v/49154467.html,Honda,CR-V,Иркутск,2008,бензин,2.4,166,АКПП,4WD,,серый,190000,левый,3 поколение,2.4 AT Executive Leather,0,1270000
+11270,https://novosibirsk.drom.ru/honda/accord/49002927.html,Honda,Accord,Новосибирск,2005,бензин,2.4,190,АКПП,передний,седан,красный,169000,левый,7 поколение,2.4 AT Executive,0,735000
+11271,https://krasnoyarsk.drom.ru/honda/fit/48744679.html,Honda,Fit,Красноярск,2006,бензин,1.3,86,вариатор,передний,,серый,240000,правый,"1 поколение, 2 рестайлинг",1.3AU HDD edition,0,456000
+11272,https://novosibirsk.drom.ru/honda/stepwgn/47192357.html,Honda,Stepwgn,Новосибирск,2009,бензин,2.0,150,вариатор,передний,,серый,201000,правый,4 поколение,2.0 G L package ,0,1148000
+11273,https://ulan-ude.drom.ru/honda/airwave/49154693.html,Honda,Airwave,Улан-Удэ,2005,бензин,1.5,110,вариатор,передний,,серый,264728,правый,1 поколение,,0,520000
+11274,https://irkutsk.drom.ru/honda/fit/49153118.html,Honda,Fit,Иркутск,2009,бензин,1.3,100,вариатор,передний,,черный,69000,правый,2 поколение,1.3 G smart selection,0,675000
+11275,https://omsk.drom.ru/honda/accord/49154568.html,Honda,Accord,Омск,2006,бензин,2.4,190,АКПП,передний,седан,коричневый,189000,левый,"7 поколение, рестайлинг",2.4 AT Type S,0,785000
+11276,https://vladivostok.drom.ru/honda/fit/49102345.html,Honda,Fit,Владивосток,2007,бензин,1.3,100,вариатор,передний,,серый,280000,правый,2 поколение,1.3 G,0,350000
+11277,https://novokuznetsk.drom.ru/honda/stream/47764562.html,Honda,Stream,Новокузнецк,2009,бензин,2.0,150,вариатор,передний,,серый,192000,правый,"2 поколение, рестайлинг",,0,920000
+11278,https://krasnoyarsk.drom.ru/honda/cr-v/48263983.html,Honda,CR-V,Красноярск,2007,бензин,2.0,150,АКПП,4WD,,серебристый,198000,левый,3 поколение,,0,1077000
+11279,https://novosibirsk.drom.ru/honda/pilot/45168619.html,Honda,Pilot,Новосибирск,2008,бензин,3.5,257,АКПП,4WD,,бежевый,198000,левый,2 поколение,3.5 AT Executive,1,911000
+11280,https://novosibirsk.drom.ru/honda/civic/48262115.html,Honda,Civic,Новосибирск,2007,бензин,1.8,140,робот,передний,хэтчбек 5 дв.,красный,246000,левый,8 поколение,,0,465000
+11281,https://novosibirsk.drom.ru/honda/cr-v/49041452.html,Honda,CR-V,Новосибирск,2006,бензин,2.0,150,АКПП,4WD,,черный,220000,левый,"2 поколение, рестайлинг",2.0 AT 4WD Executive,0,850000
+11282,https://artem.drom.ru/honda/fit/49070146.html,Honda,Fit,Артём,2006,бензин,1.3,86,вариатор,4WD,,оранжевый,374385,правый,"1 поколение, 2 рестайлинг",1.3A 4WD,0,385000
+11283,https://nakhodka.drom.ru/honda/fit/47775557.html,Honda,Fit,Находка,2008,бензин,1.3,100,вариатор,передний,,синий,187000,правый,2 поколение,,0,438000
+11284,https://angarsk.drom.ru/honda/cr-v/48465745.html,Honda,CR-V,Ангарск,2005,бензин,2.4,160,АКПП,передний,,черный,186000,правый,"2 поколение, рестайлинг",2.4 iL-D,0,780000
+11285,https://barnaul.drom.ru/honda/fit/48877505.html,Honda,Fit,Барнаул,2007,бензин,1.3,86,вариатор,передний,,белый,233000,правый,"1 поколение, 2 рестайлинг",1.3A HDD navi HID edition,0,499000
+11286,https://novosibirsk.drom.ru/honda/cr-v/47432438.html,Honda,CR-V,Новосибирск,2007,бензин,2.0,150,АКПП,4WD,,серый,170000,левый,3 поколение,,0,975000
+11287,https://krasnoyarsk.drom.ru/honda/fit/47853525.html,Honda,Fit,Красноярск,2009,бензин,1.3,100,вариатор,передний,,синий,98421,правый,2 поколение,1.3 G smart selection,0,679999
+11288,https://ulan-ude.drom.ru/honda/freed/48108453.html,Honda,Freed,Улан-Удэ,2009,бензин,1.5,118,вариатор,передний,,серый,120000,правый,1 поколение,,0,820000
+11289,https://krasnoyarsk.drom.ru/honda/civic/48870571.html,Honda,Civic,Красноярск,2008,бензин,1.8,140,АКПП,передний,седан,черный,172000,левый,"8 поколение, рестайлинг",1.8 AT Elegance,0,637000
+11290,https://selenginsk.drom.ru/honda/fit/48929764.html,Honda,Fit,Селенгинск,2006,бензин,1.3,86,вариатор,передний,,белый,240000,правый,"1 поколение, 2 рестайлинг",,1,420000
+11291,https://novosibirsk.drom.ru/honda/insight/48065015.html,,,,,,,,,,,,,,,,0,
+11292,https://komsomolsk.drom.ru/honda/airwave/49152633.html,Honda,Airwave,Комсомольск-на-Амуре,2006,бензин,1.5,110,вариатор,передний,,зеленый,165500,правый,1 поколение,1.5 G,0,475000
+11293,https://abakan.drom.ru/honda/cr-v/48820355.html,Honda,CR-V,Абакан,2007,бензин,2.0,150,АКПП,4WD,,серебристый,197000,левый,3 поколение,2.0 AT Style,1,909000
+11294,https://irkutsk.drom.ru/honda/legend/48792212.html,Honda,Legend,Иркутск,2007,бензин,3.5,291,АКПП,4WD,седан,серый,130000,левый,4 поколение,3.5 AT SH-AWD Legend,0,600000
+11295,https://lesozavodsk.drom.ru/honda/life/48751168.html,Honda,Life,Лесозаводск,2005,бензин,0.7,52,АКПП,передний,хэтчбек 5 дв.,желтый,190480,правый,4 поколение,,0,120000
+11296,https://kuybyshev.drom.ru/honda/stream/48442920.html,Honda,Stream,Куйбышев,2006,бензин,1.8,140,АКПП,передний,,черный,270000,правый,2 поколение,1.8 RSZ,0,690000
+11297,https://zheleznogorsk-ilimskiy.drom.ru/honda/stream/43134303.html,Honda,Stream,Железногорск-Илимский,2006,бензин,1.8,140,АКПП,передний,,черный,220000,правый,2 поколение,1.8 X,0,670000
+11298,https://vladivostok.drom.ru/honda/insight/49101054.html,Honda,Insight,Владивосток,2009,бензин,1.3,88,вариатор,передний,лифтбек,серебристый,82000,правый,2 поколение,1.3 L,0,620000
+11299,https://novosibirsk.drom.ru/honda/accord/48538331.html,Honda,Accord,Новосибирск,2008,бензин,2.4,201,АКПП,передний,седан,серебристый,291527,левый,8 поколение,,0,888000
+11300,https://ulan-ude.drom.ru/honda/civic/49101741.html,Honda,Civic,Улан-Удэ,2009,бензин,1.3,95,вариатор,передний,седан,серый,175,левый,"8 поколение, рестайлинг",1.3 CVT Hybrid,0,615000
+11301,https://kavalerovo.drom.ru/honda/fit/49152451.html,Honda,Fit,Кавалерово,2007,бензин,1.3,100,АКПП,4WD,,красный,151000,правый,2 поколение,,0,500000
+11302,https://krasnoyarsk.drom.ru/honda/cr-v/49152411.html,Honda,CR-V,Красноярск,2008,бензин,2.4,166,АКПП,4WD,,синий,202800,левый,3 поколение,2.4 AT 4WD EX-L,0,1130000
+11303,https://sayansk.drom.ru/honda/freed/47033956.html,Honda,Freed,Саянск,2009,бензин,1.5,118,вариатор,передний,,серый,100000,правый,1 поколение,,0,800000
+11304,https://ussuriisk.drom.ru/honda/hr-v/48653884.html,,,,,,,,,,,,,,,,0,
+11305,https://galenki.drom.ru/honda/insight/48203950.html,Honda,Insight,Галёнки,2009,бензин,1.3,88,вариатор,передний,лифтбек,белый,165000,правый,2 поколение,1.3 LS,0,600000
+11306,https://yakutsk.drom.ru/honda/accord/49152378.html,Honda,Accord,Якутск,2008,бензин,2.4,180,АКПП,передний,седан,серый,230000,левый,8 поколение,2.4 AT,0,720000
+11307,https://blagoveshchensk.drom.ru/honda/civic/49152360.html,,,,,,,,,,,,,,,,0,
+11308,https://kansk.drom.ru/honda/insight/49152344.html,Honda,Insight,Канск,2009,бензин,1.3,88,вариатор,передний,лифтбек,серый,165000,правый,2 поколение,1.3 L,0,690000
+11309,https://vladivostok.drom.ru/honda/freed/49152319.html,Honda,Freed,Владивосток,2009,бензин,1.5,118,вариатор,передний,,бордовый,118000,правый,1 поколение,1.5 G aero L package  (8-Seater),0,650000
+11310,https://vladivostok.drom.ru/honda/fit/48617211.html,Honda,Fit,Владивосток,2009,бензин,1.5,120,механика,передний,,синий,143500,правый,2 поколение,1.5 RS,0,500000
+11311,https://ussuriisk.drom.ru/honda/freed/49080693.html,Honda,Freed,Уссурийск,2009,бензин,1.5,118,вариатор,передний,,голубой,117000,правый,1 поколение,1.5 G just selection (7-Seater),0,605000
+11312,https://volno-nadezhdinskoe.drom.ru/honda/stream/47734940.html,Honda,Stream,Вольно-Надеждинское,2009,бензин,1.8,140,АКПП,передний,,черный,175000,правый,2 поколение,1.8 RSZ HDD NAVI edition ,0,870000
+11313,https://neryungri.drom.ru/honda/airwave/49112533.html,Honda,Airwave,Нерюнгри,2005,бензин,1.5,110,вариатор,передний,,черный,219000,правый,1 поколение,,0,500000
+11314,https://vladivostok.drom.ru/honda/fit/48051592.html,Honda,Fit,Владивосток,2008,бензин,1.3,100,вариатор,передний,,,100000,правый,2 поколение,1.3 G,0,615000
+11315,https://vladivostok.drom.ru/honda/crossroad/48789281.html,Honda,Crossroad,Владивосток,2008,бензин,1.8,140,АКПП,передний,джип/suv 5 дв.,белый,120000,правый,2 поколение,,0,1010000
+11316,https://blagoveshchensk.drom.ru/honda/crossroad/48507409.html,Honda,Crossroad,Благовещенск,2008,бензин,1.8,140,АКПП,4WD,джип/suv 5 дв.,черный,145000,правый,2 поколение,,0,820000
+11317,https://chita.drom.ru/honda/fit/47548081.html,Honda,Fit,Чита,2006,бензин,1.3,86,вариатор,передний,,серый,185000,правый,"1 поколение, 2 рестайлинг",1.3A,1,390000
+11318,https://tomsk.drom.ru/honda/fit/49154502.html,Honda,Fit,Томск,2006,бензин,1.3,86,вариатор,передний,,серый,287000,правый,"1 поколение, 2 рестайлинг",1.3A,0,415000
+11319,https://artem.drom.ru/honda/airwave/49154290.html,Honda,Airwave,Артём,2005,бензин,1.5,110,вариатор,передний,,серый,300000,правый,1 поколение,1.5 G,0,400000
+11320,https://vladivostok.drom.ru/honda/insight/49139025.html,Honda,Insight,Владивосток,2009,бензин,1.3,88,вариатор,передний,лифтбек,белый,195000,правый,2 поколение,1.3 G,0,450000
+11321,https://novosibirsk.drom.ru/honda/insight/48842603.html,Honda,Insight,Новосибирск,2009,бензин,1.3,88,вариатор,передний,лифтбек,серебристый,151000,правый,2 поколение,1.3 G,0,790000
+11322,https://krasnokamensk.drom.ru/honda/insight/47326263.html,Honda,Insight,Краснокаменск,2009,бензин,1.3,88,вариатор,передний,лифтбек,белый,153000,правый,2 поколение,,1,550000
+11323,https://nakhodka.drom.ru/honda/insight/49101274.html,Honda,Insight,Находка,2009,бензин,1.3,88,вариатор,передний,лифтбек,серебристый,95000,правый,2 поколение,1.3 G,0,620000
+11324,https://angarsk.drom.ru/honda/fit/47904317.html,Honda,Fit,Ангарск,2008,бензин,1.3,100,вариатор,передний,,серый,217000,правый,2 поколение,,1,485000
+11325,https://biysk.drom.ru/honda/accord/43467155.html,Honda,Accord,Бийск,2008,бензин,2.4,201,АКПП,передний,седан,красный,150000,левый,8 поколение,,0,595000
+11326,https://chelyabinsk.drom.ru/honda/civic/49150690.html,Honda,Civic,Челябинск,2006,бензин,1.8,140,механика,передний,седан,синий,245988,левый,8 поколение,1.8 MT EX,0,505000
+11327,https://krasnoyarsk.drom.ru/honda/airwave/48045444.html,Honda,Airwave,Красноярск,2007,бензин,1.5,110,вариатор,4WD,,черный,188000,правый,1 поколение,1.5 G HID edition 4WD,0,577000
+11328,https://zalari.drom.ru/honda/insight/49092543.html,Honda,Insight,Залари,2009,бензин,1.3,88,вариатор,передний,лифтбек,серый,122,левый,2 поколение,1.3 CVT EX,0,687000
+11329,https://novosibirsk.drom.ru/honda/freed/49089365.html,Honda,Freed,Новосибирск,2009,бензин,1.5,118,вариатор,передний,,серебристый,154000,правый,1 поколение,1.5 G L package  (8-Seater),0,820000
+11330,https://komsomolsk.drom.ru/honda/fit/49153998.html,,,,,,,,,,,,,,,,0,
+11331,https://habarovsk.drom.ru/honda/zest/47492128.html,,,,,,,,,,,,,,,,0,
+11332,https://novosibirsk.drom.ru/honda/fit/49153976.html,,,,,,,,,,,,,,,,0,
+11333,https://ussuriisk.drom.ru/honda/fit/49153964.html,,,,,,,,,,,,,,,,0,
+11334,https://vladivostok.drom.ru/honda/fit/49153943.html,,,,,,,,,,,,,,,,0,
+11335,https://novosibirsk.drom.ru/honda/accord/49153938.html,,,,,,,,,,,,,,,,0,
+11336,https://barnaul.drom.ru/honda/odyssey/48999517.html,,,,,,,,,,,,,,,,0,
+11337,https://vladivostok.drom.ru/honda/insight/48674590.html,,,,,,,,,,,,,,,,0,
+11338,https://barnaul.drom.ru/honda/cr-v/48625407.html,,,,,,,,,,,,,,,,0,
+11339,https://svobodniy.drom.ru/honda/crossroad/48526424.html,,,,,,,,,,,,,,,,0,
+11340,https://almetievsk.drom.ru/honda/civic/48481453.html,,,,,,,,,,,,,,,,0,
+11341,https://irkutsk.drom.ru/honda/partner/48480249.html,,,,,,,,,,,,,,,,0,
+11342,https://magistralniy.drom.ru/honda/freed/48480216.html,,,,,,,,,,,,,,,,0,
+11343,https://novosibirsk.drom.ru/honda/cr-v/48479450.html,,,,,,,,,,,,,,,,0,
+11344,https://ulan-ude.drom.ru/honda/fit/48477910.html,,,,,,,,,,,,,,,,0,
+11345,https://nizhniy-novgorod.drom.ru/honda/accord/48477769.html,,,,,,,,,,,,,,,,0,
+11346,https://novoaltaysk.drom.ru/honda/accord/48477513.html,,,,,,,,,,,,,,,,0,
+11347,https://novosibirsk.drom.ru/honda/freed/48475313.html,,,,,,,,,,,,,,,,0,
+11348,https://derbent.drom.ru/honda/elysion/48474651.html,,,,,,,,,,,,,,,,0,
+11349,https://krasnodar.drom.ru/honda/accord/48474279.html,,,,,,,,,,,,,,,,0,
+11350,https://pogranichniy.drom.ru/honda/insight/48472544.html,,,,,,,,,,,,,,,,0,
+11351,https://anzhero-sudzhensk.drom.ru/honda/civic/48472240.html,,,,,,,,,,,,,,,,0,
+11352,https://bratsk.drom.ru/honda/civic/48471828.html,,,,,,,,,,,,,,,,0,
+11353,https://spb.drom.ru/honda/civic/48358563.html,,,,,,,,,,,,,,,,0,
+11354,https://krasnoyarsk.drom.ru/honda/stream/48135762.html,,,,,,,,,,,,,,,,0,
+11355,https://krasnodar.drom.ru/honda/civic/48135842.html,,,,,,,,,,,,,,,,0,
+11356,https://mytishchi.drom.ru/honda/civic/48134059.html,,,,,,,,,,,,,,,,0,
+11357,https://svobodniy.drom.ru/honda/insight/49153840.html,,,,,,,,,,,,,,,,0,
+11358,https://ulan-ude.drom.ru/honda/partner/49153820.html,,,,,,,,,,,,,,,,0,
+11359,https://vladivostok.drom.ru/honda/airwave/49153804.html,,,,,,,,,,,,,,,,0,
+11360,https://vladivostok.drom.ru/honda/odyssey/46765822.html,,,,,,,,,,,,,,,,0,
+11361,https://kavalerovo.drom.ru/honda/fit/49068890.html,,,,,,,,,,,,,,,,0,
+11362,https://blagoveshchensk.drom.ru/honda/insight/49153709.html,,,,,,,,,,,,,,,,0,
+11363,https://barnaul.drom.ru/honda/accord/49153703.html,,,,,,,,,,,,,,,,0,
+11364,https://sayanogorsk.drom.ru/honda/fit/48156107.html,,,,,,,,,,,,,,,,0,
+11365,https://nakhodka.drom.ru/honda/fit/49056409.html,,,,,,,,,,,,,,,,0,
+11366,https://novosibirsk.drom.ru/honda/accord/49153637.html,,,,,,,,,,,,,,,,0,
+11367,https://tomsk.drom.ru/honda/jazz/48435562.html,,,,,,,,,,,,,,,,0,
+11368,https://omsk.drom.ru/honda/accord/48715196.html,,,,,,,,,,,,,,,,0,
+11369,https://barnaul.drom.ru/honda/cr-v/48683941.html,,,,,,,,,,,,,,,,0,
+11370,https://irkutsk.drom.ru/honda/freed/48871205.html,,,,,,,,,,,,,,,,0,
+11371,https://kavalerovo.drom.ru/honda/fit/48985194.html,,,,,,,,,,,,,,,,0,
+11372,https://tomsk.drom.ru/honda/accord/48971013.html,,,,,,,,,,,,,,,,0,
+11373,https://belogorsk.drom.ru/honda/freed/46402671.html,,,,,,,,,,,,,,,,0,
+11374,https://novosibirsk.drom.ru/honda/fit/48499318.html,,,,,,,,,,,,,,,,0,
+11375,https://chita.drom.ru/honda/insight/49153414.html,,,,,,,,,,,,,,,,0,
+11376,https://usoliye-sibirskoe.drom.ru/honda/fit/49153452.html,,,,,,,,,,,,,,,,0,
+11377,https://novosibirsk.drom.ru/honda/cr-v/48133326.html,,,,,,,,,,,,,,,,0,
+11378,https://belgorod.drom.ru/honda/freed/48133116.html,,,,,,,,,,,,,,,,0,
+11379,https://irkutsk.drom.ru/honda/fit/48132720.html,,,,,,,,,,,,,,,,0,
+11380,https://omsk.drom.ru/honda/accord/48132223.html,,,,,,,,,,,,,,,,0,
+11381,https://kaltan.drom.ru/honda/fit/48131292.html,,,,,,,,,,,,,,,,0,
+11382,https://ulan-ude.drom.ru/honda/insight/48129923.html,,,,,,,,,,,,,,,,0,
+11383,https://chita.drom.ru/honda/fit/48127354.html,,,,,,,,,,,,,,,,0,
+11384,https://irkutsk.drom.ru/honda/stream/47796736.html,,,,,,,,,,,,,,,,0,
+11385,https://nizhniy-novgorod.drom.ru/honda/civic/47796408.html,,,,,,,,,,,,,,,,0,
+11386,https://irkutsk.drom.ru/honda/cr-v/47796255.html,,,,,,,,,,,,,,,,0,
+11387,https://dalnegorsk.drom.ru/honda/insight/47791232.html,,,,,,,,,,,,,,,,0,
+11388,https://tabuny.drom.ru/honda/civic/47788590.html,,,,,,,,,,,,,,,,0,
+11389,https://yakutsk.drom.ru/honda/fit_aria/47787887.html,,,,,,,,,,,,,,,,0,
+11390,https://nakhodka.drom.ru/honda/fit/47787412.html,,,,,,,,,,,,,,,,0,
+11391,https://habarovsk.drom.ru/honda/stream/47565430.html,,,,,,,,,,,,,,,,0,
+11392,https://ulan-ude.drom.ru/honda/insight/47525153.html,,,,,,,,,,,,,,,,0,
+11393,https://habarovsk.drom.ru/honda/fit/47496345.html,,,,,,,,,,,,,,,,0,
+11394,https://novosibirsk.drom.ru/honda/freed/47462314.html,,,,,,,,,,,,,,,,0,
+11395,https://rubtsovsk.drom.ru/honda/cr-v/47461980.html,,,,,,,,,,,,,,,,0,
+11396,https://maslyanino.drom.ru/honda/accord/47460832.html,,,,,,,,,,,,,,,,0,
+11397,https://krasnoyarsk.drom.ru/honda/fit/48244761.html,,,,,,,,,,,,,,,,0,
+11398,https://krasnoyarsk.drom.ru/honda/civic/48751395.html,,,,,,,,,,,,,,,,0,
+11399,https://sochi.drom.ru/honda/civic/49150015.html,,,,,,,,,,,,,,,,0,
+11400,https://angarsk.drom.ru/honda/airwave/47370751.html,,,,,,,,,,,,,,,,0,
+11401,https://yaroslavl.drom.ru/honda/civic/49149875.html,,,,,,,,,,,,,,,,0,
+11402,https://krasnoyarsk.drom.ru/honda/accord/49149764.html,,,,,,,,,,,,,,,,0,
+11403,https://ulan-ude.drom.ru/honda/civic/49149750.html,,,,,,,,,,,,,,,,0,
+11404,https://novosibirsk.drom.ru/honda/pilot/48388731.html,,,,,,,,,,,,,,,,0,
+11405,https://ust-abakan.drom.ru/honda/freed/49146698.html,,,,,,,,,,,,,,,,0,
+11406,https://ufa.drom.ru/honda/civic/49149438.html,,,,,,,,,,,,,,,,0,
+11407,https://krasnoyarsk.drom.ru/honda/accord/48731219.html,,,,,,,,,,,,,,,,0,
+11408,https://irkutsk.drom.ru/honda/fit/48207036.html,,,,,,,,,,,,,,,,0,
+11409,https://chita.drom.ru/honda/insight/47871298.html,,,,,,,,,,,,,,,,0,
+11410,https://ust-labinsk.drom.ru/honda/jazz/48947377.html,,,,,,,,,,,,,,,,0,
+11411,https://chita.drom.ru/honda/freed/49149087.html,,,,,,,,,,,,,,,,0,
+11412,https://ussuriisk.drom.ru/honda/freed/49148968.html,,,,,,,,,,,,,,,,0,
+11413,https://vladivostok.drom.ru/honda/freed/49148887.html,,,,,,,,,,,,,,,,0,
+11414,https://angarsk.drom.ru/honda/fit_aria/47278883.html,,,,,,,,,,,,,,,,0,
+11415,https://kemerovo.drom.ru/honda/fit/48618372.html,,,,,,,,,,,,,,,,0,
+11416,https://barnaul.drom.ru/honda/freed/48796089.html,,,,,,,,,,,,,,,,0,
+11417,https://vladivostok.drom.ru/honda/airwave/49148452.html,,,,,,,,,,,,,,,,0,
+11418,https://krasnoyarsk.drom.ru/honda/accord/48934751.html,,,,,,,,,,,,,,,,0,
+11419,https://habarovsk.drom.ru/honda/fit/49148274.html,,,,,,,,,,,,,,,,0,
+11420,https://habarovsk.drom.ru/honda/fit/49148179.html,,,,,,,,,,,,,,,,0,
+11421,https://tyumen.drom.ru/honda/civic/48445730.html,,,,,,,,,,,,,,,,0,
+11422,https://tyumen.drom.ru/honda/civic/48686722.html,,,,,,,,,,,,,,,,0,
+11423,https://krasnoyarsk.drom.ru/honda/freed/48843334.html,,,,,,,,,,,,,,,,0,
+11424,https://kansk.drom.ru/honda/cr-v/48890815.html,,,,,,,,,,,,,,,,0,
+11425,https://krasnoyarsk.drom.ru/honda/fit/48450421.html,,,,,,,,,,,,,,,,0,
+11426,https://vladivostok.drom.ru/honda/stepwgn/48727328.html,,,,,,,,,,,,,,,,0,
+11427,https://irkutsk.drom.ru/honda/cr-v/49147524.html,,,,,,,,,,,,,,,,0,
+11428,https://moscow.drom.ru/honda/civic/49147404.html,,,,,,,,,,,,,,,,0,
+11429,https://irkutsk.drom.ru/honda/fit/49147300.html,,,,,,,,,,,,,,,,0,
+11430,https://ulan-ude.drom.ru/honda/fit/48975375.html,,,,,,,,,,,,,,,,0,
+11431,https://rybnoe.drom.ru/honda/elysion/47336037.html,,,,,,,,,,,,,,,,0,
+11432,https://barnaul.drom.ru/honda/cr-v/49147062.html,,,,,,,,,,,,,,,,0,
+11433,https://moscow.drom.ru/honda/cr-v/48803270.html,,,,,,,,,,,,,,,,0,
+11434,https://blagoveshchensk.drom.ru/honda/insight/49033049.html,,,,,,,,,,,,,,,,0,
+11435,https://vladivostok.drom.ru/honda/insight/49146797.html,,,,,,,,,,,,,,,,0,
+11436,https://novosibirsk.drom.ru/honda/insight/49146718.html,,,,,,,,,,,,,,,,0,
+11437,https://krasnoyarsk.drom.ru/honda/cr-v/49144175.html,,,,,,,,,,,,,,,,0,
+11438,https://novosibirsk.drom.ru/honda/civic/48868293.html,,,,,,,,,,,,,,,,0,
+11439,https://novosibirsk.drom.ru/honda/cr-v/49144143.html,,,,,,,,,,,,,,,,0,
+11440,https://ulan-ude.drom.ru/honda/accord/49144119.html,,,,,,,,,,,,,,,,0,
+11441,https://ussuriisk.drom.ru/honda/freed/49144062.html,,,,,,,,,,,,,,,,0,
+11442,https://vladivostok.drom.ru/honda/insight/49143943.html,,,,,,,,,,,,,,,,0,
+11443,https://ulan-ude.drom.ru/honda/insight/48985362.html,,,,,,,,,,,,,,,,0,
+11444,https://ussuriisk.drom.ru/honda/edix/49088808.html,,,,,,,,,,,,,,,,0,
+11445,https://irkutsk.drom.ru/honda/accord/49143530.html,,,,,,,,,,,,,,,,0,
+11446,https://omsk.drom.ru/honda/civic/48735685.html,,,,,,,,,,,,,,,,0,
+11447,https://krasnoyarsk.drom.ru/honda/cr-v/48775945.html,,,,,,,,,,,,,,,,0,
+11448,https://ekaterinburg.drom.ru/honda/accord/49143372.html,,,,,,,,,,,,,,,,0,
+11449,https://aldan.drom.ru/honda/cr-v/48935590.html,,,,,,,,,,,,,,,,0,
+11450,https://lesozavodsk.drom.ru/honda/insight/49143211.html,,,,,,,,,,,,,,,,0,
+11451,https://habarovsk.drom.ru/honda/edix/47904097.html,,,,,,,,,,,,,,,,0,
+11452,https://tomsk.drom.ru/honda/fit/49143117.html,,,,,,,,,,,,,,,,0,
+11453,https://novokuznetsk.drom.ru/honda/stream/48224200.html,,,,,,,,,,,,,,,,0,
+11454,https://angarsk.drom.ru/honda/freed/49142951.html,,,,,,,,,,,,,,,,0,
+11455,https://novokuznetsk.drom.ru/honda/cr-v/49142937.html,,,,,,,,,,,,,,,,0,
+11456,https://krasnoyarsk.drom.ru/honda/airwave/48150320.html,,,,,,,,,,,,,,,,0,
+11457,https://spb.drom.ru/honda/civic/47458383.html,,,,,,,,,,,,,,,,0,
+11458,https://novosibirsk.drom.ru/honda/accord/47458541.html,,,,,,,,,,,,,,,,0,
+11459,https://vladivostok.drom.ru/honda/fit/47425833.html,,,,,,,,,,,,,,,,0,
+11460,https://krasnodar.drom.ru/honda/airwave/47129697.html,,,,,,,,,,,,,,,,0,
+11461,https://mysky.drom.ru/honda/accord/47129299.html,,,,,,,,,,,,,,,,0,
+11462,https://chita.drom.ru/honda/accord/47122874.html,,,,,,,,,,,,,,,,0,
+11463,https://chita.drom.ru/honda/airwave/47120896.html,,,,,,,,,,,,,,,,0,
+11464,https://kamen-na-obi.drom.ru/honda/cr-v/47117128.html,,,,,,,,,,,,,,,,0,
+11465,https://omsk.drom.ru/honda/cr-v/47098389.html,,,,,,,,,,,,,,,,0,
+11466,https://ulan-ude.drom.ru/honda/stream/47069253.html,,,,,,,,,,,,,,,,0,
+11467,https://irkutsk.drom.ru/honda/fit/47068896.html,,,,,,,,,,,,,,,,0,
+11468,https://bratsk.drom.ru/honda/legend/46783489.html,,,,,,,,,,,,,,,,0,
+11469,https://novosibirsk.drom.ru/honda/accord/46765138.html,,,,,,,,,,,,,,,,0,
+11470,https://chita.drom.ru/honda/insight/46703305.html,,,,,,,,,,,,,,,,0,
+11471,https://irkutsk.drom.ru/honda/freed/46675625.html,,,,,,,,,,,,,,,,0,
+11472,https://chita.drom.ru/honda/fit/46665107.html,,,,,,,,,,,,,,,,0,
+11473,https://verhniy-ufaley.drom.ru/honda/cr-v/46645934.html,,,,,,,,,,,,,,,,0,
+11474,https://krasnokamensk.drom.ru/honda/fit/46568183.html,,,,,,,,,,,,,,,,0,
+11475,https://leninsk-kuznetskiy.drom.ru/honda/accord/46471792.html,,,,,,,,,,,,,,,,0,
+11476,https://novorossiysk.drom.ru/honda/civic/46452441.html,,,,,,,,,,,,,,,,0,
+11477,https://krasnoyarsk.drom.ru/honda/accord/49042266.html,,,,,,,,,,,,,,,,0,
+11478,https://krasnoyarsk.drom.ru/honda/insight/49144873.html,,,,,,,,,,,,,,,,0,
+11479,https://kaltan.drom.ru/honda/accord/49144802.html,,,,,,,,,,,,,,,,0,
+11480,https://habarovsk.drom.ru/honda/accord/48772425.html,,,,,,,,,,,,,,,,0,
+11481,https://vladivostok.drom.ru/honda/civic/49144409.html,,,,,,,,,,,,,,,,0,
+11482,https://kazan.drom.ru/honda/civic/48454883.html,Honda,Civic,Казань,2007,бензин,1.8,140,АКПП,передний,седан,черный,265000,левый,8 поколение,,0,590000
+11483,https://artem.drom.ru/honda/fit/48807937.html,,,,,,,,,,,,,,,,0,
+11484,https://novosibirsk.drom.ru/honda/freed/49069816.html,,,,,,,,,,,,,,,,0,
+11485,https://habarovsk.drom.ru/honda/fit_aria/49101002.html,,,,,,,,,,,,,,,,0,
+11486,https://ussuriisk.drom.ru/honda/civic/48649939.html,,,,,,,,,,,,,,,,0,
+11487,https://abakan.drom.ru/honda/fit/49022974.html,,,,,,,,,,,,,,,,0,
+11488,https://omsk.drom.ru/honda/accord/48645257.html,,,,,,,,,,,,,,,,0,
+11489,https://tyumen.drom.ru/honda/accord/47961269.html,,,,,,,,,,,,,,,,0,
+11490,https://irkutsk.drom.ru/honda/mobilio_spike/46895645.html,,,,,,,,,,,,,,,,0,
+11491,https://nazarovo.drom.ru/honda/insight/48303042.html,,,,,,,,,,,,,,,,0,
+11492,https://ussuriisk.drom.ru/honda/stream/49144353.html,,,,,,,,,,,,,,,,0,
+11493,https://ussuriisk.drom.ru/honda/stream/49144299.html,,,,,,,,,,,,,,,,0,
+11494,https://tyumen.drom.ru/honda/civic/49144252.html,,,,,,,,,,,,,,,,0,
+11495,https://irkutsk.drom.ru/honda/insight/48450968.html,,,,,,,,,,,,,,,,0,
+11496,https://irkutsk.drom.ru/honda/insight/49138785.html,,,,,,,,,,,,,,,,0,
+11497,https://habarovsk.drom.ru/honda/fit/49145773.html,,,,,,,,,,,,,,,,0,
+11498,https://ussuriisk.drom.ru/honda/freed/49132613.html,,,,,,,,,,,,,,,,0,
+11499,https://krasnodar.drom.ru/honda/civic/49145780.html,,,,,,,,,,,,,,,,0,
+11500,https://habarovsk.drom.ru/honda/accord/46588603.html,,,,,,,,,,,,,,,,0,
+11501,https://blagoveshchensk.drom.ru/honda/insight/48367766.html,,,,,,,,,,,,,,,,0,
+11502,https://biysk.drom.ru/honda/cr-v/49145734.html,,,,,,,,,,,,,,,,0,
+11503,https://angarsk.drom.ru/honda/partner/49145629.html,,,,,,,,,,,,,,,,0,
+11504,https://ulan-ude.drom.ru/honda/freed/49145450.html,,,,,,,,,,,,,,,,0,
+11505,https://bratsk.drom.ru/honda/accord/49145642.html,,,,,,,,,,,,,,,,0,
+11506,https://slyudyanka.drom.ru/honda/fit/47803792.html,,,,,,,,,,,,,,,,0,
+11507,https://ussuriisk.drom.ru/honda/freed/49045061.html,,,,,,,,,,,,,,,,0,
+11508,https://ussuriisk.drom.ru/honda/freed/49063843.html,,,,,,,,,,,,,,,,0,
+11509,https://ussuriisk.drom.ru/honda/freed/49145292.html,,,,,,,,,,,,,,,,0,
+11510,https://krasnoturansk.drom.ru/honda/fit/47175720.html,,,,,,,,,,,,,,,,0,
+11511,https://abakan.drom.ru/honda/fit/49145151.html,,,,,,,,,,,,,,,,0,
+11512,https://ussuriisk.drom.ru/honda/freed/49126099.html,,,,,,,,,,,,,,,,0,
+11513,https://omsk.drom.ru/honda/insight/48209365.html,,,,,,,,,,,,,,,,0,
+11514,https://irkutsk.drom.ru/honda/fit/49144990.html,,,,,,,,,,,,,,,,0,
+11515,https://krasnoyarsk.drom.ru/honda/stream/49092393.html,,,,,,,,,,,,,,,,0,
+11516,https://vladivostok.drom.ru/honda/freed/49097534.html,,,,,,,,,,,,,,,,0,
+11517,https://novokuznetsk.drom.ru/honda/stream/46376841.html,,,,,,,,,,,,,,,,0,
+11518,https://irkutsk.drom.ru/honda/stream/44728822.html,,,,,,,,,,,,,,,,0,
+11519,https://kemerovo.drom.ru/honda/fr-v/43911756.html,,,,,,,,,,,,,,,,0,
+11520,https://noviy-urengoy.drom.ru/honda/legend/43535693.html,,,,,,,,,,,,,,,,0,
+11521,https://chita.drom.ru/honda/stepwgn/29996609.html,,,,,,,,,,,,,,,,0,
+11522,https://moscow.drom.ru/honda/stream/40008747.html,,,,,,,,,,,,,,,,0,
+11523,https://tsibanobalka.drom.ru/honda/freed/46191794.html,,,,,,,,,,,,,,,,0,
+11524,https://rezh.drom.ru/honda/civic/49130767.html,,,,,,,,,,,,,,,,0,
+11525,https://krasnoyarsk.drom.ru/honda/accord/49149430.html,,,,,,,,,,,,,,,,0,
+11526,https://spb.drom.ru/honda/cr-v/48811602.html,,,,,,,,,,,,,,,,0,
+11527,https://rezh.drom.ru/honda/civic/49151048.html,,,,,,,,,,,,,,,,0,
+11528,https://perm.drom.ru/honda/civic/49150936.html,,,,,,,,,,,,,,,,0,
+11529,https://krasnodar.drom.ru/honda/cr-v/49150935.html,,,,,,,,,,,,,,,,0,
+11530,https://novosibirsk.drom.ru/honda/jazz/49147007.html,,,,,,,,,,,,,,,,0,
+11531,https://vyselki.drom.ru/honda/freed/49150852.html,,,,,,,,,,,,,,,,0,
+11532,https://sochi.drom.ru/honda/fit_aria/49150653.html,,,,,,,,,,,,,,,,0,
+11533,https://novosibirsk.drom.ru/honda/jazz/49150511.html,,,,,,,,,,,,,,,,0,
+11534,https://spb.drom.ru/honda/cr-v/49150463.html,,,,,,,,,,,,,,,,0,
+11535,https://krasnodar.drom.ru/honda/elysion/49150427.html,Honda,Elysion,Краснодар,2008,бензин,2.4,160,АКПП,передний,,черный,230000,правый,"1 поколение, рестайлинг",,0,515000
+11536,https://perm.drom.ru/honda/accord/49150225.html,,,,,,,,,,,,,,,,0,
+11537,https://tomsk.drom.ru/honda/civic/49146628.html,,,,,,,,,,,,,,,,0,
+11538,https://habarovsk.drom.ru/honda/hr-v/48976151.html,,,,,,,,,,,,,,,,0,
+11539,https://komsomolsk.drom.ru/honda/fit/49146408.html,,,,,,,,,,,,,,,,0,
+11540,https://irkutsk.drom.ru/honda/fit/49105146.html,,,,,,,,,,,,,,,,0,
+11541,https://kemerovo.drom.ru/honda/civic/49146256.html,,,,,,,,,,,,,,,,0,
+11542,https://ekaterinburg.drom.ru/honda/accord/48960300.html,,,,,,,,,,,,,,,,0,
+11543,https://omsk.drom.ru/honda/airwave/49146376.html,,,,,,,,,,,,,,,,0,
+11544,https://ufa.drom.ru/honda/civic/49146353.html,,,,,,,,,,,,,,,,0,
+11545,https://krasnoyarsk.drom.ru/honda/freed/49146350.html,,,,,,,,,,,,,,,,0,
+11546,https://novosibirsk.drom.ru/honda/freed/49146021.html,,,,,,,,,,,,,,,,0,
+11547,https://abakan.drom.ru/honda/stream/49146068.html,,,,,,,,,,,,,,,,0,
+11548,https://sayanogorsk.drom.ru/honda/airwave/49146157.html,,,,,,,,,,,,,,,,0,
+11549,https://novokuznetsk.drom.ru/honda/accord/47419652.html,,,,,,,,,,,,,,,,0,
+11550,https://ussuriisk.drom.ru/honda/fit/48434107.html,,,,,,,,,,,,,,,,0,
+11551,https://kemerovo.drom.ru/honda/stepwgn/49146019.html,,,,,,,,,,,,,,,,0,
+11552,https://habarovsk.drom.ru/honda/insight/46444332.html,,,,,,,,,,,,,,,,0,
+11553,https://habarovsk.drom.ru/honda/insight/49145896.html,,,,,,,,,,,,,,,,0,
+11554,https://vladivostok.drom.ru/honda/fit/49145889.html,,,,,,,,,,,,,,,,0,
+11555,https://karasuk.drom.ru/honda/airwave/47572514.html,,,,,,,,,,,,,,,,0,
+11556,https://ussuriisk.drom.ru/honda/insight/48998656.html,,,,,,,,,,,,,,,,0,
+11557,https://tyumen.drom.ru/honda/accord/45745381.html,,,,,,,,,,,,,,,,0,
+11558,https://abakan.drom.ru/honda/fit/46949350.html,,,,,,,,,,,,,,,,0,
+11559,https://abakan.drom.ru/honda/freed/48567144.html,,,,,,,,,,,,,,,,0,
+11560,https://krasnoyarsk.drom.ru/honda/insight/48925292.html,,,,,,,,,,,,,,,,0,
+11561,https://abakan.drom.ru/honda/freed/49074270.html,,,,,,,,,,,,,,,,0,
+11562,https://krasnoyarsk.drom.ru/honda/airwave/48799280.html,,,,,,,,,,,,,,,,0,
+11563,https://krasnoyarsk.drom.ru/honda/accord/49142401.html,Honda,Accord,Красноярск,2007,бензин,2.4,190,АКПП,передний,седан,черный,138985,левый,"7 поколение, рестайлинг",,0,640000
+11564,https://habarovsk.drom.ru/honda/fit/49142400.html,,,,,,,,,,,,,,,,0,
+11565,https://novosibirsk.drom.ru/honda/freed/49018739.html,,,,,,,,,,,,,,,,0,
+11566,https://chita.drom.ru/honda/fit/47839977.html,,,,,,,,,,,,,,,,0,
+11567,https://vladivostok.drom.ru/honda/insight/49106898.html,,,,,,,,,,,,,,,,0,
+11568,https://nizhniy-novgorod.drom.ru/honda/legend/47782344.html,,,,,,,,,,,,,,,,0,
+11569,https://ussuriisk.drom.ru/honda/fit/49142340.html,,,,,,,,,,,,,,,,0,
+11570,https://molodezhniy-irk.drom.ru/honda/fit_aria/48741847.html,,,,,,,,,,,,,,,,0,
+11571,https://krasnoyarsk.drom.ru/honda/stream/49128776.html,,,,,,,,,,,,,,,,0,
+11572,https://ussuriisk.drom.ru/honda/freed/49142217.html,,,,,,,,,,,,,,,,0,
+11573,https://ulan-ude.drom.ru/honda/legend/47100156.html,,,,,,,,,,,,,,,,0,
+11574,https://irkutsk.drom.ru/honda/civic/49142215.html,,,,,,,,,,,,,,,,0,
+11575,https://artem.drom.ru/honda/fit/48212883.html,,,,,,,,,,,,,,,,0,
+11576,https://birakan.drom.ru/honda/insight/49141978.html,,,,,,,,,,,,,,,,0,
+11577,https://vladivostok.drom.ru/honda/freed/49142744.html,,,,,,,,,,,,,,,,0,
+11578,https://kemerovo.drom.ru/honda/fit/48849170.html,,,,,,,,,,,,,,,,0,
+11579,https://novosibirsk.drom.ru/honda/insight/49002637.html,,,,,,,,,,,,,,,,0,
+11580,https://habarovsk.drom.ru/honda/fit/49007039.html,,,,,,,,,,,,,,,,0,
+11581,https://vladivostok.drom.ru/honda/crossroad/49029698.html,,,,,,,,,,,,,,,,0,
+11582,https://abakan.drom.ru/honda/cr-v/48911848.html,,,,,,,,,,,,,,,,0,
+11583,https://omsk.drom.ru/honda/freed/49142630.html,,,,,,,,,,,,,,,,0,
+11584,https://chernogorsk.drom.ru/honda/cr-v/49049076.html,,,,,,,,,,,,,,,,0,
+11585,https://krasnoyarsk.drom.ru/honda/accord/49142532.html,,,,,,,,,,,,,,,,0,
+11586,https://novosibirsk.drom.ru/honda/stream/49142525.html,,,,,,,,,,,,,,,,0,
+11587,https://krasnoyarsk.drom.ru/honda/civic/48818671.html,,,,,,,,,,,,,,,,0,
+11588,https://habarovsk.drom.ru/honda/insight/48888629.html,,,,,,,,,,,,,,,,0,
+11589,https://novosibirsk.drom.ru/honda/stepwgn/49010077.html,,,,,,,,,,,,,,,,0,
+11590,https://novosibirsk.drom.ru/honda/insight/48951145.html,,,,,,,,,,,,,,,,0,
+11591,https://krasnoyarsk.drom.ru/honda/fit/47736393.html,,,,,,,,,,,,,,,,0,
+11592,https://omsk.drom.ru/honda/accord/48602808.html,,,,,,,,,,,,,,,,0,
+11593,https://barnaul.drom.ru/honda/cr-v/49069817.html,,,,,,,,,,,,,,,,0,
+11594,https://krasnoyarsk.drom.ru/honda/freed/46274985.html,,,,,,,,,,,,,,,,0,
+11595,https://barnaul.drom.ru/honda/cr-v/49060929.html,,,,,,,,,,,,,,,,0,
+11596,https://barnaul.drom.ru/honda/airwave/48463922.html,,,,,,,,,,,,,,,,0,
+11597,https://vladivostok.drom.ru/honda/accord/48463405.html,,,,,,,,,,,,,,,,0,
+11598,https://kemerovo.drom.ru/honda/accord/48463337.html,,,,,,,,,,,,,,,,0,
+11599,https://novosibirsk.drom.ru/honda/accord/48463147.html,,,,,,,,,,,,,,,,0,
+11600,https://kolomna.drom.ru/honda/civic/48459828.html,,,,,,,,,,,,,,,,0,
+11601,https://irkutsk.drom.ru/honda/partner/48434056.html,,,,,,,,,,,,,,,,0,
+11602,https://shelehov.drom.ru/honda/stepwgn/48286859.html,,,,,,,,,,,,,,,,0,
+11603,https://aldan.drom.ru/honda/freed/48125656.html,,,,,,,,,,,,,,,,0,
+11604,https://ufa.drom.ru/honda/freed/48125682.html,,,,,,,,,,,,,,,,0,
+11605,https://rostov-na-donu.drom.ru/honda/civic/48125721.html,,,,,,,,,,,,,,,,0,
+11606,https://strezhevoy.drom.ru/honda/civic/48123700.html,,,,,,,,,,,,,,,,0,
+11607,https://krasnoyarsk.drom.ru/honda/accord/48123471.html,,,,,,,,,,,,,,,,0,
+11608,https://habarovsk.drom.ru/honda/civic/48122770.html,,,,,,,,,,,,,,,,0,
+11609,https://omsk.drom.ru/honda/accord/48122069.html,,,,,,,,,,,,,,,,0,
+11610,https://kolpashevo.drom.ru/honda/freed/48121491.html,,,,,,,,,,,,,,,,0,
+11611,https://uzhur.drom.ru/honda/fit/48120490.html,,,,,,,,,,,,,,,,0,
+11612,https://pogranichniy.drom.ru/honda/airwave/48119921.html,,,,,,,,,,,,,,,,0,
+11613,https://krasnoyarsk.drom.ru/honda/stream/48119627.html,,,,,,,,,,,,,,,,0,
+11614,https://arsenyev.drom.ru/honda/airwave/48119191.html,,,,,,,,,,,,,,,,0,
+11615,https://abakan.drom.ru/honda/civic_ferio/48118401.html,,,,,,,,,,,,,,,,0,
+11616,https://habarovsk.drom.ru/honda/airwave/48117564.html,,,,,,,,,,,,,,,,0,
+11617,https://cheboksary.drom.ru/honda/accord/48814229.html,,,,,,,,,,,,,,,,0,
+11618,https://krasnodar.drom.ru/honda/jazz/48812740.html,,,,,,,,,,,,,,,,0,
+11619,https://novokuznetsk.drom.ru/honda/stream/48812372.html,,,,,,,,,,,,,,,,0,
+11620,https://nakhodka.drom.ru/honda/cr-v/48810639.html,,,,,,,,,,,,,,,,0,
+11621,https://yuzhno-sakhalinsk.drom.ru/honda/fit/48810300.html,,,,,,,,,,,,,,,,0,
+11622,https://novosibirsk.drom.ru/honda/civic/48810154.html,,,,,,,,,,,,,,,,0,
+11623,https://belovo.drom.ru/honda/airwave/48809472.html,,,,,,,,,,,,,,,,0,
+11624,https://omsk.drom.ru/honda/accord/48809315.html,,,,,,,,,,,,,,,,0,
+11625,https://angarsk.drom.ru/honda/civic_ferio/48808605.html,,,,,,,,,,,,,,,,0,
+11626,https://abakan.drom.ru/honda/airwave/48808340.html,,,,,,,,,,,,,,,,0,
+11627,https://chita.drom.ru/honda/partner/48808148.html,,,,,,,,,,,,,,,,0,
+11628,https://belovo.drom.ru/honda/cr-v/48807682.html,,,,,,,,,,,,,,,,0,
+11629,https://novosibirsk.drom.ru/honda/stream/48807371.html,,,,,,,,,,,,,,,,0,
+11630,https://komsomolsk.drom.ru/honda/airwave/48807142.html,,,,,,,,,,,,,,,,0,
+11631,https://chita.drom.ru/honda/fit/48711004.html,,,,,,,,,,,,,,,,0,
+11632,https://bratsk.drom.ru/honda/stream/48597208.html,,,,,,,,,,,,,,,,0,
+11633,https://vladivostok.drom.ru/honda/airwave/48511787.html,,,,,,,,,,,,,,,,0,
+11634,https://barabash.drom.ru/honda/stream/48468334.html,,,,,,,,,,,,,,,,0,
+11635,https://novosibirsk.drom.ru/honda/civic/48464567.html,,,,,,,,,,,,,,,,0,
+11636,https://krasnoyarsk.drom.ru/honda/freed/48463770.html,,,,,,,,,,,,,,,,0,
+11637,https://vladivostok.drom.ru/honda/crossroad/47818351.html,,,,,,,,,,,,,,,,0,
+11638,https://novokuznetsk.drom.ru/honda/civic/49031137.html,,,,,,,,,,,,,,,,0,
+11639,https://kemerovo.drom.ru/honda/civic/48747415.html,,,,,,,,,,,,,,,,0,
+11640,https://krasnoyarsk.drom.ru/honda/accord/49134564.html,,,,,,,,,,,,,,,,0,
+11641,https://blagoveshchensk.drom.ru/honda/civic_ferio/49136342.html,,,,,,,,,,,,,,,,0,
+11642,https://artem.drom.ru/honda/insight/49047346.html,,,,,,,,,,,,,,,,0,
+11643,https://abakan.drom.ru/honda/accord/48118221.html,,,,,,,,,,,,,,,,0,
+11644,https://novokuznetsk.drom.ru/honda/civic/49136266.html,,,,,,,,,,,,,,,,0,
+11645,https://novosibirsk.drom.ru/honda/zest/49136250.html,,,,,,,,,,,,,,,,0,
+11646,https://nakhodka.drom.ru/honda/fit/49136221.html,,,,,,,,,,,,,,,,0,
+11647,https://vladivostok.drom.ru/honda/stream/49136212.html,,,,,,,,,,,,,,,,0,
+11648,https://chita.drom.ru/honda/freed/49135998.html,,,,,,,,,,,,,,,,0,
+11649,https://ussuriisk.drom.ru/honda/freed/49136026.html,,,,,,,,,,,,,,,,0,
+11650,https://habarovsk.drom.ru/honda/insight/49136142.html,,,,,,,,,,,,,,,,0,
+11651,https://ussuriisk.drom.ru/honda/freed/49135943.html,,,,,,,,,,,,,,,,0,
+11652,https://novosibirsk.drom.ru/honda/accord/48999388.html,,,,,,,,,,,,,,,,0,
+11653,https://omsk.drom.ru/honda/stream/49136030.html,,,,,,,,,,,,,,,,0,
+11654,https://bograd.drom.ru/honda/fit/48430588.html,,,,,,,,,,,,,,,,0,
+11655,https://novosibirsk.drom.ru/honda/freed/49135920.html,,,,,,,,,,,,,,,,0,
+11656,https://blagoveshchensk.drom.ru/honda/fit/49135863.html,,,,,,,,,,,,,,,,0,
+11657,https://krasnokamensk.drom.ru/honda/insight/48830634.html,,,,,,,,,,,,,,,,0,
+11658,https://vladivostok.drom.ru/honda/fit/49064437.html,,,,,,,,,,,,,,,,0,
+11659,https://vladivostok.drom.ru/honda/fit/49086676.html,,,,,,,,,,,,,,,,0,
+11660,https://yakutsk.drom.ru/honda/insight/47868411.html,,,,,,,,,,,,,,,,0,
+11661,https://abakan.drom.ru/honda/freed/48699168.html,,,,,,,,,,,,,,,,0,
+11662,https://habarovsk.drom.ru/honda/insight/49092926.html,,,,,,,,,,,,,,,,0,
+11663,https://chita.drom.ru/honda/fit/46637232.html,,,,,,,,,,,,,,,,0,
+11664,https://vladivostok.drom.ru/honda/stream/49062143.html,,,,,,,,,,,,,,,,0,
+11665,https://vladivostok.drom.ru/honda/freed/48441694.html,,,,,,,,,,,,,,,,0,
+11666,https://vladivostok.drom.ru/honda/freed/49122429.html,,,,,,,,,,,,,,,,0,
+11667,https://yuzhno-sakhalinsk.drom.ru/honda/fit/49141417.html,,,,,,,,,,,,,,,,0,
+11668,https://chita.drom.ru/honda/insight/48635240.html,,,,,,,,,,,,,,,,0,
+11669,https://ussuriisk.drom.ru/honda/stream/48953975.html,,,,,,,,,,,,,,,,0,
+11670,https://ulan-ude.drom.ru/honda/accord/48816350.html,,,,,,,,,,,,,,,,0,
+11671,https://anapa.drom.ru/honda/insight/48815884.html,,,,,,,,,,,,,,,,0,
+11672,https://spb.drom.ru/honda/accord/48815777.html,,,,,,,,,,,,,,,,0,
+11673,https://novosibirsk.drom.ru/honda/civic/48815800.html,,,,,,,,,,,,,,,,0,
+11674,https://moscow.drom.ru/honda/elysion/48815181.html,,,,,,,,,,,,,,,,0,
+11675,https://irkutsk.drom.ru/honda/fit/48815188.html,,,,,,,,,,,,,,,,0,
+11676,https://ulan-ude.drom.ru/honda/airwave/48814666.html,,,,,,,,,,,,,,,,0,
+11677,https://kemerovo.drom.ru/honda/accord/48030488.html,,,,,,,,,,,,,,,,0,
+11678,https://krasnoyarsk.drom.ru/honda/cr-v/47809876.html,,,,,,,,,,,,,,,,0,
+11679,https://spb.drom.ru/honda/accord/47783579.html,,,,,,,,,,,,,,,,0,
+11680,https://tyumen.drom.ru/honda/pilot/47782631.html,,,,,,,,,,,,,,,,0,
+11681,https://novosibirsk.drom.ru/honda/accord/47780405.html,,,,,,,,,,,,,,,,0,
+11682,https://sterlitamak.drom.ru/honda/stream/47778607.html,,,,,,,,,,,,,,,,0,
+11683,https://chelyabinsk.drom.ru/honda/insight/47778295.html,,,,,,,,,,,,,,,,0,
+11684,https://chita.drom.ru/honda/fit/47777815.html,,,,,,,,,,,,,,,,0,
+11685,https://cheboksary.drom.ru/honda/accord/47776841.html,,,,,,,,,,,,,,,,0,
+11686,https://pushkino.drom.ru/honda/accord/47766342.html,,,,,,,,,,,,,,,,0,
+11687,https://habarovsk.drom.ru/honda/insight/47541077.html,,,,,,,,,,,,,,,,0,
+11688,https://petropavlovsk-kamchatskiy.drom.ru/honda/ridgeline/47449159.html,,,,,,,,,,,,,,,,0,
+11689,https://sosnovoborsk.drom.ru/honda/freed/47449335.html,,,,,,,,,,,,,,,,0,
+11690,https://chita.drom.ru/honda/fit/47448134.html,,,,,,,,,,,,,,,,0,
+11691,https://novosibirsk.drom.ru/honda/legend/47442559.html,,,,,,,,,,,,,,,,0,
+11692,https://khanty-mansiysk.drom.ru/honda/fit/47381618.html,,,,,,,,,,,,,,,,0,
+11693,https://ussuriisk.drom.ru/honda/insight/47271401.html,,,,,,,,,,,,,,,,0,
+11694,https://novosibirsk.drom.ru/honda/zest/47068788.html,,,,,,,,,,,,,,,,0,
+11695,https://krasnoyarsk.drom.ru/honda/edix/47031034.html,,,,,,,,,,,,,,,,0,
+11696,https://volgograd.drom.ru/honda/accord/46996439.html,,,,,,,,,,,,,,,,0,
+11697,https://tomsk.drom.ru/honda/accord/49138080.html,,,,,,,,,,,,,,,,0,
+11698,https://spb.drom.ru/honda/insight/48806818.html,,,,,,,,,,,,,,,,0,
+11699,https://afipskiy.drom.ru/honda/stepwgn/49138003.html,,,,,,,,,,,,,,,,0,
+11700,https://habarovsk.drom.ru/honda/insight/49137935.html,,,,,,,,,,,,,,,,0,
+11701,https://vladivostok.drom.ru/honda/airwave/48901054.html,,,,,,,,,,,,,,,,0,
+11702,https://belogorsk.drom.ru/honda/fit/48297421.html,,,,,,,,,,,,,,,,0,
+11703,https://omsk.drom.ru/honda/partner/49137552.html,,,,,,,,,,,,,,,,0,
+11704,https://nizhnevartovsk.drom.ru/honda/civic/49137533.html,,,,,,,,,,,,,,,,0,
+11705,https://omsk.drom.ru/honda/accord/49137161.html,,,,,,,,,,,,,,,,0,
+11706,https://krasnoyarsk.drom.ru/honda/accord/47694805.html,,,,,,,,,,,,,,,,0,
+11707,https://abakan.drom.ru/honda/civic/48919353.html,,,,,,,,,,,,,,,,0,
+11708,https://omsk.drom.ru/honda/insight/49136746.html,,,,,,,,,,,,,,,,0,
+11709,https://homutovo-irk.drom.ru/honda/cr-v/49136700.html,,,,,,,,,,,,,,,,0,
+11710,https://tomsk.drom.ru/honda/fit/49136743.html,,,,,,,,,,,,,,,,0,
+11711,https://ulan-ude.drom.ru/honda/fit/49136604.html,,,,,,,,,,,,,,,,0,
+11712,https://krasnoyarsk.drom.ru/honda/accord/49136601.html,,,,,,,,,,,,,,,,0,
+11713,https://ussuriisk.drom.ru/honda/crossroad/49068558.html,,,,,,,,,,,,,,,,0,
+11714,https://novosibirsk.drom.ru/honda/accord/48514103.html,,,,,,,,,,,,,,,,0,
+11715,https://vladivostok.drom.ru/honda/freed/49136537.html,,,,,,,,,,,,,,,,0,
+11716,https://ussuriisk.drom.ru/honda/mobilio_spike/49136506.html,,,,,,,,,,,,,,,,0,
+11717,https://kyzyl.drom.ru/honda/civic/48900046.html,,,,,,,,,,,,,,,,0,
+11718,https://tyumen.drom.ru/honda/cr-v/49139283.html,,,,,,,,,,,,,,,,0,
+11719,https://gurievsk-kemer.drom.ru/honda/cr-v/49139124.html,,,,,,,,,,,,,,,,0,
+11720,https://ust-ilimsk.drom.ru/honda/accord/48686116.html,,,,,,,,,,,,,,,,0,
+11721,https://omsk.drom.ru/honda/jazz/48337331.html,,,,,,,,,,,,,,,,0,
+11722,https://kyzyl.drom.ru/honda/fit/49139045.html,,,,,,,,,,,,,,,,0,
+11723,https://belokuriha.drom.ru/honda/accord/49139077.html,,,,,,,,,,,,,,,,0,
+11724,https://vladivostok.drom.ru/honda/insight/49138928.html,,,,,,,,,,,,,,,,0,
+11725,https://tomsk.drom.ru/honda/fit/48946836.html,,,,,,,,,,,,,,,,0,
+11726,https://novosibirsk.drom.ru/honda/fit/48800629.html,,,,,,,,,,,,,,,,0,
+11727,https://krasnoyarsk.drom.ru/honda/accord/49107104.html,,,,,,,,,,,,,,,,0,
+11728,https://barnaul.drom.ru/honda/accord/49138795.html,,,,,,,,,,,,,,,,0,
+11729,https://biysk.drom.ru/honda/accord/49138670.html,,,,,,,,,,,,,,,,0,
+11730,https://ulan-ude.drom.ru/honda/insight/48968031.html,,,,,,,,,,,,,,,,0,
+11731,https://artem.drom.ru/honda/elysion/45355303.html,,,,,,,,,,,,,,,,0,
+11732,https://ulan-ude.drom.ru/honda/insight/49043367.html,,,,,,,,,,,,,,,,0,
+11733,https://ulan-ude.drom.ru/honda/cr-v/49138350.html,,,,,,,,,,,,,,,,0,
+11734,https://barnaul.drom.ru/honda/fit/49138237.html,,,,,,,,,,,,,,,,0,
+11735,https://chita.drom.ru/honda/crossroad/48954055.html,,,,,,,,,,,,,,,,0,
+11736,https://spb.drom.ru/honda/insight/48825266.html,,,,,,,,,,,,,,,,0,
+11737,https://birobidzhan.drom.ru/honda/insight/46963196.html,,,,,,,,,,,,,,,,0,
+11738,https://tobolsk.drom.ru/honda/accord/46523798.html,,,,,,,,,,,,,,,,0,
+11739,https://moscow.drom.ru/honda/civic/46460179.html,,,,,,,,,,,,,,,,0,
+11740,https://abakan.drom.ru/honda/airwave/46124276.html,Honda,Airwave,Абакан,2005,бензин,1.5,110,вариатор,передний,,синий,180000,правый,1 поколение,1.5 G sky roof,1,500000
+11741,https://irkutsk.drom.ru/honda/civic/46111479.html,Honda,Civic,Иркутск,2007,бензин,1.8,140,АКПП,передний,седан,серебристый,300000,левый,8 поколение,1.8 AT Elegance,0,585000
+11742,https://krasnoyarsk.drom.ru/honda/accord/46052666.html,Honda,Accord,Красноярск,2007,бензин,2.4,190,АКПП,передний,седан,черный,200000,левый,"7 поколение, рестайлинг",2.4 AT SE Type S,0,755000
+11743,https://yevpatoriya.drom.ru/honda/legend/44979480.html,Honda,Legend,Евпатория,2007,бензин,3.5,291,АКПП,4WD,седан,серебристый,290000,левый,4 поколение,3.5 AT SH-AWD Legend,0,650000
+11744,https://ussuriisk.drom.ru/honda/freed/44883025.html,Honda,Freed,Уссурийск,2009,бензин,1.5,118,вариатор,передний,,,120000,правый,1 поколение,1.5 G aero,0,675000
+11745,https://habarovsk.drom.ru/honda/accord/44256097.html,Honda,Accord,Хабаровск,2005,бензин,2.4,190,АКПП,передний,седан,черный,270000,левый,7 поколение,2.4 AT Type S,0,470000
+11746,https://barnaul.drom.ru/honda/stepwgn/49140997.html,Honda,Stepwgn,Барнаул,2008,бензин,2.0,155,АКПП,4WD,,серебристый,134000,правый,"3 поколение, рестайлинг",2.0 Spada S Z HDD NAVI package 4WD 8 seater,0,1100000
+11747,https://abakan.drom.ru/honda/stepwgn/48949315.html,Honda,Stepwgn,Абакан,2008,бензин,2.0,155,АКПП,передний,,черный,150000,правый,"3 поколение, рестайлинг",2.0 G smart style edition 8 seater ,0,450000
+11748,https://ulan-ude.drom.ru/honda/fit/49140543.html,Honda,Fit,Улан-Удэ,2009,бензин,1.5,120,вариатор,передний,,бордовый,150000,правый,2 поколение,1.5 RS,0,725000
+11749,https://krasnodar.drom.ru/honda/accord/48798627.html,,,,,,,,,,,,,,,,0,
+11750,https://krasnoyarsk.drom.ru/honda/stepwgn/48923512.html,Honda,Stepwgn,Красноярск,2007,бензин,2.0,155,АКПП,4WD,,черный,200000,правый,3 поколение,2.0 B 4WD,0,378000
+11751,https://simferopol.drom.ru/honda/civic/49140358.html,Honda,Civic,Симферополь,2009,бензин,1.3,95,вариатор,передний,седан,черный,162000,левый,"8 поколение, рестайлинг",1.3 CVT Hybrid,0,580000
+11752,https://belovo.drom.ru/honda/fit/49140221.html,Honda,Fit,Белово,2009,бензин,1.3,100,вариатор,передний,,серый,146000,правый,2 поколение,1.3 G,0,620000
+11753,https://novokuznetsk.drom.ru/honda/accord/49139898.html,Honda,Accord,Новокузнецк,2008,бензин,2.4,201,механика,передний,седан,серый,180000,левый,8 поколение,2.4 MT Type-S,0,970000
+11754,https://irkutsk.drom.ru/honda/freed/49139605.html,Honda,Freed,Иркутск,2009,бензин,1.5,118,вариатор,передний,,черный,112000,правый,1 поколение,1.5 G aero,0,780000
+11755,https://chita.drom.ru/honda/accord/49139574.html,Honda,Accord,Чита,2006,бензин,2.0,155,АКПП,передний,седан,черный,256000,левый,"7 поколение, рестайлинг",2.0 AT Sport,0,680000
+11756,https://tomsk.drom.ru/honda/stream/48224978.html,Honda,Stream,Томск,2009,бензин,1.8,140,АКПП,передний,,черный,195007,правый,2 поколение,1.8 RSZ,0,900000
+11757,https://vladivostok.drom.ru/honda/airwave/46330781.html,Honda,Airwave,Владивосток,2008,бензин,1.5,110,вариатор,передний,,белый,175000,правый,"1 поколение, рестайлинг",1.5 M,0,515000
+11758,https://cherepanovo.drom.ru/honda/freed/49142054.html,Honda,Freed,Черепаново,2009,бензин,1.5,118,вариатор,передний,,черный,133000,правый,1 поколение,1.5 G aero ,0,755000
+11759,https://tavricheskoe.drom.ru/honda/accord/46547965.html,Honda,Accord,Таврическое,2008,бензин,2.4,201,АКПП,передний,седан,красный,190000,левый,8 поколение,2.4 AT Type-S,0,800000
+11760,https://ulan-ude.drom.ru/honda/freed/48647362.html,Honda,Freed,Улан-Удэ,2009,бензин,1.5,118,вариатор,передний,,серый,124000,правый,1 поколение,,1,730000
+11761,https://habarovsk.drom.ru/honda/cr-v/49142017.html,Honda,CR-V,Хабаровск,2007,бензин,2.4,170,АКПП,4WD,,черный,180000,правый,3 поколение,2.4 ZX 4WD,0,800000
+11762,https://berdsk.drom.ru/honda/cr-v/48775110.html,Honda,CR-V,Бердск,2008,бензин,2.4,166,АКПП,4WD,,серебристый,331000,левый,3 поколение,2.4 AT Executive Leather,0,1097000
+11763,https://sayanogorsk.drom.ru/honda/fit/48244617.html,Honda,Fit,Саяногорск,2009,бензин,1.3,100,вариатор,передний,,синий,130000,правый,2 поколение,,0,700000
+11764,https://krasnoyarsk.drom.ru/honda/stepwgn/48267085.html,Honda,Stepwgn,Красноярск,2006,бензин,2.0,155,АКПП,передний,,серый,171000,правый,3 поколение,2.0 B,0,857000
+11765,https://krasnoyarsk.drom.ru/honda/accord/47384199.html,Honda,Accord,Красноярск,2008,бензин,2.4,201,АКПП,передний,седан,красный,211000,левый,8 поколение,2.4 AT Executive,0,745000
+11766,https://vladivostok.drom.ru/honda/fit/49141918.html,Honda,Fit,Владивосток,2005,бензин,1.3,86,вариатор,передний,,серый,205000,правый,"1 поколение, 2 рестайлинг",1.3A,0,260000
+11767,https://vladivostok.drom.ru/honda/insight/49141866.html,Honda,Insight,Владивосток,2009,бензин,1.3,88,вариатор,передний,лифтбек,серый,16176,правый,2 поколение,1.3 G,0,785000
+11768,https://habarovsk.drom.ru/honda/fit/48707730.html,Honda,Fit,Хабаровск,2009,бензин,1.3,100,вариатор,передний,,красный,263000,правый,2 поколение,1.3 L smart style edition,0,390000
+11769,https://abakan.drom.ru/honda/insight/48542064.html,Honda,Insight,Абакан,2009,бензин,1.3,88,вариатор,передний,лифтбек,серебристый,98000,правый,2 поколение,1.3 G,1,739000
+11770,https://krasnoyarsk.drom.ru/honda/accord/49141865.html,Honda,Accord,Красноярск,2005,бензин,2.4,190,АКПП,передний,седан,красный,222222,левый,7 поколение,2.4 AT Executive,0,650000
+11771,https://abakan.drom.ru/honda/stream/48790637.html,Honda,Stream,Абакан,2009,бензин,1.8,140,АКПП,передний,,белый,133000,правый,"2 поколение, рестайлинг",1.8 X,0,1039000
+11772,https://novosibirsk.drom.ru/honda/cr-v/48788779.html,Honda,CR-V,Новосибирск,2008,бензин,2.4,166,АКПП,4WD,,серый,161000,левый,3 поколение,2.4 AT Executive Leather,0,1200000
+11773,https://omsk.drom.ru/honda/zest/49141846.html,Honda,Zest,Омск,2009,бензин,0.7,52,АКПП,передний,,серый,160000,,1 поколение,660 spark G,0,450000
+11774,https://chita.drom.ru/honda/fit/45766890.html,Honda,Fit,Чита,2007,бензин,1.3,100,вариатор,передний,,красный,200000,правый,2 поколение,,0,525000
+11775,https://chita.drom.ru/honda/insight/48996217.html,Honda,Insight,Чита,2009,бензин,1.3,88,вариатор,передний,лифтбек,серебристый,109000,правый,2 поколение,1.3 L,1,705000
+11776,https://ussuriisk.drom.ru/honda/freed/48347775.html,Honda,Freed,Уссурийск,2009,бензин,1.5,118,вариатор,передний,,,107000,правый,1 поколение,1.5 G aero just selection (7-Seater),0,695000
+11777,https://ulan-ude.drom.ru/honda/fit/48905489.html,Honda,Fit,Улан-Удэ,2007,бензин,1.3,100,вариатор,передний,,красный,247902,правый,2 поколение,,0,480000
+11778,https://vladivostok.drom.ru/honda/legend/46803308.html,Honda,Legend,Владивосток,2007,бензин,3.5,300,АКПП,4WD,седан,серебристый,162000,правый,4 поколение,3.5,0,510000
+11779,https://shelehov.drom.ru/honda/freed/49135828.html,Honda,Freed,Шелехов,2009,бензин,1.5,118,вариатор,передний,,серый,133000,правый,1 поколение,1.5 Gi aero,0,795000
+11780,https://krasnoyarsk.drom.ru/honda/zest/49135844.html,Honda,Zest,Красноярск,2009,бензин,0.7,64,АКПП,передний,,серый,170000,,1 поколение,660 spark W turbo ,0,500000
+11781,https://novosibirsk.drom.ru/honda/accord/48916646.html,Honda,Accord,Новосибирск,2005,бензин,2.4,160,АКПП,передний,купе,черный,1,левый,7 поколение,2.4 AT LX,0,600000
+11782,https://novosibirsk.drom.ru/honda/fit/48998676.html,Honda,Fit,Новосибирск,2009,бензин,1.3,100,АКПП,4WD,,серый,152000,правый,2 поколение,1.3 G 4WD,0,575000
+11783,https://vladivostok.drom.ru/honda/freed/49124864.html,Honda,Freed,Владивосток,2009,бензин,1.5,118,вариатор,передний,,серый,113190,правый,1 поколение,,1,650000
+11784,https://vladivostok.drom.ru/honda/stream/49135824.html,Honda,Stream,Владивосток,2007,бензин,1.8,140,АКПП,передний,,черный,156000,правый,2 поколение,1.8 RSZ,0,700000
+11785,https://krasnoyarsk.drom.ru/honda/civic/48532294.html,Honda,Civic,Красноярск,2007,бензин,1.8,140,АКПП,передний,седан,серый,120500,правый,8 поколение,1.8 B,0,737000
+11786,https://krasnoyarsk.drom.ru/honda/insight/48499986.html,Honda,Insight,Красноярск,2009,бензин,1.3,88,вариатор,передний,лифтбек,белый,65000,правый,2 поколение,1.3 L,0,767000
+11787,https://habarovsk.drom.ru/honda/insight/48856547.html,Honda,Insight,Хабаровск,2009,бензин,1.3,88,вариатор,передний,лифтбек,серый,145643,правый,2 поколение,1.3 L,0,600000
+11788,https://krasnoyarsk.drom.ru/honda/fit/49126578.html,Honda,Fit,Красноярск,2007,бензин,1.3,86,вариатор,передний,,белый,143000,правый,"1 поколение, 2 рестайлинг",1.3A,1,399000
+11789,https://svobodniy.drom.ru/honda/cr-v/49135781.html,Honda,CR-V,Свободный,2008,бензин,2.4,170,АКПП,4WD,,черный,198747,правый,3 поколение,,0,1050000
+11790,https://novosibirsk.drom.ru/honda/airwave/49135764.html,Honda,Airwave,Новосибирск,2007,бензин,1.5,110,вариатор,передний,,серый,350000,правый,1 поколение,,0,460000
+11791,https://cherepanovo.drom.ru/honda/freed/48932648.html,Honda,Freed,Черепаново,2009,бензин,1.5,118,вариатор,передний,,белый,183000,правый,1 поколение,1.5 flex  just selection,1,707000
+11792,https://novosibirsk.drom.ru/honda/stream/46906783.html,Honda,Stream,Новосибирск,2007,бензин,1.8,140,АКПП,передний,,серебристый,190000,правый,2 поколение,1.8 X stylish package ,0,799000
+11793,https://novosibirsk.drom.ru/honda/cr-v/48539842.html,Honda,CR-V,Новосибирск,2008,бензин,2.4,166,АКПП,4WD,,коричневый,250000,левый,3 поколение,2.4 AT Executive,0,1110000
+11794,https://novosibirsk.drom.ru/honda/jazz/48970625.html,Honda,Jazz,Новосибирск,2008,бензин,1.3,83,вариатор,передний,хэтчбек 5 дв.,голубой,205000,левый,"1 поколение, рестайлинг",1.4 CVT ES Sport,0,599000
+11795,https://ulan-ude.drom.ru/honda/stepwgn/49135605.html,Honda,Stepwgn,Улан-Удэ,2008,бензин,2.0,155,АКПП,4WD,,черный,199000,правый,"3 поколение, рестайлинг",2.0 G 4WD 8 seater,0,970000
+11796,https://kemerovo.drom.ru/honda/fit/49135580.html,Honda,Fit,Кемерово,2006,бензин,1.3,86,вариатор,передний,,серый,112712,правый,"1 поколение, 2 рестайлинг",1.3A,0,410000
+11797,https://partizansk.drom.ru/honda/insight/48776585.html,Honda,Insight,Партизанск,2009,бензин,1.3,88,вариатор,передний,лифтбек,черный,222000,правый,2 поколение,1.3 LS,0,600000
+11798,https://novosibirsk.drom.ru/honda/fit/48829321.html,Honda,Fit,Новосибирск,2005,бензин,1.3,86,вариатор,передний,,синий,200000,правый,"1 поколение, рестайлинг",,0,390000
+11799,https://chernogorsk.drom.ru/honda/accord/48371688.html,Honda,Accord,Черногорск,2008,бензин,2.4,201,АКПП,передний,седан,синий,206000,левый,8 поколение,2.4 AT Type-S,0,910000
+11800,https://krasnoyarsk.drom.ru/honda/fit/47477969.html,Honda,Fit,Красноярск,2009,бензин,1.3,100,вариатор,передний,,черный,170000,правый,2 поколение,1.3 G,0,597000
+11801,https://krasnoyarsk.drom.ru/honda/fit/48082931.html,Honda,Fit,Красноярск,2009,бензин,1.5,120,вариатор,передний,,синий,135000,правый,2 поколение,1.5 RS highway edition,0,689000
+11802,https://krasnoyarsk.drom.ru/honda/accord/48083491.html,Honda,Accord,Красноярск,2005,бензин,2.0,155,АКПП,передний,седан,серый,175000,правый,7 поколение,2.0 20A,0,659000
+11803,https://barnaul.drom.ru/honda/fit/48965158.html,Honda,Fit,Барнаул,2009,бензин,1.3,100,вариатор,передний,,синий,160000,правый,2 поколение,1.3 G,0,600000
+11804,https://chita.drom.ru/honda/accord/49132520.html,Honda,Accord,Чита,2008,бензин,2.4,201,механика,передний,седан,серый,170000,левый,8 поколение,2.4 MT Type-S,0,750000
+11805,https://dalnerechensk.drom.ru/honda/stream/48521414.html,Honda,Stream,Дальнереченск,2007,бензин,1.8,140,АКПП,передний,,,150000,правый,2 поколение,1.8 RSZ,0,620000
+11806,https://vladivostok.drom.ru/honda/insight/49031260.html,Honda,Insight,Владивосток,2009,бензин,1.3,88,вариатор,передний,лифтбек,голубой,150000,правый,2 поколение,1.3 G,0,500000
+11807,https://vladivostok.drom.ru/honda/fit/48811354.html,Honda,Fit,Владивосток,2009,бензин,1.3,100,вариатор,передний,,желтый,94800,правый,2 поколение,1.3 G,0,530000
+11808,https://habarovsk.drom.ru/honda/cr-v/49132475.html,Honda,CR-V,Хабаровск,2008,бензин,2.4,170,АКПП,4WD,,черный,159000,правый,3 поколение,,0,1150000
+11809,https://novokuznetsk.drom.ru/honda/cr-v/46863602.html,Honda,CR-V,Новокузнецк,2005,бензин,2.4,160,АКПП,4WD,,серебристый,126700,левый,2 поколение,,0,699000
+11810,https://barnaul.drom.ru/honda/cr-v/49049161.html,Honda,CR-V,Барнаул,2007,бензин,2.0,150,АКПП,4WD,,серый,177000,левый,3 поколение,,0,1049000
+11811,https://irkutsk.drom.ru/honda/freed/48567653.html,Honda,Freed,Иркутск,2009,бензин,1.5,118,вариатор,передний,,серый,152000,правый,1 поколение,,0,735000
+11812,https://barnaul.drom.ru/honda/cr-v/49044542.html,Honda,CR-V,Барнаул,2008,бензин,2.4,166,АКПП,4WD,,серый,303000,левый,3 поколение,2.4 AT 4WD LX,0,1270000
+11813,https://kemerovo.drom.ru/honda/stream/48945747.html,Honda,Stream,Кемерово,2009,бензин,1.8,140,АКПП,передний,,черный,140000,правый,"2 поколение, рестайлинг",1.8 RSZ HDD NAVI package ,0,965000
+11814,https://nakhodka.drom.ru/honda/fit/48818566.html,Honda,Fit,Находка,2009,бензин,1.3,100,АКПП,4WD,,серый,133000,правый,2 поколение,1.3 L highway edition 4WD,0,557000
+11815,https://ussuriisk.drom.ru/honda/fit/49132369.html,Honda,Fit,Уссурийск,2009,бензин,1.3,100,вариатор,передний,,,71000,правый,2 поколение,,0,580000
+11816,https://vladivostok.drom.ru/honda/cr-v/49043136.html,Honda,CR-V,Владивосток,2005,бензин,2.4,160,АКПП,4WD,,серый,220000,правый,"2 поколение, рестайлинг",2.4 iL-D 4WD,0,690000
+11817,https://barnaul.drom.ru/honda/legend/48795959.html,Honda,Legend,Барнаул,2006,бензин,3.5,295,АКПП,4WD,седан,,285000,левый,4 поколение,3.5 AT,0,720000
+11818,https://ussuriisk.drom.ru/honda/edix/48584767.html,Honda,Edix,Уссурийск,2006,бензин,1.7,130,АКПП,передний,,белый,192000,правый,1 поколение,1.7 17X,0,600000
+11819,https://dalnegorsk.drom.ru/honda/civic/48536909.html,Honda,Civic,Дальнегорск,2008,бензин,1.3,94,вариатор,передний,седан,серый,120000,правый,"8 поколение, рестайлинг",1.3 MXST,0,630000
+11820,https://novorossiysk.drom.ru/honda/odyssey/48458476.html,Honda,Odyssey,Новороссийск,2005,бензин,3.5,244,АКПП,передний,,белый,178000,левый,3 поколение,3.5 AT Touring,0,620000
+11821,https://nadim.drom.ru/honda/accord/48456743.html,Honda,Accord,Надым,2008,бензин,2.4,201,АКПП,передний,седан,белый,222000,левый,8 поколение,2.4 AT Executive,1,700000
+11822,https://kazan.drom.ru/honda/accord/48456597.html,Honda,Accord,Казань,2008,бензин,2.4,201,АКПП,передний,седан,белый,230000,левый,8 поколение,2.4 AT Executive,0,680000
+11823,https://irkutsk.drom.ru/honda/crossroad/48455922.html,Honda,Crossroad,Иркутск,2007,бензин,1.8,140,АКПП,4WD,джип/suv 5 дв.,серый,235000,правый,2 поколение,1.8 18X HID edition 4WD,0,850000
+11824,https://krasnoyarsk.drom.ru/honda/cr-v/48452991.html,Honda,CR-V,Красноярск,2008,бензин,2.0,150,механика,4WD,,голубой,250000,левый,3 поколение,2.0 MT Comfort,0,930000
+11825,https://sovetskaya-gavan.drom.ru/honda/fit/48451283.html,Honda,Fit,Советская Гавань,2008,бензин,1.3,100,вариатор,передний,,фиолетовый,140000,правый,2 поколение,1.3 G,0,480000
+11826,https://volno-nadezhdinskoe.drom.ru/honda/edix/48450724.html,Honda,Edix,Вольно-Надеждинское,2005,бензин,1.7,130,АКПП,передний,,белый,179000,правый,1 поколение,,0,295000
+11827,https://ussuriisk.drom.ru/honda/pilot/48450348.html,Honda,Pilot,Уссурийск,2008,бензин,3.5,257,АКПП,4WD,,черный,187188,левый,2 поколение,,0,1180000
+11828,https://ulan-ude.drom.ru/honda/freed/48449562.html,Honda,Freed,Улан-Удэ,2008,бензин,1.5,118,вариатор,передний,,черный,142000,правый,1 поколение,1.5 G aero L package  (7-Seater),0,790000
+11829,https://habarovsk.drom.ru/honda/freed/48449480.html,Honda,Freed,Хабаровск,2009,бензин,1.5,118,вариатор,передний,,серебристый,100000,правый,1 поколение,,0,690000
+11830,https://yakutsk.drom.ru/honda/stream/48447996.html,Honda,Stream,Якутск,2009,бензин,1.8,140,АКПП,передний,,серый,237000,правый,2 поколение,1.8 X,0,799000
+11831,https://novokuznetsk.drom.ru/honda/accord/48448047.html,Honda,Accord,Новокузнецк,2007,бензин,2.0,155,АКПП,передний,седан,серый,223333,левый,"7 поколение, рестайлинг",2.0 AT Sport,1,760000
+11832,https://usk-kut.drom.ru/honda/airwave/48447841.html,Honda,Airwave,Усть-Кут,2005,бензин,1.5,110,вариатор,передний,,серый,199000,правый,1 поколение,1.5 L sky roof,0,570000
+11833,https://zelenogorsk-krasnoyarsk.drom.ru/honda/insight/48418748.html,Honda,Insight,Зеленогорск,2009,бензин,1.3,88,вариатор,передний,лифтбек,серый,159000,правый,2 поколение,1.3 LS,0,695000
+11834,https://dalnerechensk.drom.ru/honda/airwave/48129028.html,Honda,Airwave,Дальнереченск,2007,бензин,1.5,110,вариатор,передний,,черный,230000,правый,1 поколение,,0,512000
+11835,https://nizhniy-tagil.drom.ru/honda/civic/48116110.html,Honda,Civic,Нижний Тагил,2007,бензин,1.8,140,механика,передний,седан,черный,328000,левый,8 поколение,,1,448000
+11836,https://achinsk.drom.ru/honda/cr-v/48115777.html,Honda,CR-V,Ачинск,2008,бензин,2.4,166,АКПП,4WD,,золотистый,234000,левый,3 поколение,2.4 AT 4WD EX-L,0,1300000
+11837,https://omsk.drom.ru/honda/fit/48886265.html,Honda,Fit,Омск,2009,бензин,1.3,99,автомат,передний,,фиолетовый,99000,правый,,,0,759000
+11838,https://pervouralsk.drom.ru/honda/freed/48872999.html,Honda,Freed,Первоуральск,2009,бензин,1.5,118,вариатор,передний,,серебристый,93000,правый,1 поколение,,0,765000
+11839,https://bratsk.drom.ru/honda/legend/49133027.html,Honda,Legend,Братск,2007,бензин,3.5,295,АКПП,4WD,седан,черный,250000,левый,4 поколение,3.5 AT,0,950000
+11840,https://kemerovo.drom.ru/honda/civic/48849164.html,Honda,Civic,Кемерово,2008,бензин,1.8,140,механика,передний,седан,синий,198000,левый,8 поколение,,0,479000
+11841,https://novosibirsk.drom.ru/honda/fit/49092896.html,Honda,Fit,Новосибирск,2006,бензин,1.3,86,вариатор,передний,,черный,74000,правый,"1 поколение, 2 рестайлинг",1.3A comfort edition,0,465000
+11842,https://ussuriisk.drom.ru/honda/insight/49133009.html,Honda,Insight,Уссурийск,2009,бензин,1.3,88,вариатор,передний,лифтбек,серый,134200,правый,2 поколение,1.3 L,0,720000
+11843,https://novosibirsk.drom.ru/honda/accord/48915614.html,Honda,Accord,Новосибирск,2006,бензин,2.0,155,АКПП,передний,седан,черный,255000,левый,"7 поколение, рестайлинг",2.0 AT Sport,0,740000
+11844,https://barnaul.drom.ru/honda/stepwgn/48834509.html,Honda,Stepwgn,Барнаул,2009,бензин,2.0,155,АКПП,передний,,черный,81000,правый,"3 поколение, рестайлинг",2.0 Spada S HDD NAVI smart style edition  8 seater,0,669000
+11845,https://tomsk.drom.ru/honda/fit/49079867.html,Honda,Fit,Томск,2008,бензин,1.3,100,вариатор,передний,,серый,237000,правый,2 поколение,1.3 L,1,400000
+11846,https://ussuriisk.drom.ru/honda/freed/49132931.html,Honda,Freed,Уссурийск,2009,бензин,1.5,118,вариатор,передний,,,113000,правый,1 поколение,1.5 G aero,1,645000
+11847,https://tayshet.drom.ru/honda/accord/49026265.html,Honda,Accord,Тайшет,2006,бензин,2.0,155,АКПП,передний,седан,голубой,328000,левый,"7 поколение, рестайлинг",2.0 AT Sport,0,565000
+11848,https://krasnoyarsk.drom.ru/honda/insight/48109210.html,Honda,Insight,Красноярск,2009,бензин,1.3,88,вариатор,передний,лифтбек,серый,236000,правый,2 поколение,1.3 L,0,650000
+11849,https://novosibirsk.drom.ru/honda/insight/49079580.html,Honda,Insight,Новосибирск,2009,бензин,1.3,88,вариатор,передний,лифтбек,серебристый,250000,правый,2 поколение,1.3 G,1,590000
+11850,https://habarovsk.drom.ru/honda/airwave/49132868.html,Honda,Airwave,Хабаровск,2005,бензин,1.5,110,вариатор,передний,,серый,137638,правый,1 поколение,,0,475000
+11851,https://novosibirsk.drom.ru/honda/fit/48981051.html,Honda,Fit,Новосибирск,2009,бензин,1.3,100,вариатор,передний,,черный,52000,правый,2 поколение,1.3 G smart style edition,0,709000
+11852,https://amursk.drom.ru/honda/fit/48574136.html,Honda,Fit,Амурск,2008,бензин,1.3,100,вариатор,передний,,голубой,184000,правый,2 поколение,1.3 G,1,460000
+11853,https://ussuriisk.drom.ru/honda/insight/49132780.html,Honda,Insight,Уссурийск,2009,бензин,1.3,88,вариатор,передний,лифтбек,серый,140000,правый,2 поколение,1.3 L,0,650000
+11854,https://barnaul.drom.ru/honda/cr-v/47882715.html,Honda,CR-V,Барнаул,2008,бензин,2.4,166,АКПП,4WD,,серый,210000,левый,3 поколение,2.4 AT Executive Leather,0,1055000
+11855,https://habarovsk.drom.ru/honda/insight/48953673.html,,,,,,,,,,,,,,,,0,
+11856,https://krasnoyarsk.drom.ru/honda/civic/49012750.html,,,,,,,,,,,,,,,,0,
+11857,https://kemerovo.drom.ru/honda/cr-v/48561975.html,Honda,CR-V,Кемерово,2006,бензин,2.0,150,АКПП,4WD,,синий,186000,левый,,,0,799000
+11858,https://chelyabinsk.drom.ru/honda/stepwgn/48444266.html,Honda,Stepwgn,Челябинск,2007,бензин,2.0,155,АКПП,передний,,белый,250000,правый,3 поколение,,0,899000
+11859,https://birobidzhan.drom.ru/honda/insight/49133363.html,Honda,Insight,Биробиджан,2009,бензин,1.3,88,вариатор,передний,лифтбек,,160000,правый,2 поколение,,0,670000
+11860,https://kazan.drom.ru/honda/civic/49133414.html,,,,,,,,,,,,,,,,0,
+11861,https://tyumen.drom.ru/honda/cr-v/48470506.html,,,,,,,,,,,,,,,,0,
+11862,https://novokuznetsk.drom.ru/honda/freed/48477093.html,Honda,Freed,Новокузнецк,2009,бензин,1.5,118,вариатор,передний,,синий,116000,правый,1 поколение,1.5 G just selection (7-Seater),0,850000
+11863,https://ulan-ude.drom.ru/honda/accord/49133284.html,Honda,Accord,Улан-Удэ,2008,бензин,2.4,201,АКПП,передний,седан,синий,235000,левый,8 поколение,2.4 AT Executive,0,850000
+11864,https://ulan-ude.drom.ru/honda/cr-v/48942712.html,Honda,CR-V,Улан-Удэ,2008,бензин,2.4,166,АКПП,4WD,,серебристый,165000,левый,3 поколение,2.4 AT Executive,0,1157000
+11865,https://artem.drom.ru/honda/insight/48493941.html,,,,,,,,,,,,,,,,0,
+11866,https://vladivostok.drom.ru/honda/insight/49133285.html,Honda,Insight,Владивосток,2009,бензин,1.3,88,вариатор,передний,лифтбек,серый,104000,правый,2 поколение,,0,615000
+11867,https://krasnoyarsk.drom.ru/honda/stepwgn/46984237.html,Honda,Stepwgn,Красноярск,2006,бензин,2.0,155,АКПП,4WD,,серый,181000,правый,3 поколение,,0,699000
+11868,https://ulan-ude.drom.ru/honda/fit/48299191.html,,,,,,,,,,,,,,,,0,
+11869,https://novosibirsk.drom.ru/honda/insight/48809321.html,,,,,,,,,,,,,,,,0,
+11870,https://krasnoyarsk.drom.ru/honda/civic/46868536.html,,,,,,,,,,,,,,,,0,
+11871,https://krasnoyarsk.drom.ru/honda/airwave/48713984.html,,,,,,,,,,,,,,,,0,
+11872,https://irkutsk.drom.ru/honda/accord/48977191.html,,,,,,,,,,,,,,,,0,
+11873,https://novoselovo.drom.ru/honda/freed/48891525.html,,,,,,,,,,,,,,,,0,
+11874,https://habarovsk.drom.ru/honda/hr-v/47568895.html,,,,,,,,,,,,,,,,0,
+11875,https://novosibirsk.drom.ru/honda/accord/49133173.html,,,,,,,,,,,,,,,,0,
+11876,https://novosibirsk.drom.ru/honda/fit/49130064.html,,,,,,,,,,,,,,,,0,
+11877,https://artem.drom.ru/honda/freed/48174139.html,,,,,,,,,,,,,,,,0,
+11878,https://abakan.drom.ru/honda/stream/48582602.html,,,,,,,,,,,,,,,,0,
+11879,https://usoliye-sibirskoe.drom.ru/honda/cr-v/49132291.html,,,,,,,,,,,,,,,,0,
+11880,https://irkutsk.drom.ru/honda/freed/48889629.html,,,,,,,,,,,,,,,,0,
+11881,https://irkutsk.drom.ru/honda/cr-v/48994112.html,,,,,,,,,,,,,,,,0,
+11882,https://vladivostok.drom.ru/honda/fit/48820259.html,,,,,,,,,,,,,,,,0,
+11883,https://vladivostok.drom.ru/honda/fit/48985789.html,,,,,,,,,,,,,,,,0,
+11884,https://nakhodka.drom.ru/honda/hr-v/48611446.html,,,,,,,,,,,,,,,,0,
+11885,https://vladivostok.drom.ru/honda/fit/48966260.html,,,,,,,,,,,,,,,,0,
+11886,https://borzya.drom.ru/honda/accord/48555640.html,,,,,,,,,,,,,,,,0,
+11887,https://spassk-dalniy.drom.ru/honda/insight/48937043.html,,,,,,,,,,,,,,,,0,
+11888,https://vladivostok.drom.ru/honda/insight/47474844.html,,,,,,,,,,,,,,,,0,
+11889,https://ussuriisk.drom.ru/honda/fit/48373935.html,,,,,,,,,,,,,,,,0,
+11890,https://habarovsk.drom.ru/honda/civic/46640318.html,,,,,,,,,,,,,,,,0,
+11891,https://vladivostok.drom.ru/honda/cr-v/48496048.html,,,,,,,,,,,,,,,,0,
+11892,https://vladivostok.drom.ru/honda/odyssey/49072995.html,,,,,,,,,,,,,,,,0,
+11893,https://vladivostok.drom.ru/honda/fit/49062359.html,,,,,,,,,,,,,,,,0,
+11894,https://artem.drom.ru/honda/airwave/48802030.html,,,,,,,,,,,,,,,,0,
+11895,https://vladivostok.drom.ru/honda/fit/48943812.html,,,,,,,,,,,,,,,,0,
+11896,https://vladivostok.drom.ru/honda/freed/49124388.html,,,,,,,,,,,,,,,,0,
+11897,https://ekaterinburg.drom.ru/honda/civic/48115727.html,,,,,,,,,,,,,,,,0,
+11898,https://ussuriisk.drom.ru/honda/fit/48988767.html,,,,,,,,,,,,,,,,0,
+11899,https://tyumen.drom.ru/honda/cr-v/48790346.html,,,,,,,,,,,,,,,,0,
+11900,https://tyumen.drom.ru/honda/cr-v/48799074.html,,,,,,,,,,,,,,,,0,
+11901,https://ussuriisk.drom.ru/honda/insight/48887919.html,,,,,,,,,,,,,,,,0,
+11902,https://vladivostok.drom.ru/honda/cr-v/47369188.html,,,,,,,,,,,,,,,,0,
+11903,https://habarovsk.drom.ru/honda/stepwgn/47585403.html,,,,,,,,,,,,,,,,0,
+11904,https://ussuriisk.drom.ru/honda/freed/49101081.html,,,,,,,,,,,,,,,,0,
+11905,https://ussuriisk.drom.ru/honda/stream/49020593.html,,,,,,,,,,,,,,,,0,
+11906,https://kazan.drom.ru/honda/civic/48805493.html,,,,,,,,,,,,,,,,0,
+11907,https://novosibirsk.drom.ru/honda/accord/48805185.html,,,,,,,,,,,,,,,,0,
+11908,https://chernogorsk.drom.ru/honda/stream/48804148.html,,,,,,,,,,,,,,,,0,
+11909,https://biysk.drom.ru/honda/accord/48802702.html,,,,,,,,,,,,,,,,0,
+11910,https://sevastopol.drom.ru/honda/civic/48799857.html,,,,,,,,,,,,,,,,0,
+11911,https://ulan-ude.drom.ru/honda/insight/48799794.html,,,,,,,,,,,,,,,,0,
+11912,https://minusinsk.drom.ru/honda/accord/48799671.html,,,,,,,,,,,,,,,,0,
+11913,https://irkutsk.drom.ru/honda/civic/48799099.html,,,,,,,,,,,,,,,,0,
+11914,https://cheremhovo.drom.ru/honda/cr-v/48799070.html,,,,,,,,,,,,,,,,0,
+11915,https://yuzhno-sakhalinsk.drom.ru/honda/cr-v/48798302.html,,,,,,,,,,,,,,,,0,
+11916,https://habarovsk.drom.ru/honda/accord/48797050.html,,,,,,,,,,,,,,,,0,
+11917,https://irkutsk.drom.ru/honda/civic/48115021.html,,,,,,,,,,,,,,,,0,
+11918,https://irkutsk.drom.ru/honda/insight/48114296.html,,,,,,,,,,,,,,,,0,
+11919,https://barnaul.drom.ru/honda/fit/48113444.html,,,,,,,,,,,,,,,,0,
+11920,https://barnaul.drom.ru/honda/airwave/48110890.html,,,,,,,,,,,,,,,,0,
+11921,https://chelyabinsk.drom.ru/honda/civic/48110064.html,,,,,,,,,,,,,,,,0,
+11922,https://irkutsk.drom.ru/honda/accord/48109236.html,,,,,,,,,,,,,,,,0,
+11923,https://novosibirsk.drom.ru/honda/accord/48107005.html,,,,,,,,,,,,,,,,0,
+11924,https://spassk-dalniy.drom.ru/honda/airwave/48106093.html,,,,,,,,,,,,,,,,0,
+11925,https://habarovsk.drom.ru/honda/cr-v/48105919.html,,,,,,,,,,,,,,,,0,
+11926,https://tyumen.drom.ru/honda/civic/48015641.html,,,,,,,,,,,,,,,,0,
+11927,https://ust-ilimsk.drom.ru/honda/cr-v/47798901.html,,,,,,,,,,,,,,,,0,
+11928,https://sevastopol.drom.ru/honda/civic/47768995.html,,,,,,,,,,,,,,,,0,
+11929,https://kemerovo.drom.ru/honda/civic/47767052.html,,,,,,,,,,,,,,,,0,
+11930,https://elista.drom.ru/honda/that~s/47766518.html,,,,,,,,,,,,,,,,0,
+11931,https://kosh-agach.drom.ru/honda/cr-v/47766048.html,,,,,,,,,,,,,,,,0,
+11932,https://novosibirsk.drom.ru/honda/cr-v/47764522.html,,,,,,,,,,,,,,,,0,
+11933,https://habarovsk.drom.ru/honda/zest/47425245.html,,,,,,,,,,,,,,,,0,
+11934,https://chita.drom.ru/honda/airwave/47300965.html,,,,,,,,,,,,,,,,0,
+11935,https://krasnoyarsk.drom.ru/honda/cr-v/47103440.html,,,,,,,,,,,,,,,,0,
+11936,https://tomsk.drom.ru/honda/accord/47098861.html,,,,,,,,,,,,,,,,0,
+11937,https://angarsk.drom.ru/honda/stream/48742202.html,,,,,,,,,,,,,,,,0,
+11938,https://irkutsk.drom.ru/honda/fit/49128420.html,,,,,,,,,,,,,,,,0,
+11939,https://nefteyugansk.drom.ru/honda/pilot/49135414.html,,,,,,,,,,,,,,,,0,
+11940,https://magadan.drom.ru/honda/airwave/49011415.html,,,,,,,,,,,,,,,,0,
+11941,https://birobidzhan.drom.ru/honda/airwave/49135320.html,,,,,,,,,,,,,,,,0,
+11942,https://irkutsk.drom.ru/honda/civic/49135231.html,,,,,,,,,,,,,,,,0,
+11943,https://novosibirsk.drom.ru/honda/fit/48630652.html,,,,,,,,,,,,,,,,0,
+11944,https://krasnoyarsk.drom.ru/honda/accord/49135188.html,,,,,,,,,,,,,,,,0,
+11945,https://blagoveshchensk.drom.ru/honda/insight/49135064.html,,,,,,,,,,,,,,,,0,
+11946,https://vladivostok.drom.ru/honda/insight/49134780.html,,,,,,,,,,,,,,,,0,
+11947,https://novosibirsk.drom.ru/honda/cr-v/48962525.html,,,,,,,,,,,,,,,,0,
+11948,https://melnikovo.drom.ru/honda/accord/47697579.html,,,,,,,,,,,,,,,,0,
+11949,https://arsenyev.drom.ru/honda/insight/49135027.html,,,,,,,,,,,,,,,,0,
+11950,https://krasnoyarsk.drom.ru/honda/accord/49135022.html,,,,,,,,,,,,,,,,0,
+11951,https://svobodniy.drom.ru/honda/partner/47917445.html,,,,,,,,,,,,,,,,0,
+11952,https://novosibirsk.drom.ru/honda/freed/49134955.html,,,,,,,,,,,,,,,,0,
+11953,https://krasnoyarsk.drom.ru/honda/civic/49134977.html,,,,,,,,,,,,,,,,0,
+11954,https://ussuriisk.drom.ru/honda/stream/49134952.html,,,,,,,,,,,,,,,,0,
+11955,https://vladivostok.drom.ru/honda/fit/48214690.html,,,,,,,,,,,,,,,,0,
+11956,https://ussuriisk.drom.ru/honda/stream/48786193.html,,,,,,,,,,,,,,,,0,
+11957,https://kopeysk.drom.ru/honda/civic/49134167.html,,,,,,,,,,,,,,,,0,
+11958,https://birobidzhan.drom.ru/honda/edix/49134118.html,,,,,,,,,,,,,,,,0,
+11959,https://tomsk.drom.ru/honda/cr-v/48995227.html,,,,,,,,,,,,,,,,0,
+11960,https://berdsk.drom.ru/honda/insight/48997838.html,,,,,,,,,,,,,,,,0,
+11961,https://chita.drom.ru/honda/freed/48629979.html,,,,,,,,,,,,,,,,0,
+11962,https://chita.drom.ru/honda/airwave/47883142.html,,,,,,,,,,,,,,,,0,
+11963,https://rubtsovsk.drom.ru/honda/airwave/49133983.html,,,,,,,,,,,,,,,,0,
+11964,https://aginskoe.drom.ru/honda/airwave/49122316.html,,,,,,,,,,,,,,,,0,
+11965,https://vladivostok.drom.ru/honda/insight/49133952.html,,,,,,,,,,,,,,,,0,
+11966,https://vladivostok.drom.ru/honda/freed/48977221.html,,,,,,,,,,,,,,,,0,
+11967,https://krasnodar.drom.ru/honda/cr-v/49133893.html,,,,,,,,,,,,,,,,0,
+11968,https://novosibirsk.drom.ru/honda/insight/49133815.html,,,,,,,,,,,,,,,,0,
+11969,https://ekaterinburg.drom.ru/honda/fit/48797954.html,,,,,,,,,,,,,,,,0,
+11970,https://novosibirsk.drom.ru/honda/fit/49047458.html,,,,,,,,,,,,,,,,0,
+11971,https://tyumen.drom.ru/honda/civic/46572802.html,,,,,,,,,,,,,,,,0,
+11972,https://biysk.drom.ru/honda/fr-v/48669320.html,,,,,,,,,,,,,,,,0,
+11973,https://irkutsk.drom.ru/honda/partner/49049118.html,,,,,,,,,,,,,,,,0,
+11974,https://barnaul.drom.ru/honda/odyssey/48902966.html,,,,,,,,,,,,,,,,0,
+11975,https://belogorsk.drom.ru/honda/freed/48521168.html,,,,,,,,,,,,,,,,0,
+11976,https://ulan-ude.drom.ru/honda/fit/48329575.html,,,,,,,,,,,,,,,,0,
+11977,https://habarovsk.drom.ru/honda/insight/49134747.html,,,,,,,,,,,,,,,,0,
+11978,https://kemerovo.drom.ru/honda/civic/49106426.html,,,,,,,,,,,,,,,,0,
+11979,https://vladivostok.drom.ru/honda/crossroad/49134813.html,,,,,,,,,,,,,,,,0,
+11980,https://ussuriisk.drom.ru/honda/freed/49134727.html,,,,,,,,,,,,,,,,0,
+11981,https://chita.drom.ru/honda/civic_ferio/49134763.html,,,,,,,,,,,,,,,,0,
+11982,https://ussuriisk.drom.ru/honda/stream/48955960.html,,,,,,,,,,,,,,,,0,
+11983,https://irkutsk.drom.ru/honda/insight/48976111.html,,,,,,,,,,,,,,,,0,
+11984,https://irkutsk.drom.ru/honda/legend/48321921.html,,,,,,,,,,,,,,,,0,
+11985,https://komsomolsk.drom.ru/honda/inspire/49134474.html,,,,,,,,,,,,,,,,0,
+11986,https://abakan.drom.ru/honda/cr-v/49134487.html,,,,,,,,,,,,,,,,0,
+11987,https://krasnoyarsk.drom.ru/honda/fit/49134481.html,,,,,,,,,,,,,,,,0,
+11988,https://abakan.drom.ru/honda/accord/48100028.html,,,,,,,,,,,,,,,,0,
+11989,https://zavodoukovsk.drom.ru/honda/civic/48316039.html,,,,,,,,,,,,,,,,0,
+11990,https://novosibirsk.drom.ru/honda/fit/49134358.html,,,,,,,,,,,,,,,,0,
+11991,https://kemerovo.drom.ru/honda/civic/49133149.html,,,,,,,,,,,,,,,,0,
+11992,https://irkutsk.drom.ru/honda/airwave/49010671.html,,,,,,,,,,,,,,,,0,
+11993,https://ussuriisk.drom.ru/honda/fit/49134211.html,,,,,,,,,,,,,,,,0,
+11994,https://abakan.drom.ru/honda/fit/48924936.html,,,,,,,,,,,,,,,,0,
+11995,https://ulan-ude.drom.ru/honda/stream/48234691.html,,,,,,,,,,,,,,,,0,
+11996,https://ussuriisk.drom.ru/honda/insight/48934338.html,,,,,,,,,,,,,,,,0,
+11997,https://novosibirsk.drom.ru/honda/freed/49021523.html,,,,,,,,,,,,,,,,0,
+11998,https://novorossiysk.drom.ru/honda/civic/48648430.html,,,,,,,,,,,,,,,,0,
+11999,https://elizovo.drom.ru/honda/fit/49061634.html,,,,,,,,,,,,,,,,0,
+12000,https://ulan-ude.drom.ru/honda/freed/48105880.html,,,,,,,,,,,,,,,,0,
+12001,https://tyumen.drom.ru/honda/civic/45827869.html,,,,,,,,,,,,,,,,0,
+12002,https://kyzyl.drom.ru/honda/accord/46576315.html,,,,,,,,,,,,,,,,0,
+12003,https://sayanogorsk.drom.ru/honda/cr-v/46942108.html,,,,,,,,,,,,,,,,0,
+12004,https://barnaul.drom.ru/honda/accord/49124282.html,,,,,,,,,,,,,,,,0,
+12005,https://vladivostok.drom.ru/honda/fit/49124183.html,,,,,,,,,,,,,,,,0,
+12006,https://novosibirsk.drom.ru/honda/accord/48555487.html,,,,,,,,,,,,,,,,0,
+12007,https://vladivostok.drom.ru/honda/elysion/47792962.html,,,,,,,,,,,,,,,,0,
+12008,https://novosibirsk.drom.ru/honda/accord/48298800.html,,,,,,,,,,,,,,,,0,
+12009,https://tyumen.drom.ru/honda/accord/48449634.html,,,,,,,,,,,,,,,,0,
+12010,https://novosibirsk.drom.ru/honda/stream/48989471.html,,,,,,,,,,,,,,,,0,
+12011,https://novosibirsk.drom.ru/honda/cr-v/48637531.html,,,,,,,,,,,,,,,,0,
+12012,https://talmenka.drom.ru/honda/accord/49090039.html,,,,,,,,,,,,,,,,0,
+12013,https://vladivostok.drom.ru/honda/cr-v/48579667.html,,,,,,,,,,,,,,,,0,
+12014,https://chita.drom.ru/honda/fit/48822131.html,,,,,,,,,,,,,,,,0,
+12015,https://ulan-ude.drom.ru/honda/freed/48810442.html,,,,,,,,,,,,,,,,0,
+12016,https://novosibirsk.drom.ru/honda/freed/48330714.html,,,,,,,,,,,,,,,,0,
+12017,https://kemerovo.drom.ru/honda/fit/48900789.html,,,,,,,,,,,,,,,,0,
+12018,https://barnaul.drom.ru/honda/accord/49086059.html,,,,,,,,,,,,,,,,0,
+12019,https://irkutsk.drom.ru/honda/stream/49124825.html,,,,,,,,,,,,,,,,0,
+12020,https://vladivostok.drom.ru/honda/fit/48606539.html,,,,,,,,,,,,,,,,0,
+12021,https://barnaul.drom.ru/honda/accord/49124755.html,,,,,,,,,,,,,,,,0,
+12022,https://novosibirsk.drom.ru/honda/stream/49054904.html,,,,,,,,,,,,,,,,0,
+12023,https://vladivostok.drom.ru/honda/insight/49124614.html,,,,,,,,,,,,,,,,0,
+12024,https://ulan-ude.drom.ru/honda/accord/45697077.html,,,,,,,,,,,,,,,,0,
