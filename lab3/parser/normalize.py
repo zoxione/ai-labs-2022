@@ -2,7 +2,7 @@ import datetime
 import argparse
 import os
 from pathlib import Path
-
+import json
 import numpy as np
 import pandas as pd
 import winsound
@@ -35,11 +35,19 @@ def df_to_number(df):
     dfCopy['Mileage'] = dfCopy['Mileage'].fillna(0)
     dfCopy['Price'] = dfCopy['Price'].apply(int)
     
+
+    # Save unique values
+    uniques = {}
+    uniques['Brand'] = dfCopy['Brand'].unique().tolist()
+    uniques['Model'] = dfCopy['Model'].unique().tolist()
+    uniques['Region'] = dfCopy['Region'].unique().tolist()
+    uniques['Engine'] = dfCopy['Engine'].unique().tolist()
+    uniques['Transmission'] = dfCopy['Transmission'].unique().tolist()
+    uniques['Drive'] = dfCopy['Drive'].unique().tolist()
+
+    # Replace values
     dfCopy['Brand'] = pd.factorize(dfCopy['Brand'])[0] + 1 
-    #dfCopy['Brand'].map( {'volvo':0 , 'bmw':1, 'audi':2} )
-    
     dfCopy['Model'] = pd.factorize(dfCopy['Model'])[0] + 1 
-    
     dfCopy['Region'] = pd.factorize(dfCopy['Region'])[0] + 1 
     dfCopy['Engine'] = pd.factorize(dfCopy['Engine'])[0] + 1 
     dfCopy['Transmission'] = pd.factorize(dfCopy['Transmission'])[0] + 1 
@@ -47,6 +55,10 @@ def df_to_number(df):
     #dfCopy['Body'] = pd.factorize(dfCopy['Body'])[0] + 1 
     #dfCopy['Color'] = pd.factorize(dfCopy['Color'])[0] + 1 
     #dfCopy['Wheel'] = pd.factorize(dfCopy['Wheel'])[0] + 1
+
+    
+    with open('uniques.json', 'w') as fp:
+        json.dump(uniques, fp)
 
     return dfCopy
 
