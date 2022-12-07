@@ -5,7 +5,7 @@ from collections import Counter
 import json
 
 
-params = pd.read_csv("params.csv")
+params = pd.read_csv("./params.csv")
 selection = dict()
 
 
