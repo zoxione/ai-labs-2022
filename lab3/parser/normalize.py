@@ -16,7 +16,7 @@ parserArgs = argparse.ArgumentParser()
 parserArgs.add_argument('--input', type=str, default='', help='Путь к входным данным')
 args = parserArgs.parse_args()
 
-chooseProperty = ['Id', 'Url', 'Brand', 'Model', 'Year', 'EngineVolume', 'Power', 'Drive', 'Mileage', 'Price']
+chooseProperty = ['Id', 'Url', 'Brand', 'Model', 'Year', 'EngineVolume', 'Power', 'Drive', 'Mileage', 'Price', 'Region', 'Engine', 'Transmission']
 
 
 def files(path):
@@ -34,6 +34,23 @@ def df_to_number(df):
     dfCopy['Mileage'] = pd.to_numeric(dfCopy['Mileage'], errors='coerce')
     dfCopy['Mileage'] = dfCopy['Mileage'].fillna(0)
     dfCopy['Price'] = dfCopy['Price'].apply(int)
+    
+    print(dfCopy)
+    
+    dfCopy['Brand'] = pd.factorize(dfCopy['Brand'])[0] + 1 
+    #dfCopy['Brand'].map( {'volvo':0 , 'bmw':1, 'audi':2} )
+    
+    dfCopy['Model'] = pd.factorize(dfCopy['Model'])[0] + 1 
+    
+    dfCopy['Region'] = pd.factorize(dfCopy['Region'])[0] + 1 
+    dfCopy['Engine'] = pd.factorize(dfCopy['Engine'])[0] + 1 
+    dfCopy['Transmission'] = pd.factorize(dfCopy['Transmission'])[0] + 1 
+    dfCopy['Drive'] = pd.factorize(dfCopy['Drive'])[0] + 1 
+    #dfCopy['Body'] = pd.factorize(dfCopy['Body'])[0] + 1 
+    #dfCopy['Color'] = pd.factorize(dfCopy['Color'])[0] + 1 
+    #dfCopy['Wheel'] = pd.factorize(dfCopy['Wheel'])[0] + 1 
+    
+    
 
     # dfCopy = dfCopy[['Year', 'EngineVolume', 'Power', 'Drive', 'Mileage']]
 
@@ -76,6 +93,7 @@ if __name__ == '__main__':
 
         # Сортируем по Id
         dfInput1 = dfInput1.sort_values(by=['Id'])
+        
 
         # Преобразуем в числа
         dfInput1 = df_to_number(dfInput1)
