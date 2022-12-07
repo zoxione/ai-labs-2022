@@ -18,8 +18,7 @@ parser.add_argument('--output', type=str, default='', help='Путь к выхо
 args = parser.parse_args()
 
 # Инициализация значений
-chooseProperty = ['Year', 'EngineVolume', 'Power', 'Mileage']
-
+chooseProperty = ['Brand', 'Model', 'Region', 'Year', 'Engine', 'EngineVolume', 'Power', 'Drive', 'Transmission', 'Mileage']
 
 def trainMode():
     print('Выбран режим train - обучение модели\n');
@@ -54,10 +53,6 @@ def trainMode():
     score = model.score(X, Y)
     print('R2 score: %.3f' % score)
 
-    # Графики
-    # plt.scatter(X, Y)
-    # plt.plot(X, model.predict(X), color='red', linewidth=2);
-
     # Сохранение модели
     joblib.dump(model, args.model)
     print('[6] Модель сохранена в файле', args.model);
@@ -84,12 +79,12 @@ def inferenceMode():
     print('[5] Предсказание сделано и записано в файл ' + args.output);
 
 
-def exitMode():
-    input('\nНажмите Enter для выхода...');
+# def exitMode():
+#     input('\nНажмите Enter для выхода...');
 
 
-# ./model.py --mode train --dataset ./train.csv --model ./modelLinearRegression.pkl
-# ./model.py --mode inference --model ./modelLinearRegression.pkl --input ./train.csv --output ./result_to_commit.csv
+# ./model.py --mode train --dataset ./train.csv --model ./model_linearRegression.pkl
+# ./model.py --mode inference --model ./model_linearRegression.pkl --input ./train.csv --output ./result_to_commit.csv
 if __name__ == '__main__':
     try:
         if args.mode == 'train':
@@ -100,5 +95,5 @@ if __name__ == '__main__':
             print('Не указан режим работы');
     except Exception as e:
         print(e)
-    finally:
-        exitMode();
+    # finally:
+    #     exitMode();

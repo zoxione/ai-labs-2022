@@ -87,7 +87,21 @@
             </Attribute>
           </value>
         </entry>
+        <entry key="\parser\cars\cars_20221207123214959918.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
         <entry key="\parser\cars\cars_20221207182625167245.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\parser\cars\cars_20221207212953981170.csv">
           <value>
             <Attribute>
               <option name="separator" value="," />
@@ -115,7 +129,28 @@
             </Attribute>
           </value>
         </entry>
+        <entry key="\parser\normalize_cars_20221207184436233154.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
         <entry key="\parser\normalize_cars_numbers_20221207183303112070.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\parser\normalize_cars_numbers_20221207183316131402.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\parser\normalize_cars_numbers_20221207184436332176.csv">
           <value>
             <Attribute>
               <option name="separator" value="," />

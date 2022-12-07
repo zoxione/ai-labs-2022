@@ -1,7 +1,7 @@
-set loopcount=30
-set x=0
+set loopcount=20
+set x=4000
 :loop
-set /a x2=x+7210
+set /a x2=x+1000
 start /b python ./parse.py --input "./prefetch_cars/prefetch_cars.csv" --start %x% --end %x2%
 set /a loopcount=loopcount-1
 set /a x=x2+1

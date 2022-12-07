@@ -1,28 +1,39 @@
+import json
 import streamlit as st
 import pandas as pd
 
-st.title("Статистика")
-st.sidebar.markdown("Статистика")
 
-params = pd.read_csv("params.csv")
+def getDataMetrics():
+    # Получение данных из файла
+    with open('../model/result_metrics.json') as json_file:
+        data = json.load(json_file)
+    return data
 
-accurency = 0
-confusionMatrix = 0
 
-st.write("Таблица: ")
-st.dataframe(params)
+if __name__ == "__main__":
+    st.title("Статистика")
+    st.sidebar.markdown("Статистика")
 
-col1, col2 = st.columns(2)
-with col1:
-    st.metric(label="Accurency", value=accurency)
-with col2:
-    st.metric(label="Confusion Matrix", value=confusionMatrix)
+    st.write("Таблица: ")
+    dfParams = pd.read_csv("params.csv")
+    st.dataframe(dfParams)
+    st.caption("Количество записей: " + str(dfParams.shape[0]))
 
-st.write("Соотношение марки и цены: ")
-st.bar_chart(data=params, x="Brand", y="Price")
+    dataMetrics = getDataMetrics();
+    col1, col2, col3 = st.columns(3)
+    with col1:
+        st.metric(label="Mean Absolute Error", value=f'{dataMetrics["MAE"]:.{2}f}')
+    with col2:
+        st.metric(label="Accuracy", value=f'{dataMetrics["Accuracy"]:.{2}f}')
+    with col3:
+        st.metric(label="Confusion Matrix", value=0)
 
-st.write("Соотношение модели и цены: ")
-st.bar_chart(data=params, x="Model", y="Price")
+    st.write("Соотношение марки и цены: ")
+    st.bar_chart(data=dfParams, x="Brand", y="Price")
 
-st.write("Соотношение местонахожения автомобиля и цены: ")
-st.bar_chart(data=params[~pd.isnull(params["Region"])], x="Region", y="Price")
+    st.write("Соотношение года и цены: ")
+    st.bar_chart(data=dfParams, x="Year", y="Price")
+
+    st.write("Соотношение мощности и цены: ")
+    st.area_chart(data=dfParams, x="Power", y="Price")
+
