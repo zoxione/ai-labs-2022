@@ -3,7 +3,7 @@
   <component name="CsvFileAttributes">
     <option name="attributeMap">
       <map>
-        <entry key="\front\params.csv">
+        <entry key="\lab3\front\params.csv">
           <value>
             <Attribute>
               <option name="separator" value="," />
@@ -122,42 +122,28 @@
             </Attribute>
           </value>
         </entry>
-        <entry key="\lab3\parser\normalize_cars_numbers_20221207233643904768.csv">
+        <entry key="\lab3\parser\cars\cars_20221208002856989524.csv">
           <value>
             <Attribute>
               <option name="separator" value="," />
             </Attribute>
           </value>
         </entry>
-        <entry key="\model\train.csv">
+        <entry key="\lab3\parser\diff_cars.csv">
           <value>
             <Attribute>
               <option name="separator" value="," />
             </Attribute>
           </value>
         </entry>
-        <entry key="\parser\cars\cars_20221207121002567551.csv">
+        <entry key="\lab3\parser\normalize_cars.csv">
           <value>
             <Attribute>
               <option name="separator" value="," />
             </Attribute>
           </value>
         </entry>
-        <entry key="\parser\cars\cars_20221207121545856507.csv">
-          <value>
-            <Attribute>
-              <option name="separator" value="," />
-            </Attribute>
-          </value>
-        </entry>
-        <entry key="\parser\cars\cars_20221207123214959918.csv">
-          <value>
-            <Attribute>
-              <option name="separator" value="," />
-            </Attribute>
-          </value>
-        </entry>
-        <entry key="\parser\normalize_cars_20221207233643811040.csv">
+        <entry key="\lab3\parser\prefetch_cars\prefetch_cars.csv">
           <value>
             <Attribute>
               <option name="separator" value="," />

@@ -1,15 +1,9 @@
 import datetime
 import argparse
 import os
-from pathlib import Path
 import json
-import numpy as np
 import pandas as pd
 import winsound
-from selenium import webdriver
-from lxml import html
-from time import sleep
-from selenium.webdriver.chrome.options import Options
 
 
 parserArgs = argparse.ArgumentParser()
@@ -61,7 +55,7 @@ def df_to_number(df):
     return dfCopy
 
 
-#./normalize.py --input ./cars
+# ./normalize.py --input ./cars
 if __name__ == '__main__':
     try:
         if args.input == '':
@@ -90,14 +84,22 @@ if __name__ == '__main__':
             print('Выполнена итерация [' + str(i) + '/' + str(len(inputFiles) - 1) + ']');
 
         # Удаляем дубликаты
-        dfInput1 = dfInput1.drop_duplicates(subset=['Url']);
+        dfInput1 = dfInput1.drop_duplicates(subset=['Url'], keep='first')
+
+        # dfTemp = dfInput1.duplicated['Url']
+        # dfInput1 = dfInput1[~dfTemp]
 
         # Сортируем по Id
         dfInput1 = dfInput1.sort_values(by=['Id'])
 
-        now = datetime.datetime.now();
-        dfInput1.to_csv('normalize_cars_' + now.strftime('%Y%m%d%H%M%S%f') + '.csv', index=False);
-        print('\nСохранено в файл normalize_cars_' + now.strftime('%Y%m%d%H%M%S%f') + '.csv');
+        # Сравниваем с prefetch_cars.csv
+        dfPrefetch = pd.read_csv('./prefetch_cars/prefetch_cars.csv')
+        dfDiff = dfPrefetch.merge(dfInput1, how='left', on=['Id'], indicator=True).query("_merge == 'left_only'")['Id']
+        dfDiff.to_csv('diff_cars.csv', index=False)
+
+        # Сохраняем в файл
+        dfInput1.to_csv('normalize_cars.csv', index=False);
+        print('\nСохранено в файл normalize_cars.csv');
         print('Всего записей: ' + str(len(dfInput1)))
 
         # Преобразуем в числа
@@ -108,8 +110,8 @@ if __name__ == '__main__':
 
     finally:
         now = datetime.datetime.now();
-        dfInput1.to_csv('normalize_cars_numbers_' + now.strftime('%Y%m%d%H%M%S%f') + '.csv', index=False);
-        print('\nСохранено в файл normalize_cars_numbers_' + now.strftime('%Y%m%d%H%M%S%f') + '.csv');
+        dfInput1.to_csv('normalize_cars_numbers.csv', index=False);
+        print('\nСохранено в файл normalize_cars_numbers.csv');
 
         winsound.PlaySound('SystemExit', winsound.SND_ALIAS)
         input('\nНажмите Enter для выхода...');

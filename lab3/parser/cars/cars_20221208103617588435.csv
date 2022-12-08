@@ -1,0 +1,25 @@
+Id,Url,Brand,Model,Region,Year,Engine,EngineVolume,Power,Transmission,Drive,Body,Color,Mileage,Wheel,Generation,Complectation,IsSold,Price
+6447,https://yevpatoriya.drom.ru/audi/a4/48125396.html,Audi,A4,Евпатория,2022,бензин,2.0,150,робот,передний,седан,синий,5000,левый,"5 поколение, рестайлинг",2.0 35 TFSI S tronic Advance,0,4400000
+6450,https://moscow.drom.ru/audi/q8/48805695.html,Audi,Q8,Москва,2022,бензин,3.0,340,автомат,4WD,,белый,2075,левый,,,0,11700000
+6453,https://spb.drom.ru/audi/q3/47044777.html,Audi,Q3,Санкт-Петербург,2021,бензин,2.0,180,робот,4WD,,оранжевый,,левый,2 поколение,2.0 40 TFSI quattro S tronic,0,4840000
+6463,https://perm.drom.ru/audi/a4/49124955.html,Audi,A4,Пермь,2020,бензин,2.0,245,автомат,4WD,седан,черный,26057,левый,,,0,3720000
+6465,https://tyumen.drom.ru/audi/a4/48913444.html,Audi,A4,Тюмень,2020,бензин,2.0,249,робот,4WD,седан,серый,13571,левый,5 поколение,,0,4068180
+6468,https://minvody.drom.ru/audi/q8/49122958.html,Audi,Q8,Минеральные Воды,2021,дизель,3.0,249,АКПП,4WD,,белый,11000,левый,1 поколение,,0,8500000
+6471,https://moscow.drom.ru/audi/a4/48781068.html,Audi,A4,Москва,2022,бензин,2.0,150,робот,передний,седан,голубой,,левый,"5 поколение, рестайлинг",2.0 35 TFSI S tronic Sport,0,5100000
+6481,https://moscow.drom.ru/audi/q8/48780978.html,Audi,Q8,Москва,2022,дизель,3.0,249,АКПП,4WD,,черный,,левый,1 поколение,3.0 45 TDI quattro tiptronic Design,0,14200000
+6482,https://krasnoyarsk.drom.ru/audi/a8/46745579.html,Audi,A8,Красноярск,2021,бензин,3.0,340,АКПП,4WD,,черный,,левый,4 поколение,3.0 55 TFSI quattro tiptronic L Business,0,15905000
+6490,https://tula.drom.ru/audi/a3/49051351.html,Audi,A3,Тула,2022,бензин,1.5,150,автомат,передний,хэтчбек 5 дв.,желтый,,левый,,,0,4632185
+6491,https://tula.drom.ru/audi/a8/49051346.html,Audi,A8,Тула,2022,бензин,3.0,340,автомат,4WD,,черный,,левый,,,0,15134900
+6497,https://ekaterinburg.drom.ru/audi/e-tron/47680434.html,Audi,e-tron,Екатеринбург,2021,электр,,408,АКПП,4WD,,белый,19298,левый,1 поколение,,0,8749000
+6500,https://tula.drom.ru/audi/q5/48716915.html,Audi,Q5,Тула,2021,бензин,2.0,249,автомат,4WD,,серебристый,34741,левый,,,0,5399000
+6501,https://irkutsk.drom.ru/audi/q8/48711426.html,Audi,Q8,Иркутск,2020,дизель,3.0,249,АКПП,4WD,,синий,21000,левый,1 поколение,,0,8750000
+6503,https://moscow.drom.ru/audi/q5/46708779.html,Audi,Q5,Москва,2021,бензин,2.0,249,робот,4WD,,зеленый,5300,левый,"2 поколение, рестайлинг",2.0 45 TFSI quattro S tronic Design ,0,6300000
+6504,https://spb.drom.ru/audi/rs5/45639615.html,Audi,RS5,Санкт-Петербург,2021,бензин,2.9,450,АКПП,4WD,лифтбек,зеленый,,левый,"2 поколение, рестайлинг",2.9 TFSI quattro tiptronic,0,12072000
+6514,https://moscow.drom.ru/audi/e-tron_s/49088544.html,Audi,e-tron S,Москва,2021,электр,,503,АКПП,4WD,,серый,11500,левый,1 поколение,95 kWh quattro e-tron S,0,9500000
+6611,https://moscow.drom.ru/audi/q7/46753659.html,Audi,Q7,Москва,2021,дизель,3.0,249,АКПП,4WD,,черный,29543,левый,"2 поколение, рестайлинг",3.0 45 TDI quattro tiptronic Sport,0,8849900
+6618,https://moscow.drom.ru/audi/q5/49099833.html,Audi,Q5,Москва,2021,бензин,2.0,249,робот,4WD,,серебристый,35000,левый,"2 поколение, рестайлинг",,0,5000000
+6683,https://chelyabinsk.drom.ru/audi/a3/46718018.html,Audi,A3,Челябинск,2022,бензин,1.4,150,АКПП,передний,хэтчбек 5 дв.,красный,,левый,4 поколение,,0,4190000
+6687,https://moscow.drom.ru/audi/q5/46385829.html,Audi,Q5,Москва,2021,бензин,2.0,249,автомат,4WD,,черный,19476,левый,,,0,4645700
+6708,https://moscow.drom.ru/audi/a8/48205447.html,Audi,A8,Москва,2021,бензин,3.0,340,АКПП,4WD,,черный,,левый,4 поколение,3.0 55 TFSI quattro tiptronic L,0,14745000
+6726,https://yaroslavl.drom.ru/audi/a3/43327489.html,Audi,A3,Ярославль,2020,бензин,1.4,150,робот,передний,седан,черный,60216,левый,,,0,1879000
+6734,https://moscow.drom.ru/audi/q7/48984342.html,Audi,Q7,Москва,2021,дизель,3.0,249,АКПП,4WD,,коричневый,,левый,"2 поколение, рестайлинг",3.0 45 TDI quattro tiptronic Business,0,12698000

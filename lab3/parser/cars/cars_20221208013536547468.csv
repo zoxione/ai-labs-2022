@@ -1,0 +1,14 @@
+Id,Url,Brand,Model,Region,Year,Engine,EngineVolume,Power,Transmission,Drive,Body,Color,Mileage,Wheel,Generation,Complectation,IsSold,Price
+7816,https://chita.drom.ru/nissan/x-trail/48094100.html,Nissan,X-Trail,Чита,2015,дизель,2.0,173,АКПП,4WD,,белый,110000,правый,"2 поколение, рестайлинг",,0,1310000
+7817,https://novosibirsk.drom.ru/nissan/note/48067731.html,Nissan,Note,Новосибирск,2018,бензин,1.2,79,АКПП,передний,,розовый,76000,правый,"2 поколение, рестайлинг", 1.2 e-POWER X,0,1075000
+7818,https://angarsk.drom.ru/nissan/serena/47781916.html,Nissan,Serena,Ангарск,2015,бензин,2.0,147,вариатор,передний,,серый,132000,правый,"4 поколение, рестайлинг",2.0 20X S-HYBRID,0,1215000
+7819,https://leninsk-kuznetskiy.drom.ru/nissan/leaf/47761383.html,Nissan,Leaf,Ленинск-Кузнецкий,2015,электр,,109,АКПП,передний,,бордовый,60000,правый,1 поколение, 24kWh X,0,1420000
+7820,https://kraskino.drom.ru/nissan/x-trail/48283422.html,Nissan,X-Trail,Краскино,2015,бензин,2.0,147,вариатор,4WD,,черный,99977,правый,3 поколение,2.0 20Xt Black X-Tremer X Emergency Brake Package 7-seat 4WD,0,1400000
+7821,https://habarovsk.drom.ru/nissan/x-trail/48958236.html,Nissan,X-Trail,Хабаровск,2019,бензин,2.0,147,вариатор,4WD,,белый,50000,правый,"3 поколение, рестайлинг",,0,1625000
+7822,https://vladivostok.drom.ru/nissan/serena/48813928.html,Nissan,Serena,Владивосток,2018,бензин,1.2,84,АКПП,передний,,белый,86000,правый,5 поколение,1.2 e-Power Highway Star V,0,1625000
+7823,https://vladivostok.drom.ru/nissan/adwagon/48721738.html,Nissan,AD,Владивосток,2018,бензин,1.5,111,вариатор,передний,,серебристый,78000,правый,"4 поколение, рестайлинг", 1.5 Expert LX,1,615000
+7824,https://vladivostok.drom.ru/nissan/nv200/49067780.html,Nissan,NV200,Владивосток,2017,бензин,1.6,109,АКПП,передний,,белый,148675,правый,1 поколение,1.6 16X-2R,0,850000
+7825,https://ussuriisk.drom.ru/nissan/x-trail/48663773.html,Nissan,X-Trail,Уссурийск,2016,бензин,2.0,147,вариатор,4WD,,серебристый,72000,правый,3 поколение,2.0 20X Black X-Tremer X Emergency Brake Package 5-seat 4WD,0,1395000
+7826,https://krasnogorsk.drom.ru/nissan/note/48794640.html,Nissan,Note,Красногорск,2017,бензин,1.2,79,АКПП,передний,,красный,97000,правый,"2 поколение, рестайлинг",,0,935000
+7827,https://krasnodar.drom.ru/nissan/dayz_roox/48793910.html,Nissan,DAYZ Roox,Краснодар,2015,бензин,0.7,49,вариатор,передний,,коричневый,141000,правый,1 поколение,,0,680000
+7828,https://samara.drom.ru/nissan/qashqai/48793724.html,Nissan,Qashqai,Самара,2019,бензин,2.0,144,вариатор,передний,,серебристый,64400,левый,"2 поколение, рестайлинг",,0,1850000

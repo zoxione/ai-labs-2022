@@ -165,21 +165,25 @@ def saveData(df):
         if car['Price'] == '':
             carsData.remove(car)
 
-    print('Всего входных записей: ' + str(len(df)));
+    print('Всего входных записей: ' + str(COUNT_ITERATION));
     print('Удалось получить: ' + str(len(carsData)));
 
-    now = datetime.datetime.now();
-    dfOutput = df.copy(deep=True);
-    dfOutput = dfOutput.drop(labels=['Brand'], axis=1);
-    dfOutput = dfOutput.merge(pd.DataFrame(carsData), how='right', on=['Url']);
-    dfOutput.to_csv('./cars/cars_' + now.strftime('%Y%m%d%H%M%S%f') + '.csv', index=False);
-    print('Сохранено в файл ./cars/cars_' + now.strftime('%Y%m%d%H%M%S%f') + '.csv');
+    if len(carsData) > 0:
+        now = datetime.datetime.now();
+        dfOutput = df.copy(deep=True);
+        dfOutput = dfOutput.drop(labels=['Brand'], axis=1);
+        dfOutput = dfOutput.merge(pd.DataFrame(carsData), how='right', on=['Url']);
+        dfOutput.to_csv('./cars/cars_' + now.strftime('%Y%m%d%H%M%S%f') + '.csv', index=False);
+        print('Сохранено в файл ./cars/cars_' + now.strftime('%Y%m%d%H%M%S%f') + '.csv');
+    else:
+        print('\nНет данных для сохранения');
 
 
-#./parse.py --input ./prefetch_cars/prefetch_cars.csv --start 216324 --end 216324
+# ./parse.py --input ./prefetch_cars/prefetch_cars.csv --start 0 --end 216324
 if __name__ == '__main__':
     isErrorAgain = False;
-    MAXRETRY = 3;
+    MAXRETRYCAR = 1;
+    MAXRETRYCARS = 3;
 
     while True:
         try:
@@ -194,16 +198,37 @@ if __name__ == '__main__':
             dfInput = pd.read_csv(args.input);
             urls = dfInput.Url;
 
+            dfDiff = pd.read_csv('diff_cars.csv');
+            idDiff = dfDiff['Id'].tolist();
+
+            retryCars = 0;
             for i in range(args.start + ITERATION, args.end + 1):
+                if i not in idDiff:
+                    continue;
+
+                if len(carsData) == 1000:
+                    saveData(dfInput);
+                    carsData = [];
+
                 tree = getTree(urls[i]);
                 res = parsingOnce(tree, urls[i]);
 
-                retry = 0;
-                while res['Price'] == '' and retry < MAXRETRY:
+                if res['Price'] == '':
+                    retryCars += 1;
+                else:
+                    retryCars = 0;
+
+                if retryCars > MAXRETRYCAR:
+                    # останавливаемся на 5 минут
+                    print('Превышено количество повторных попыток получения данных по об машинах. Остановка на 5 минут.\n');
+                    sleep(300);
+
+                retryCar = 0;
+                while res['Price'] == '' and retryCar < MAXRETRYCAR:
                     print('Повторная попытка получения данных...\n');
                     tree = getTree(urls[i]);
                     res = parsingOnce(tree, urls[i]);
-                    retry += 1;
+                    retryCar += 1;
 
                 carsData.append(res);
                 print('Выполнена итерация [' + str(ITERATION + 1) + '/' + str(COUNT_ITERATION) + ']');
