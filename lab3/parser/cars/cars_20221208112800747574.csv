@@ -1,0 +1,9 @@
+Id,Url,Brand,Model,Region,Year,Engine,EngineVolume,Power,Transmission,Drive,Body,Color,Mileage,Wheel,Generation,Complectation,IsSold,Price
+6611,https://moscow.drom.ru/audi/q7/46753659.html,Audi,Q7,Москва,2021,дизель,3.0,249,АКПП,4WD,,черный,29543,левый,"2 поколение, рестайлинг",3.0 45 TDI quattro tiptronic Sport,0,8849900
+6618,https://moscow.drom.ru/audi/q5/49099833.html,Audi,Q5,Москва,2021,бензин,2.0,249,робот,4WD,,серебристый,35000,левый,"2 поколение, рестайлинг",,0,5000000
+6683,https://chelyabinsk.drom.ru/audi/a3/46718018.html,Audi,A3,Челябинск,2022,бензин,1.4,150,АКПП,передний,хэтчбек 5 дв.,красный,,левый,4 поколение,,0,4190000
+6687,https://moscow.drom.ru/audi/q5/46385829.html,Audi,Q5,Москва,2021,бензин,2.0,249,автомат,4WD,,черный,19476,левый,,,0,4645700
+6708,https://moscow.drom.ru/audi/a8/48205447.html,Audi,A8,Москва,2021,бензин,3.0,340,АКПП,4WD,,черный,,левый,4 поколение,3.0 55 TFSI quattro tiptronic L,0,14745000
+6726,https://yaroslavl.drom.ru/audi/a3/43327489.html,Audi,A3,Ярославль,2020,бензин,1.4,150,робот,передний,седан,черный,60216,левый,,,0,1879000
+6734,https://moscow.drom.ru/audi/q7/48984342.html,Audi,Q7,Москва,2021,дизель,3.0,249,АКПП,4WD,,коричневый,,левый,"2 поколение, рестайлинг",3.0 45 TDI quattro tiptronic Business,0,12698000
+6800,https://moscow.drom.ru/audi/e-tron/45263380.html,Audi,e-tron,Москва,2021,электр,,408,АКПП,4WD,,синий,,левый,1 поколение,95 kWh 55 quattro e-tron Design,0,10776000

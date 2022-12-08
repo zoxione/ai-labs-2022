@@ -1,0 +1,11 @@
+Id,Url,Brand,Model,Region,Year,Engine,EngineVolume,Power,Transmission,Drive,Body,Color,Mileage,Wheel,Generation,Complectation,IsSold,Price
+6956,https://krasnoyarsk.drom.ru/audi/q3/48097222.html,Audi,Q3,Красноярск,2021,бензин,2.0,180,робот,4WD,,синий,5700,левый,2 поколение,,0,4700000
+6985,https://moscow.drom.ru/audi/a6/46770882.html,Audi,A6,Москва,2021,бензин,2.0,245,робот,4WD,седан,,,левый,5 поколение,2.0 45 TFSI quattro S tronic Sport,0,7167500
+6992,https://moscow.drom.ru/audi/e-tron_sportback/47914258.html,Audi,e-tron Sportback,Москва,2021,электр,,402,АКПП,4WD,,синий,,левый,1 поколение,95 kWh 55 quattro e-tron Design,0,10288847
+7000,https://ekaterinburg.drom.ru/audi/a5/47245518.html,Audi,A5,Екатеринбург,2022,бензин,2.0,249,автомат,4WD,купе,синий,,левый,,,0,7986945
+7001,https://moscow.drom.ru/audi/a5/47245154.html,Audi,A5,Москва,2020,бензин,2.0,190,автомат,передний,купе,серый,27026,левый,,,0,3749700
+7002,https://moscow.drom.ru/audi/q5/46579232.html,Audi,Q5,Москва,2020,бензин,2.0,249,робот,4WD,,серый,34000,левый,2 поколение,,0,4140000
+7009,https://orenburg.drom.ru/audi/a4/48934521.html,Audi,A4,Оренбург,2021,бензин,2.0,150,робот,передний,седан,белый,15000,левый,"5 поколение, рестайлинг",2.0 35 TFSI S tronic,0,3550000
+7012,https://magnitogorsk.drom.ru/audi/q5/48384996.html,Audi,Q5,Магнитогорск,2021,бензин,2.0,249,робот,4WD,,черный,8800,левый,"2 поколение, рестайлинг",2.0 45 TFSI quattro S tronic Sport,1,5500000
+7015,https://krasnodar.drom.ru/audi/rs4/48921220.html,Audi,RS4,Краснодар,2020,бензин,2.9,450,АКПП,4WD,универсал,белый,48000,левый,"5 поколение, рестайлинг",,0,6650000
+7031,https://rostov-na-donu.drom.ru/audi/a6_allroad_quattro/48269078.html,Audi,A6 allroad quattro,Ростов-на-Дону,2020,бензин,3.0,340,робот,4WD,,черный,80000,левый,4 поколение,3.0 55 TFSI quattro S tronic Advance,0,6300000

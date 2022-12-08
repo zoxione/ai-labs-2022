@@ -1,6 +1,6 @@
 @echo off
-set loopcount=5
-set x=6000
+set loopcount=10
+set x=7000
 :loop
 set /a x2=x+300
 start /b python ./parse.py --input "./prefetch_cars/prefetch_cars.csv" --start %x% --end %x2%

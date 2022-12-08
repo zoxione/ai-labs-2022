@@ -1,0 +1,8 @@
+Id,Url,Brand,Model,Region,Year,Engine,EngineVolume,Power,Transmission,Drive,Body,Color,Mileage,Wheel,Generation,Complectation,IsSold,Price
+5655,https://spb.drom.ru/audi/a7/48336697.html,Audi,A7,Санкт-Петербург,2018,бензин,3.0,340,робот,4WD,,серебристый,30597,левый,2 поколение,,0,4950000
+5686,https://chita.drom.ru/audi/q7/48662178.html,Audi,Q7,Чита,2015,дизель,3.0,249,АКПП,4WD,,черный,84000,левый,2 поколение,3.0 45 TDI quattro tiptronic Business,0,4000000
+5688,https://moscow.drom.ru/audi/q7/48661008.html,Audi,Q7,Москва,2018,дизель,3.0,249,АКПП,4WD,,белый,78000,левый,2 поколение,3.0 45 TDI quattro tiptronic Sport,1,4150000
+5722,https://moscow.drom.ru/audi/a4/48638990.html,Audi,A4,Москва,2015,бензин,2.0,190,робот,передний,седан,синий,147835,левый,5 поколение,,0,1480000
+5737,https://moscow.drom.ru/audi/a3/46627002.html,Audi,A3,Москва,2018,бензин,1.4,150,робот,передний,седан,белый,134068,левый,"3 поколение, рестайлинг",,0,1385000
+5743,https://kaliningrad.drom.ru/audi/q5/48336494.html,Audi,Q5,Калининград,2019,дизель,2.0,190,автомат,4WD,,черный,55000,левый,,,1,3685000
+5753,https://spb.drom.ru/audi/q7/48628946.html,Audi,Q7,Санкт-Петербург,2019,бензин,2.0,252,АКПП,4WD,,серый,31177,левый,2 поколение,,0,4820000

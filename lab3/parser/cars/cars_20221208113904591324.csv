@@ -1,0 +1,6 @@
+Id,Url,Brand,Model,Region,Year,Engine,EngineVolume,Power,Transmission,Drive,Body,Color,Mileage,Wheel,Generation,Complectation,IsSold,Price
+7244,https://ufa.drom.ru/audi/s6/48821578.html,Audi,S6,Уфа,2020,дизель,3.0,349,АКПП,4WD,седан,белый,5700,левый,5 поколение,3.0 TDI quattro tiptronic,1,6900000
+22058,https://sergiev-posad.drom.ru/bmw/x5/47448569.html,BMW,X5,Сергиев Посад,2004,бензин,4.4,320,АКПП,4WD,,черный,320000,левый,"1 поколение, рестайлинг",,0,800000
+22125,https://bolshoy-kamen.drom.ru/bmw/7-series/49132314.html,BMW,7-Series,Большой Камень,2002,бензин,4.4,333,АКПП,задний,,черный,128000,левый,4 поколение,,0,250000
+22145,https://biysk.drom.ru/bmw/3-series/48809854.html,BMW,3-Series,Бийск,2003,бензин,2.2,170,АКПП,задний,седан,серебристый,276000,левый,"4 поколение, рестайлинг",,0,550000
+22190,https://korenovsk.drom.ru/bmw/7-series/49159040.html,BMW,7-Series,Кореновск,2002,бензин,4.4,333,АКПП,задний,,черный,250000,левый,4 поколение,745i AT,0,330000
