@@ -1,0 +1,5 @@
+Id,Url,Brand,Model,Region,Year,Engine,EngineVolume,Power,Transmission,Drive,Body,Color,Mileage,Wheel,Generation,Complectation,IsSold,Price
+23802,https://novokuznetsk.drom.ru/bmw/x5/49149606.html,,,,,,,,,,,,,,,,0,
+23803,https://simferopol.drom.ru/bmw/x5/49149480.html,BMW,X5,Симферополь,2007,бензин,4.8,355,АКПП,4WD,,черный,180000,левый,2 поколение,xDrive 48i AT,0,1100000
+23804,https://sochi.drom.ru/bmw/6-series/45560938.html,BMW,6-Series,Сочи,2007,бензин,3.0,258,АКПП,задний,открытый,серебристый,125000,левый,2 поколение,630Ci AT,0,1045000
+23805,https://novosibirsk.drom.ru/bmw/x5/48587304.html,BMW,X5,Новосибирск,2008,бензин,3.0,272,АКПП,4WD,,черный,165163,левый,2 поколение,xDrive 30i AT Base,0,1390000
