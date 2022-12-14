@@ -2,7 +2,6 @@ import argparse
 import joblib
 import numpy as np
 import pandas as pd
-from matplotlib import pyplot as plt
 from sklearn.linear_model import LinearRegression, LogisticRegression
 from sklearn.metrics import mean_squared_error
 from sklearn.model_selection import train_test_split
@@ -17,9 +16,6 @@ parser.add_argument('--input', type=str, default='', help='Путь к вход�
 parser.add_argument('--output', type=str, default='', help='Путь к выходным данным')
 args = parser.parse_args()
 
-# Инициализация значений
-chooseProperty = ['Brand', 'Model', 'Region', 'Year', 'Engine', 'EngineVolume', 'Power', 'Drive', 'Transmission', 'Mileage']
-
 def trainMode():
     print('Выбран режим train - обучение модели\n');
 
@@ -27,7 +23,7 @@ def trainMode():
     print('[1] Считываем данные из файла', args.dataset);
     dfTrain = pd.read_csv(args.dataset);
     dfTrainCopy = dfTrain.copy(deep=True)
-    dfTrainCopy = dfTrainCopy[chooseProperty]
+    dfTrainCopy = dfTrainCopy.drop(['Id', 'Url'], axis=1)
     print('[2] Считанные данные обработаны');
 
     X = dfTrainCopy
@@ -38,8 +34,7 @@ def trainMode():
     X_train, X_test, Y_train, Y_test = train_test_split(X, Y, test_size=0.1, random_state=42)
 
     # Обучение модели и получение предсказания
-    # model = LinearRegression()
-    model = LogisticRegression(solver='liblinear', max_iter=10000)
+    model = LogisticRegression(solver='lbfgs', max_iter=1000)
     model.fit(X_train, Y_train)
     print('[4] Модель обучена');
 
@@ -67,16 +62,14 @@ def inferenceMode():
     print('[2] Чтение данных из файла', args.input);
     dfInput = pd.read_csv(args.input);
     dfInputCopy = dfInput.copy(deep=True)
-    dfInputCopy = dfInputCopy[chooseProperty]
+    dfInputCopy = dfInputCopy.drop(['Id', 'Url'], axis=1)
     print('[3] Данные обработаны');
 
     print('[4] Предсказание модели на указанных данных');
     pred = model.predict(dfInputCopy)
     pred = pred.astype(int)
-    dfInputCopy.drop(chooseProperty, axis=1, inplace=True)
-    dfInputCopy['Id'] = dfInput['Id']
-    dfInputCopy['Price'] = pred
-    dfInputCopy.to_csv(args.output, index=False)
+    dfOutput = pd.DataFrame({'Id': dfInput['Id'], 'Price': pred})
+    dfOutput.to_csv(args.output, index=False)
     print('[5] Предсказание сделано и записано в файл ' + args.output);
 
 

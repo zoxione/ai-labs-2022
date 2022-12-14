@@ -1,0 +1,699 @@
+Id,Url,Brand,Model,Region,Year,Engine,EngineVolume,Power,Transmission,Drive,Body,Color,Mileage,Wheel,Generation,Complectation,IsSold,Price
+86236,https://spb.drom.ru/dodge/caravan/48791342.html,Dodge,Caravan,Санкт-Петербург,2001,бензин,2.4,150,АКПП,передний,,синий,250000,левый,4 поколение,,0,230000
+86237,https://krasnodar.drom.ru/dodge/challenger/48783897.html,Dodge,Challenger,Краснодар,2017,бензин,6.4,485,АКПП,задний,купе,бордовый,32400,левый,"3 поколение, рестайлинг",6.4 AT SRT 392,0,4650000
+86238,https://yakutsk.drom.ru/dodge/caravan/48444194.html,Dodge,Caravan,Якутск,2002,бензин,3.3,180,АКПП,передний,,золотистый,230000,левый,4 поколение,3.3 AT SE,0,250000
+86239,https://chelyabinsk.drom.ru/dodge/stratus/48443734.html,Dodge,Stratus,Челябинск,2001,бензин,2.4,150,АКПП,передний,седан,голубой,200000,левый,2 поколение,2.4 AT SE,1,125000
+86240,https://omsk.drom.ru/dodge/stratus/48438133.html,Dodge,Stratus,Омск,2002,бензин,2.4,150,АКПП,передний,седан,золотистый,118000,левый,2 поколение,2.4 AT SE,0,199000
+86241,https://poltavskaya.drom.ru/dodge/caravan/48386043.html,Dodge,Caravan,Полтавская,2002,бензин,2.4,150,АКПП,передний,,синий,258000,левый,4 поколение,2.4 AT SE,0,320000
+86242,https://surgut.drom.ru/dodge/nitro/46678713.html,Dodge,Nitro,Сургут,2007,бензин,3.7,205,АКПП,4WD,,черный,173000,левый,1 поколение,3.7 AWD AT SE,0,1100000
+86243,https://gorohovets.drom.ru/dodge/neon/49121649.html,Dodge,Neon,Гороховец,2002,бензин,2.0,133,механика,передний,седан,серый,180000,,2 поколение,2.0 MT (133),0,150000
+86244,https://moscow.drom.ru/dodge/challenger/49120209.html,Dodge,Challenger,Москва,2018,бензин,3.6,305,АКПП,задний,купе,серый,59000,левый,"3 поколение, рестайлинг",3.6 AT SXT,0,2280000
+86245,https://moscow.drom.ru/dodge/journey/48782519.html,Dodge,Journey,Москва,2008,дизель,2.0,140,робот,передний,,серый,134000,левый,1 поколение,,0,849000
+86246,https://habarovsk.drom.ru/dodge/ram/48961434.html,Dodge,Ram,Хабаровск,2020,бензин,5.7,390,автомат,4WD,пикап,черный,15000,левый,,,0,9500000
+86247,https://chelyabinsk.drom.ru/dodge/challenger/49076181.html,Dodge,Challenger,Челябинск,2021,бензин,3.6,305,АКПП,задний,купе,белый,16000,левый,"3 поколение, рестайлинг",3.6 AT GT,0,3200000
+86248,https://spb.drom.ru/dodge/caliber/49117638.html,Dodge,Caliber,Санкт-Петербург,2006,бензин,2.0,156,вариатор,передний,,золотистый,282000,левый,1 поколение,2.0 SXT CVT,1,400000
+86249,https://krasnodar.drom.ru/dodge/intrepid/49117320.html,Dodge,Intrepid,Краснодар,1996,бензин,3.5,220,автомат,передний,,синий,185000,левый,,,0,85000
+86250,https://novosibirsk.drom.ru/dodge/challenger/48571766.html,Dodge,Challenger,Новосибирск,2019,бензин,3.6,305,АКПП,задний,купе,красный,69000,левый,"3 поколение, рестайлинг",3.6 AT SXT,0,3250000
+86251,https://kazan.drom.ru/dodge/caliber/49116039.html,Dodge,Caliber,Казань,2008,бензин,2.0,160,вариатор,передний,,красный,162001,левый,1 поколение,,0,419000
+86252,https://kaspiysk.drom.ru/dodge/challenger/48004796.html,Dodge,Challenger,Каспийск,2020,бензин,3.6,305,АКПП,задний,купе,синий,42000,левый,"3 поколение, рестайлинг",3.6 AT GT,0,4000000
+86253,https://abakan.drom.ru/dodge/neon/48004415.html,Dodge,Neon,Абакан,2000,бензин,2.0,133,автомат,передний,седан,серебристый,125000,,,,0,160000
+86254,https://moscow.drom.ru/dodge/charger/47678397.html,Dodge,Charger,Москва,2017,бензин,3.6,296,АКПП,задний,седан,серый,125717,левый,"7 поколение, рестайлинг",3.6 AT SXT Plus,0,2300000
+86255,https://krasnodar.drom.ru/dodge/caliber/47677423.html,Dodge,Caliber,Краснодар,2006,бензин,2.0,156,вариатор,передний,,желтый,178000,левый,1 поколение,2.0 CVT SXT,0,450000
+86256,https://moscow.drom.ru/dodge/caliber/47674122.html,Dodge,Caliber,Москва,2007,бензин,2.0,156,вариатор,передний,,черный,180000,левый,1 поколение,2.0 CVT SE,0,500000
+86257,https://nalchik.drom.ru/dodge/caliber/47525870.html,Dodge,Caliber,Нальчик,2007,бензин,2.0,156,вариатор,передний,,красный,139393,левый,1 поколение,,0,450000
+86258,https://krasnodar.drom.ru/dodge/challenger/46692223.html,Dodge,Challenger,Краснодар,1980,бензин,5.2,318,автомат,задний,купе,белый,100000,левый,,,0,1500000
+86259,https://krasnodar.drom.ru/dodge/ram/46629047.html,Dodge,Ram,Краснодар,2019,бензин,5.7,401,автомат,4WD,пикап,синий,40000,левый,,,0,7200000
+86260,https://moscow.drom.ru/dodge/avenger/46331786.html,Dodge,Avenger,Москва,2007,бензин,2.4,173,АКПП,передний,седан,черный,320294,левый,2 поколение,2.4 AT SE,0,360000
+86261,https://stavropol.drom.ru/dodge/stealth/44879577.html,Dodge,Stealth,Ставрополь,1992,бензин,3.0,300,механика,4WD,,красный,250000,левый,1 поколение,3.0 MT R/T Turbo,0,750000
+86262,https://gelendzhik.drom.ru/dodge/caravan/44563457.html,Dodge,Caravan,Геленджик,2002,бензин,2.4,150,АКПП,передний,,красный,470000,левый,4 поколение,2.4 AT SE,0,340000
+86263,https://spb.drom.ru/dodge/grand_caravan/49038443.html,Dodge,Grand Caravan,Санкт-Петербург,2004,бензин,3.3,170,АКПП,передний,,серебристый,250000,левый,"4 поколение, рестайлинг",3.3 AT SE,0,550000
+86264,https://ulyanovsk.drom.ru/dodge/stratus/49037346.html,Dodge,Stratus,Ульяновск,2002,бензин,2.4,150,АКПП,передний,седан,серебристый,200000,левый,2 поколение,2.4 AT SE,1,188000
+86265,https://izhevsk.drom.ru/dodge/ram/49037326.html,Dodge,Ram,Ижевск,2012,бензин,5.7,396,автомат,4WD,пикап,белый,207000,левый,,,0,2950000
+86266,https://cherepovets.drom.ru/dodge/stratus/49036529.html,Dodge,Stratus,Череповец,2002,бензин,2.4,150,АКПП,передний,седан,золотистый,204000,левый,2 поколение,2.4 AT SE,0,164000
+86267,https://tyumen.drom.ru/dodge/caliber/49036303.html,Dodge,Caliber,Тюмень,2010,бензин,2.0,156,вариатор,передний,,серебристый,132800,левый,"1 поколение, рестайлинг",2.0 CVT SXT,1,570000
+86268,https://kamensk-uralskiy.drom.ru/dodge/nitro/49035010.html,Dodge,Nitro,Каменск-Уральский,2007,бензин,3.7,205,АКПП,4WD,,красный,362000,левый,1 поколение,3.7 AWD AT SXT,0,1100000
+86269,https://artem.drom.ru/dodge/ram/49034814.html,Dodge,Ram,Артём,2012,дизель,6.7,357,автомат,4WD,пикап,черный,89000,левый,,,0,4200000
+86270,https://sochi.drom.ru/dodge/ram/49034279.html,Dodge,Ram,Сочи,2014,бензин,5.7,401,автомат,4WD,пикап,черный,203000,левый,,,0,3500000
+86271,https://chelyabinsk.drom.ru/dodge/stratus/47658620.html,Dodge,Stratus,Челябинск,2001,бензин,2.4,150,АКПП,передний,седан,серый,258000,левый,2 поколение,2.4 AT SE,0,150000
+86272,https://moscow.drom.ru/dodge/caravan/48493126.html,Dodge,Caravan,Москва,2005,бензин,2.4,150,АКПП,передний,,золотистый,166234,левый,4 поколение,2.4 AT SE,0,600000
+86273,https://krasnoyarsk.drom.ru/dodge/caliber/48490404.html,Dodge,Caliber,Красноярск,2010,бензин,2.0,156,вариатор,передний,,черный,203000,левый,"1 поколение, рестайлинг",2.0 CVT SXT,0,720000
+86274,https://moscow.drom.ru/dodge/challenger/48484161.html,Dodge,Challenger,Москва,2019,бензин,3.6,305,АКПП,задний,купе,белый,20000,левый,"3 поколение, рестайлинг",3.6 AT SXT,1,2750000
+86275,https://kurgan.drom.ru/dodge/caravan/48483803.html,Dodge,Caravan,Курган,2002,бензин,2.4,150,АКПП,передний,,бордовый,205400,левый,4 поколение,2.4 AT SE,0,170000
+86276,https://novosibirsk.drom.ru/dodge/stratus/48141206.html,Dodge,Stratus,Новосибирск,2003,бензин,2.4,152,автомат,передний,седан,серый,189000,левый,,,0,200000
+86277,https://angarsk.drom.ru/dodge/ram/48137167.html,Dodge,Ram,Ангарск,2011,бензин,5.7,390,АКПП,4WD,пикап,черный,158000,левый,4 поколение,,0,2250000
+86278,https://spb.drom.ru/dodge/challenger/48054148.html,Dodge,Challenger,Санкт-Петербург,2019,бензин,3.6,305,АКПП,задний,купе,серебристый,34000,левый,"3 поколение, рестайлинг",3.6 AT GT,0,2990000
+86279,https://blagoveshchenka.drom.ru/dodge/intrepid/47086322.html,Dodge,Intrepid,Благовещенка,1995,бензин,3.3,161,АКПП,передний,,зеленый,287069,левый,1 поколение,,0,50000
+86280,https://moscow.drom.ru/dodge/challenger/46460351.html,Dodge,Challenger,Москва,2016,бензин,6.4,485,АКПП,задний,купе,черный,55000,левый,"3 поколение, рестайлинг",6.4 AT R/T Scat Pack,1,4150000
+86281,https://izobilniy.drom.ru/dodge/caliber/37801618.html,Dodge,Caliber,Изобильный,2008,дизель,2.0,140,механика,передний,,черный,296000,левый,1 поколение,2.0 CRD MT SXT,0,560000
+86282,https://nalchik.drom.ru/dodge/intrepid/49163302.html,Dodge,Intrepid,Нальчик,2003,бензин,2.7,200,АКПП,передний,,золотистый,260000,левый,2 поколение,2.7 AT SE,0,350000
+86283,https://surgut.drom.ru/dodge/ram/48296980.html,Dodge,Ram,Сургут,2007,бензин,5.7,345,АКПП,4WD,пикап,черный,49473,левый,"3 поколение, рестайлинг",5.7 MT 4x4 Laramie Quad Cab 140.5 in.,0,1900000
+86284,https://moscow.drom.ru/dodge/ram/49162144.html,Dodge,Ram,Москва,2009,бензин,5.7,390,АКПП,4WD,пикап,черный,400000,левый,4 поколение,5.7 AT 4x4 Laramie Quad Cab Short Box,0,2440000
+86285,https://moscow.drom.ru/dodge/charger/49162130.html,Dodge,Charger,Москва,1996,,,,,,седан,,444444,левый,,,0,1444444
+86286,https://tyumen.drom.ru/dodge/avenger/49161792.html,Dodge,Avenger,Тюмень,2008,бензин,2.4,170,АКПП,передний,седан,черный,178922,левый,2 поколение,,0,559000
+86287,https://krasnoyarsk.drom.ru/dodge/challenger/48210223.html,Dodge,Challenger,Красноярск,2020,бензин,3.6,305,АКПП,задний,купе,красный,9000,левый,"3 поколение, рестайлинг",3.6 AT GT,0,3450000
+86288,https://novosibirsk.drom.ru/dodge/durango/48979839.html,Dodge,Durango,Новосибирск,1999,бензин,5.9,245,АКПП,4WD,,черный,88000,левый,1 поколение,5.9 AT 4WD SLT 7-seats,1,285000
+86289,https://novosibirsk.drom.ru/dodge/nitro/48919044.html,Dodge,Nitro,Новосибирск,2007,бензин,3.7,205,АКПП,4WD,,красный,200000,левый,1 поколение,3.7 AWD AT SE,1,900000
+86290,https://sevastopol.drom.ru/dodge/challenger/48766045.html,Dodge,Challenger,Севастополь,2021,бензин,3.6,305,АКПП,4WD,купе,оранжевый,4200,левый,"3 поколение, рестайлинг",,0,3470000
+86291,https://chita.drom.ru/dodge/challenger/47254024.html,Dodge,Challenger,Чита,2011,бензин,3.6,305,АКПП,задний,купе,серый,78000,левый,3 поколение,,0,1850000
+86292,https://ekaterinburg.drom.ru/dodge/caliber/48758287.html,Dodge,Caliber,Екатеринбург,2008,бензин,1.8,150,механика,передний,,красный,129000,левый,1 поколение,,0,565000
+86293,https://moscow.drom.ru/dodge/challenger/48068568.html,Dodge,Challenger,Москва,2021,бензин,3.6,309,автомат,задний,купе,красный,18888,левый,,,0,3288000
+86294,https://krasnodar.drom.ru/dodge/challenger/47732101.html,Dodge,Challenger,Краснодар,2019,бензин,3.6,309,автомат,задний,купе,белый,48000,левый,,,0,3400000
+86295,https://ekaterinburg.drom.ru/dodge/stratus/47725553.html,Dodge,Stratus,Екатеринбург,2001,бензин,2.4,150,АКПП,передний,седан,зеленый,240000,левый,2 поколение,2.4 AT SE,1,250000
+86296,https://voronezh.drom.ru/dodge/ram/44976890.html,Dodge,Ram,Воронеж,2012,бензин,5.7,396,автомат,4WD,пикап,черный,200000,левый,,,0,2000000
+86297,https://yuzhno-sakhalinsk.drom.ru/dodge/ram/44166670.html,Dodge,Ram,Южно-Сахалинск,2014,бензин,5.7,395,АКПП,4WD,пикап,белый,105000,левый,,,0,4500000
+86298,https://moscow.drom.ru/dodge/caliber/49087303.html,Dodge,Caliber,Москва,2007,бензин,2.0,156,вариатор,передний,,черный,140000,левый,1 поколение,2.0 CVT SE,1,580000
+86299,https://spb.drom.ru/dodge/avenger/49087301.html,Dodge,Avenger,Санкт-Петербург,2007,бензин,2.4,173,АКПП,передний,седан,черный,191000,левый,2 поколение,,0,480000
+86300,https://moscow.drom.ru/dodge/charger/49085632.html,Dodge,Charger,Москва,2019,бензин,5.7,381,АКПП,задний,седан,черный,2000,левый,"7 поколение, рестайлинг",5.7 AT R/T,0,5200000
+86301,https://moscow.drom.ru/dodge/stratus/49085322.html,Dodge,Stratus,Москва,2003,бензин,2.4,152,автомат,передний,седан,синий,223000,левый,,,0,275000
+86302,https://moscow.drom.ru/dodge/caliber/49084867.html,Dodge,Caliber,Москва,2010,бензин,2.0,156,вариатор,передний,,черный,159470,левый,"1 поколение, рестайлинг",2.0 CVT SXT ,0,625000
+86303,https://yablonovskiy.drom.ru/dodge/stratus/49083095.html,Dodge,Stratus,Яблоновский,1999,бензин,2.4,150,АКПП,передний,седан,золотистый,190000,левый,1 поколение,2.4 AT ES,0,190000
+86304,https://kurgan.drom.ru/dodge/stratus/49082921.html,Dodge,Stratus,Курган,2000,бензин,2.4,150,АКПП,передний,седан,серый,230000,левый,1 поколение,,0,185000
+86305,https://omsk.drom.ru/dodge/caravan/49081490.html,Dodge,Caravan,Омск,1995,бензин,3.3,162,АКПП,передний,,бордовый,121462,левый,2 поколение,3.3 AT Ultradrive LE,1,260000
+86306,https://omsk.drom.ru/dodge/caliber/49080699.html,Dodge,Caliber,Омск,2010,бензин,2.0,156,вариатор,передний,,черный,169000,левый,"1 поколение, рестайлинг",,0,690000
+86307,https://anapa.drom.ru/dodge/neon/48923774.html,Dodge,Neon,Анапа,2002,бензин,2.0,133,автомат,передний,седан,бордовый,158300,,,,0,250000
+86308,https://yugorsk.drom.ru/dodge/caravan/49080140.html,Dodge,Caravan,Югорск,2002,бензин,2.4,152,автомат,передний,,белый,258000,левый,,,0,400000
+86309,https://spb.drom.ru/dodge/caravan/48404451.html,Dodge,Caravan,Санкт-Петербург,2005,бензин,2.4,152,автомат,передний,,серебристый,143000,левый,,,0,489000
+86310,https://spb.drom.ru/dodge/dynasty/48748512.html,Dodge,Dynasty,Санкт-Петербург,1989,бензин,3.0,141,АКПП,передний,,синий,200000,левый,1 поколение,3.0 AT4 Base,0,450000
+86311,https://spb.drom.ru/dodge/caravan/48057603.html,Dodge,Caravan,Санкт-Петербург,2002,бензин,2.4,152,автомат,передний,,серый,180000,левый,,,0,279900
+86312,https://krasnodar.drom.ru/dodge/caliber/49107975.html,Dodge,Caliber,Краснодар,2007,бензин,2.0,156,вариатор,передний,,серый,419000,левый,1 поколение,2.0 CVT SXT,1,455000
+86313,https://krasnoyarsk.drom.ru/dodge/ram/49107758.html,Dodge,Ram,Красноярск,2019,бензин,5.7,401,автомат,4WD,пикап,белый,30000,левый,,,0,7399000
+86314,https://sochi.drom.ru/dodge/caliber/45985722.html,Dodge,Caliber,Сочи,2010,бензин,2.0,156,вариатор,передний,,черный,202000,левый,"1 поколение, рестайлинг",2.0 CVT SXT,0,539000
+86315,https://krasnodar.drom.ru/dodge/caliber/49106317.html,Dodge,Caliber,Краснодар,2008,бензин,1.8,150,механика,передний,,белый,200000,левый,1 поколение,,0,499000
+86316,https://krasnodar.drom.ru/dodge/grand_caravan/49106211.html,Dodge,Grand Caravan,Краснодар,2004,бензин,3.3,170,АКПП,передний,,серебристый,114168,левый,"4 поколение, рестайлинг",3.3 AT SE,0,385000
+86317,https://kaliningrad.drom.ru/dodge/stratus/48954445.html,Dodge,Stratus,Калининград,2001,бензин,2.4,150,АКПП,передний,седан,золотистый,200000,левый,2 поколение,2.4 AT SE,0,195000
+86318,https://moscow.drom.ru/dodge/ram/49105373.html,Dodge,Ram,Москва,2013,бензин,5.7,390,автомат,4WD,пикап,серебристый,92000,левый,,,0,3950000
+86319,https://spb.drom.ru/dodge/caravan/49104861.html,Dodge,Caravan,Санкт-Петербург,2004,бензин,2.4,150,АКПП,передний,,,114110,левый,4 поколение,2.4 AT SE,1,325000
+86320,https://moscow.drom.ru/dodge/grand_caravan/49104512.html,Dodge,Grand Caravan,Москва,2004,бензин,3.3,182,автомат,передний,,серебристый,250000,левый,,,0,607000
+86321,https://moscow.drom.ru/dodge/grand_caravan/49104506.html,Dodge,Grand Caravan,Москва,2004,бензин,3.3,182,автомат,передний,,черный,254361,левый,,,0,597000
+86322,https://barnaul.drom.ru/dodge/ram/48592686.html,Dodge,Ram,Барнаул,2007,бензин,5.7,345,АКПП,4WD,пикап,белый,110000,левый,"3 поколение, рестайлинг",,0,690000
+86323,https://sochi.drom.ru/dodge/grand_caravan/47508453.html,Dodge,Grand Caravan,Сочи,2018,бензин,3.6,283,АКПП,передний,,белый,41000,левый,"5 поколение, рестайлинг",,0,1880000
+86324,https://pervouralsk.drom.ru/dodge/caliber/49103057.html,Dodge,Caliber,Первоуральск,2007,бензин,1.8,150,механика,передний,,черный,210000,левый,1 поколение,,0,520000
+86325,https://krasnoyarsk.drom.ru/dodge/ram/48402092.html,Dodge,Ram,Красноярск,2014,бензин,5.7,396,автомат,4WD,пикап,белый,217000,левый,,,0,3299000
+86326,https://krasnodar.drom.ru/dodge/magnum/49101390.html,Dodge,Magnum,Краснодар,2005,бензин,3.5,250,АКПП,задний,универсал,серебристый,228000,левый,2 поколение,3.5 AT SXT,0,750000
+86327,https://simferopol.drom.ru/dodge/durango/47409928.html,Dodge,Durango,Симферополь,2004,бензин,3.7,198,автомат,4WD,,черный,120000,левый,,,0,1100000
+86328,https://ishim.drom.ru/dodge/neon/48771295.html,Dodge,Neon,Ишим,2001,бензин,2.0,133,автомат,передний,седан,синий,192222,,,,0,140000
+86329,https://kaluga.drom.ru/dodge/caravan/48769415.html,Dodge,Caravan,Калуга,2002,бензин,2.4,150,АКПП,передний,,серебристый,250000,левый,4 поколение,2.4 AT SE,0,300000
+86330,https://spb.drom.ru/dodge/caravan/48768927.html,Dodge,Caravan,Санкт-Петербург,1993,бензин,3.0,142,АКПП,передний,,зеленый,280000,левый,2 поколение,,0,250000
+86331,https://moscow.drom.ru/dodge/challenger/48767092.html,Dodge,Challenger,Москва,2019,бензин,3.6,305,АКПП,4WD,купе,синий,50300,левый,"3 поколение, рестайлинг",3.6 AT AWD SXT,0,3299999
+86332,https://stavropol.drom.ru/dodge/caravan/49033433.html,Dodge,Caravan,Ставрополь,2001,бензин,2.4,150,АКПП,передний,,серебристый,220000,левый,4 поколение,,1,100000
+86333,https://biysk.drom.ru/dodge/caliber/47950775.html,Dodge,Caliber,Бийск,2008,бензин,1.8,150,механика,передний,,черный,135000,левый,1 поколение,1.8 MT SXT,1,699000
+86334,https://ekaterinburg.drom.ru/dodge/avenger/49030952.html,Dodge,Avenger,Екатеринбург,2007,бензин,2.4,170,АКПП,передний,седан,черный,240000,левый,2 поколение,2.4 AT SE,1,440000
+86335,https://tyumen.drom.ru/dodge/ram/47029317.html,Dodge,Ram,Тюмень,2019,бензин,5.7,401,автомат,4WD,пикап,серый,29889,левый,,,0,5099000
+86336,https://kemerovo.drom.ru/dodge/caliber/48228899.html,Dodge,Caliber,Кемерово,2009,бензин,2.0,160,вариатор,передний,,серебристый,139573,левый,1 поколение,,0,549000
+86337,https://krasnodar.drom.ru/dodge/nitro/48694186.html,Dodge,Nitro,Краснодар,2008,дизель,2.8,177,АКПП,4WD,,красный,280000,левый,1 поколение,2.8 CRD AT 4WD SXT,1,950000
+86338,https://beloyarskiy-sverdlovsk.drom.ru/dodge/challenger/48693683.html,Dodge,Challenger,Белоярский,2020,бензин,3.6,305,АКПП,задний,купе,серый,15000,левый,"3 поколение, рестайлинг",,0,2700000
+86339,https://prohladniy.drom.ru/dodge/caliber/48687910.html,Dodge,Caliber,Прохладный,2010,бензин,2.0,160,вариатор,передний,,черный,186542,левый,"1 поколение, рестайлинг",2.0 CVT SXT,0,580000
+86340,https://zima.drom.ru/dodge/neon/48344199.html,Dodge,Neon,Зима,2001,бензин,2.0,132,автомат,передний,седан,черный,335000,,,,0,60000
+86341,https://moscow.drom.ru/dodge/nitro/48340195.html,Dodge,Nitro,Москва,2007,дизель,2.8,177,АКПП,4WD,,черный,152847,левый,1 поколение,,0,599950
+86342,https://moscow.drom.ru/dodge/challenger/48177909.html,Dodge,Challenger,Москва,2017,бензин,3.6,305,АКПП,4WD,купе,белый,41000,левый,"3 поколение, рестайлинг",3.6 AT AWD GT,0,2999900
+86343,https://chelyabinsk.drom.ru/dodge/caliber/47665052.html,Dodge,Caliber,Челябинск,2008,бензин,2.0,156,вариатор,передний,,черный,320000,левый,1 поколение,2.0 CVT SXT,0,590000
+86344,https://rostov-na-donu.drom.ru/dodge/caliber/47328875.html,Dodge,Caliber,Ростов-на-Дону,2010,бензин,2.0,160,вариатор,передний,,черный,118664,левый,"1 поколение, рестайлинг",2.0 CVT SXT,0,490000
+86345,https://barnaul.drom.ru/dodge/caliber/46127780.html,Dodge,Caliber,Барнаул,2006,бензин,2.0,156,вариатор,передний,,красный,249000,левый,1 поколение,2.0 CVT SXT,0,421974
+86346,https://obninsk.drom.ru/dodge/caliber/49027370.html,Dodge,Caliber,Обнинск,2008,бензин,1.8,150,механика,передний,,серый,198953,левый,1 поколение,1.8 MT S,1,315000
+86347,https://kaliningrad.drom.ru/dodge/intrepid/47325811.html,Dodge,Intrepid,Калининград,2001,бензин,2.7,202,АКПП,передний,,золотистый,176000,левый,2 поколение,2.7 AT ES,0,335000
+86348,https://kazan.drom.ru/dodge/caravan/49026760.html,Dodge,Caravan,Казань,1999,бензин,2.4,150,АКПП,передний,,,250000,левый,3 поколение,2.4 AT Base,0,175000
+86349,https://ekaterinburg.drom.ru/dodge/challenger/47766269.html,Dodge,Challenger,Екатеринбург,2019,бензин,3.6,305,АКПП,задний,купе,черный,95000,левый,"3 поколение, рестайлинг",,1,2820000
+86350,https://novosibirsk.drom.ru/dodge/caliber/49025263.html,Dodge,Caliber,Новосибирск,2006,бензин,1.8,150,механика,передний,,красный,200000,левый,1 поколение,1.8 MT SXT Sport,0,550000
+86351,https://gehi.drom.ru/dodge/stratus/49022009.html,Dodge,Stratus,Гехи,2003,бензин,2.4,150,АКПП,передний,седан,голубой,200000,левый,2 поколение,2.4 AT SE,0,295000
+86352,https://moscow.drom.ru/dodge/durango/49115903.html,Dodge,Durango,Москва,2022,бензин,5.7,364,автомат,4WD,,белый,15,левый,,,0,5000000
+86353,https://novosibirsk.drom.ru/dodge/caravan/49056521.html,Dodge,Caravan,Новосибирск,2001,бензин,2.4,150,АКПП,передний,,серебристый,225000,левый,4 поколение,2.4 AT SE,0,300000
+86354,https://ivanteevka.drom.ru/dodge/challenger/48625018.html,Dodge,Challenger,Ивантеевка,2020,бензин,3.6,305,АКПП,задний,купе,черный,35000,левый,"3 поколение, рестайлинг",3.6 AT SXT,0,3650000
+86355,https://abakan.drom.ru/dodge/durango/49114424.html,Dodge,Durango,Абакан,2004,бензин,5.7,335,АКПП,4WD,,черный,135000,левый,2 поколение,5.7 AT 4WD Adventurer 7-seats,0,1450000
+86356,https://tyumen.drom.ru/dodge/ram/48072736.html,Dodge,Ram,Тюмень,2016,бензин,5.7,390,автомат,4WD,пикап,черный,75000,левый,,,0,3990000
+86357,https://kaluga.drom.ru/dodge/stratus/49113514.html,Dodge,Stratus,Калуга,1995,бензин,2.5,170,АКПП,передний,седан,черный,252563,левый,1 поколение,2.5 AT ES,0,139000
+86358,https://kogalym.drom.ru/dodge/challenger/44071844.html,Dodge,Challenger,Когалым,2009,бензин,3.5,250,АКПП,задний,купе,красный,270000,левый,3 поколение,3.5 AT SE,0,1800000
+86359,https://habarovsk.drom.ru/dodge/ram/47412206.html,Dodge,Ram,Хабаровск,2008,бензин,5.7,345,АКПП,4WD,пикап,золотистый,200000,левый,"3 поколение, рестайлинг",5.7 MT 4x4 Laramie Quad Cab 140.5 in.,0,1699000
+86361,https://spb.drom.ru/dodge/stratus/45670321.html,Dodge,Stratus,Санкт-Петербург,2003,бензин,2.7,200,АКПП,передний,седан,красный,178000,левый,"2 поколение, рестайлинг",2.7 AT ES,0,330000
+86362,https://grozniy.drom.ru/dodge/charger/48777733.html,Dodge,Charger,Грозный,2011,бензин,3.6,292,АКПП,задний,седан,серый,126700,левый,7 поколение,,1,1050000
+86363,https://goryachiy-kluch.drom.ru/dodge/caliber/48772146.html,Dodge,Caliber,Горячий Ключ,2008,бензин,2.0,156,вариатор,передний,,красный,234516,левый,1 поколение,2.0 CVT SXT,0,480000
+86364,https://moscow.drom.ru/dodge/caravan/48771813.html,Dodge,Caravan,Москва,2003,бензин,2.4,150,АКПП,передний,,синий,185000,левый,4 поколение,,0,385000
+86365,https://spb.drom.ru/dodge/neon/47751296.html,Dodge,Neon,Санкт-Петербург,2000,бензин,2.0,133,автомат,передний,седан,серебристый,185000,,,,0,215000
+86366,https://nakhodka.drom.ru/dodge/ram/47746890.html,Dodge,Ram,Находка,1998,бензин,5.9,245,АКПП,4WD,пикап,черный,138000,левый,2 поколение,,0,666000
+86367,https://moscow.drom.ru/dodge/challenger/44952644.html,Dodge,Challenger,Москва,2008,бензин,6.1,425,АКПП,задний,купе,оранжевый,40000,левый,3 поколение,6.1 AT SRT8,0,4000000
+86368,https://tomsk.drom.ru/dodge/journey/38069909.html,Dodge,Journey,Томск,2008,бензин,2.4,175,автомат,передний,,синий,100000,левый,,,0,1100000
+86369,https://noviy-urengoy.drom.ru/dodge/intrepid/49110395.html,Dodge,Intrepid,Новый Уренгой,2001,бензин,2.7,200,АКПП,передний,,черный,280000,левый,2 поколение,2.7 AT SE,0,230000
+86370,https://moscow.drom.ru/dodge/magnum/49110164.html,Dodge,Magnum,Москва,2004,бензин,2.7,190,АКПП,задний,универсал,черный,185285,левый,2 поколение,2.7 AT SE,0,590000
+86371,https://zarinsk.drom.ru/dodge/stratus/47464865.html,Dodge,Stratus,Заринск,1995,бензин,2.5,166,АКПП,передний,седан,черный,218548,левый,1 поколение,2.5 AT ES,1,170000
+86372,https://stupino.drom.ru/dodge/intrepid/49050693.html,Dodge,Intrepid,Ступино,1999,бензин,2.7,202,АКПП,передний,,синий,148500,левый,2 поколение,2.7 AT ES,1,200000
+86373,https://armavir.drom.ru/dodge/caliber/48717950.html,Dodge,Caliber,Армавир,2008,бензин,2.0,160,вариатор,передний,,голубой,218000,левый,1 поколение,,1,520000
+86374,https://klin.drom.ru/dodge/caravan/48712152.html,Dodge,Caravan,Клин,2002,бензин,2.4,150,АКПП,передний,,серебристый,300000,левый,4 поколение,2.4 AT SE,0,370000
+86375,https://kurgan.drom.ru/dodge/caravan/48709114.html,Dodge,Caravan,Курган,2002,бензин,2.4,150,АКПП,передний,,бордовый,205400,левый,4 поколение,2.4 AT SE,0,150000
+86376,https://raduzhniy-hanty.drom.ru/dodge/caliber/48708630.html,Dodge,Caliber,Радужный,2007,бензин,2.0,156,вариатор,передний,,белый,146000,левый,1 поколение,,0,500000
+86377,https://ramenskoe.drom.ru/dodge/avenger/48368490.html,Dodge,Avenger,Раменское,1997,бензин,2.5,163,АКПП,передний,купе,красный,34922,левый,"1 поколение, рестайлинг",,0,185000
+86378,https://novosibirsk.drom.ru/dodge/challenger/48366793.html,Dodge,Challenger,Новосибирск,2017,бензин,3.6,305,АКПП,задний,купе,желтый,85000,левый,"3 поколение, рестайлинг",3.6 AT SXT Plus,0,2670000
+86379,https://sharypovo.drom.ru/dodge/caravan/48361732.html,Dodge,Caravan,Шарыпово,2001,бензин,2.4,150,АКПП,передний,,красный,230000,левый,4 поколение,2.4 AT SE,0,250000
+86380,https://krasnoyarsk.drom.ru/dodge/ram/48018320.html,Dodge,Ram,Красноярск,2020,бензин,5.7,395,автомат,4WD,пикап,черный,42000,левый,,,0,9300000
+86381,https://moscow.drom.ru/dodge/challenger/48013261.html,Dodge,Challenger,Москва,2020,бензин,3.6,305,АКПП,задний,купе,фиолетовый,21500,левый,"3 поколение, рестайлинг",3.6 AT SXT,0,3500000
+86382,https://ust-ilimsk.drom.ru/dodge/journey/47223506.html,Dodge,Journey,Усть-Илимск,2010,бензин,2.4,173,АКПП,передний,,черный,173000,левый,1 поколение,2.4 AT SE,0,910000
+86383,https://spb.drom.ru/dodge/caravan/49049991.html,Dodge,Caravan,Санкт-Петербург,2001,бензин,2.4,152,автомат,передний,,синий,250000,левый,,,0,280000
+86384,https://simferopol.drom.ru/dodge/intrepid/49049232.html,Dodge,Intrepid,Симферополь,2003,бензин,2.7,200,АКПП,передний,,черный,150000,левый,2 поколение,2.7 AT SE,0,220000
+86385,https://saky.drom.ru/dodge/journey/45309489.html,Dodge,Journey,Саки,2008,дизель,2.0,140,механика,передний,,черный,280000,левый,,,0,900000
+86386,https://kemerovo.drom.ru/dodge/caravan/48643822.html,Dodge,Caravan,Кемерово,1999,бензин,2.4,150,АКПП,передний,,синий,120000,левый,3 поколение,2.4 AT Base,0,209000
+86387,https://chelyabinsk.drom.ru/dodge/avenger/49042622.html,Dodge,Avenger,Челябинск,2008,бензин,2.0,156,механика,передний,седан,серебристый,141000,левый,2 поколение,2.0 MT SE,1,555000
+86388,https://moscow.drom.ru/dodge/caravan/49041748.html,Dodge,Caravan,Москва,2001,бензин,2.4,150,АКПП,передний,,зеленый,195000,левый,4 поколение,2.4 AT SE,0,330000
+86389,https://tyumen.drom.ru/dodge/stratus/48698809.html,Dodge,Stratus,Тюмень,2004,бензин,2.4,150,АКПП,передний,седан,серый,200000,левый,"2 поколение, рестайлинг",,0,230000
+86390,https://tuymazy.drom.ru/dodge/charger/48359437.html,Dodge,Charger,Туймазы,2009,бензин,2.7,178,АКПП,задний,седан,белый,163000,левый,6 поколение,2.7 AT SE,0,1000000
+86391,https://ulan-ude.drom.ru/dodge/stealth/48353628.html,Dodge,Stealth,Улан-Удэ,1992,бензин,3.0,222,механика,передний,,красный,110000,левый,1 поколение,3.0 MT ES,0,730000
+86392,https://tver.drom.ru/dodge/grand_caravan/48816146.html,Dodge,Grand Caravan,Тверь,2003,бензин,3.3,180,АКПП,передний,,серебристый,184,левый,4 поколение,,0,410000
+86393,https://spb.drom.ru/dodge/caliber/48815879.html,Dodge,Caliber,Санкт-Петербург,2008,бензин,1.8,150,механика,передний,,черный,120000,левый,1 поколение,,0,459000
+86394,https://elista.drom.ru/dodge/caliber/48814576.html,Dodge,Caliber,Элиста,2007,бензин,2.0,156,вариатор,передний,,черный,240000,левый,1 поколение,2.0 CVT SXT,0,500000
+86395,https://irkutsk.drom.ru/dodge/ram/48814497.html,Dodge,Ram,Иркутск,2008,бензин,5.7,345,механика,4WD,пикап,синий,120000,левый,"3 поколение, рестайлинг",,0,1500000
+86397,https://nizhniy-novgorod.drom.ru/dodge/neon/48465483.html,Dodge,Neon,Нижний Новгород,1999,бензин,2.0,133,механика,передний,седан,синий,170000,,2 поколение,2.0 MT (133),0,100000
+86398,https://izhevsk.drom.ru/dodge/challenger/48120418.html,Dodge,Challenger,Ижевск,2017,бензин,3.6,248,автомат,задний,купе,красный,79000,левый,,,0,2690000
+86400,https://moscow.drom.ru/dodge/challenger/47782618.html,Dodge,Challenger,Москва,2019,бензин,3.6,305,АКПП,задний,купе,белый,59000,левый,"3 поколение, рестайлинг",3.6 AT SXT,0,2900000
+86401,https://berdsk.drom.ru/dodge/nitro/47628220.html,Dodge,Nitro,Бердск,2008,бензин,4.0,260,АКПП,4WD,,красный,300000,левый,1 поколение,4.0 AWD AT R/T,0,950000
+86402,https://moscow.drom.ru/dodge/caliber/49140906.html,Dodge,Caliber,Москва,2006,бензин,1.8,150,механика,передний,,красный,250000,левый,1 поколение,1.8 MT SE,0,400000
+86403,https://samara.drom.ru/dodge/journey/49140809.html,Dodge,Journey,Самара,2012,бензин,3.6,280,АКПП,4WD,,черный,136000,левый,"1 поколение, рестайлинг",3.6 AT AWD R/T,0,1020000
+86404,https://istra.drom.ru/dodge/durango/49140331.html,Dodge,Durango,Истра,2021,бензин,3.6,290,АКПП,4WD,,синий,16350,левый,"3 поколение, рестайлинг",3.6 AT AWD GT,0,4800000
+86405,https://moscow.drom.ru/dodge/caliber/49140136.html,Dodge,Caliber,Москва,2008,бензин,2.0,156,вариатор,передний,,синий,136200,левый,1 поколение,,0,535000
+86406,https://spb.drom.ru/dodge/caliber/49139911.html,Dodge,Caliber,Санкт-Петербург,2008,бензин,1.8,150,механика,передний,,красный,180000,левый,1 поколение,,1,370000
+86407,https://krasnodar.drom.ru/dodge/caravan/49139767.html,Dodge,Caravan,Краснодар,2001,бензин,2.4,150,АКПП,передний,,красный,180000,левый,4 поколение,2.4 AT SE,0,310000
+86408,https://krasnoyarsk.drom.ru/dodge/intrepid/49139398.html,Dodge,Intrepid,Красноярск,2001,бензин,3.2,222,АКПП,передний,,бордовый,197010,левый,2 поколение,3.2 AT ES,0,400000
+86410,https://chita.drom.ru/dodge/caliber/48413593.html,Dodge,Caliber,Чита,2007,бензин,1.8,150,механика,передний,,красный,254470,левый,1 поколение,1.8 MT S,0,460000
+86411,https://ekaterinburg.drom.ru/dodge/challenger/49136161.html,Dodge,Challenger,Екатеринбург,2019,бензин,3.6,309,автомат,задний,купе,черный,107000,левый,,,0,2850000
+86414,https://moscow.drom.ru/dodge/stratus/49157336.html,Dodge,Stratus,Москва,2002,бензин,2.4,150,АКПП,передний,седан,серебристый,256799,левый,2 поколение,2.4 AT SE,0,100000
+86415,https://moscow.drom.ru/dodge/ram/49157326.html,Dodge,Ram,Москва,2021,бензин,5.7,396,автомат,4WD,пикап,серый,15000,левый,,,0,8040000
+86416,https://moscow.drom.ru/dodge/ram/48740010.html,Dodge,Ram,Москва,2019,бензин,5.7,395,автомат,4WD,пикап,черный,106000,левый,,,0,5199999
+86417,https://moscow.drom.ru/dodge/ram/48691830.html,Dodge,Ram,Москва,2017,дизель,3.0,240,автомат,4WD,пикап,белый,120000,левый,,,0,3450000
+86418,https://moscow.drom.ru/dodge/ram/48657686.html,Dodge,Ram,Москва,2022,бензин,5.7,395,автомат,4WD,пикап,серый,1012,левый,,,0,9350000
+86419,https://moscow.drom.ru/dodge/ram/49157305.html,Dodge,Ram,Москва,2022,бензин,5.7,395,автомат,4WD,пикап,черный,1001,левый,,,0,8500000
+86420,https://moscow.drom.ru/dodge/ram/48583480.html,Dodge,Ram,Москва,2018,бензин,6.4,470,автомат,4WD,пикап,черный,46000,левый,,,0,5500000
+86421,https://moscow.drom.ru/dodge/ram/48480942.html,Dodge,Ram,Москва,2017,бензин,5.7,395,автомат,4WD,пикап,белый,95000,левый,,,0,4549999
+86422,https://moscow.drom.ru/dodge/ram/49157291.html,Dodge,Ram,Москва,2022,бензин,5.7,395,автомат,4WD,пикап,белый,1046,левый,,,0,8500000
+86423,https://moscow.drom.ru/dodge/ram/49157281.html,Dodge,Ram,Москва,2022,бензин,5.7,395,автомат,4WD,пикап,серый,1031,левый,,,0,8840000
+86424,https://moscow.drom.ru/dodge/challenger/47195234.html,Dodge,Challenger,Москва,2020,бензин,6.4,492,автомат,задний,купе,белый,5200,левый,,,0,5199999
+86425,https://novokuznetsk.drom.ru/dodge/ram/49156126.html,Dodge,Ram,Новокузнецк,2013,бензин,5.7,390,автомат,4WD,пикап,черный,110000,левый,,,0,2800000
+86426,https://severskaya.drom.ru/dodge/ram/49155891.html,Dodge,Ram,Северская,2021,бензин,5.7,390,автомат,4WD,пикап,белый,23000,левый,,,0,7450000
+86427,https://omsk.drom.ru/dodge/caliber/49153946.html,Dodge,Caliber,Омск,2007,бензин,2.0,156,вариатор,передний,,черный,81350,левый,1 поколение,,1,740000
+86428,https://novosibirsk.drom.ru/dodge/ram/49019927.html,Dodge,Ram,Новосибирск,2010,бензин,5.7,396,автомат,4WD,пикап,белый,399000,левый,,,0,2080000
+86429,https://minusinsk.drom.ru/dodge/ram/40516446.html,Dodge,Ram,Минусинск,2011,бензин,5.7,384,автомат,4WD,пикап,черный,87000,левый,,,0,3500000
+86430,https://tyumen.drom.ru/dodge/caliber/49152664.html,Dodge,Caliber,Тюмень,2008,бензин,2.4,295,механика,передний,,черный,150000,левый,1 поколение,2.4 MT SRT4,0,680000
+86431,https://irkutsk.drom.ru/dodge/ram/46852074.html,Dodge,Ram,Иркутск,2008,дизель,5.9,325,автомат,4WD,пикап,красный,200000,левый,,,0,2590000
+86432,https://moscow.drom.ru/dodge/caliber/49063704.html,Dodge,Caliber,Москва,2006,бензин,2.0,156,вариатор,передний,,синий,225000,левый,1 поколение,2.0 CVT SXT,0,495000
+86433,https://murmansk.drom.ru/dodge/journey/47026291.html,Dodge,Journey,Мурманск,2012,бензин,3.6,280,АКПП,4WD,,черный,130600,левый,"1 поколение, рестайлинг",3.6 AT AWD R/T,0,1449000
+86434,https://tyumen.drom.ru/dodge/journey/46750106.html,Dodge,Journey,Тюмень,2011,бензин,3.6,283,АКПП,4WD,,черный,201000,левый,"1 поколение, рестайлинг",3.6 AT AWD R/T,0,879000
+86435,https://bratsk.drom.ru/dodge/stealth/49060826.html,Dodge,Stealth,Братск,1994,бензин,3.0,222,АКПП,передний,,красный,250000,левый,2 поколение,3.0 AT R/T,0,350000
+86436,https://kaliningrad.drom.ru/dodge/charger/48725562.html,Dodge,Charger,Калининград,2010,бензин,3.5,250,АКПП,задний,седан,белый,192000,левый,6 поколение,3.5 AT SXT,0,620000
+86437,https://moscow.drom.ru/dodge/grand_caravan/48718278.html,Dodge,Grand Caravan,Москва,2003,бензин,3.3,182,автомат,передний,,серый,175000,левый,,,0,475000
+86438,https://moscow.drom.ru/dodge/caravan/48718279.html,Dodge,Caravan,Москва,2002,бензин,2.4,152,автомат,передний,,зеленый,189000,левый,,,0,425000
+86439,https://kazan.drom.ru/dodge/caravan/48026907.html,Dodge,Caravan,Казань,1993,бензин,2.5,118,механика,передний,,серый,333333,левый,,,0,65000
+86440,https://spb.drom.ru/dodge/caravan/47698341.html,Dodge,Caravan,Санкт-Петербург,2002,бензин,2.4,150,АКПП,передний,,зеленый,302000,левый,4 поколение,2.4 AT SE,0,230000
+86441,https://georgievsk.drom.ru/dodge/nitro/47368163.html,Dodge,Nitro,Георгиевск,2008,бензин,4.0,260,АКПП,4WD,,черный,201000,левый,1 поколение,4.0 AT 4WD R/T,0,550000
+86442,https://chita.drom.ru/dodge/caliber/47368763.html,Dodge,Caliber,Чита,2006,бензин,2.0,156,вариатор,передний,,серебристый,132000,левый,1 поколение,2.0 CVT SXT,0,519000
+86443,https://neman.drom.ru/dodge/caravan/49057753.html,Dodge,Caravan,Неман,2002,бензин,2.4,150,АКПП,передний,,синий,212399,левый,4 поколение,2.4 AT SE,0,335000
+86444,https://armavir.drom.ru/dodge/caravan/49057403.html,Dodge,Caravan,Армавир,2003,бензин,2.4,150,АКПП,передний,,серый,400000,левый,4 поколение,2.4 AT SE,0,420000
+86445,https://moscow.drom.ru/dodge/stratus/48365245.html,Dodge,Stratus,Москва,2002,бензин,2.4,150,АКПП,передний,седан,черный,,левый,2 поколение,2.4 AT SE,0,100000
+86446,https://tomsk.drom.ru/dodge/ram/47988133.html,Dodge,Ram,Томск,2018,дизель,3.0,240,автомат,4WD,пикап,серебристый,120000,левый,,,0,3999999
+86447,https://krasnodar.drom.ru/dodge/challenger/47973679.html,Dodge,Challenger,Краснодар,2019,бензин,3.6,305,АКПП,4WD,купе,черный,52000,левый,"3 поколение, рестайлинг",3.6 AT AWD SXT,0,3000000
+86478,https://novorossiysk.drom.ru/dodge/stratus/48813409.html,Dodge,Stratus,Новороссийск,2004,бензин,2.4,147,АКПП,передний,купе,красный,198000,левый,"2 поколение, рестайлинг",2.4 AT SXT,0,370000
+86493,https://moscow.drom.ru/dodge/challenger/48739081.html,Dodge,Challenger,Москва,2019,бензин,3.6,309,автомат,задний,купе,оранжевый,70500,левый,,,0,2490000
+86494,https://sevastopol.drom.ru/dodge/caliber/48739951.html,Dodge,Caliber,Севастополь,2008,бензин,2.0,156,вариатор,передний,,черный,200000,левый,1 поколение,,0,410000
+86495,https://samara.drom.ru/dodge/caliber/48738990.html,Dodge,Caliber,Самара,2008,бензин,2.0,156,вариатор,передний,,черный,301000,левый,1 поколение,,0,424900
+86496,https://novorossiysk.drom.ru/dodge/grand_caravan/48732273.html,Dodge,Grand Caravan,Новороссийск,2001,бензин,3.3,180,АКПП,передний,,синий,134000,левый,4 поколение,3.3 AT ES,1,330000
+86497,https://moscow.drom.ru/dodge/ram/48731833.html,Dodge,Ram,Москва,2018,бензин,5.7,395,автомат,4WD,пикап,белый,48000,правый,,,0,2900000
+86498,https://bryansk.drom.ru/dodge/challenger/48730535.html,Dodge,Challenger,Брянск,2016,бензин,6.4,485,механика,задний,купе,оранжевый,41000,левый,"3 поколение, рестайлинг",6.4 MT SRT 392,0,3990000
+86499,https://moscow.drom.ru/dodge/caravan/48392581.html,Dodge,Caravan,Москва,2000,бензин,2.4,150,АКПП,передний,,зеленый,200000,левый,3 поколение,2.4 AT Base,0,275000
+86500,https://petropavlovsk-kamchatskiy.drom.ru/dodge/durango/47016159.html,Dodge,Durango,Петропавловск-Камчатский,2004,бензин,5.7,335,АКПП,4WD,,бордовый,200000,левый,2 поколение,5.7 AT 4WD Limited 7-seats,0,1200000
+86501,https://kropotkin.drom.ru/dodge/intrepid/48355327.html,Dodge,Intrepid,Кропоткин,2000,бензин,2.7,200,АКПП,передний,,белый,,левый,2 поколение,2.7 AT SE,0,385000
+86502,https://krasnodar.drom.ru/dodge/charger/48724657.html,Dodge,Charger,Краснодар,2018,бензин,3.6,296,АКПП,задний,седан,серый,59700,левый,"7 поколение, рестайлинг",,0,2790000
+86503,https://moscow.drom.ru/dodge/ram/49067351.html,Dodge,Ram,Москва,2009,бензин,5.7,396,автомат,4WD,пикап,черный,266688,левый,,,0,3499000
+86504,https://voronezh.drom.ru/dodge/journey/49067258.html,Dodge,Journey,Воронеж,2018,бензин,2.4,173,АКПП,передний,,красный,86000,левый,"1 поколение, рестайлинг",2.4 AT SE,0,1450000
+86505,https://moscow.drom.ru/dodge/caliber/47598600.html,Dodge,Caliber,Москва,2007,бензин,2.0,156,вариатор,передний,,бордовый,113000,левый,1 поколение,,0,449000
+86507,https://krasnodar.drom.ru/dodge/stratus/49066492.html,Dodge,Stratus,Краснодар,2002,бензин,2.4,150,АКПП,передний,седан,серый,160000,левый,2 поколение,2.4 AT SE,0,300000
+86508,https://barnaul.drom.ru/dodge/intrepid/48813010.html,Dodge,Intrepid,Барнаул,2000,бензин,3.5,152,автомат,передний,,серебристый,180000,левый,,,0,285000
+86509,https://moscow.drom.ru/dodge/grand_caravan/49065811.html,Dodge,Grand Caravan,Москва,2009,бензин,3.3,173,автомат,передний,,зеленый,159041,левый,,,0,898000
+86510,https://simferopol.drom.ru/dodge/caliber/49064623.html,Dodge,Caliber,Симферополь,2007,бензин,2.0,156,вариатор,передний,,серый,208000,левый,1 поколение,2.0 CVT SXT,0,550000
+86511,https://barnaul.drom.ru/dodge/ram/49064170.html,Dodge,Ram,Барнаул,1996,бензин,8.0,310,автомат,4WD,пикап,красный,160500,левый,,,0,7000000
+86512,https://krasnoyarsk.drom.ru/dodge/challenger/49135688.html,Dodge,Challenger,Красноярск,2021,бензин,5.7,372,АКПП,задний,купе,черный,32000,левый,"3 поколение, рестайлинг",5.7 AT R/T,1,5900000
+86513,https://krasnodar.drom.ru/dodge/intrepid/49135675.html,Dodge,Intrepid,Краснодар,2002,бензин,2.7,200,АКПП,передний,,серый,179631,левый,2 поколение,2.7 AT SE,0,400000
+86514,https://krasnogvardeyskoe-maikop.drom.ru/dodge/neon/48804883.html,Dodge,Neon,Красногвардейское,1995,бензин,2.0,130,механика,передний,седан,зеленый,287442,,1 поколение,2.0 MT (130),0,220000
+86515,https://mostovskoi.drom.ru/dodge/ram/48801538.html,Dodge,Ram,Мостовской,2014,бензин,5.7,396,автомат,задний,пикап,белый,91800,левый,,,0,3150000
+86516,https://chelyabinsk.drom.ru/dodge/caliber/48448765.html,Dodge,Caliber,Челябинск,2008,бензин,2.0,156,вариатор,передний,,зеленый,176000,левый,1 поколение,2.0 CVT SE,1,340000
+86517,https://moscow.drom.ru/dodge/avenger/48110841.html,Dodge,Avenger,Москва,2007,бензин,2.4,170,АКПП,передний,седан,синий,200000,левый,2 поколение,2.4 AT SE,1,365000
+86518,https://yuzhno-sakhalinsk.drom.ru/dodge/ram/48107743.html,Dodge,Ram,Южно-Сахалинск,2009,бензин,5.7,390,АКПП,4WD,пикап,бордовый,125000,левый,4 поколение,5.7 AT 4x4 Laramie Quad Cab Short Box,0,2200000
+86519,https://magadan.drom.ru/dodge/charger/48105482.html,Dodge,Charger,Магадан,2006,бензин,3.5,250,АКПП,задний,седан,белый,175010,левый,6 поколение,3.5 AT SE,0,1050000
+86520,https://omsk.drom.ru/dodge/ram/47686113.html,Dodge,Ram,Омск,2018,бензин,5.7,401,автомат,4WD,пикап,серый,37400,левый,,,0,5790000
+86521,https://samara.drom.ru/dodge/neon/49131883.html,Dodge,Neon,Самара,2003,бензин,2.0,132,автомат,передний,седан,серый,189000,,,,0,200000
+86522,https://krasnodar.drom.ru/dodge/neon/49131729.html,Dodge,Neon,Краснодар,2002,бензин,2.0,133,механика,передний,седан,синий,159658,,2 поколение,2.0 MT (133),0,240000
+86523,https://udelnaya.drom.ru/dodge/charger/49131661.html,Dodge,Charger,Удельная,2005,бензин,3.5,249,автомат,задний,седан,бежевый,161000,левый,,,1,750000
+86524,https://moscow.drom.ru/dodge/grand_caravan/49131592.html,Dodge,Grand Caravan,Москва,2003,бензин,3.3,180,АКПП,передний,,синий,190000,левый,4 поколение,,1,250000
+86525,https://ust-ilimsk.drom.ru/dodge/ram/49130534.html,Dodge,Ram,Усть-Илимск,2001,бензин,5.9,245,АКПП,4WD,пикап,серый,175000,левый,2 поколение,5.9 AT 4x4 1500 Laramie SLT Regular Cab Short Box,0,700000
+86526,https://ekaterinburg.drom.ru/dodge/avenger/46363889.html,Dodge,Avenger,Екатеринбург,2007,бензин,2.0,156,механика,передний,седан,синий,200000,левый,2 поколение,2.0 MT SE,0,500000
+86527,https://anapa.drom.ru/dodge/stratus/49128867.html,Dodge,Stratus,Анапа,2004,бензин,2.4,150,АКПП,передний,седан,золотистый,202075,левый,"2 поколение, рестайлинг",2.4 AT SE,0,165000
+86528,https://noginsk.drom.ru/dodge/caliber/49128577.html,Dodge,Caliber,Ногинск,2008,бензин,2.0,160,вариатор,передний,,серый,265000,левый,1 поколение,,0,385000
+86529,https://kursk.drom.ru/dodge/neon/47394973.html,Dodge,Neon,Курск,2000,бензин,2.0,133,механика,передний,седан,,,,2 поколение,2.0 MT (133),0,90000
+86530,https://apsheronsk.drom.ru/dodge/stratus/49125787.html,Dodge,Stratus,Апшеронск,2002,бензин,2.4,150,АКПП,передний,седан,серебристый,239000,левый,2 поколение,2.4 AT SE,0,249000
+86531,https://samara.drom.ru/dodge/durango/47493909.html,Dodge,Durango,Самара,2013,бензин,3.6,290,АКПП,4WD,,черный,107000,левый,"3 поколение, рестайлинг",,0,2850000
+86532,https://omsk.drom.ru/dodge/avenger/48820698.html,Dodge,Avenger,Омск,2007,бензин,2.4,170,АКПП,передний,седан,черный,258000,левый,2 поколение,2.4 AT SE,1,650000
+86533,https://novosibirsk.drom.ru/dodge/challenger/48246297.html,Dodge,Challenger,Новосибирск,2018,бензин,6.4,485,механика,задний,купе,серый,38000,левый,"3 поколение, рестайлинг",6.4 MT 392 HEMI Scat Pack Shaker,0,5500000
+86534,https://vilino.drom.ru/dodge/caliber/48130519.html,Dodge,Caliber,Вилино,2006,бензин,2.0,156,вариатор,передний,,красный,230000,левый,1 поколение,,0,515000
+86535,https://belgorod.drom.ru/dodge/challenger/47796775.html,Dodge,Challenger,Белгород,2013,бензин,5.7,372,АКПП,задний,купе,черный,6000,левый,3 поколение,5.7 AT R/T Plus,0,3200000
+86536,https://kamensk-uralskiy.drom.ru/dodge/caliber/47464337.html,Dodge,Caliber,Каменск-Уральский,2006,бензин,2.0,156,вариатор,передний,,красный,163000,левый,1 поколение,2.0 SXT CVT,0,499999
+86537,https://korkino.drom.ru/dodge/caliber/46572831.html,Dodge,Caliber,Коркино,2007,бензин,1.8,149,механика,передний,,бежевый,262000,левый,1 поколение,1.8 L MT,0,350000
+86538,https://chelyabinsk.drom.ru/dodge/avenger/49148910.html,Dodge,Avenger,Челябинск,2007,бензин,2.4,170,АКПП,передний,седан,черный,194000,левый,2 поколение,2.4 AT SE,1,320000
+86539,https://noyabrsk.drom.ru/dodge/caliber/49148862.html,Dodge,Caliber,Ноябрьск,2007,бензин,2.0,156,вариатор,передний,,черный,99000,левый,1 поколение,2.0 CVT SXT,0,500000
+86540,https://vladivostok.drom.ru/dodge/challenger/48270391.html,Dodge,Challenger,Владивосток,2009,бензин,5.7,375,механика,задний,купе,желтый,40000,левый,3 поколение,5.7 MT R/T,0,6000000
+86541,https://sosnovoborsk.drom.ru/dodge/caliber/49142980.html,Dodge,Caliber,Сосновоборск,2006,бензин,2.0,156,вариатор,передний,,серый,200000,левый,1 поколение,,0,440000
+86542,https://kemerovo.drom.ru/dodge/caliber/46739509.html,Dodge,Caliber,Кемерово,2007,бензин,2.0,160,вариатор,передний,,серебристый,134000,левый,1 поколение,2.0 CVT SXT,0,539000
+86543,https://moscow.drom.ru/dodge/stratus/49144898.html,Dodge,Stratus,Москва,2000,бензин,2.5,170,АКПП,передний,седан,бордовый,350000,левый,1 поколение,2.5 AT ES,0,200000
+86544,https://omsk.drom.ru/dodge/caliber/48121843.html,Dodge,Caliber,Омск,2006,бензин,2.0,156,вариатор,передний,,красный,219000,левый,1 поколение,2.0 CVT SXT,1,480000
+86545,https://moscow.drom.ru/dodge/caravan/48974222.html,Dodge,Caravan,Москва,2003,бензин,2.4,150,АКПП,передний,,синий,184259,левый,4 поколение,,0,368000
+86546,https://abakan.drom.ru/dodge/ram/49143458.html,Dodge,Ram,Абакан,2016,бензин,5.7,401,автомат,4WD,пикап,черный,103000,левый,,,0,4490000
+86547,https://ufa.drom.ru/dodge/stratus/48115830.html,Dodge,Stratus,Уфа,2002,бензин,2.4,150,АКПП,передний,седан,серебристый,200000,левый,2 поколение,2.4 AT SE,0,235000
+86548,https://novosibirsk.drom.ru/dodge/ram/48991841.html,Dodge,Ram,Новосибирск,2020,бензин,5.7,402,автомат,4WD,пикап,черный,21000,левый,,,0,6800000
+86549,https://krasnoyarsk.drom.ru/dodge/ram/47437725.html,Dodge,Ram,Красноярск,2012,бензин,5.7,390,АКПП,4WD,пикап,черный,149000,левый,4 поколение,5.7 AT 4x4 Sport Quad Cab Short Box,0,2999000
+86550,https://vladivostok.drom.ru/dodge/challenger/48081959.html,Dodge,Challenger,Владивосток,2019,бензин,5.7,372,АКПП,задний,купе,серый,63000,левый,"3 поколение, рестайлинг",5.7 AT R/T,0,4450000
+86551,https://moscow.drom.ru/dodge/challenger/49141295.html,Dodge,Challenger,Москва,2012,бензин,3.6,305,АКПП,задний,купе,черный,253000,левый,3 поколение,3.6 AT SXT,0,1100000
+86552,https://moscow.drom.ru/dodge/challenger/48978326.html,Dodge,Challenger,Москва,2019,бензин,3.6,305,АКПП,задний,купе,бордовый,18200,левый,"3 поколение, рестайлинг",3.6 AT GT,0,2910000
+86553,https://yevpatoriya.drom.ru/dodge/intrepid/48633325.html,Dodge,Intrepid,Евпатория,1996,бензин,3.5,218,автомат,передний,,зеленый,200000,левый,,,0,150000
+86554,https://ulan-ude.drom.ru/dodge/ram/48308654.html,Dodge,Ram,Улан-Удэ,2004,бензин,5.7,345,АКПП,4WD,пикап,черный,200500,левый,3 поколение,,0,1500000
+86555,https://berdsk.drom.ru/dodge/ram/48579219.html,Dodge,Ram,Бердск,2010,бензин,4.7,310,АКПП,4WD,пикап,черный,100000,левый,4 поколение,,0,2580000
+86556,https://arhangelsk.drom.ru/dodge/caravan/48974581.html,Dodge,Caravan,Архангельск,2004,бензин,2.4,152,автомат,передний,,синий,118290,левый,,,0,299000
+86558,https://ekaterinburg.drom.ru/dodge/caliber/48638215.html,Dodge,Caliber,Екатеринбург,2007,бензин,2.0,156,вариатор,передний,,красный,177000,левый,1 поколение,,1,550000
+86559,https://krasnodar.drom.ru/dodge/caravan/48632291.html,Dodge,Caravan,Краснодар,1993,бензин,3.0,142,АКПП,передний,,зеленый,160000,левый,2 поколение,3.0 AT Base,1,300000
+86560,https://verhnyaya-pyshma.drom.ru/dodge/caliber/48287291.html,Dodge,Caliber,Верхняя Пышма,2007,бензин,2.0,156,вариатор,передний,,черный,210000,левый,1 поколение,,1,465000
+86561,https://ekaterinburg.drom.ru/dodge/caravan/47948401.html,Dodge,Caravan,Екатеринбург,1999,бензин,3.0,150,АКПП,передний,,синий,280000,левый,3 поколение,3.0 AT Ultradrive SE,0,180000
+86562,https://moscow.drom.ru/dodge/caravan/47946306.html,Dodge,Caravan,Москва,2001,бензин,2.4,150,АКПП,передний,,красный,210000,левый,4 поколение,2.4 AT SE,0,365000
+86563,https://chistoozernoe.drom.ru/dodge/caliber/47607077.html,Dodge,Caliber,Чистоозёрное,2010,бензин,2.0,156,вариатор,передний,,оранжевый,300000,левый,"1 поколение, рестайлинг",2.0 CVT SXT ,0,655000
+86564,https://sochi.drom.ru/dodge/challenger/47607180.html,Dodge,Challenger,Сочи,2021,бензин,6.2,717,АКПП,задний,купе,белый,520,левый,"3 поколение, рестайлинг",,0,14000000
+86565,https://tomsk.drom.ru/dodge/caliber/47378638.html,Dodge,Caliber,Томск,2010,бензин,2.0,156,вариатор,передний,,зеленый,120000,левый,"1 поколение, рестайлинг",2.0 CVT SXT,0,600000
+86566,https://tyumen.drom.ru/dodge/stealth/47267184.html,Dodge,Stealth,Тюмень,1992,бензин,3.0,300,механика,4WD,,голубой,250000,левый,1 поколение,3.0 MT R/T Turbo,0,800000
+86567,https://semiluki.drom.ru/dodge/stealth/45937797.html,Dodge,Stealth,Семилуки,1993,бензин,3.0,164,механика,передний,,оранжевый,217000,левый,1 поколение,3.0 MT Base,0,550000
+86568,https://novosibirsk.drom.ru/dodge/ram/40074635.html,Dodge,Ram,Новосибирск,2010,бензин,5.7,390,АКПП,4WD,пикап,коричневый,113400,левый,4 поколение,5.7 AT 4x4 Laramie Crew Short Box,0,3730000
+86569,https://moscow.drom.ru/dodge/durango/48974510.html,Dodge,Durango,Москва,2018,бензин,3.6,290,АКПП,4WD,,красный,32058,левый,"3 поколение, рестайлинг",3.6 AT AWD GT,0,3390000
+86570,https://moscow.drom.ru/dodge/caravan/48974022.html,Dodge,Caravan,Москва,2005,бензин,2.4,150,АКПП,передний,,зеленый,173732,левый,4 поколение,2.4 AT SE,1,410000
+86571,https://moscow.drom.ru/dodge/challenger/47621791.html,Dodge,Challenger,Москва,2019,бензин,3.6,305,АКПП,задний,купе,серый,76000,левый,"3 поколение, рестайлинг",,0,2280000
+86572,https://novosibirsk.drom.ru/dodge/caliber/46656181.html,Dodge,Caliber,Новосибирск,2007,бензин,2.0,156,вариатор,передний,,бордовый,132000,левый,1 поколение,,0,550000
+86573,https://krasnodar.drom.ru/dodge/caravan/48539288.html,Dodge,Caravan,Краснодар,2004,бензин,2.4,150,АКПП,передний,,серебристый,133415,левый,4 поколение,2.4 AT SE,1,700000
+86574,https://habarovsk.drom.ru/dodge/caliber/48110175.html,Dodge,Caliber,Хабаровск,2007,бензин,2.0,156,вариатор,передний,,черный,183000,левый,1 поколение,2.0 CVT SXT,0,650000
+86575,https://barnaul.drom.ru/dodge/intrepid/46858040.html,Dodge,Intrepid,Барнаул,1993,бензин,2.0,100,автомат,передний,,белый,230000,левый,,,0,69000
+86576,https://yakutsk.drom.ru/dodge/challenger/47424688.html,Dodge,Challenger,Якутск,2017,бензин,3.6,305,АКПП,задний,купе,серый,74000,левый,"3 поколение, рестайлинг",3.6 AT SXT Plus,0,3200000
+86577,https://moscow.drom.ru/dodge/challenger/47882977.html,Dodge,Challenger,Москва,2019,бензин,5.7,380,автомат,задний,купе,белый,53500,левый,,,0,3690000
+86578,https://vareya.drom.ru/dodge/intrepid/48565883.html,Dodge,Intrepid,Верея,2002,бензин,2.7,200,АКПП,передний,,синий,163000,левый,2 поколение,2.7 AT SE,0,110000
+86579,https://simferopol.drom.ru/dodge/neon/48219338.html,Dodge,Neon,Симферополь,1995,бензин,2.0,130,механика,передний,седан,черный,297667,,1 поколение,2.0 MT (130),0,185000
+86580,https://irkutsk.drom.ru/dodge/caliber/48216626.html,Dodge,Caliber,Иркутск,2007,бензин,2.0,156,вариатор,передний,,оранжевый,200000,левый,1 поколение,2.0 L CVT,0,500000
+86581,https://chelyabinsk.drom.ru/dodge/stratus/48216413.html,Dodge,Stratus,Челябинск,2001,бензин,2.4,150,АКПП,передний,седан,бордовый,240,левый,2 поколение,2.4 AT SE,0,240000
+86582,https://moscow.drom.ru/dodge/ram/47545717.html,Dodge,Ram,Москва,2020,бензин,5.7,395,автомат,4WD,пикап,зеленый,17459,левый,,,0,7000000
+86583,https://irkutsk.drom.ru/dodge/nitro/46915427.html,Dodge,Nitro,Иркутск,2007,бензин,3.7,210,АКПП,4WD,,черный,128000,левый,1 поколение,3.7 AT 4WD SLT,0,950000
+86584,https://magadan.drom.ru/dodge/ram/44757820.html,Dodge,Ram,Магадан,2011,бензин,4.7,310,АКПП,4WD,пикап,золотистый,176000,левый,4 поколение,4.7 AT 4x4 SLT Quad Cab Short Box,0,1700000
+86585,https://moscow.drom.ru/dodge/caravan/48147798.html,Dodge,Caravan,Москва,2001,бензин,2.4,150,АКПП,передний,,синий,210000,левый,4 поколение,2.4 AT SE,1,290000
+86586,https://moscow.drom.ru/dodge/journey/48906345.html,Dodge,Journey,Москва,2008,дизель,2.0,140,робот,передний,,серебристый,144000,левый,1 поколение,,0,899000
+86587,https://irkutsk.drom.ru/dodge/journey/48903431.html,Dodge,Journey,Иркутск,2012,бензин,3.6,280,АКПП,4WD,,серебристый,180000,левый,"1 поколение, рестайлинг",3.6 AT AWD R/T,0,1200000
+86588,https://barnaul.drom.ru/dodge/caliber/48625884.html,Dodge,Caliber,Барнаул,2008,бензин,2.0,156,вариатор,передний,,синий,135000,левый,1 поколение,2.0 CVT SE,1,550000
+86589,https://barnaul.drom.ru/dodge/caliber/48901222.html,Dodge,Caliber,Барнаул,2008,бензин,2.0,156,вариатор,передний,,серый,174000,левый,1 поколение,2.0 CVT SXT,0,510000
+86590,https://nizhniy-novgorod.drom.ru/dodge/grand_caravan/47871656.html,Dodge,Grand Caravan,Нижний Новгород,2000,бензин,3.0,150,АКПП,передний,,белый,215904,левый,3 поколение,,0,285000
+86591,https://novokuznetsk.drom.ru/dodge/ram/48900662.html,Dodge,Ram,Новокузнецк,2012,бензин,5.7,390,АКПП,4WD,пикап,белый,185000,левый,4 поколение,5.7 AT 4x4 Laramie Quad Cab Short Box,0,3250000
+86592,https://belgorod.drom.ru/dodge/avenger/47926413.html,Dodge,Avenger,Белгород,2007,бензин,2.4,173,АКПП,передний,седан,серый,212000,левый,2 поколение,2.4 AT SXT,0,639000
+86593,https://voronezh.drom.ru/dodge/caravan/47592773.html,Dodge,Caravan,Воронеж,2001,бензин,3.3,180,АКПП,передний,,серебристый,250000,левый,4 поколение,3.3 AT SE,0,299999
+86594,https://kurgan.drom.ru/dodge/caliber/46248113.html,Dodge,Caliber,Курган,2008,бензин,2.0,156,вариатор,передний,,синий,98000,левый,1 поколение,2.0 CVT SXT,0,700000
+86595,https://moscow.drom.ru/dodge/challenger/42847233.html,Dodge,Challenger,Москва,1972,бензин,7.0,431,автомат,задний,купе,черный,72000,левый,,,0,12900000
+86596,https://izoplit.drom.ru/dodge/caliber/48597761.html,Dodge,Caliber,Изоплит,2008,бензин,1.8,150,механика,передний,,белый,226858,левый,1 поколение,,0,450000
+86597,https://moscow.drom.ru/dodge/caravan/48089360.html,Dodge,Caravan,Москва,2002,бензин,2.4,150,АКПП,передний,,серебристый,236000,левый,4 поколение,2.4 AT SE,0,375000
+86598,https://moscow.drom.ru/dodge/caravan/47968584.html,Dodge,Caravan,Москва,2005,бензин,2.4,150,АКПП,передний,,серебристый,215000,левый,4 поколение,2.4 AT SE,0,475000
+86599,https://krasnoyarsk.drom.ru/dodge/ram/48949406.html,Dodge,Ram,Красноярск,2004,бензин,5.7,345,АКПП,задний,пикап,черный,150000,левый,3 поколение,,0,800000
+86600,https://berdsk.drom.ru/dodge/caravan/48947517.html,Dodge,Caravan,Бердск,2000,бензин,3.0,150,АКПП,передний,,синий,360000,левый,3 поколение,,1,230000
+86601,https://nizhnevartovsk.drom.ru/dodge/caliber/48945725.html,Dodge,Caliber,Нижневартовск,2008,бензин,2.0,156,вариатор,передний,,коричневый,220000,левый,1 поколение,,0,550000
+86602,https://spb.drom.ru/dodge/caravan/48944896.html,Dodge,Caravan,Санкт-Петербург,2004,бензин,2.4,150,АКПП,передний,,голубой,257500,левый,4 поколение,2.4 AT SE,1,230000
+86603,https://simferopol.drom.ru/dodge/caravan/48944695.html,Dodge,Caravan,Симферополь,2005,бензин,2.4,150,АКПП,передний,,белый,305110,левый,4 поколение,2.4 AT SE,0,430000
+86604,https://nizhnevartovsk.drom.ru/dodge/caravan/48526615.html,Dodge,Caravan,Нижневартовск,2002,бензин,2.4,150,АКПП,передний,,синий,250000,левый,4 поколение,2.4 AT SE,0,330000
+86605,https://ekaterinburg.drom.ru/dodge/intrepid/48603181.html,Dodge,Intrepid,Екатеринбург,1993,бензин,3.3,161,АКПП,передний,,синий,183000,левый,1 поколение,,0,150000
+86606,https://spb.drom.ru/dodge/caliber/48601651.html,Dodge,Caliber,Санкт-Петербург,2006,бензин,2.0,156,вариатор,передний,,черный,250000,левый,1 поколение,2.0 L CVT,0,199000
+86607,https://novosibirsk.drom.ru/dodge/caliber/48600993.html,Dodge,Caliber,Новосибирск,2008,бензин,2.0,156,вариатор,передний,,оранжевый,135000,левый,1 поколение,2.0 CVT SXT,0,660000
+86608,https://tomsk.drom.ru/dodge/ram/48597006.html,Dodge,Ram,Томск,2009,бензин,5.7,390,АКПП,4WD,пикап,белый,228000,левый,4 поколение,5.7 AT 4x4 Laramie Crew Short Box,0,2980000
+86609,https://nizhniy-novgorod.drom.ru/dodge/avenger/48252261.html,Dodge,Avenger,Нижний Новгород,2008,бензин,2.4,173,АКПП,передний,седан,черный,167000,левый,2 поколение,2.4 AT SXT,0,560000
+86610,https://magadan.drom.ru/dodge/nitro/47907393.html,Dodge,Nitro,Магадан,2009,бензин,3.7,205,АКПП,4WD,,серебристый,110000,левый,1 поколение,,0,1400000
+86611,https://tomilino.drom.ru/dodge/caravan/47527151.html,Dodge,Caravan,Томилино,2004,бензин,2.4,150,АКПП,передний,,золотистый,262000,левый,4 поколение,2.4 AT SE,0,370000
+86612,https://sochi.drom.ru/dodge/challenger/44631912.html,Dodge,Challenger,Сочи,2013,бензин,3.6,305,АКПП,задний,купе,черный,45000,левый,3 поколение,3.6 AT SXT Plus,0,2800000
+86613,https://novosibirsk.drom.ru/dodge/ram/48991011.html,Dodge,Ram,Новосибирск,2002,бензин,5.7,345,автомат,4WD,пикап,желтый,242351,левый,,,0,1300000
+86614,https://slavyansk-na-kubani.drom.ru/dodge/challenger/48988690.html,Dodge,Challenger,Славянск-На-Кубани,2018,бензин,3.6,305,АКПП,задний,купе,белый,44000,левый,"3 поколение, рестайлинг",3.6 AT SXT,0,2850000
+86615,https://alhan-yurt.drom.ru/dodge/grand_caravan/48988731.html,Dodge,Grand Caravan,Алхан-Юрт,2008,бензин,3.8,199,автомат,передний,,серебристый,238000,левый,,,0,1150000
+86616,https://novopokrovskaya.drom.ru/dodge/grand_caravan/48988594.html,Dodge,Grand Caravan,Новопокровская,2000,бензин,3.0,150,АКПП,передний,,синий,224740,левый,3 поколение,3.0 AT Ultradrive Base,0,285000
+86617,https://tomsk.drom.ru/dodge/challenger/48570869.html,Dodge,Challenger,Томск,2019,бензин,3.6,305,АКПП,задний,купе,серый,60000,левый,"3 поколение, рестайлинг",,0,2950000
+86618,https://omsk.drom.ru/dodge/caliber/48986896.html,Dodge,Caliber,Омск,2006,бензин,1.8,150,механика,передний,,серый,159000,левый,1 поколение,1.8 MT SXT,1,455000
+86619,https://moscow.drom.ru/dodge/journey/48984455.html,Dodge,Journey,Москва,2008,дизель,2.0,140,робот,передний,,красный,240518,левый,1 поколение,,0,655000
+86620,https://grozniy.drom.ru/dodge/caravan/48984184.html,Dodge,Caravan,Грозный,2005,бензин,2.4,150,АКПП,передний,,серый,110000,левый,4 поколение,2.4 AT SE,0,490000
+86621,https://ufa.drom.ru/dodge/ram/48649839.html,Dodge,Ram,Уфа,2008,бензин,5.7,390,АКПП,4WD,пикап,черный,113000,левый,4 поколение,5.7 AT 4x4 Laramie Crew Short Box,1,2200000
+86622,https://tomsk.drom.ru/dodge/ram/48315252.html,Dodge,Ram,Томск,2011,бензин,5.7,390,АКПП,4WD,пикап,черный,275000,левый,4 поколение,5.7 AT 4x4 Laramie Quad Cab Short Box,0,2700000
+86623,https://novosibirsk.drom.ru/dodge/caliber/48298786.html,Dodge,Caliber,Новосибирск,2009,бензин,2.0,156,вариатор,передний,,серый,174131,левый,1 поколение,2.0 CVT SXT,0,700000
+86624,https://ramenskoe.drom.ru/dodge/caravan/48983775.html,Dodge,Caravan,Раменское,2002,бензин,3.3,180,АКПП,передний,,бордовый,193000,левый,4 поколение,3.3 AT SE,0,410000
+86625,https://pyatigorsk.drom.ru/dodge/ram/48983639.html,Dodge,Ram,Пятигорск,2003,дизель,5.9,325,автомат,4WD,пикап,бежевый,240000,левый,,,0,2350000
+86626,https://spb.drom.ru/dodge/journey/48981544.html,Dodge,Journey,Санкт-Петербург,2018,бензин,2.4,175,автомат,передний,,серый,87000,левый,,,0,1749000
+86627,https://moscow.drom.ru/dodge/caliber/47570982.html,Dodge,Caliber,Москва,2008,бензин,2.0,156,вариатор,передний,,зеленый,128000,левый,1 поколение,,0,509000
+86628,https://moscow.drom.ru/dodge/caravan/47231930.html,Dodge,Caravan,Москва,2006,бензин,2.4,150,АКПП,передний,,серебристый,191376,левый,4 поколение,2.4 AT SE,0,460000
+86629,https://omsk.drom.ru/dodge/caliber/48979347.html,Dodge,Caliber,Омск,2008,бензин,2.0,156,вариатор,передний,,черный,181500,левый,1 поколение,,0,585000
+86630,https://moscow.drom.ru/dodge/charger/48979019.html,Dodge,Charger,Москва,2017,бензин,6.2,716,АКПП,задний,седан,,55000,левый,"7 поколение, рестайлинг",6.2 AT SRT Hellcat,0,6500000
+86631,https://ekaterinburg.drom.ru/dodge/avenger/48978586.html,Dodge,Avenger,Екатеринбург,1997,бензин,2.5,166,автомат,передний,купе,белый,196420,левый,,,0,110000
+86633,https://moscow.drom.ru/dodge/caravan/48181050.html,Dodge,Caravan,Москва,2005,бензин,2.4,150,АКПП,передний,,серебристый,183000,левый,4 поколение,2.4 AT SE,0,415000
+86635,https://spb.drom.ru/dodge/caliber/47836381.html,Dodge,Caliber,Санкт-Петербург,2008,бензин,2.0,160,вариатор,передний,,серебристый,204000,левый,1 поколение,2.0 CVT SXT,0,439000
+86637,https://habarovsk.drom.ru/dodge/ram/47170238.html,Dodge,Ram,Хабаровск,2010,бензин,5.7,390,АКПП,4WD,пикап,серый,171000,левый,4 поколение,5.7 AT 4x4 Laramie Crew Short Box,0,1900000
+86638,https://moscow.drom.ru/dodge/stratus/47163667.html,Dodge,Stratus,Москва,2002,бензин,2.4,150,АКПП,передний,седан,черный,999999,левый,2 поколение,2.4 AT SE,0,160000
+86639,https://barnaul.drom.ru/dodge/ram/44612871.html,Dodge,Ram,Барнаул,2018,бензин,5.7,395,АКПП,4WD,пикап,бордовый,43000,левый,,,0,7800000
+86640,https://omsk.drom.ru/dodge/ram/40645899.html,Dodge,Ram,Омск,2013,бензин,5.7,401,автомат,4WD,пикап,белый,232000,левый,,,0,3750000
+86643,https://ekaterinburg.drom.ru/dodge/ram/48328175.html,Dodge,Ram,Екатеринбург,2002,бензин,3.7,215,автомат,задний,пикап,красный,176000,левый,,,0,1300000
+86644,https://korolev.drom.ru/dodge/grand_caravan/48861860.html,Dodge,Grand Caravan,Королёв,2005,бензин,3.8,200,АКПП,передний,,голубой,160000,левый,"4 поколение, рестайлинг",3.8 AT SXT,1,470000
+86645,https://novosibirsk.drom.ru/dodge/caliber/48497269.html,Dodge,Caliber,Новосибирск,2006,бензин,2.0,156,вариатор,передний,,черный,247,левый,1 поколение,,0,570000
+86646,https://domodedovo.drom.ru/dodge/stratus/48859560.html,Dodge,Stratus,Домодедово,2003,бензин,2.4,150,АКПП,передний,седан,синий,268353,левый,"2 поколение, рестайлинг",,0,270000
+86649,https://moscow.drom.ru/dodge/grand_caravan/48855018.html,Dodge,Grand Caravan,Москва,2004,бензин,3.8,218,автомат,передний,,синий,177995,левый,,,0,655000
+86650,https://himki.drom.ru/dodge/stratus/48485716.html,Dodge,Stratus,Химки,2002,бензин,2.7,203,АКПП,передний,седан,,199000,левый,2 поколение,2.7 AT ES,0,259000
+86651,https://moscow.drom.ru/dodge/charger/48853683.html,Dodge,Charger,Москва,2005,бензин,3.5,250,АКПП,задний,седан,черный,310000,левый,6 поколение,,0,1350000
+86652,https://moscow.drom.ru/dodge/caravan/48414559.html,Dodge,Caravan,Москва,2004,бензин,2.4,150,АКПП,передний,,черный,158000,левый,4 поколение,2.4 AT SE,0,539000
+86653,https://moscow.drom.ru/dodge/caravan/48415134.html,Dodge,Caravan,Москва,2005,бензин,2.4,150,АКПП,передний,,голубой,129000,левый,4 поколение,2.4 AT SE,0,519000
+86654,https://moscow.drom.ru/dodge/caravan/48469787.html,Dodge,Caravan,Москва,2004,бензин,2.4,150,АКПП,передний,,белый,161000,левый,4 поколение,2.4 AT SE,0,559000
+86655,https://moscow.drom.ru/dodge/caliber/47257453.html,Dodge,Caliber,Москва,2008,бензин,2.0,160,вариатор,передний,,черный,119000,левый,1 поколение,2.0 CVT SXT,0,549000
+86657,https://chelyabinsk.drom.ru/dodge/caliber/45786208.html,Dodge,Caliber,Челябинск,2008,бензин,2.0,156,вариатор,передний,,черный,265000,левый,1 поколение,,0,519000
+86658,https://moscow.drom.ru/dodge/caravan/48556162.html,Dodge,Caravan,Москва,2004,бензин,2.4,150,АКПП,передний,,голубой,128000,левый,4 поколение,2.4 AT SE,0,479000
+86660,https://moscow.drom.ru/dodge/caravan/48240713.html,Dodge,Caravan,Москва,2002,бензин,2.4,150,АКПП,передний,,голубой,143000,левый,4 поколение,2.4 AT SE,0,409000
+86661,https://moscow.drom.ru/dodge/caliber/48231300.html,Dodge,Caliber,Москва,2007,бензин,2.0,156,вариатор,передний,,черный,179349,левый,1 поколение,2.0 CVT SXT,0,445000
+86662,https://moscow.drom.ru/dodge/caliber/48231941.html,Dodge,Caliber,Москва,2008,бензин,2.0,160,вариатор,передний,,бордовый,91000,левый,1 поколение,2.0 CVT SXT,0,445000
+86663,https://yuzhno-sakhalinsk.drom.ru/dodge/ram/47963599.html,Dodge,Ram,Южно-Сахалинск,2001,бензин,5.2,230,АКПП,задний,пикап,черный,86000,левый,2 поколение,5.2 AT 4x2 1500 Laramie SLT Club Cab Long Box,0,2200000
+86665,https://surgut.drom.ru/dodge/caliber/48966006.html,Dodge,Caliber,Сургут,2007,бензин,2.0,156,вариатор,передний,,красный,200000,левый,1 поколение,2.0 CVT SXT,0,465000
+86666,https://chelyabinsk.drom.ru/dodge/challenger/48965953.html,Dodge,Challenger,Челябинск,2008,бензин,5.7,375,автомат,задний,купе,черный,85500,левый,,,0,2690000
+86667,https://kemerovo.drom.ru/dodge/ram/48965723.html,Dodge,Ram,Кемерово,2008,бензин,5.7,345,АКПП,4WD,пикап,черный,243006,левый,"3 поколение, рестайлинг",5.7 MT 4x4 Laramie Quad Cab 140.5 in.,1,1500000
+86668,https://irkutsk.drom.ru/dodge/ram/48947088.html,Dodge,Ram,Иркутск,2019,бензин,5.7,395,автомат,4WD,пикап,серый,83000,левый,,,0,5099000
+86669,https://volgograd.drom.ru/dodge/charger/48617555.html,Dodge,Charger,Волгоград,2019,бензин,3.6,,автомат,задний,седан,черный,65853,левый,,,0,2695000
+86670,https://yuzhno-sakhalinsk.drom.ru/dodge/ram/48598578.html,Ram,2500,Южно-Сахалинск,2021,бензин,6.4,410,АКПП,4WD,,серый,25100,левый,"1 поколение, рестайлинг",,0,8770000
+86671,https://azov.drom.ru/dodge/intrepid/48627576.html,Dodge,Intrepid,Азов,1993,бензин,3.3,161,АКПП,передний,,коричневый,187000,левый,1 поколение,3.3 AT ES,0,270000
+86672,https://moscow.drom.ru/dodge/challenger/48533610.html,Dodge,Challenger,Москва,2016,бензин,3.6,305,АКПП,задний,купе,черный,97000,левый,"3 поколение, рестайлинг",3.6 AT SXT Plus,1,2830000
+86673,https://krasnodar.drom.ru/dodge/caravan/48368276.html,Dodge,Caravan,Краснодар,2003,бензин,2.4,150,АКПП,передний,,синий,198000,левый,4 поколение,2.4 AT SE,0,510000
+86674,https://pskov.drom.ru/dodge/stratus/48194068.html,Dodge,Stratus,Псков,2004,бензин,2.4,150,АКПП,передний,седан,синий,230456,левый,"2 поколение, рестайлинг",,0,140000
+86675,https://moscow.drom.ru/dodge/caravan/48193891.html,Dodge,Caravan,Москва,2001,бензин,2.4,150,АКПП,передний,,серебристый,400000,левый,4 поколение,2.4 AT SE,0,310000
+86676,https://ivanovo.drom.ru/dodge/stratus/48192281.html,Dodge,Stratus,Иваново,2002,бензин,2.4,150,АКПП,передний,седан,бордовый,270000,левый,2 поколение,2.4 AT SE,1,195000
+86677,https://ulyanovsk.drom.ru/dodge/caliber/48191875.html,Dodge,Caliber,Ульяновск,2006,бензин,2.0,156,вариатор,передний,,черный,254000,левый,1 поколение,2.0 CVT SXT,1,500000
+86678,https://temryuk.drom.ru/dodge/grand_caravan/47848857.html,Dodge,Grand Caravan,Темрюк,2008,бензин,3.3,175,АКПП,передний,,серебристый,243050,левый,5 поколение,3.3 AT SE,0,750000
+86679,https://sevastopol.drom.ru/dodge/neon/47848687.html,Dodge,Neon,Севастополь,1995,бензи,,133,механика,,седан,красный,221966,,,,0,160000
+86680,https://spb.drom.ru/dodge/neon/47504229.html,Dodge,Neon,Санкт-Петербург,2004,бензин,2.4,230,механика,передний,седан,синий,103000,,,,0,280000
+86681,https://murom.drom.ru/dodge/challenger/47425067.html,Dodge,Challenger,Муром,2015,бензин,3.6,305,АКПП,задний,купе,белый,100000,левый,"3 поколение, рестайлинг",3.6 AT SXT,0,1750000
+86682,https://vyborg.drom.ru/dodge/ram/47130076.html,Dodge,Ram,Выборг,1995,бензин,5.2,230,АКПП,задний,пикап,белый,200000,левый,2 поколение,,0,750000
+86683,https://orenburg.drom.ru/dodge/charger/46764211.html,Dodge,Charger,Оренбург,2020,бензин,6.4,492,АКПП,задний,седан,зеленый,24060,левый,"7 поколение, рестайлинг",6.4 AT Scat Pack,0,5650000
+86684,https://kamensk-uralskiy.drom.ru/dodge/caliber/46127135.html,Dodge,Caliber,Каменск-Уральский,2008,бензин,2.0,160,механика,передний,,оранжевый,65000,левый,,,1,350000
+86685,https://voronezh.drom.ru/dodge/ram/48874384.html,Dodge,Ram,Воронеж,2012,бензин,5.7,390,АКПП,4WD,пикап,черный,204129,левый,4 поколение,,0,2839000
+86686,https://krasnoyarsk.drom.ru/dodge/ram/48868300.html,Dodge,Ram,Красноярск,2017,бензин,5.7,395,автомат,4WD,пикап,белый,78000,левый,,,0,4560000
+86687,https://novosibirsk.drom.ru/dodge/durango/48736716.html,Dodge,Durango,Новосибирск,2019,бензин,3.6,294,автомат,4WD,,черный,62000,левый,,,0,3559000
+86688,https://chelyabinsk.drom.ru/dodge/caliber/48865312.html,Dodge,Caliber,Челябинск,2007,бензин,1.8,150,механика,передний,,черный,217180,левый,1 поколение,,1,530000
+86689,https://omsk.drom.ru/dodge/ram/46188687.html,Dodge,Ram,Омск,2013,бензин,5.7,396,автомат,4WD,пикап,белый,190000,левый,,,0,3250000
+86690,https://vladivostok.drom.ru/dodge/ram/48699677.html,Dodge,Ram,Владивосток,2012,бензин,5.7,390,АКПП,4WD,пикап,белый,28000,левый,4 поколение,,0,3200000
+86691,https://moscow.drom.ru/dodge/viper/48524863.html,Dodge,Viper,Москва,1999,бензин,8.0,460,механика,задний,открытый,черный,47000,левый,2 поколение,8.0 MT RT/10 ACR,0,6999999
+86692,https://spb.drom.ru/dodge/journey/49013890.html,Dodge,Journey,Санкт-Петербург,2011,бензин,3.6,283,АКПП,4WD,,черный,117592,левый,"1 поколение, рестайлинг",,0,1050000
+86693,https://omsk.drom.ru/dodge/nitro/47794452.html,Dodge,Nitro,Омск,2008,бензин,3.7,205,АКПП,4WD,,черный,188000,левый,1 поколение,3.7 AWD AT SE,0,1190000
+86694,https://krasnodar.drom.ru/dodge/charger/48465177.html,Dodge,Charger,Краснодар,2016,бензин,3.6,296,АКПП,задний,седан,серый,43000,левый,"7 поколение, рестайлинг",3.6 AT SE,0,1750000
+86695,https://spb.drom.ru/dodge/journey/49005299.html,Dodge,Journey,Санкт-Петербург,2008,дизель,2.0,140,механика,передний,,серый,216402,левый,1 поколение,,0,769789
+86696,https://habarovsk.drom.ru/dodge/stealth/48321962.html,Dodge,Stealth,Хабаровск,1992,бензин,3.0,300,механика,4WD,,оранжевый,190000,левый,1 поколение,3.0 MT R/T Turbo,0,730000
+86697,https://novosibirsk.drom.ru/dodge/nitro/48318391.html,Dodge,Nitro,Новосибирск,2007,бензин,3.7,205,АКПП,4WD,,черный,251000,левый,1 поколение,,1,950000
+86698,https://kyzyl.drom.ru/dodge/avenger/48318051.html,Dodge,Avenger,Кызыл,2007,бензин,2.0,156,механика,передний,седан,черный,250000,левый,2 поколение,,0,235000
+86700,https://spb.drom.ru/dodge/caravan/47977275.html,Dodge,Caravan,Санкт-Петербург,2005,бензин,2.4,152,автомат,передний,,красный,241985,левый,,,0,434900
+86701,https://nefteyugansk.drom.ru/dodge/stratus/47977202.html,Dodge,Stratus,Нефтеюганск,2002,бензин,2.4,147,АКПП,передний,купе,черный,167663,левый,2 поколение,2.4 AT SE,0,360000
+86702,https://sevastopol.drom.ru/dodge/ram/47861049.html,Dodge,Ram,Севастополь,2019,бензин,5.7,401,автомат,4WD,пикап,белый,65000,левый,,,0,5999999
+86703,https://tavda.drom.ru/dodge/avenger/47309054.html,Dodge,Avenger,Тавда,2007,бензин,2.0,156,механика,передний,седан,черный,240000,левый,2 поколение,,0,510000
+86704,https://magadan.drom.ru/dodge/ram/47304658.html,Dodge,Ram,Магадан,2010,бензин,5.7,390,АКПП,4WD,пикап,серебристый,100000,левый,4 поколение,,0,2150000
+86705,https://spb.drom.ru/dodge/challenger/47303187.html,Dodge,Challenger,Санкт-Петербург,2020,бензин,5.7,380,автомат,задний,купе,черный,15333,левый,,,0,4770000
+86706,https://sergiev-posad.drom.ru/dodge/grand_caravan/47297435.html,Dodge,Grand Caravan,Сергиев Посад,2002,бензин,3.3,180,АКПП,передний,,серый,150000,левый,4 поколение,,0,430000
+86707,https://novosibirsk.drom.ru/dodge/challenger/46759667.html,Dodge,Challenger,Новосибирск,2020,бензин,3.6,305,АКПП,задний,купе,фиолетовый,19000,левый,"3 поколение, рестайлинг",,0,4090000
+86708,https://moscow.drom.ru/dodge/charger/46587501.html,Dodge,Charger,Москва,2019,бензин,3.6,296,АКПП,задний,седан,серый,68000,левый,"7 поколение, рестайлинг",3.6 AT SXT,0,3290000
+86709,https://orenburg.drom.ru/dodge/caravan/46496809.html,Dodge,Caravan,Оренбург,1996,бензин,3.0,150,АКПП,передний,,зеленый,263000,левый,3 поколение,3.0 AT SE,1,190000
+86710,https://omsk.drom.ru/dodge/caravan/46394507.html,Dodge,Caravan,Омск,2005,бензин,2.4,150,АКПП,передний,,белый,243000,левый,4 поколение,2.4 AT SE,0,400000
+86711,https://petropavlovsk-kamchatskiy.drom.ru/dodge/ram/44829637.html,Dodge,Ram,Петропавловск-Камчатский,2008,дизель,6.7,350,автомат,4WD,пикап,золотистый,135000,левый,,,0,3100000
+86712,https://apsheronsk.drom.ru/dodge/ram/48245675.html,Dodge,Ram,Апшеронск,2012,бензин,5.7,390,АКПП,4WD,пикап,белый,219000,левый,4 поколение,5.7 AT 4x4 Laramie Quad Cab Short Box,0,2800000
+86713,https://kemerovo.drom.ru/dodge/journey/48244092.html,Dodge,Journey,Кемерово,2008,дизель,2.0,140,робот,передний,,белый,200000,левый,1 поколение,,0,980000
+86714,https://smolensk.drom.ru/dodge/caravan/48242094.html,Dodge,Caravan,Смоленск,2001,бензин,2.4,150,АКПП,передний,,синий,188000,левый,4 поколение,2.4 AT SE,0,287000
+86715,https://domodedovo.drom.ru/dodge/grand_caravan/47895667.html,Dodge,Grand Caravan,Домодедово,2001,бензин,3.3,180,АКПП,передний,,белый,275000,левый,4 поколение,,0,430000
+86716,https://blagoveshchensk.drom.ru/dodge/nitro/44709619.html,Dodge,Nitro,Благовещенск,2007,бензин,3.7,205,АКПП,4WD,,черный,140000,левый,1 поколение,3.7 AWD AT SE,0,350000
+86717,https://buinsk.drom.ru/dodge/stratus/48426450.html,Dodge,Stratus,Буинск,2004,бензин,2.4,150,АКПП,передний,седан,красный,,левый,"2 поколение, рестайлинг",,1,80000
+86718,https://krasnodar.drom.ru/dodge/challenger/48929011.html,Dodge,Challenger,Краснодар,2021,бензин,6.4,485,АКПП,задний,купе,зеленый,9300,левый,"3 поколение, рестайлинг",6.4 AT R/T Scat Pack,0,5700000
+86719,https://kaspiysk.drom.ru/dodge/caravan/48928432.html,Dodge,Caravan,Каспийск,2002,бензин,2.4,150,АКПП,передний,,бордовый,190000,левый,4 поколение,2.4 AT SE,0,370000
+86720,https://moscow.drom.ru/dodge/charger/48927979.html,Dodge,Charger,Москва,2019,бензин,3.6,299,АКПП,задний,седан,серый,74445,левый,"7 поколение, рестайлинг",3.6 AT GT,0,2695000
+86721,https://novosibirsk.drom.ru/dodge/ram/48927403.html,Dodge,Ram,Новосибирск,2022,бензин,6.2,702,автомат,4WD,пикап,серый,65,левый,,,0,14190000
+86722,https://bakhchysaray.drom.ru/dodge/stratus/48927387.html,Dodge,Stratus,Бахчисарай,2004,бензин,2.4,150,АКПП,передний,седан,желтый,50000,левый,"2 поколение, рестайлинг",,0,190000
+86723,https://novosibirsk.drom.ru/dodge/ram/48593838.html,Dodge,Ram,Новосибирск,2022,бензин,6.2,702,автомат,4WD,пикап,синий,50,левый,,,0,14490000
+86724,https://sevastopol.drom.ru/dodge/stratus/48927099.html,Dodge,Stratus,Севастополь,2001,бензин,2.4,152,автомат,передний,седан,синий,290000,левый,,,0,200000
+86725,https://omsk.drom.ru/dodge/caliber/48925718.html,Dodge,Caliber,Омск,2007,бензин,1.8,150,механика,передний,,зеленый,288000,левый,1 поколение,1.8 MT S,0,520000
+86726,https://omsk.drom.ru/dodge/caliber/48925382.html,Dodge,Caliber,Омск,2007,бензин,1.8,150,механика,передний,,зеленый,288000,левый,1 поколение,1.8 MT SE,0,520000
+86727,https://moscow.drom.ru/dodge/caliber/48925251.html,Dodge,Caliber,Москва,2008,бензин,1.8,149,механика,передний,,черный,350000,левый,1 поколение,1.8 L MT,0,380000
+86728,https://samara.drom.ru/dodge/caliber/48924652.html,Dodge,Caliber,Самара,2007,бензин,2.0,160,вариатор,передний,,серый,247000,левый,1 поколение,,0,434900
+86729,https://spb.drom.ru/dodge/journey/48924124.html,Dodge,Journey,Санкт-Петербург,2012,бензин,2.4,173,АКПП,передний,,черный,99000,левый,"1 поколение, рестайлинг",,0,1249000
+86730,https://moscow.drom.ru/dodge/stratus/48923575.html,Dodge,Stratus,Москва,2003,бензин,2.4,150,АКПП,передний,седан,черный,98000,левый,"2 поколение, рестайлинг",2.4 AT SXT,0,270000
+86731,https://krasnoperekopsk.drom.ru/dodge/stratus/48604853.html,Dodge,Stratus,Красноперекопск,2000,бензин,2.4,150,АКПП,передний,седан,серый,254000,левый,2 поколение,2.4 AT SE,1,275000
+86732,https://balashiha.drom.ru/dodge/caliber/48890460.html,Dodge,Caliber,Балашиха,2009,бензин,2.0,156,вариатор,передний,,белый,90015,левый,1 поколение,,0,546000
+86733,https://spb.drom.ru/dodge/stratus/48890204.html,Dodge,Stratus,Санкт-Петербург,2003,бензин,2.7,200,АКПП,передний,седан,черный,270000,левый,"2 поколение, рестайлинг",,1,233000
+86734,https://sochi.drom.ru/dodge/ram/48377568.html,Dodge,Ram,Сочи,2005,бензин,4.7,302,автомат,4WD,пикап,серый,140000,левый,,,0,1500000
+86735,https://irkutsk.drom.ru/dodge/caliber/48888700.html,Dodge,Caliber,Иркутск,2007,бензин,2.0,156,вариатор,передний,,серебристый,265000,левый,1 поколение,2.0 CVT SXT,0,555555
+86736,https://rostov-na-donu.drom.ru/dodge/challenger/48888262.html,Dodge,Challenger,Ростов-на-Дону,2020,бензин,6.4,485,АКПП,задний,купе,фиолетовый,17016,левый,"3 поколение, рестайлинг",,0,4480000
+86737,https://lesnoy.drom.ru/dodge/caliber/48205799.html,Dodge,Caliber,Лесной,2006,бензин,2.0,156,вариатор,передний,,голубой,235000,левый,1 поколение,2.0 CVT SXT,1,480000
+86738,https://moscow.drom.ru/dodge/caravan/47862163.html,Dodge,Caravan,Москва,2004,бензин,3.3,182,автомат,передний,,голубой,236000,левый,,,0,489000
+86739,https://im-sverdlova.drom.ru/dodge/caravan/47527382.html,Dodge,Caravan,им. Свердлова,1994,бензин,3.0,142,АКПП,передний,,голубой,150000,левый,2 поколение,3.0 AT Base,0,150000
+86740,https://yaroslavl.drom.ru/dodge/ram/47192024.html,Dodge,Ram,Ярославль,2012,бензин,5.7,396,автомат,4WD,пикап,белый,92078,левый,,,0,2699000
+86741,https://voronezh.drom.ru/dodge/caliber/47191032.html,Dodge,Caliber,Воронеж,2006,бензин,1.8,150,механика,передний,,черный,130000,левый,1 поколение,,0,295000
+86742,https://novosibirsk.drom.ru/dodge/charger/46851918.html,Dodge,Charger,Новосибирск,2017,бензин,6.4,492,АКПП,задний,седан,черный,52000,левый,"7 поколение, рестайлинг",6.4 AT R/T Scat Pack,0,5590000
+86743,https://spb.drom.ru/dodge/journey/45959265.html,Dodge,Journey,Санкт-Петербург,2015,бензин,2.4,173,АКПП,передний,,бордовый,86600,левый,"1 поколение, рестайлинг",,0,2000000
+86744,https://moscow.drom.ru/dodge/journey/48885534.html,Dodge,Journey,Москва,2008,бензин,2.4,175,автомат,передний,,серый,130000,левый,,,0,769000
+86745,https://moscow.drom.ru/dodge/intrepid/48885385.html,Dodge,Intrepid,Москва,2002,бензин,2.7,200,АКПП,передний,,серый,265000,левый,2 поколение,2.7 AT SE,0,250000
+86746,https://spb.drom.ru/dodge/challenger/48884423.html,Dodge,Challenger,Санкт-Петербург,2021,бензин,3.6,309,автомат,задний,купе,синий,9421,левый,,,0,2962500
+86747,https://nizhniy-novgorod.drom.ru/dodge/ram/48883752.html,Dodge,Ram,Нижний Новгород,2012,бензин,5.7,390,АКПП,4WD,пикап,черный,360000,левый,4 поколение,,1,2250000
+86748,https://moscow.drom.ru/dodge/caravan/48723844.html,Dodge,Caravan,Москва,2002,бензин,2.4,150,АКПП,передний,,синий,186500,левый,4 поколение,2.4 AT SE,1,270000
+86750,https://smolenskoe.drom.ru/dodge/journey/48186839.html,Dodge,Journey,Смоленское,2017,бензин,2.4,173,АКПП,передний,,белый,84000,левый,"1 поколение, рестайлинг",2.4 AT SXT,0,1450000
+86751,https://magnitogorsk.drom.ru/dodge/caravan/48536198.html,Dodge,Caravan,Магнитогорск,2000,бензин,2.4,150,АКПП,передний,,синий,160500,левый,3 поколение,2.4 AT Base,0,299999
+86752,https://orenburg.drom.ru/dodge/neon/48919428.html,Dodge,Neon,Оренбург,2001,бензин,2.0,133,автомат,передний,седан,серебристый,350000,,,,0,255000
+86753,https://barnaul.drom.ru/dodge/ram/48622783.html,Dodge,Ram,Барнаул,2018,бензин,5.7,395,автомат,4WD,пикап,белый,75100,левый,,,0,5990000
+86754,https://habarovsk.drom.ru/dodge/ram/48253675.html,Dodge,Ram,Хабаровск,2001,бензин,4.7,235,АКПП,4WD,пикап,серый,167658,левый,3 поколение,4.7 AT 4x4 ST Quad Cab 140.5 in.,0,2098000
+86755,https://spb.drom.ru/dodge/challenger/48584090.html,Dodge,Challenger,Санкт-Петербург,2020,бензин,6.4,492,автомат,задний,купе,синий,15938,левый,,,0,5500000
+86756,https://yuzhno-sakhalinsk.drom.ru/dodge/ram/48582664.html,Dodge,Ram,Южно-Сахалинск,2011,бензин,6.4,301,автомат,4WD,пикап,серый,25000,левый,,,0,8500000
+86757,https://krasnoyarsk.drom.ru/dodge/caliber/48225073.html,Dodge,Caliber,Красноярск,2007,бензин,2.0,156,вариатор,передний,,серый,126731,левый,1 поколение,2.0 CVT SXT,0,630000
+86758,https://pereslavl-zalesskiy.drom.ru/dodge/intrepid/48220617.html,Dodge,Intrepid,Переславль-Залесский,2002,бензин,2.7,193,автомат,передний,,серый,255555,левый,,,0,165000
+86759,https://novosibirsk.drom.ru/dodge/intrepid/47890351.html,Dodge,Intrepid,Новосибирск,2003,бензин,2.7,200,АКПП,передний,,серебристый,160000,левый,2 поколение,2.7 AT SE,0,315000
+86760,https://moscow.drom.ru/dodge/challenger/47532473.html,Dodge,Challenger,Москва,2013,бензин,3.6,305,АКПП,задний,купе,черный,170000,левый,3 поколение,3.6 AT SXT,0,1199999
+86761,https://moscow.drom.ru/dodge/grand_caravan/45719746.html,Dodge,Grand Caravan,Москва,2009,бензин,3.3,175,АКПП,передний,,зеленый,232800,левый,5 поколение,3.3 AT SE,0,849000
+86762,https://spb.drom.ru/dodge/ram/45191422.html,Dodge,Ram,Санкт-Петербург,2017,дизель,3.0,240,автомат,4WD,пикап,черный,117000,левый,,,0,3349000
+86763,https://kurganinsk.drom.ru/dodge/durango/40430564.html,Dodge,Durango,Курганинск,2011,бензин,5.7,364,АКПП,4WD,,черный,156500,левый,3 поколение,,0,2600000
+86764,https://spb.drom.ru/dodge/neon/48917762.html,Dodge,Neon,Санкт-Петербург,2003,бензин,2.0,133,механика,передний,седан,серый,221000,,,,0,219000
+86765,https://omsk.drom.ru/dodge/caliber/48450180.html,Dodge,Caliber,Омск,2006,бензин,2.0,156,вариатор,передний,,красный,220000,левый,1 поколение,2.0 CVT SXT,1,499000
+86766,https://taganrog.drom.ru/dodge/ram/46879703.html,Dodge,Ram,Таганрог,2012,бензин,5.7,390,АКПП,4WD,пикап,черный,125000,левый,4 поколение,5.7 AT 4x4 Laramie Quad Cab Short Box,0,2650000
+86767,https://moscow.drom.ru/dodge/intrepid/48481798.html,Dodge,Intrepid,Москва,2001,бензин,2.7,200,АКПП,передний,,серебристый,300000,левый,2 поколение,2.7 AT SE,0,150000
+86768,https://biysk.drom.ru/dodge/stratus/48914989.html,Dodge,Stratus,Бийск,2001,бензин,2.7,203,АКПП,передний,седан,серебристый,160000,левый,2 поколение,2.7 AT ES,0,270000
+86769,https://stupino.drom.ru/dodge/intrepid/48912434.html,Dodge,Intrepid,Ступино,2003,бензин,2.7,200,АКПП,передний,,золотистый,221000,левый,2 поколение,2.7 AT SE,0,350000
+86771,https://krasnoyarsk.drom.ru/dodge/charger/48911035.html,Dodge,Charger,Красноярск,2018,бензин,3.6,299,АКПП,4WD,седан,красный,66000,левый,"7 поколение, рестайлинг",,0,2950000
+86772,https://orenburg.drom.ru/dodge/stratus/49021662.html,Dodge,Stratus,Оренбург,2000,бензин,2.4,150,АКПП,передний,седан,золотистый,200000,левый,1 поколение,,0,175000
+86773,https://moscow.drom.ru/dodge/grand_caravan/49018967.html,Dodge,Grand Caravan,Москва,2011,бензин,3.6,283,АКПП,передний,,серый,245000,левый,"5 поколение, рестайлинг",3.6 AT R/T,0,1200000
+86774,https://barnaul.drom.ru/dodge/caliber/46173569.html,Dodge,Caliber,Барнаул,2006,бензин,2.0,156,вариатор,передний,,черный,180000,левый,1 поколение,,0,555000
+86775,https://spb.drom.ru/dodge/durango/48674719.html,Dodge,Durango,Санкт-Петербург,2016,бензин,3.6,295,АКПП,4WD,,черный,130000,левый,"3 поколение, рестайлинг",3.6 AT AWD Citadel,0,2750000
+86777,https://gorno-altaysk.drom.ru/dodge/intrepid/48333852.html,Dodge,Intrepid,Горно-Алтайск,2003,бензин,2.7,200,АКПП,передний,,черный,200000,левый,2 поколение,2.7 AT SE,0,150000
+86778,https://habarovsk.drom.ru/dodge/challenger/48330758.html,Dodge,Challenger,Хабаровск,2019,бензин,6.2,717,механика,задний,купе,черный,12000,левый,"3 поколение, рестайлинг",6.2 MT SRT Hellcat,0,6900000
+86779,https://moscow.drom.ru/dodge/intrepid/47986935.html,Dodge,Intrepid,Москва,2003,бензин,2.7,200,АКПП,передний,,бордовый,215000,левый,2 поколение,2.7 AT SE,0,285000
+86780,https://krasnozavodsk.drom.ru/dodge/neon/47310352.html,Dodge,Neon,Краснозаводск,2002,бензин,2.0,133,механика,передний,седан,черный,247000,,2 поколение,2.0 MT (133),0,180000
+86781,https://moscow.drom.ru/dodge/charger/46974616.html,Dodge,Charger,Москва,2017,бензин,3.6,296,АКПП,задний,седан,черный,120000,левый,"7 поколение, рестайлинг",3.6 AT SXT Plus,0,2499000
+86782,https://simferopol.drom.ru/dodge/stratus/46802066.html,Dodge,Stratus,Симферополь,2002,бензин,2.4,150,АКПП,передний,седан,зеленый,155000,левый,2 поколение,2.4 AT SE,1,220000
+86783,https://moscow.drom.ru/dodge/stratus/46681582.html,Dodge,Stratus,Москва,2003,бензин,2.4,147,АКПП,передний,купе,голубой,241000,левый,"2 поколение, рестайлинг",,0,350000
+86784,https://abakan.drom.ru/dodge/caliber/46661968.html,Dodge,Caliber,Абакан,2007,бензин,1.8,150,механика,передний,,серебристый,200000,левый,1 поколение,1.8 MT SE,0,550000
+86785,https://yevpatoriya.drom.ru/dodge/challenger/46657761.html,Dodge,Challenger,Евпатория,2016,бензин,3.6,305,АКПП,задний,купе,белый,46000,левый,"3 поколение, рестайлинг",,0,2800000
+86786,https://ufa.drom.ru/dodge/grand_caravan/46617098.html,Dodge,Grand Caravan,Уфа,2011,бензин,3.6,283,АКПП,передний,,черный,120000,левый,"5 поколение, рестайлинг",,0,1350000
+86787,https://ekaterinburg.drom.ru/dodge/journey/46570185.html,Dodge,Journey,Екатеринбург,2011,бензин,3.6,283,АКПП,4WD,,черный,205000,левый,"1 поколение, рестайлинг",3.6 AT AWD Crew,0,999000
+86788,https://barnaul.drom.ru/dodge/journey/45908995.html,Dodge,Journey,Барнаул,2009,бензин,2.4,173,АКПП,передний,,серый,262000,левый,1 поколение,2.4 AT SE,0,750000
+86789,https://kurgan.drom.ru/dodge/avenger/45592944.html,Dodge,Avenger,Курган,2007,бензин,2.4,170,АКПП,передний,седан,оранжевый,250000,левый,2 поколение,2.4 AT SE,0,720000
+86790,https://gresovskiy.drom.ru/dodge/neon/47472261.html,Dodge,Neon,Грэсовский,2001,бензин,2.0,133,автомат,передний,седан,серебристый,200000,,,,1,140000
+86791,https://moscow.drom.ru/dodge/caravan/49014064.html,Dodge,Caravan,Москва,2003,бензин,2.4,150,АКПП,передний,,серый,423293,левый,4 поколение,2.4 AT SE,1,200000
+86792,https://biysk.drom.ru/dodge/nitro/45783888.html,Dodge,Nitro,Бийск,2007,бензин,3.7,205,АКПП,4WD,,черный,225000,левый,1 поколение,3.7 AWD AT SE,0,1150000
+86793,https://alapaevsk.drom.ru/dodge/ram/48899882.html,Dodge,Ram,Алапаевск,1998,дизель,5.0,181,автомат,4WD,пикап,черный,220000,левый,,,0,850000
+86794,https://zheleznogorsk-krasnoyarsk.drom.ru/dodge/ram/44750312.html,Dodge,Ram,Железногорск,2003,дизель,5.9,305,автомат,4WD,пикап,серебристый,353000,левый,,,0,1600000
+86795,https://ust-ilimsk.drom.ru/dodge/ram/48198456.html,Dodge,Ram,Усть-Илимск,2001,бензин,5.9,245,АКПП,4WD,пикап,серый,174000,левый,2 поколение,5.9 AT 4x4 1500 LT Regular Cab Short Box,0,1370000
+86796,https://ryazan.drom.ru/dodge/neon/48561923.html,Dodge,Neon,Рязань,2002,бензин,2.0,133,механика,передний,седан,синий,130864,,2 поколение,2.0 MT (133),0,250000
+86797,https://noviy-urengoy.drom.ru/dodge/challenger/48560413.html,Dodge,Challenger,Новый Уренгой,2018,бензин,3.6,305,АКПП,задний,купе,бордовый,35000,левый,"3 поколение, рестайлинг",3.6 AT GT,0,3200000
+86798,https://tver.drom.ru/dodge/caliber/48557051.html,Dodge,Caliber,Тверь,2007,бензин,1.8,150,механика,передний,,синий,320,левый,1 поколение,1.8 MT SE,0,270000
+86799,https://bakhchysaray.drom.ru/dodge/caravan/48553059.html,Dodge,Caravan,Бахчисарай,2005,бензин,2.4,150,АКПП,передний,,синий,240000,левый,4 поколение,2.4 AT SE,0,300000
+86800,https://novosibirsk.drom.ru/dodge/caliber/48551946.html,Dodge,Caliber,Новосибирск,2008,бензин,2.0,156,вариатор,передний,,черный,281500,левый,1 поколение,2.0 CVT SXT,0,590000
+86801,https://tyumen.drom.ru/dodge/ram/47579415.html,Dodge,Ram,Тюмень,2014,бензин,5.7,395,автомат,4WD,пикап,коричневый,203000,левый,,,0,3500000
+86802,https://spb.drom.ru/dodge/nitro/47536290.html,Dodge,Nitro,Санкт-Петербург,2007,дизель,2.8,177,АКПП,4WD,,черный,131873,левый,1 поколение,2.8 CRD AWD AT SXT,0,990000
+86803,https://moscow.drom.ru/dodge/caliber/47119370.html,Dodge,Caliber,Москва,2008,бензин,2.0,156,вариатор,передний,,черный,133000,левый,1 поколение,2.0 SXT CVT,0,500000
+86804,https://stavropol.drom.ru/dodge/caravan/48898563.html,Dodge,Caravan,Ставрополь,2001,бензин,3.3,180,АКПП,передний,,красный,295000,левый,4 поколение,,0,200000
+86805,https://krasnodar.drom.ru/dodge/neon/48896949.html,Dodge,Neon,Краснодар,2001,бензин,2.0,132,автомат,передний,седан,черный,215000,,,,1,180000
+86806,https://kemerovo.drom.ru/dodge/ram/48896923.html,Dodge,Ram,Кемерово,2011,бензин,5.7,390,АКПП,4WD,пикап,белый,229000,левый,4 поколение,,0,2500000
+86807,https://tayshet.drom.ru/dodge/ram/46919320.html,Dodge,Ram,Тайшет,2010,бензин,5.7,390,АКПП,4WD,пикап,белый,140000,левый,4 поколение,,0,2800000
+86808,https://shchelkino.drom.ru/dodge/grand_caravan/48894630.html,Dodge,Grand Caravan,Щёлкино,2003,бензин,3.3,180,АКПП,передний,,белый,223000,левый,4 поколение,,0,300000
+86809,https://krasnoyarsk.drom.ru/dodge/charger/48894495.html,Dodge,Charger,Красноярск,2017,бензин,3.6,305,автомат,4WD,седан,зеленый,50000,левый,,,0,2999000
+86810,https://krasnoufimsk.drom.ru/dodge/caliber/48891772.html,Dodge,Caliber,Красноуфимск,2008,бензин,1.8,150,механика,передний,,черный,204000,левый,1 поколение,1.8 MT SE,0,520000
+86811,https://gelendzhik.drom.ru/dodge/neon/48726501.html,Dodge,Neon,Геленджик,2001,,,,,,седан,красный,200000,,,,1,185000
+86812,https://melnikovo.drom.ru/dodge/caliber/49002803.html,Dodge,Caliber,Мельниково,2011,бензин,2.0,156,вариатор,передний,,синий,178350,левый,"1 поколение, рестайлинг",2.0 CVT SE,0,720000
+86813,https://novosibirsk.drom.ru/dodge/intrepid/49002428.html,Dodge,Intrepid,Новосибирск,1994,бензин,3.3,161,АКПП,передний,,зеленый,250000,левый,1 поколение,3.3 AT Base,0,140000
+86814,https://nefteyugansk.drom.ru/dodge/caravan/47296555.html,Dodge,Caravan,Нефтеюганск,2005,бензин,3.3,180,АКПП,передний,,серый,159738,левый,4 поколение,3.3 AT SXT,0,370000
+86815,https://kaliningrad.drom.ru/dodge/stratus/49001754.html,Dodge,Stratus,Калининград,2004,бензин,2.4,147,АКПП,передний,купе,серебристый,200000,левый,"2 поколение, рестайлинг",2.4 AT SXT,1,150000
+86816,https://omsk.drom.ru/dodge/stratus/49001308.html,Dodge,Stratus,Омск,2004,бензин,2.4,150,АКПП,передний,седан,серый,166000,левый,"2 поколение, рестайлинг",2.4 AT SXT,1,279000
+86817,https://moscow.drom.ru/dodge/grand_caravan/48999281.html,Dodge,Grand Caravan,Москва,2009,бензин,3.3,173,автомат,передний,,,171000,левый,,,0,965000
+86818,https://nizhniy-novgorod.drom.ru/dodge/ram/48999115.html,Dodge,Ram,Нижний Новгород,2010,бензин,5.7,390,АКПП,4WD,пикап,черный,380000,левый,4 поколение,,1,1590000
+86819,https://nakhodka.drom.ru/dodge/challenger/47179985.html,Dodge,Challenger,Находка,2020,бензин,3.6,305,АКПП,задний,купе,черный,16800,левый,"3 поколение, рестайлинг",3.6 AT SXT,1,3999000
+86820,https://barnaul.drom.ru/dodge/intrepid/48995344.html,Dodge,Intrepid,Барнаул,2001,бензин,2.7,202,АКПП,передний,,синий,2000,левый,2 поколение,2.7 AT ES,0,100000
+86821,https://novosibirsk.drom.ru/dodge/ram/48839635.html,Dodge,Ram,Новосибирск,2011,бензин,5.7,390,АКПП,4WD,пикап,черный,240000,левый,4 поколение,,1,1920000
+86822,https://spb.drom.ru/dodge/durango/48314933.html,Dodge,Durango,Санкт-Петербург,2008,бензин,4.7,303,АКПП,4WD,,серый,340000,левый,"2 поколение, рестайлинг",4.7 Flex Fuel AT AWD SLT 7-seats,0,750000
+86823,https://domodedovo.drom.ru/dodge/caravan/48314136.html,Dodge,Caravan,Домодедово,2004,бензин,2.4,150,АКПП,передний,,серебристый,480000,левый,4 поколение,2.4 AT SE,0,330000
+86824,https://perm.drom.ru/dodge/stratus/48311860.html,Dodge,Stratus,Пермь,2002,бензин,2.4,150,АКПП,передний,седан,серый,200000,левый,2 поколение,2.4 AT SE,0,178000
+86825,https://spb.drom.ru/dodge/stratus/48311221.html,Dodge,Stratus,Санкт-Петербург,2000,бензин,2.0,133,автомат,передний,седан,серый,235000,левый,,,0,195000
+86827,https://moscow.drom.ru/dodge/challenger/48180270.html,Dodge,Challenger,Москва,2019,бензин,3.6,305,АКПП,4WD,купе,черный,49000,левый,"3 поколение, рестайлинг",3.6 AT AWD SXT,0,2800000
+86828,https://mytishchi.drom.ru/dodge/durango/47969482.html,Dodge,Durango,Мытищи,2007,бензин,5.7,335,АКПП,4WD,,черный,135000,левый,"2 поколение, рестайлинг",,0,760000
+86829,https://spb.drom.ru/dodge/challenger/46965667.html,Dodge,Challenger,Санкт-Петербург,2018,бензин,3.6,309,автомат,задний,купе,черный,52000,левый,,,0,2680000
+86830,https://moscow.drom.ru/dodge/ram/46869261.html,Dodge,Ram,Москва,2019,бензин,3.6,305,автомат,4WD,пикап,черный,18700,левый,,,0,5999000
+86831,https://novosibirsk.drom.ru/dodge/caliber/46227386.html,Dodge,Caliber,Новосибирск,2008,бензин,1.8,150,механика,передний,,серебристый,220000,левый,1 поколение,1.8 MT SXT Sport,0,500000
+86832,https://ryazan.drom.ru/dodge/caliber/47246691.html,Dodge,Caliber,Рязань,2010,бензин,2.0,156,вариатор,передний,,черный,85000,левый,"1 поколение, рестайлинг",,0,700000
+86833,https://novosibirsk.drom.ru/dodge/journey/46841694.html,Dodge,Journey,Новосибирск,2012,бензин,3.6,280,АКПП,4WD,,серый,159000,левый,"1 поколение, рестайлинг",3.6 AT AWD R/T,1,1290000
+86834,https://surgut.drom.ru/dodge/caliber/46834647.html,Dodge,Caliber,Сургут,2006,бензин,2.0,156,вариатор,передний,,синий,213000,левый,1 поколение,,0,375000
+86835,https://novosibirsk.drom.ru/dodge/ram/46497709.html,Dodge,Ram,Новосибирск,2012,бензин,5.7,390,АКПП,4WD,пикап,синий,152000,левый,4 поколение,,0,3500000
+86836,https://uspenskoe.drom.ru/dodge/intrepid/48939183.html,Dodge,Intrepid,Успенское,2001,бензин,2.7,202,АКПП,передний,,синий,350000,левый,2 поколение,2.7 AT ES,0,160000
+86837,https://surgut.drom.ru/dodge/ram/48937525.html,Dodge,Ram,Сургут,2018,бензин,5.7,395,автомат,4WD,пикап,белый,65000,левый,,,0,6199000
+86838,https://moscow.drom.ru/dodge/caravan/48936897.html,Dodge,Caravan,Москва,2002,бензин,3.3,180,АКПП,передний,,серебристый,213440,левый,4 поколение,3.3 AT SE,0,455000
+86839,https://tyumen.drom.ru/dodge/magnum/48935817.html,Dodge,Magnum,Тюмень,2005,бензин,2.7,193,автомат,задний,универсал,черный,155695,левый,,,0,616000
+86840,https://simferopol.drom.ru/dodge/caliber/48935605.html,Dodge,Caliber,Симферополь,2009,бензин,2.0,160,вариатор,передний,,белый,130000,левый,1 поколение,,0,600000
+86841,https://kemerovo.drom.ru/dodge/avenger/48934991.html,Dodge,Avenger,Кемерово,2007,бензин,2.4,170,АКПП,передний,седан,красный,203000,левый,2 поколение,2.4 AT SE,1,469000
+86842,https://anapa.drom.ru/dodge/caravan/47729131.html,Dodge,Caravan,Анапа,2004,бензин,2.4,150,АКПП,передний,,голубой,144000,левый,4 поколение,2.4 AT SE,0,360000
+86843,https://krasnodar.drom.ru/dodge/caliber/48934522.html,Dodge,Caliber,Краснодар,2006,бензин,2.0,156,вариатор,передний,,оранжевый,222000,левый,1 поколение,2.0 L CVT,1,430000
+86844,https://blagoveshchensk.drom.ru/dodge/challenger/47764438.html,Dodge,Challenger,Благовещенск,2012,бензин,3.6,305,АКПП,задний,купе,черный,95000,левый,3 поколение,3.6 AT SXT,0,2900000
+86845,https://surgut.drom.ru/dodge/intrepid/48933109.html,Dodge,Intrepid,Сургут,2000,бензин,3.5,237,автомат,передний,,серебристый,200000,левый,,,0,110000
+86846,https://moscow.drom.ru/dodge/charger/48932410.html,Dodge,Charger,Москва,2019,бензин,5.7,375,автомат,4WD,седан,белый,72000,левый,,,0,3290000
+86847,https://spb.drom.ru/dodge/caravan/48931235.html,Dodge,Caravan,Санкт-Петербург,2003,бензин,2.4,152,автомат,передний,,синий,197802,левый,,,0,335000
+86848,https://vladivostok.drom.ru/dodge/challenger/42185185.html,Dodge,Challenger,Владивосток,2011,бензин,6.1,452,механика,задний,купе,красный,12000,левый,,,0,1550000
+86849,https://minvody.drom.ru/dodge/challenger/48594291.html,Dodge,Challenger,Минеральные Воды,2018,бензин,5.7,372,АКПП,задний,купе,черный,51672,левый,"3 поколение, рестайлинг",,0,3299000
+86850,https://iskitim.drom.ru/dodge/neon/48593840.html,Dodge,Neon,Искитим,2002,бензин,2.0,133,автомат,передний,седан,бежевый,130000,,,,1,130000
+86851,https://spb.drom.ru/dodge/caliber/48593746.html,Dodge,Caliber,Санкт-Петербург,2009,бензин,2.0,156,вариатор,передний,,серебристый,161000,левый,1 поколение,,0,499000
+86852,https://tyumen.drom.ru/dodge/challenger/48625491.html,Dodge,Challenger,Тюмень,2018,бензин,3.6,305,АКПП,4WD,купе,синий,77000,левый,"3 поколение, рестайлинг",3.6 AT AWD GT,0,3500000
+86853,https://perm.drom.ru/dodge/caliber/48280442.html,Dodge,Caliber,Пермь,2008,бензин,2.0,156,вариатор,передний,,красный,101000,левый,1 поколение,2.0 SXT CVT,1,480000
+86854,https://tyumen.drom.ru/dodge/stratus/47599789.html,Dodge,Stratus,Тюмень,2001,бензин,2.4,150,АКПП,передний,седан,голубой,232000,левый,2 поколение,2.4 AT SE,0,200000
+86855,https://sevastopol.drom.ru/dodge/nitro/46490502.html,Dodge,Nitro,Севастополь,2008,дизель,2.8,177,АКПП,4WD,,черный,256000,левый,1 поколение,2.8 CRD AWD AT SXT,0,999999
+86856,https://krasnodar.drom.ru/dodge/ram/39847904.html,Dodge,Ram,Краснодар,2013,дизель,6.7,370,автомат,4WD,пикап,черный,111000,левый,,,0,5299000
+86857,https://krasnodar.drom.ru/dodge/stratus/48963696.html,Dodge,Stratus,Краснодар,2002,бензин,2.4,150,АКПП,передний,седан,красный,260000,левый,2 поколение,2.4 AT SE,0,250000
+86858,https://moscow.drom.ru/dodge/challenger/48961457.html,Dodge,Challenger,Москва,2020,бензин,6.4,485,АКПП,задний,купе,бордовый,67000,левый,"3 поколение, рестайлинг",6.4 AT R/T Scat Pack,0,4590000
+86859,https://moscow.drom.ru/dodge/caravan/48961187.html,Dodge,Caravan,Москва,2005,бензин,3.3,182,автомат,передний,,синий,179000,левый,,,0,579000
+86860,https://tahtamukay.drom.ru/dodge/stratus/48959752.html,Dodge,Stratus,Тахтамукай,2003,бензин,2.4,150,АКПП,передний,седан,серый,237000,левый,2 поколение,2.4 AT SE,1,335000
+86861,https://ekaterinburg.drom.ru/dodge/caliber/48959401.html,Dodge,Caliber,Екатеринбург,2008,бензин,2.0,156,вариатор,передний,,черный,145000,левый,1 поколение,2.0 CVT SE,1,520000
+86862,https://kamensk-uralskiy.drom.ru/dodge/ram/48956429.html,Dodge,Ram,Каменск-Уральский,2014,бензин,5.7,396,автомат,4WD,пикап,черный,139000,левый,,,0,3700000
+86863,https://moscow.drom.ru/dodge/caravan/48956206.html,Dodge,Caravan,Москва,2003,бензин,2.4,150,АКПП,передний,,синий,190000,левый,4 поколение,2.4 AT SE,1,395000
+86864,https://simferopol.drom.ru/dodge/caravan/48600862.html,Dodge,Caravan,Симферополь,2002,бензин,2.4,150,АКПП,передний,,синий,247000,левый,4 поколение,2.4 AT SE,0,350000
+86865,https://krasnoyarsk.drom.ru/dodge/ram/48953663.html,Dodge,Ram,Красноярск,2002,бензин,5.9,237,автомат,4WD,пикап,черный,104000,левый,,,0,1800000
+86866,https://khanty-mansiysk.drom.ru/dodge/grand_caravan/48616088.html,Dodge,Grand Caravan,Ханты-Мансийск,1997,бензин,3.3,128,автомат,передний,,серебристый,268000,левый,,,0,450000
+86867,https://zernograd.drom.ru/dodge/stratus/48609918.html,Dodge,Stratus,Зерноград,2003,бензин,2.4,150,АКПП,передний,седан,черный,232236,левый,2 поколение,2.4 AT SE,0,200000
+86868,https://perm.drom.ru/dodge/caravan/48609287.html,Dodge,Caravan,Пермь,2002,бензин,2.4,150,АКПП,передний,,серебристый,190000,левый,4 поколение,2.4 AT SE,1,350000
+86869,https://velikiy-novgorod.drom.ru/dodge/stratus/48265718.html,Dodge,Stratus,Великий Новгород,2002,бензин,2.7,203,АКПП,передний,седан,синий,300000,левый,2 поколение,2.7 AT ES,0,295000
+86870,https://elizovo.drom.ru/dodge/caliber/48260370.html,Dodge,Caliber,Елизово,2008,бензин,2.0,156,вариатор,передний,,красный,170000,левый,1 поколение,2.0 SXT CVT,0,500000
+86871,https://moscow.drom.ru/dodge/caravan/48081242.html,Dodge,Caravan,Москва,1999,бензин,2.4,150,АКПП,передний,,красный,180000,левый,3 поколение,2.4 AT Base,1,150000
+86872,https://moscow.drom.ru/dodge/stratus/48853031.html,Dodge,Stratus,Москва,2001,бензин,2.4,150,АКПП,передний,седан,золотистый,241300,левый,2 поколение,2.4 AT SE,1,215000
+86873,https://krasnoyarsk.drom.ru/dodge/intrepid/48851667.html,Dodge,Intrepid,Красноярск,2000,бензин,2.7,200,АКПП,передний,,красный,277344,левый,2 поколение,2.7 AT SE,0,260000
+86874,https://perm.drom.ru/dodge/caliber/48512669.html,Dodge,Caliber,Пермь,2008,бензин,1.8,150,механика,передний,,красный,240092,левый,1 поколение,,0,330000
+86875,https://tomsk.drom.ru/dodge/journey/48514271.html,Dodge,Journey,Томск,2008,бензин,2.7,185,АКПП,передний,,черный,310000,левый,1 поколение,2.7 AT R/T 5 мест,0,840000
+86876,https://samara.drom.ru/dodge/journey/48514236.html,Dodge,Journey,Самара,2012,бензин,3.6,280,АКПП,4WD,,серый,128000,левый,"1 поколение, рестайлинг",3.6 AT AWD R/T,0,1200000
+86877,https://slavgorod.drom.ru/dodge/stratus/48512372.html,Dodge,Stratus,Славгород,2001,бензин,2.4,150,АКПП,передний,седан,зеленый,458098,левый,2 поколение,2.4 AT SE,0,140000
+86878,https://irkutsk.drom.ru/dodge/intrepid/48508348.html,Dodge,Intrepid,Иркутск,2002,бензин,2.7,200,АКПП,передний,,синий,170000,левый,2 поколение,2.7 AT SE,0,90000
+86879,https://rubtsovsk.drom.ru/dodge/caliber/48165419.html,Dodge,Caliber,Рубцовск,2008,бензин,2.0,156,вариатор,передний,,черный,200000,левый,1 поколение,2.0 CVT SE,1,500000
+86880,https://moscow.drom.ru/dodge/ram/48162619.html,Dodge,Ram,Москва,2005,бензин,5.7,345,АКПП,4WD,пикап,серый,313000,левый,3 поколение,,0,1800000
+86881,https://rostov-na-donu.drom.ru/dodge/caliber/47499485.html,Dodge,Caliber,Ростов-на-Дону,2007,бензин,2.0,156,вариатор,передний,,черный,140000,левый,1 поколение,2.0 SXT CVT,1,550000
+86882,https://nizhniy-tagil.drom.ru/dodge/caliber/47475153.html,Dodge,Caliber,Нижний Тагил,2008,бензин,1.8,150,механика,передний,,белый,225078,левый,1 поколение,1.8 MT SE,0,600000
+86884,https://moscow.drom.ru/dodge/ram/47323238.html,Dodge,Ram,Москва,2012,бензин,5.7,390,АКПП,4WD,пикап,белый,263060,левый,4 поколение,,1,2100000
+86885,https://tyumen.drom.ru/dodge/magnum/46403663.html,Dodge,Magnum,Тюмень,2005,бензин,2.7,190,АКПП,задний,универсал,черный,255000,левый,2 поколение,2.7 AT SE,1,520000
+86886,https://kasumkent.drom.ru/dodge/caravan/46063674.html,Dodge,Caravan,Касумкент,2005,бензин,2.4,150,АКПП,передний,,голубой,232000,левый,4 поколение,2.4 AT SE,1,550000
+86887,https://minusinsk.drom.ru/dodge/intrepid/44872496.html,Dodge,Intrepid,Минусинск,1993,бензин,3.3,161,АКПП,передний,,серый,230000,левый,1 поколение,3.3 AT Base,0,99000
+86888,https://omsk.drom.ru/dodge/journey/39196973.html,Dodge,Journey,Омск,2008,бензин,2.4,175,автомат,передний,,белый,215000,левый,,,0,950000
+86889,https://ekaterinburg.drom.ru/dodge/caravan/48610594.html,Dodge,Caravan,Екатеринбург,2001,бензин,2.4,150,АКПП,передний,,белый,190000,левый,4 поколение,2.4 AT SE,1,179000
+86890,https://moscow.drom.ru/dodge/challenger/48647492.html,Dodge,Challenger,Москва,2019,бензин,3.6,305,АКПП,задний,купе,черный,67500,левый,"3 поколение, рестайлинг",3.6 AT SXT,1,2290000
+86891,https://grozniy.drom.ru/dodge/magnum/48847279.html,Dodge,Magnum,Грозный,2004,бензин,2.7,190,АКПП,задний,универсал,черный,200000,левый,2 поколение,2.7 AT SE,0,750000
+86892,https://spb.drom.ru/dodge/caliber/48730120.html,Dodge,Caliber,Санкт-Петербург,2007,бензин,2.0,160,вариатор,передний,,оранжевый,206000,левый,1 поколение,,1,450000
+86893,https://sudak.drom.ru/dodge/caravan/48846793.html,Dodge,Caravan,Судак,2002,бензин,2.4,150,АКПП,передний,,белый,300000,левый,4 поколение,2.4 AT SE,0,300000
+86894,https://murmansk.drom.ru/dodge/caliber/48844681.html,Dodge,Caliber,Мурманск,2007,бензин,2.4,174,вариатор,4WD,,синий,80000,левый,1 поколение,2.4 CVT R/T AWD,0,850000
+86895,https://tyumen.drom.ru/dodge/caliber/48843367.html,Dodge,Caliber,Тюмень,2008,бензин,2.0,156,вариатор,передний,,черный,137000,левый,1 поколение,2.0 CVT SE,1,560000
+86896,https://magadan.drom.ru/dodge/ram/48842678.html,Dodge,Ram,Магадан,2007,бензин,5.7,345,АКПП,4WD,пикап,красный,90000,левый,"3 поколение, рестайлинг",5.7 MT 4x4 Laramie Quad Cab 140.5 in.,0,1950000
+86897,https://kaluga.drom.ru/dodge/challenger/47186219.html,Dodge,Challenger,Калуга,2019,бензин,3.6,305,АКПП,задний,купе,бордовый,15000,левый,"3 поколение, рестайлинг",3.6 AT GT,1,2800000
+86898,https://noginsk.drom.ru/dodge/nitro/48840937.html,Dodge,Nitro,Ногинск,2008,дизель,2.8,177,АКПП,4WD,,черный,246000,левый,1 поколение,2.8 CRD AT 4WD SXT,1,870000
+86899,https://blagoveshchensk.drom.ru/dodge/ram/48838529.html,Dodge,Ram,Благовещенск,2019,дизель,6.7,375,автомат,4WD,пикап,серый,15000,левый,,,0,8999000
+86900,https://krasnoyarsk.drom.ru/dodge/stratus/48495242.html,Dodge,Stratus,Красноярск,2005,бензин,2.7,200,АКПП,передний,седан,синий,200000,левый,"2 поколение, рестайлинг",2.7 AT R/T,0,80000
+86901,https://krasnodar.drom.ru/dodge/ram/48504814.html,Dodge,Ram,Краснодар,2021,бензин,6.2,711,автомат,4WD,пикап,черный,3500,левый,,,0,16000000
+86902,https://spb.drom.ru/dodge/charger/48503790.html,Dodge,Charger,Санкт-Петербург,2021,бензин,6.4,492,АКПП,задний,седан,синий,30000,левый,"7 поколение, рестайлинг",6.4 AT Scat Pack,0,5999999
+102058,https://ekaterinburg.drom.ru/dongfeng/580/48356465.html,Dongfeng,580,Екатеринбург,2021,бензин,1.5,145,вариатор,передний,,синий,,левый,"1 поколение, рестайлинг",1.5T CVT Luxury,0,1929000
+102092,https://surgut.drom.ru/dongfeng/ax7/48938735.html,Dongfeng,AX7,Сургут,2018,бензин,2.0,140,АКПП,передний,,коричневый,81000,левый,1 поколение,2.0 AT Luxury,0,1380000
+102115,https://novosibirsk.drom.ru/dongfeng/580/47708437.html,Dongfeng,580,Новосибирск,2021,бензин,1.8,132,механика,передний,,черный,,левый,"1 поколение, рестайлинг",1.8 MT Comfort,0,1851000
+102124,https://volgograd.drom.ru/dongfeng/h30_cross/47401145.html,Dongfeng,H30 Cross,Волгоград,2016,бензин,1.6,117,АКПП,передний,,белый,126501,левый,1 поколение,1.6 AT Luxury,0,730000
+102126,https://novokuznetsk.drom.ru/dongfeng/h30_cross/49135571.html,Dongfeng,H30 Cross,Новокузнецк,2016,бензин,1.6,117,АКПП,передний,,серый,78560,левый,1 поколение,1.6 AT Luxury,0,650000
+102127,https://tomsk.drom.ru/dongfeng/h30_cross/49134412.html,Dongfeng,H30 Cross,Томск,2014,бензин,1.6,117,механика,передний,,белый,99000,левый,1 поколение,1.6 MT Comfort,0,599000
+102128,https://feodosiya.drom.ru/dongfeng/ax7/48054779.html,Dongfeng,AX7,Феодосия,2017,бензин,2.0,140,АКПП,передний,,серебристый,31000,левый,1 поколение,,0,1370000
+117474,https://moscow.drom.ru/evolute/i-pro/48879147.html,Evolute,i-Pro,Москва,2022,электр,,163,АКПП,передний,,белый,,левый,1 поколение,53 kWh,0,2990000
+117566,https://krasnodar.drom.ru/evolute/i-pro/48689781.html,Evolute,i-Pro,Краснодар,2022,электр,,150,автомат,передний,,белый,,левый,,,0,2990000
+133230,https://volgograd.drom.ru/cheryexeed/txl/49121568.html,Exeed,TXL,Волгоград,2022,бензин,2.0,197,робот,4WD,,серый,,левый,"1 поколение, рестайлинг",2.0 TGDI DCT AWD Sport Edition,0,3649900
+133499,https://krasnodar.drom.ru/cheryexeed/vx/48783105.html,Exeed,VX,Краснодар,2022,бензин,2.0,249,робот,4WD,,белый,,левый,1 поколение,2.0 DCT AWD President,0,5249900
+133500,https://rostov-na-donu.drom.ru/cheryexeed/txl/48780735.html,Exeed,TXL,Ростов-на-Дону,2022,бензин,1.6,186,робот,4WD,,серый,,левый,"1 поколение, рестайлинг",1.6 DCT AWD Flagship,0,4249900
+133750,https://spb.drom.ru/cheryexeed/lx/48725352.html,Exeed,LX,Санкт-Петербург,2022,бензин,1.5,147,вариатор,передний,,белый,,левый,1 поколение,1.5 CVT Prestige,0,3299900
+133762,https://novokuznetsk.drom.ru/cheryexeed/txl/48267781.html,Exeed,TXL,Новокузнецк,2022,бензин,1.6,186,робот,4WD,,белый,,левый,"1 поколение, рестайлинг",,0,3539000
+133943,https://moscow.drom.ru/cheryexeed/txl/46680238.html,Exeed,TXL,Москва,2022,бензин,1.6,186,робот,4WD,,белый,,левый,"1 поколение, рестайлинг",1.6 DCT AWD Flagship,0,4249900
+134261,https://irkutsk.drom.ru/cheryexeed/vx/48864299.html,Exeed,VX,Иркутск,2022,бензин,2.0,249,робот,4WD,,зеленый,,левый,1 поколение,2.0 DCT AWD President,0,5649900
+134264,https://spb.drom.ru/cheryexeed/txl/48661298.html,Exeed,TXL,Санкт-Петербург,2022,бензин,1.6,186,робот,4WD,,серый,,левый,"1 поколение, рестайлинг",,0,3999900
+134281,https://moscow.drom.ru/cheryexeed/txl/49014099.html,Exeed,TXL,Москва,2022,бензин,1.6,186,робот,4WD,,серый,,левый,"1 поколение, рестайлинг",1.6 DCT AWD Flagship,0,4249900
+134294,https://perm.drom.ru/cheryexeed/vx/48984305.html,Exeed,VX,Пермь,2022,бензин,2.0,249,робот,4WD,,черный,новый автомобиль,левый,1 поколение,2.0 DCT AWD President,0,4539900
+134303,https://sayansk.drom.ru/cheryexeed/txl/48642569.html,Exeed,TXL,Саянск,2020,бензин,1.6,186,робот,4WD,,красный,19000,левый,1 поколение,,1,2799000
+134308,https://himki.drom.ru/cheryexeed/lx/48640625.html,Exeed,LX,Химки,2022,бензин,1.5,147,вариатор,передний,,,,левый,1 поколение,1.5 CVT Luxury,0,2999900
+134396,https://moscow.drom.ru/cheryexeed/txl/46385373.html,Exeed,TXL,Москва,2022,бензин,1.6,186,робот,4WD,,черный,,левый,"1 поколение, рестайлинг",1.6 DCT AWD Flagship,0,4250000
+134397,https://moscow.drom.ru/cheryexeed/txl/48983072.html,Exeed,TXL,Москва,2022,бензин,2.0,197,робот,4WD,,серый,35,левый,"1 поколение, рестайлинг",2.0 TGDI DCT AWD Sport Edition,0,3900000
+134398,https://noviy-urengoy.drom.ru/cheryexeed/lx/48619527.html,Exeed,LX,Новый Уренгой,2022,бензин,1.5,147,вариатор,передний,,белый,,левый,1 поколение,,0,3299900
+134400,https://moscow.drom.ru/cheryexeed/txl/48248174.html,Exeed,TXL,Москва,2022,бензин,1.6,186,робот,4WD,,,,левый,"1 поколение, рестайлинг",1.6 DCT AWD Flagship,0,4250000
+134401,https://moscow.drom.ru/cheryexeed/vx/48974776.html,Exeed,VX,Москва,2022,бензин,2.0,249,робот,4WD,,серый,101,левый,1 поколение,2.0 DCT AWD President,0,4508900
+134402,https://moscow.drom.ru/cheryexeed/txl/48974775.html,Exeed,TXL,Москва,2022,бензин,1.6,186,робот,4WD,,черный,101,левый,"1 поколение, рестайлинг",1.6 DCT AWD Flagship,0,3580000
+134403,https://moscow.drom.ru/cheryexeed/vx/48974774.html,Exeed,VX,Москва,2022,бензин,2.0,249,робот,4WD,,черный,101,левый,1 поколение,2.0 DCT AWD President,0,4508900
+134406,https://kazan.drom.ru/cheryexeed/lx/48974754.html,Exeed,LX,Казань,2022,бензин,1.5,147,вариатор,передний,,серый,,левый,1 поколение,,0,3399900
+134407,https://moscow.drom.ru/cheryexeed/vx/48628724.html,Exeed,VX,Москва,2022,бензин,2.0,249,робот,4WD,,синий,,левый,1 поколение,2.0 DCT AWD Luxury,0,4909900
+134408,https://moscow.drom.ru/cheryexeed/vx/48628728.html,Exeed,VX,Москва,2022,бензин,2.0,249,робот,4WD,,фиолетовый,,левый,1 поколение,2.0 DCT AWD President,0,5279900
+134409,https://moscow.drom.ru/cheryexeed/vx/48628729.html,Exeed,VX,Москва,2022,бензин,2.0,249,робот,4WD,,синий,,левый,1 поколение,2.0 DCT AWD President,0,5279900
+134412,https://himki.drom.ru/cheryexeed/txl/48953053.html,Exeed,TXL,Химки,2022,бензин,2.0,197,робот,4WD,,,,левый,"1 поколение, рестайлинг",2.0 TGDI DCT AWD Sport Edition,0,4649900
+134413,https://himki.drom.ru/cheryexeed/txl/48953046.html,Exeed,TXL,Химки,2022,бензин,1.6,186,робот,4WD,,,,левый,"1 поколение, рестайлинг",1.6 DCT AWD Flagship,0,4249900
+134415,https://himki.drom.ru/cheryexeed/txl/48953045.html,Exeed,TXL,Химки,2022,бензин,2.0,197,робот,4WD,,,,левый,"1 поколение, рестайлинг",2.0 TGDI DCT AWD Sport Edition,0,4649900
+134416,https://himki.drom.ru/cheryexeed/txl/48953043.html,Exeed,TXL,Химки,2022,бензин,1.6,186,робот,4WD,,,,левый,"1 поколение, рестайлинг",1.6 DCT AWD Flagship,0,4249900
+134418,https://moscow.drom.ru/cheryexeed/txl/48952970.html,Exeed,TXL,Москва,2022,бензин,1.6,186,робот,4WD,,,,левый,"1 поколение, рестайлинг",1.6 DCT AWD Luxury,0,4000000
+134419,https://moscow.drom.ru/cheryexeed/txl/48952971.html,Exeed,TXL,Москва,2022,бензин,1.6,186,робот,4WD,,,,левый,"1 поколение, рестайлинг",1.6 DCT AWD Luxury,0,4000000
+134420,https://moscow.drom.ru/cheryexeed/txl/48952962.html,Exeed,TXL,Москва,2022,бензин,1.6,186,робот,4WD,,,,левый,"1 поколение, рестайлинг",1.6 DCT AWD Luxury,0,4000000
+134422,https://moscow.drom.ru/cheryexeed/txl/48952964.html,Exeed,TXL,Москва,2022,бензин,1.6,186,робот,4WD,,,,левый,"1 поколение, рестайлинг",1.6 DCT AWD Luxury,0,4000000
+134425,https://moscow.drom.ru/cheryexeed/txl/48952958.html,Exeed,TXL,Москва,2022,бензин,1.6,186,робот,4WD,,,,левый,"1 поколение, рестайлинг",1.6 DCT AWD Luxury,0,4000000
+134426,https://moscow.drom.ru/cheryexeed/txl/48952959.html,Exeed,TXL,Москва,2022,бензин,1.6,186,робот,4WD,,,,левый,"1 поколение, рестайлинг",1.6 DCT AWD Luxury,0,4000000
+134427,https://moscow.drom.ru/cheryexeed/txl/48952960.html,Exeed,TXL,Москва,2022,бензин,1.6,186,робот,4WD,,,,левый,"1 поколение, рестайлинг",1.6 DCT AWD Luxury,0,4000000
+134428,https://moscow.drom.ru/cheryexeed/txl/48952961.html,Exeed,TXL,Москва,2022,бензин,1.6,186,робот,4WD,,,,левый,"1 поколение, рестайлинг",1.6 DCT AWD Luxury,0,4000000
+134429,https://moscow.drom.ru/cheryexeed/txl/48952950.html,Exeed,TXL,Москва,2022,бензин,1.6,186,робот,4WD,,,,левый,"1 поколение, рестайлинг",1.6 DCT AWD Luxury,0,4000000
+134430,https://moscow.drom.ru/cheryexeed/txl/48952951.html,Exeed,TXL,Москва,2022,бензин,1.6,186,робот,4WD,,,,левый,"1 поколение, рестайлинг",1.6 DCT AWD Luxury,0,4000000
+134431,https://moscow.drom.ru/cheryexeed/txl/48952953.html,Exeed,TXL,Москва,2022,бензин,1.6,186,робот,4WD,,,,левый,"1 поколение, рестайлинг",1.6 DCT AWD Luxury,0,4000000
+134432,https://moscow.drom.ru/cheryexeed/vx/48628733.html,Exeed,VX,Москва,2022,бензин,2.0,249,робот,4WD,,белый,,левый,1 поколение,2.0 DCT AWD President,0,5279900
+134433,https://moscow.drom.ru/cheryexeed/lx/48628735.html,Exeed,LX,Москва,2022,бензин,1.5,147,вариатор,передний,,синий,,левый,1 поколение,1.5 CVT Prestige,0,3299900
+134434,https://spb.drom.ru/cheryexeed/vx/48273128.html,Exeed,VX,Санкт-Петербург,2022,бензин,2.0,249,робот,4WD,,черный,,левый,1 поколение,2.0 DCT AWD President,0,5279900
+134435,https://minvody.drom.ru/cheryexeed/vx/47940507.html,Exeed,VX,Минеральные Воды,2022,бензин,2.0,249,робот,4WD,,белый,2012,левый,1 поколение,,0,4099000
+134436,https://moscow.drom.ru/cheryexeed/vx/45633422.html,Exeed,VX,Москва,2021,бензин,2.0,249,робот,4WD,,,,левый,1 поколение,2.0 DCT AWD President,0,5350000
+134438,https://sevastopol.drom.ru/cheryexeed/txl/47665253.html,Exeed,TXL,Севастополь,2022,бензин,1.6,186,робот,4WD,,,,левый,"1 поколение, рестайлинг",1.6 DCT AWD Flagship,0,3629900
+134439,https://barnaul.drom.ru/cheryexeed/vx/48971638.html,Exeed,VX,Барнаул,2022,бензин,2.0,249,робот,4WD,,черный,,левый,1 поколение,,0,5649900
+134440,https://moscow.drom.ru/cheryexeed/txl/48970934.html,Exeed,TXL,Москва,2022,бензин,1.6,186,робот,4WD,,серый,15265,левый,"1 поколение, рестайлинг",,0,3170000
+134441,https://surgut.drom.ru/cheryexeed/vx/47897726.html,Exeed,VX,Сургут,2022,бензин,2.0,249,робот,4WD,,серый,,левый,1 поколение,2.0 DCT AWD President,1,4749900
+134442,https://novosibirsk.drom.ru/cheryexeed/vx/48051244.html,Exeed,VX,Новосибирск,2022,бензин,2.0,249,робот,4WD,,черный,2500,левый,1 поколение,2.0 DCT AWD President,0,3999000
+134443,https://surgut.drom.ru/cheryexeed/vx/48533878.html,Exeed,VX,Сургут,2022,бензин,2.0,249,робот,4WD,,серый,,левый,1 поколение,2.0 DCT AWD President,1,5249900
+134444,https://kemerovo.drom.ru/cheryexeed/txl/47773259.html,Exeed,TXL,Кемерово,2021,бензин,1.6,186,робот,4WD,,серый,4112,левый,"1 поколение, рестайлинг",1.6 DCT AWD Flagship,0,2879000
+134445,https://noyabrsk.drom.ru/cheryexeed/vx/48567715.html,Exeed,VX,Ноябрьск,2022,бензин,2.0,249,робот,4WD,,серый,,левый,1 поколение,2.0 DCT AWD President,1,5249900
+134446,https://surgut.drom.ru/cheryexeed/vx/48269113.html,Exeed,VX,Сургут,2022,бензин,2.0,249,робот,4WD,,серый,15926,левый,1 поколение,,0,4245250
+134447,https://himki.drom.ru/cheryexeed/txl/48964741.html,,,Химки,2022,бензин,1.6,"186 л.с., ",робот,4WD,,,,левый,"1 поколение, рестайлинг",1.6 DCT AWD Flagship,0,4249900₽
+134448,https://himki.drom.ru/cheryexeed/txl/48964740.html,,,Химки,2022,бензин,1.6,"186 л.с., ",робот,4WD,,,,левый,"1 поколение, рестайлинг",1.6 DCT AWD Flagship,0,4249900₽
+134449,https://irkutsk.drom.ru/cheryexeed/lx/48773463.html,,,Иркутск,2022,бензин,1.5,"147 л.с., ",вариатор,передний,,красный,,левый,1 поколение,1.5 CVT Luxury,0,2999900₽
+134450,https://habarovsk.drom.ru/cheryexeed/lx/47467862.html,,,Хабаровск,2022,бензин,1.5,"147 л.с., ",вариатор,передний,,,,левый,1 поколение,1.5 CVT Prestige,0,2855916₽
+134451,https://rostov-na-donu.drom.ru/cheryexeed/vx/48964252.html,Exeed,VX,Ростов-на-Дону,2022,бензин,2.0,249,робот,4WD,,фиолетовый,3568,левый,1 поколение,,0,4350000
+134452,https://moscow.drom.ru/cheryexeed/txl/46385436.html,,,Москва,2022,бензин,1.6,"186 л.с., ",робот,4WD,,,,левый,"1 поколение, рестайлинг",1.6 DCT AWD Flagship,0,4250000₽
+134453,https://moscow.drom.ru/cheryexeed/txl/46385440.html,,,Москва,2022,бензин,1.6,"186 л.с., ",робот,4WD,,белый,,левый,"1 поколение, рестайлинг",1.6 DCT AWD Flagship,0,4250000₽
+134454,https://moscow.drom.ru/cheryexeed/txl/46353658.html,,,Москва,2022,бензин,1.6,"186 л.с., ",робот,4WD,,,,левый,"1 поколение, рестайлинг",1.6 DCT AWD Flagship,0,4250000₽
+134455,https://moscow.drom.ru/cheryexeed/txl/46353659.html,Exeed,TXL,Москва,2022,бензин,1.6,186,робот,4WD,,,,левый,"1 поколение, рестайлинг",1.6 DCT AWD Flagship,0,4250000
+134456,https://moscow.drom.ru/cheryexeed/txl/46353669.html,Exeed,TXL,Москва,2022,бензин,1.6,186,робот,4WD,,белый,,левый,"1 поколение, рестайлинг",1.6 DCT AWD Flagship,0,4250000
+134457,https://moscow.drom.ru/cheryexeed/txl/46353684.html,Exeed,TXL,Москва,2022,бензин,1.6,186,робот,4WD,,,,левый,"1 поколение, рестайлинг",1.6 DCT AWD Flagship,0,4250000
+134458,https://moscow.drom.ru/cheryexeed/vx/45456679.html,,,Москва,2021,бензин,2.0,"249 л.с., ",робот,4WD,,,,левый,1 поколение,2.0 DCT AWD Luxury,0,5074000₽
+134459,https://orenburg.drom.ru/cheryexeed/vx/48947457.html,Exeed,VX,Оренбург,2022,бензин,2.0,249,робот,4WD,,белый,10,левый,1 поколение,2.0 DCT AWD President Limited Edition,0,4395000
+134460,https://perm.drom.ru/cheryexeed/txl/48961717.html,Exeed,TXL,Пермь,2022,бензин,2.0,197,робот,4WD,,черный,новый автомобиль,левый,"1 поколение, рестайлинг",2.0 TGDI DCT AWD Sport Edition,0,4189900
+134461,https://perm.drom.ru/cheryexeed/txl/48961716.html,Exeed,TXL,Пермь,2022,бензин,2.0,197,робот,4WD,,серый,новый автомобиль,левый,"1 поколение, рестайлинг",2.0 TGDI DCT AWD Sport Edition,0,4189900
+134462,https://voronezh.drom.ru/cheryexeed/txl/48961588.html,Exeed,TXL,Воронеж,2021,бензин,1.6,186,робот,4WD,,фиолетовый,3154,левый,1 поколение,,0,3250000
+134463,https://moscow.drom.ru/cheryexeed/txl/48615027.html,Exeed,TXL,Москва,2022,бензин,1.6,186,робот,4WD,,серый,,левый,"1 поколение, рестайлинг",1.6 DCT AWD Flagship,0,4250000
+134465,https://moscow.drom.ru/cheryexeed/txl/48593536.html,Exeed,TXL,Москва,2022,бензин,2.0,197,робот,4WD,,,,левый,"1 поколение, рестайлинг",2.0 TGDI DCT AWD Sport Edition,0,4650000
+134466,https://vladivostok.drom.ru/cheryexeed/vx/48664462.html,Exeed,VX,Владивосток,2022,бензин,2.0,249,робот,4WD,,зеленый,,левый,1 поколение,2.0 DCT AWD President Limited Edition,0,5349900
+134467,https://surgut.drom.ru/cheryexeed/vx/48582504.html,Exeed,VX,Сургут,2022,бензин,2.0,249,робот,4WD,,фиолетовый,,левый,1 поколение,2.0 DCT AWD President,0,4749900
+134468,https://himki.drom.ru/cheryexeed/vx/48953060.html,Exeed,VX,Химки,2022,бензин,2.0,249,робот,4WD,,черный,,левый,1 поколение,2.0 DCT AWD President,0,5279900
+134469,https://himki.drom.ru/cheryexeed/txl/48953061.html,Exeed,TXL,Химки,2022,бензин,1.6,186,робот,4WD,,,,левый,"1 поколение, рестайлинг",1.6 DCT AWD Flagship,0,4249900
+134470,https://himki.drom.ru/cheryexeed/txl/48953062.html,Exeed,TXL,Химки,2022,бензин,2.0,197,робот,4WD,,,,левый,"1 поколение, рестайлинг",2.0 TGDI DCT AWD Sport Edition,0,4649900
+134471,https://himki.drom.ru/cheryexeed/txl/48953059.html,Exeed,TXL,Химки,2022,бензин,1.6,186,робот,4WD,,,,левый,"1 поколение, рестайлинг",1.6 DCT AWD Flagship,0,4249900
+134472,https://moscow.drom.ru/cheryexeed/txl/46586501.html,Exeed,TXL,Москва,2022,бензин,1.6,186,робот,4WD,,,,левый,"1 поколение, рестайлинг",1.6 DCT AWD Flagship,0,4249900
+134473,https://moscow.drom.ru/cheryexeed/txl/46586502.html,Exeed,TXL,Москва,2022,бензин,1.6,186,робот,4WD,,,,левый,"1 поколение, рестайлинг",1.6 DCT AWD Flagship,0,4249900
+134474,https://moscow.drom.ru/cheryexeed/txl/46586503.html,Exeed,TXL,Москва,2022,бензин,1.6,186,робот,4WD,,белый,,левый,"1 поколение, рестайлинг",1.6 DCT AWD Flagship,0,4249900
+134475,https://moscow.drom.ru/cheryexeed/txl/46586508.html,Exeed,TXL,Москва,2022,бензин,1.6,186,робот,4WD,,белый,,левый,"1 поколение, рестайлинг",1.6 DCT AWD Flagship,0,4249900
+134476,https://moscow.drom.ru/cheryexeed/txl/46586515.html,Exeed,TXL,Москва,2022,бензин,1.6,186,робот,4WD,,белый,,левый,"1 поколение, рестайлинг",1.6 DCT AWD Flagship,0,4249900
+134477,https://moscow.drom.ru/cheryexeed/txl/46586521.html,Exeed,TXL,Москва,2022,бензин,1.6,186,робот,4WD,,белый,,левый,"1 поколение, рестайлинг",1.6 DCT AWD Flagship,0,4249900
+134478,https://moscow.drom.ru/cheryexeed/txl/46586527.html,Exeed,TXL,Москва,2022,бензин,1.6,186,робот,4WD,,белый,,левый,"1 поколение, рестайлинг",1.6 DCT AWD Flagship,0,4249900
+134479,https://moscow.drom.ru/cheryexeed/txl/46586544.html,Exeed,TXL,Москва,2022,бензин,1.6,186,робот,4WD,,белый,,левый,"1 поколение, рестайлинг",1.6 DCT AWD Flagship,0,4249900
+134481,https://moscow.drom.ru/cheryexeed/txl/46586549.html,Exeed,TXL,Москва,2022,бензин,1.6,186,робот,4WD,,черный,,левый,"1 поколение, рестайлинг",1.6 DCT AWD Flagship,0,4249900
+134482,https://moscow.drom.ru/cheryexeed/txl/46586550.html,Exeed,TXL,Москва,2022,бензин,1.6,186,робот,4WD,,черный,,левый,"1 поколение, рестайлинг",1.6 DCT AWD Flagship,0,4249900
+134483,https://moscow.drom.ru/cheryexeed/txl/46586551.html,Exeed,TXL,Москва,2022,бензин,1.6,186,робот,4WD,,черный,,левый,"1 поколение, рестайлинг",1.6 DCT AWD Flagship,0,4249900
+134484,https://moscow.drom.ru/cheryexeed/txl/46586552.html,Exeed,TXL,Москва,2022,бензин,1.6,186,робот,4WD,,черный,,левый,"1 поколение, рестайлинг",1.6 DCT AWD Flagship,0,4249900
+134485,https://moscow.drom.ru/cheryexeed/txl/46586553.html,Exeed,TXL,Москва,2022,бензин,1.6,186,робот,4WD,,черный,,левый,"1 поколение, рестайлинг",1.6 DCT AWD Flagship,0,4249900
+134487,https://moscow.drom.ru/cheryexeed/txl/46586576.html,Exeed,TXL,Москва,2022,бензин,1.6,186,робот,4WD,,фиолетовый,,левый,"1 поколение, рестайлинг",1.6 DCT AWD Flagship,0,4249900

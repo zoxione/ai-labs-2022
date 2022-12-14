@@ -80,7 +80,28 @@
             </Attribute>
           </value>
         </entry>
+        <entry key="\parser\cars\cars_20221214130439952749.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
         <entry key="\parser\diff_cars.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\parser\normalize_cars.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\parser\normalize_cars_numbers.csv">
           <value>
             <Attribute>
               <option name="separator" value="," />

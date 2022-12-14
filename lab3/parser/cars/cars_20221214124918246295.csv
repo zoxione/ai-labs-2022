@@ -1,0 +1,655 @@
+Id,Url,Brand,Model,Region,Year,Engine,EngineVolume,Power,Transmission,Drive,Body,Color,Mileage,Wheel,Generation,Complectation,IsSold,Price
+4603,https://omsk.drom.ru/chevrolet/captiva/48513537.html,Chevrolet,Captiva,Омск,2015,дизель,2.2,184,АКПП,4WD,,коричневый,130000,левый,"1 поколение, 2 рестайлинг",,0,1379000
+4604,https://barnaul.drom.ru/chevrolet/niva/48938943.html,Chevrolet,Niva,Барнаул,2018,бензин,1.7,80,механика,4WD,,коричневый,43250,левый,"1 поколение, рестайлинг",,0,779000
+4605,https://novokuznetsk.drom.ru/chevrolet/niva/49069506.html,Chevrolet,Niva,Новокузнецк,2015,бензин,1.7,80,механика,4WD,,серебристый,67000,левый,"1 поколение, рестайлинг",,0,620000
+4606,https://nizhnevartovsk.drom.ru/chevrolet/niva/46564340.html,Chevrolet,Niva,Нижневартовск,2015,бензин,1.7,80,механика,4WD,,белый,139000,левый,"1 поколение, рестайлинг",,0,450000
+4607,https://surgut.drom.ru/chevrolet/niva/48011553.html,Chevrolet,Niva,Сургут,2017,бензин,1.7,80,механика,4WD,,серый,68000,левый,"1 поколение, рестайлинг",,0,629000
+4608,https://dubinino.drom.ru/chevrolet/niva/48399681.html,Chevrolet,Niva,Дубинино,2016,бензин,1.7,80,механика,4WD,,белый,93000,левый,"1 поколение, рестайлинг",,0,650000
+4609,https://novosibirsk.drom.ru/chevrolet/niva/46152999.html,Chevrolet,Niva,Новосибирск,2016,бензин,1.7,80,механика,4WD,,серебристый,97380,левый,"1 поколение, рестайлинг",,0,585000
+4610,https://novokuznetsk.drom.ru/chevrolet/niva/48789163.html,Chevrolet,Niva,Новокузнецк,2018,бензин,1.7,80,механика,4WD,,серебристый,93000,левый,"1 поколение, рестайлинг",1.7 MT LE+,0,770000
+4611,https://ufa.drom.ru/chevrolet/niva/49114678.html,Chevrolet,Niva,Уфа,2015,бензин,1.7,80,механика,4WD,,серебристый,28439,левый,"1 поколение, рестайлинг",,0,655000
+4612,https://orsk.drom.ru/chevrolet/niva/49114655.html,Chevrolet,Niva,Орск,2018,бензин,1.7,80,механика,4WD,,зеленый,57303,левый,"1 поколение, рестайлинг",,0,772000
+4613,https://zyryanskoe.drom.ru/chevrolet/niva/48931740.html,Chevrolet,Niva,Зырянское,2019,бензин,1.7,80,механика,4WD,,черный,46550,левый,"1 поколение, рестайлинг",1.7 MT GLC Multimedia,0,855000
+4614,https://chelyabinsk.drom.ru/chevrolet/niva/48954821.html,Chevrolet,Niva,Челябинск,2015,бензин,1.7,80,механика,4WD,,коричневый,21000,левый,"1 поколение, рестайлинг",1.7 MT LC,0,750000
+4615,https://novocherkassk.drom.ru/chevrolet/niva/48917318.html,Chevrolet,Niva,Новочеркасск,2017,бензин,1.7,80,механика,4WD,,зеленый,132160,левый,"1 поколение, рестайлинг",,0,769000
+4616,https://cheboksary.drom.ru/chevrolet/camaro/48962199.html,Chevrolet,Camaro,Чебоксары,2016,бензин,2.0,238,АКПП,задний,купе,бордовый,54000,левый,6 поколение,2.0 AT 2LT ,0,2500000
+4617,https://biysk.drom.ru/chevrolet/niva/47455337.html,Chevrolet,Niva,Бийск,2017,бензин,1.7,80,механика,4WD,,синий,66000,левый,"1 поколение, рестайлинг",1.7 MT LE ,0,655000
+4618,https://surgut.drom.ru/chevrolet/niva/48615077.html,Chevrolet,Niva,Сургут,2018,бензин,1.7,80,механика,4WD,,коричневый,150002,левый,"1 поколение, рестайлинг",,0,629990
+4619,https://salavat.drom.ru/chevrolet/niva/47081219.html,Chevrolet,Niva,Салават,2018,бензин,1.7,80,механика,4WD,,белый,101000,левый,"1 поколение, рестайлинг",1.7 MT GL,0,650000
+4620,https://krasnoyarsk.drom.ru/chevrolet/niva/46648735.html,Chevrolet,Niva,Красноярск,2018,бензин,1.7,80,механика,4WD,,зеленый,47000,левый,"1 поколение, рестайлинг",1.7 MT LE ,0,760000
+4621,https://krasnoyarsk.drom.ru/chevrolet/niva/48034140.html,Chevrolet,Niva,Красноярск,2018,бензин,1.7,80,механика,4WD,,серый,8700,левый,"1 поколение, рестайлинг",,0,758000
+4622,https://novosibirsk.drom.ru/chevrolet/niva/48742754.html,Chevrolet,Niva,Новосибирск,2015,бензин,1.7,80,механика,4WD,,серебристый,40000,левый,"1 поколение, рестайлинг",1.7 MT GLC,0,670000
+4623,https://togliatti.drom.ru/chevrolet/niva/41743566.html,Chevrolet,Niva,Тольятти,2017,бензин,1.7,80,механика,4WD,,белый,48000,левый,"1 поколение, рестайлинг",,0,680000
+4625,https://barnaul.drom.ru/chevrolet/niva/48864543.html,Chevrolet,Niva,Барнаул,2015,бензин,1.7,80,механика,4WD,,серый,103560,левый,"1 поколение, рестайлинг",,1,579000
+4626,https://perm.drom.ru/chevrolet/niva/46423823.html,Chevrolet,Niva,Пермь,2018,бензин,1.7,80,механика,4WD,,белый,53000,левый,"1 поколение, рестайлинг",,0,777000
+4628,https://tula.drom.ru/chevrolet/niva/48776993.html,Chevrolet,Niva,Тула,2016,бензин,1.7,80,механика,4WD,,зеленый,68888,левый,"1 поколение, рестайлинг",,0,689000
+4629,https://surgut.drom.ru/chevrolet/cruze/49131098.html,Chevrolet,Cruze,Сургут,2018,бензин,1.4,153,АКПП,передний,седан,серый,130000,левый,2 поколение,,0,1159000
+4630,https://krasnodar.drom.ru/chevrolet/cruze/49130917.html,Chevrolet,Cruze,Краснодар,2016,бензин,1.4,153,АКПП,передний,седан,черный,95000,левый,2 поколение,1.4 AT Premier,0,1020000
+4631,https://irkutsk.drom.ru/chevrolet/volt/47884610.html,Chevrolet,Volt,Иркутск,2017,бензин,1.5,101,вариатор,передний,,серебристый,51000,левый,2 поколение,1.5 CVT LT,0,1950000
+4632,https://nizhnevartovsk.drom.ru/chevrolet/niva/48990043.html,Chevrolet,Niva,Нижневартовск,2016,бензин,1.7,80,механика,4WD,,серый,83000,левый,"1 поколение, рестайлинг",,0,595000
+4603,https://omsk.drom.ru/chevrolet/captiva/48513537.html,Chevrolet,Captiva,Омск,2015,дизель,2.2,184,АКПП,4WD,,коричневый,130000,левый,"1 поколение, 2 рестайлинг",,0,1379000
+4604,https://barnaul.drom.ru/chevrolet/niva/48938943.html,Chevrolet,Niva,Барнаул,2018,бензин,1.7,80,механика,4WD,,коричневый,43250,левый,"1 поколение, рестайлинг",,0,779000
+4605,https://novokuznetsk.drom.ru/chevrolet/niva/49069506.html,Chevrolet,Niva,Новокузнецк,2015,бензин,1.7,80,механика,4WD,,серебристый,67000,левый,"1 поколение, рестайлинг",,0,620000
+4606,https://nizhnevartovsk.drom.ru/chevrolet/niva/46564340.html,Chevrolet,Niva,Нижневартовск,2015,бензин,1.7,80,механика,4WD,,белый,139000,левый,"1 поколение, рестайлинг",,0,450000
+4607,https://surgut.drom.ru/chevrolet/niva/48011553.html,Chevrolet,Niva,Сургут,2017,бензин,1.7,80,механика,4WD,,серый,68000,левый,"1 поколение, рестайлинг",,0,629000
+4608,https://dubinino.drom.ru/chevrolet/niva/48399681.html,Chevrolet,Niva,Дубинино,2016,бензин,1.7,80,механика,4WD,,белый,93000,левый,"1 поколение, рестайлинг",,0,650000
+4609,https://novosibirsk.drom.ru/chevrolet/niva/46152999.html,Chevrolet,Niva,Новосибирск,2016,бензин,1.7,80,механика,4WD,,серебристый,97380,левый,"1 поколение, рестайлинг",,0,585000
+4610,https://novokuznetsk.drom.ru/chevrolet/niva/48789163.html,Chevrolet,Niva,Новокузнецк,2018,бензин,1.7,80,механика,4WD,,серебристый,93000,левый,"1 поколение, рестайлинг",1.7 MT LE+,0,770000
+4611,https://ufa.drom.ru/chevrolet/niva/49114678.html,Chevrolet,Niva,Уфа,2015,бензин,1.7,80,механика,4WD,,серебристый,28439,левый,"1 поколение, рестайлинг",,0,655000
+4612,https://orsk.drom.ru/chevrolet/niva/49114655.html,Chevrolet,Niva,Орск,2018,бензин,1.7,80,механика,4WD,,зеленый,57303,левый,"1 поколение, рестайлинг",,0,772000
+4613,https://zyryanskoe.drom.ru/chevrolet/niva/48931740.html,Chevrolet,Niva,Зырянское,2019,бензин,1.7,80,механика,4WD,,черный,46550,левый,"1 поколение, рестайлинг",1.7 MT GLC Multimedia,0,855000
+4614,https://chelyabinsk.drom.ru/chevrolet/niva/48954821.html,Chevrolet,Niva,Челябинск,2015,бензин,1.7,80,механика,4WD,,коричневый,21000,левый,"1 поколение, рестайлинг",1.7 MT LC,0,750000
+4615,https://novocherkassk.drom.ru/chevrolet/niva/48917318.html,Chevrolet,Niva,Новочеркасск,2017,бензин,1.7,80,механика,4WD,,зеленый,132160,левый,"1 поколение, рестайлинг",,0,769000
+4616,https://cheboksary.drom.ru/chevrolet/camaro/48962199.html,Chevrolet,Camaro,Чебоксары,2016,бензин,2.0,238,АКПП,задний,купе,бордовый,54000,левый,6 поколение,2.0 AT 2LT ,0,2500000
+4617,https://biysk.drom.ru/chevrolet/niva/47455337.html,Chevrolet,Niva,Бийск,2017,бензин,1.7,80,механика,4WD,,синий,66000,левый,"1 поколение, рестайлинг",1.7 MT LE ,0,655000
+4618,https://surgut.drom.ru/chevrolet/niva/48615077.html,Chevrolet,Niva,Сургут,2018,бензин,1.7,80,механика,4WD,,коричневый,150002,левый,"1 поколение, рестайлинг",,0,629990
+4619,https://salavat.drom.ru/chevrolet/niva/47081219.html,Chevrolet,Niva,Салават,2018,бензин,1.7,80,механика,4WD,,белый,101000,левый,"1 поколение, рестайлинг",1.7 MT GL,0,650000
+4620,https://krasnoyarsk.drom.ru/chevrolet/niva/46648735.html,Chevrolet,Niva,Красноярск,2018,бензин,1.7,80,механика,4WD,,зеленый,47000,левый,"1 поколение, рестайлинг",1.7 MT LE ,0,760000
+4621,https://krasnoyarsk.drom.ru/chevrolet/niva/48034140.html,Chevrolet,Niva,Красноярск,2018,бензин,1.7,80,механика,4WD,,серый,8700,левый,"1 поколение, рестайлинг",,0,758000
+4622,https://novosibirsk.drom.ru/chevrolet/niva/48742754.html,Chevrolet,Niva,Новосибирск,2015,бензин,1.7,80,механика,4WD,,серебристый,40000,левый,"1 поколение, рестайлинг",1.7 MT GLC,0,670000
+4623,https://togliatti.drom.ru/chevrolet/niva/41743566.html,Chevrolet,Niva,Тольятти,2017,бензин,1.7,80,механика,4WD,,белый,48000,левый,"1 поколение, рестайлинг",,0,680000
+4625,https://barnaul.drom.ru/chevrolet/niva/48864543.html,Chevrolet,Niva,Барнаул,2015,бензин,1.7,80,механика,4WD,,серый,103560,левый,"1 поколение, рестайлинг",,1,579000
+4626,https://perm.drom.ru/chevrolet/niva/46423823.html,Chevrolet,Niva,Пермь,2018,бензин,1.7,80,механика,4WD,,белый,53000,левый,"1 поколение, рестайлинг",,0,777000
+4628,https://tula.drom.ru/chevrolet/niva/48776993.html,Chevrolet,Niva,Тула,2016,бензин,1.7,80,механика,4WD,,зеленый,68888,левый,"1 поколение, рестайлинг",,0,689000
+4629,https://surgut.drom.ru/chevrolet/cruze/49131098.html,Chevrolet,Cruze,Сургут,2018,бензин,1.4,153,АКПП,передний,седан,серый,130000,левый,2 поколение,,0,1159000
+4630,https://krasnodar.drom.ru/chevrolet/cruze/49130917.html,Chevrolet,Cruze,Краснодар,2016,бензин,1.4,153,АКПП,передний,седан,черный,95000,левый,2 поколение,1.4 AT Premier,0,1020000
+4631,https://irkutsk.drom.ru/chevrolet/volt/47884610.html,Chevrolet,Volt,Иркутск,2017,бензин,1.5,101,вариатор,передний,,серебристый,51000,левый,2 поколение,1.5 CVT LT,0,1950000
+4632,https://nizhnevartovsk.drom.ru/chevrolet/niva/48990043.html,Chevrolet,Niva,Нижневартовск,2016,бензин,1.7,80,механика,4WD,,серый,83000,левый,"1 поколение, рестайлинг",,0,595000
+4633,https://ryazan.drom.ru/chevrolet/niva/49129788.html,Chevrolet,Niva,Рязань,2017,бензин,1.7,80,механика,4WD,,синий,128001,левый,"1 поколение, рестайлинг",,0,697000
+4634,https://moscow.drom.ru/chevrolet/tahoe/48443903.html,Chevrolet,Tahoe,Москва,2015,бензин,6.2,409,АКПП,4WD,джип/suv 5 дв.,серый,202000,левый,4 поколение,,0,2515000
+4635,https://voronezh.drom.ru/chevrolet/equinox/49129714.html,Chevrolet,Equinox,Воронеж,2017,бензин,1.5,170,АКПП,4WD,,синий,70751,левый,3 поколение,,0,1525000
+4636,https://pervomayskoe-barnaul.drom.ru/chevrolet/niva/49128573.html,Chevrolet,Niva,Первомайское,2017,бензин,1.7,80,механика,4WD,,черный,91000,левый,"1 поколение, рестайлинг",1.7 MT L,0,625000
+4638,https://surgut.drom.ru/chevrolet/niva/48690627.html,Chevrolet,Niva,Сургут,2019,бензин,1.7,80,механика,4WD,,серый,40042,левый,"1 поколение, рестайлинг",,0,799000
+4639,https://tyumen.drom.ru/chevrolet/niva/48458587.html,Chevrolet,Niva,Тюмень,2019,бензин,1.7,80,механика,4WD,,белый,32843,левый,"1 поколение, рестайлинг",,0,759000
+4640,https://tyumen.drom.ru/chevrolet/niva/49128110.html,Chevrolet,Niva,Тюмень,2016,бензин,1.7,80,механика,4WD,,белый,190000,левый,"1 поколение, рестайлинг",1.7 MT GL,1,385000
+4642,https://moscow.drom.ru/chevrolet/volt/49127937.html,Chevrolet,Volt,Москва,2016,бензин,1.5,101,вариатор,передний,,красный,93000,левый,2 поколение,,0,1440000
+4643,https://glazov.drom.ru/chevrolet/niva/49127511.html,Chevrolet,Niva,Глазов,2018,бензин,1.7,80,механика,4WD,,черный,48000,левый,"1 поколение, рестайлинг",,0,819000
+4668,https://moscow.drom.ru/chevrolet/cruze/48794583.html,Chevrolet,Cruze,Москва,2016,бензин,1.4,153,АКПП,передний,седан,коричневый,157000,левый,2 поколение,1.4 AT LT,0,1050000
+4674,https://barnaul.drom.ru/chevrolet/niva/48936812.html,Chevrolet,Niva,Барнаул,2019,бензин,1.7,80,механика,4WD,,зеленый,5700,левый,"1 поколение, рестайлинг",1.7 MT LE ,0,870000
+4680,https://novosibirsk.drom.ru/chevrolet/niva/49155380.html,Chevrolet,Niva,Новосибирск,2015,бензин,1.7,80,механика,4WD,,серебристый,40500,левый,"1 поколение, рестайлинг",,0,699000
+4690,https://moscow.drom.ru/chevrolet/malibu/48783220.html,Chevrolet,Malibu,Москва,2017,бензин,1.5,163,АКПП,передний,седан,белый,172000,левый,9 поколение,1.5T AT LT,0,1320000
+4691,https://samara.drom.ru/chevrolet/niva/48782987.html,Chevrolet,Niva,Самара,2017,бензин,1.7,80,механика,4WD,,серый,135503,левый,"1 поколение, рестайлинг",,0,653400
+4724,https://tyumen.drom.ru/chevrolet/cruze/48202486.html,Chevrolet,Cruze,Тюмень,2015,бензин,1.8,141,механика,передний,хэтчбек 5 дв.,черный,141000,левый,"1 поколение, рестайлинг",1.8 MT LS ,1,769000
+4725,https://krasnoyarsk.drom.ru/chevrolet/niva/46449398.html,Chevrolet,Niva,Красноярск,2018,бензин,1.7,80,механика,4WD,,серебристый,64000,левый,"1 поколение, рестайлинг",,0,737000
+4726,https://krasnoyarsk.drom.ru/chevrolet/captiva/48959394.html,Chevrolet,Captiva,Красноярск,2015,бензин,2.4,167,АКПП,4WD,,черный,148000,левый,"1 поколение, 2 рестайлинг",,0,1338000
+4727,https://krasnoyarsk.drom.ru/chevrolet/niva/49137847.html,Chevrolet,Niva,Красноярск,2018,бензин,1.7,80,механика,4WD,,серый,80000,левый,"1 поколение, рестайлинг",,0,790000
+4728,https://makhachkala.drom.ru/chevrolet/niva/49137290.html,Chevrolet,Niva,Махачкала,2017,бензин,1.7,80,механика,4WD,,серебристый,97000,левый,"1 поколение, рестайлинг",,0,660000
+4729,https://spb.drom.ru/chevrolet/traverse/48480405.html,Chevrolet,Traverse,Санкт-Петербург,2018,бензин,3.6,318,АКПП,4WD,,черный,30057,левый,2 поколение,,0,3189474
+4730,https://ekaterinburg.drom.ru/chevrolet/spark/48476887.html,Chevrolet,Spark,Екатеринбург,2018,бензин,1.4,98,вариатор,передний,,серый,53000,левый,2 поколение,,0,935000
+4731,https://kogalym.drom.ru/chevrolet/tahoe/48476311.html,Chevrolet,Tahoe,Когалым,2016,бензин,6.2,409,АКПП,4WD,джип/suv 5 дв.,белый,195000,левый,4 поколение,6.2 AT LTZ,0,3999999
+4732,https://orel.drom.ru/chevrolet/aveo/48130167.html,Chevrolet,Aveo,Орел,2015,бензин,1.6,115,механика,передний,седан,белый,72000,левый,2 поколение,1.6 MT LT Comfort Pack,0,670000
+4733,https://moscow.drom.ru/chevrolet/malibu/48128949.html,Chevrolet,Malibu,Москва,2017,бензин,1.5,163,АКПП,передний,седан,серый,125000,левый,9 поколение,1.5T AT LT,0,1355555
+4734,https://tomsk.drom.ru/chevrolet/niva/47841255.html,Chevrolet,Niva,Томск,2018,бензин,1.7,80,механика,4WD,,белый,68000,левый,"1 поколение, рестайлинг",1.7 MT SE,0,710000
+4735,https://bataysk.drom.ru/chevrolet/cruze/47797995.html,Chevrolet,Cruze,Батайск,2016,бензин,1.4,153,АКПП,передний,седан,серый,96000,левый,2 поколение,1.4 AT Premier,0,900000
+4736,https://uporovo.drom.ru/chevrolet/niva/47791771.html,Chevrolet,Niva,Упорово,2017,бензин,1.7,80,механика,4WD,,белый,120000,левый,"1 поколение, рестайлинг",,0,605000
+4737,https://nizhnevartovsk.drom.ru/chevrolet/niva/47464888.html,Chevrolet,Niva,Нижневартовск,2016,бензин,1.7,80,механика,4WD,,черный,166000,левый,"1 поколение, рестайлинг",1.7 MT LE+,0,600000
+4738,https://moscow.drom.ru/chevrolet/tahoe/47463740.html,Chevrolet,Tahoe,Москва,2016,бензин,6.2,409,АКПП,4WD,джип/suv 5 дв.,черный,160000,левый,4 поколение,6.2 AT LT,0,3580000
+4739,https://kurgan.drom.ru/chevrolet/niva/46642454.html,Chevrolet,Niva,Курган,2015,бензин,1.7,80,механика,4WD,,серебристый,113000,левый,"1 поколение, рестайлинг",1.7 MT GLC,0,550000
+4740,https://krasnodar.drom.ru/chevrolet/corvette/37434593.html,Chevrolet,Corvette,Краснодар,2019,бензи,,,механика,задний,открытый,черный,1590,левый,,,0,5000000
+4741,https://berezniky.drom.ru/chevrolet/niva/49150740.html,Chevrolet,Niva,Березники,2015,бензин,1.7,80,механика,4WD,,серый,75000,левый,"1 поколение, рестайлинг",,0,600000
+4742,https://abakan.drom.ru/chevrolet/niva/48925733.html,Chevrolet,Niva,Абакан,2017,бензин,1.7,80,механика,4WD,,серебристый,100000,левый,"1 поколение, рестайлинг",1.7 MT GL,0,695000
+4743,https://yoshkar-ola.drom.ru/chevrolet/niva/49149987.html,Chevrolet,Niva,Йошкар-Ола,2015,бензин,1.7,80,механика,4WD,,серебристый,96000,левый,"1 поколение, рестайлинг",,0,580000
+4744,https://kurgan.drom.ru/chevrolet/niva/49149915.html,Chevrolet,Niva,Курган,2015,бензин,1.7,80,механика,4WD,,белый,135000,левый,"1 поколение, рестайлинг",,0,569000
+4745,https://rostov-na-donu.drom.ru/chevrolet/niva/45730956.html,Chevrolet,Niva,Ростов-на-Дону,2018,бензин,1.7,80,механика,4WD,,зеленый,53000,левый,"1 поколение, рестайлинг",1.7 MT LC,0,780000
+4746,https://engels.drom.ru/chevrolet/niva/49149202.html,Chevrolet,Niva,Энгельс,2019,бензин,1.7,80,механика,4WD,,зеленый,85000,левый,"1 поколение, рестайлинг",,0,750000
+4747,https://voronezh.drom.ru/chevrolet/niva/49148939.html,Chevrolet,Niva,Воронеж,2017,бензин,1.7,80,механика,4WD,,красный,88000,левый,"1 поколение, рестайлинг",,0,645000
+4748,https://krasnodar.drom.ru/chevrolet/niva/49148555.html,Chevrolet,Niva,Краснодар,2015,бензин,1.7,80,механика,4WD,,черный,185000,левый,"1 поколение, рестайлинг",1.7 MT GLC,0,520000
+4749,https://tambov.drom.ru/chevrolet/niva/48793856.html,Chevrolet,Niva,Тамбов,2016,бензин,1.7,80,механика,4WD,,серый,83500,левый,"1 поколение, рестайлинг",,0,651000
+4750,https://stavropol.drom.ru/chevrolet/niva/48790767.html,Chevrolet,Niva,Ставрополь,2017,бензин,1.7,80,механика,4WD,,зеленый,67600,левый,"1 поколение, рестайлинг",,0,740000
+4752,https://verhnyaya-salda.drom.ru/chevrolet/niva/48786948.html,Chevrolet,Niva,Верхняя Салда,2017,бензин,1.7,80,механика,4WD,,черный,28000,левый,"1 поколение, рестайлинг",,0,820000
+4753,https://voronezh.drom.ru/chevrolet/niva/48784330.html,Chevrolet,Niva,Воронеж,2019,бензин,1.7,80,механика,4WD,,красный,84918,левый,"1 поколение, рестайлинг",,0,800000
+4754,https://balashov.drom.ru/chevrolet/niva/48446359.html,Chevrolet,Niva,Балашов,2017,бензин,1.7,80,механика,4WD,,белый,44700,левый,"1 поколение, рестайлинг",1.7 MT GL,0,885000
+4755,https://spb.drom.ru/chevrolet/tahoe/48437984.html,Chevrolet,Tahoe,Санкт-Петербург,2016,бензин,6.2,409,АКПП,4WD,джип/suv 5 дв.,белый,71194,левый,4 поколение,,0,3420000
+4756,https://kulunda.drom.ru/chevrolet/niva/48129270.html,Chevrolet,Niva,Кулунда,2019,бензин,1.7,80,механика,4WD,,белый,22000,левый,"1 поколение, рестайлинг",1.7 MT GLC Multimedia,0,950000
+4757,https://vidnoe.drom.ru/chevrolet/malibu/48097930.html,Chevrolet,Malibu,Видное,2016,бензин,1.5,163,АКПП,передний,седан,черный,114436,левый,9 поколение,1.5T AT LT,0,1095000
+4758,https://ekaterinburg.drom.ru/chevrolet/malibu/46757961.html,Chevrolet,Malibu,Екатеринбург,2019,бензин,1.5,163,вариатор,передний,седан,серый,74000,левый,"9 поколение, рестайлинг",1.5T CVT LT,0,1300000
+4759,https://tomsk.drom.ru/chevrolet/niva/46719296.html,Chevrolet,Niva,Томск,2019,бензин,1.7,80,механика,4WD,,серый,67000,левый,"1 поколение, рестайлинг",1.7 MT GL,0,810000
+4760,https://samara.drom.ru/chevrolet/niva/46626903.html,Chevrolet,Niva,Самара,2017,бензин,1.7,80,механика,4WD,,серебристый,156295,левый,"1 поколение, рестайлинг",,0,689000
+4761,https://moscow.drom.ru/chevrolet/bolt/46321097.html,Chevrolet,Bolt,Москва,2017,электр,,200,АКПП,передний,,серый,86000,левый,1 поколение,60 kWt EV LT,0,1890000
+4762,https://volgodonsk.drom.ru/chevrolet/aveo/44635995.html,Chevrolet,Aveo,Волгодонск,2015,бензин,1.6,115,механика,передний,седан,серебристый,106000,левый,2 поколение,,0,479990
+4763,https://krasnoyarsk.drom.ru/chevrolet/niva/42041724.html,Chevrolet,Niva,Красноярск,2015,бензин,1.7,80,механика,4WD,,зеленый,130000,левый,"1 поколение, рестайлинг",1.7 MT GLS ,0,850000
+4764,https://bolotnoe.drom.ru/chevrolet/niva/47889971.html,Chevrolet,Niva,Болотное,2019,бензин,1.7,80,механика,4WD,,зеленый,43,левый,"1 поколение, рестайлинг",1.7 MT LE+,0,873000
+4765,https://sochi.drom.ru/chevrolet/tahoe/48962023.html,Chevrolet,Tahoe,Сочи,2017,бензин,6.2,426,автомат,4WD,джип/suv 5 дв.,черный,56000,левый,,,0,3999000
+4766,https://voronezh.drom.ru/chevrolet/niva/49121032.html,Chevrolet,Niva,Воронеж,2018,бензин,1.7,80,механика,4WD,,серый,70000,левый,"1 поколение, рестайлинг",,0,753000
+4767,https://sevastopol.drom.ru/chevrolet/niva/49120543.html,Chevrolet,Niva,Севастополь,2018,бензин,1.7,80,механика,4WD,,белый,28500,левый,"1 поколение, рестайлинг",1.7 MT LE+,0,930000
+4768,https://barnaul.drom.ru/chevrolet/niva/48596629.html,Chevrolet,Niva,Барнаул,2015,бензин,1.7,80,механика,4WD,,серебристый,150000,левый,"1 поколение, рестайлинг",1.7 MT LC,0,635000
+4769,https://chernogorsk.drom.ru/chevrolet/niva/48810677.html,Chevrolet,Niva,Черногорск,2016,бензин,1.7,80,механика,4WD,,белый,82000,левый,"1 поколение, рестайлинг",1.7 MT L,0,625000
+4770,https://abakan.drom.ru/chevrolet/niva/49019181.html,Chevrolet,Niva,Абакан,2017,бензин,1.7,80,механика,4WD,,белый,77000,левый,"1 поколение, рестайлинг",1.7 MT L,0,714000
+4771,https://novosibirsk.drom.ru/chevrolet/spark/48922525.html,Chevrolet,Spark,Новосибирск,2017,бензин,1.0,98,автомат,передний,,серый,42000,левый,,,0,800000
+4772,https://barnaul.drom.ru/chevrolet/niva/48778089.html,Chevrolet,Niva,Барнаул,2016,бензин,1.7,80,механика,4WD,,белый,94800,левый,"1 поколение, рестайлинг",1.7 MT L,0,655000
+4773,https://novosibirsk.drom.ru/chevrolet/captiva/45149474.html,Chevrolet,Captiva,Новосибирск,2015,дизель,2.2,184,АКПП,4WD,,белый,156160,левый,"1 поколение, 2 рестайлинг",,0,1189000
+4774,https://rostov-na-donu.drom.ru/chevrolet/cruze/48816992.html,Chevrolet,Cruze,Ростов-на-Дону,2017,бензин,1.4,153,механика,передний,седан,черный,150000,левый,2 поколение,,0,910000
+4775,https://kazan.drom.ru/chevrolet/niva/48815621.html,Chevrolet,Niva,Казань,2016,бензин,1.7,80,механика,4WD,,серый,86500,левый,"1 поколение, рестайлинг",,0,629000
+4776,https://naberezhnye-chelny.drom.ru/chevrolet/niva/48815454.html,Chevrolet,Niva,Набережные Челны,2017,бензин,1.7,80,механика,4WD,,серебристый,88800,левый,"1 поколение, рестайлинг",,0,633000
+4777,https://izhevsk.drom.ru/chevrolet/niva/48814131.html,Chevrolet,Niva,Ижевск,2016,бензин,1.7,80,механика,4WD,,серый,128000,левый,"1 поколение, рестайлинг",,1,568000
+4778,https://ulyanovsk.drom.ru/chevrolet/niva/48810797.html,Chevrolet,Niva,Ульяновск,2018,бензин,1.7,80,механика,4WD,,черный,111000,левый,"1 поколение, рестайлинг",,0,749000
+4780,https://moscow.drom.ru/chevrolet/tahoe/48807343.html,,,,,,,,,,,,,,,,0,
+4781,https://novorossiysk.drom.ru/chevrolet/camaro/48806855.html,Chevrolet,Camaro,Новороссийск,2016,бензин,2.0,238,АКПП,задний,купе,желтый,50000,левый,6 поколение,2.0 AT 2LT ,0,2900000
+4783,https://ulyanovsk.drom.ru/chevrolet/cruze/48470137.html,Chevrolet,Cruze,Ульяновск,2016,бензин,1.4,153,АКПП,передний,седан,синий,86000,левый,2 поколение,,0,1215000
+4785,https://orenburg.drom.ru/chevrolet/niva/48462813.html,Chevrolet,Niva,Оренбург,2018,бензин,1.7,80,механика,4WD,,черный,99935,левый,"1 поколение, рестайлинг",,0,689000
+4786,https://novosibirsk.drom.ru/chevrolet/niva/48461735.html,Chevrolet,Niva,Новосибирск,2015,бензин,1.7,80,механика,4WD,,серебристый,116000,левый,"1 поколение, рестайлинг",,0,560000
+4787,https://moscow.drom.ru/chevrolet/tahoe/48459531.html,Chevrolet,Tahoe,Москва,2018,бензин,6.2,426,АКПП,4WD,джип/suv 5 дв.,черный,88615,левый,4 поколение,,0,3680000
+4788,https://rostov-na-donu.drom.ru/chevrolet/niva/48124019.html,Chevrolet,Niva,Ростов-на-Дону,2015,бензин,1.7,80,механика,4WD,,серебристый,26000,левый,"1 поколение, рестайлинг",,0,671000
+4789,https://tyumen.drom.ru/chevrolet/niva/48992331.html,Chevrolet,Niva,Тюмень,2017,бензин,1.7,80,механика,4WD,,серебристый,118980,левый,"1 поколение, рестайлинг",1.7 MT GLC,0,575000
+4790,https://perm.drom.ru/chevrolet/niva/48945183.html,Chevrolet,Niva,Пермь,2017,бензин,1.7,80,механика,4WD,,черный,51000,левый,"1 поколение, рестайлинг",,1,674000
+4791,https://togliatti.drom.ru/chevrolet/niva/49118856.html,Chevrolet,Niva,Тольятти,2017,бензин,1.7,80,механика,4WD,,коричневый,124800,левый,"1 поколение, рестайлинг",1.7 MT  Special Edition,0,570000
+4792,https://omsk.drom.ru/chevrolet/niva/47533738.html,Chevrolet,Niva,Омск,2016,бензин,1.7,80,механика,4WD,,серебристый,116000,левый,"1 поколение, рестайлинг",1.7 MT LC,0,589000
+4793,https://barnaul.drom.ru/chevrolet/niva/49117776.html,Chevrolet,Niva,Барнаул,2017,бензин,1.7,80,механика,4WD,,,161000,левый,"1 поколение, рестайлинг",,0,560000
+4794,https://tyumen.drom.ru/chevrolet/niva/48998356.html,Chevrolet,Niva,Тюмень,2018,бензин,1.7,80,механика,4WD,,серебристый,22208,левый,"1 поколение, рестайлинг",,0,847000
+4795,https://volzhskiy.drom.ru/chevrolet/niva/39566217.html,Chevrolet,Niva,Волжский,2016,бензин,1.7,80,механика,4WD,,серебристый,,левый,"1 поколение, рестайлинг",,0,459000
+4796,https://moscow.drom.ru/chevrolet/malibu/47195577.html,Chevrolet,Malibu,Москва,2019,бензин,1.5,163,вариатор,передний,седан,серебристый,110000,левый,"9 поколение, рестайлинг",,0,1275000
+4797,https://armavir.drom.ru/chevrolet/cruze/49116348.html,Chevrolet,Cruze,Армавир,2016,бензин,1.4,153,АКПП,передний,седан,красный,150000,левый,2 поколение,,0,1170000
+4798,https://armavir.drom.ru/chevrolet/cruze/49116349.html,Chevrolet,Cruze,Армавир,2016,бензин,1.4,153,АКПП,передний,седан,красный,150000,левый,2 поколение,,0,1170000
+4800,https://novopokrovskaya.drom.ru/chevrolet/niva/48906434.html,Chevrolet,Niva,Новопокровская,2015,бензин,1.7,80,механика,4WD,,белый,175000,левый,"1 поколение, рестайлинг",1.7 MT LE+,1,620000
+4801,https://krasnozerskoe.drom.ru/chevrolet/niva/48590841.html,Chevrolet,Niva,Краснозёрское,2016,бензин,1.7,80,механика,4WD,,коричневый,97000,левый,"1 поколение, рестайлинг",1.7 MT GLC,0,610000
+4803,https://leninsk-kuznetskiy.drom.ru/chevrolet/niva/49104207.html,Chevrolet,Niva,Ленинск-Кузнецкий,2017,бензин,1.7,80,механика,4WD,,серый,113500,левый,"1 поколение, рестайлинг",1.7 MT LE+,1,670000
+4804,https://krasnoyarsk.drom.ru/chevrolet/niva/49084284.html,Chevrolet,Niva,Красноярск,2016,бензин,1.7,80,механика,4WD,,белый,43000,левый,"1 поколение, рестайлинг",1.7 MT LE+,0,749000
+4805,https://krasnoyarsk.drom.ru/chevrolet/niva/46936286.html,Chevrolet,Niva,Красноярск,2018,бензин,1.7,80,механика,4WD,,серебристый,34000,левый,"1 поколение, рестайлинг",1.7 MT SE,0,719000
+4806,https://krasnoyarsk.drom.ru/chevrolet/niva/49029884.html,Chevrolet,Niva,Красноярск,2017,бензин,1.7,80,механика,4WD,,зеленый,67000,левый,"1 поколение, рестайлинг",1.7 MT SE,0,639000
+4807,https://novosibirsk.drom.ru/chevrolet/niva/48924831.html,Chevrolet,Niva,Новосибирск,2015,бензин,1.7,80,механика,4WD,,серебристый,80172,левый,"1 поколение, рестайлинг",,0,600000
+4808,https://homutovo-irk.drom.ru/chevrolet/niva/48635697.html,Chevrolet,Niva,Хомутово,2016,бензин,1.7,80,механика,4WD,,белый,78000,левый,"1 поколение, рестайлинг",1.7 MT GLC,0,560000
+4809,https://tyumen.drom.ru/chevrolet/niva/49136799.html,Chevrolet,Niva,Тюмень,2018,бензин,1.7,80,механика,4WD,,зеленый,50000,левый,"1 поколение, рестайлинг",1.7 MT LE ,0,800000
+4810,https://krasnodar.drom.ru/chevrolet/niva/49136276.html,Chevrolet,Niva,Краснодар,2018,бензин,1.7,80,механика,4WD,,коричневый,34640,левый,"1 поколение, рестайлинг",,0,775000
+4811,https://anzhero-sudzhensk.drom.ru/chevrolet/niva/48969339.html,Chevrolet,Niva,Анжеро-Судженск,2019,бензин,1.7,80,механика,4WD,,коричневый,27800,левый,"1 поколение, рестайлинг",,0,800000
+4813,https://krasnoyarsk.drom.ru/chevrolet/niva/49135392.html,Chevrolet,Niva,Красноярск,2016,бензин,1.7,80,механика,4WD,,серебристый,290000,левый,"1 поколение, рестайлинг",,0,450000
+4814,https://novosibirsk.drom.ru/chevrolet/niva/49135219.html,Chevrolet,Niva,Новосибирск,2015,бензин,1.7,80,механика,4WD,,красный,105000,левый,"1 поколение, рестайлинг",1.7 MT GLS ,0,595000
+4815,https://omsk.drom.ru/chevrolet/niva/49134644.html,Chevrolet,Niva,Омск,2018,бензин,1.7,80,механика,4WD,,коричневый,19000,левый,"1 поколение, рестайлинг",,0,862000
+4816,https://kemerovo.drom.ru/chevrolet/niva/47602788.html,Chevrolet,Niva,Кемерово,2018,бензин,1.7,80,механика,4WD,,коричневый,43000,левый,"1 поколение, рестайлинг",,0,689000
+4817,https://togliatti.drom.ru/chevrolet/niva/48801285.html,Chevrolet,Niva,Тольятти,2019,бензин,1.7,80,механика,4WD,,,119000,левый,"1 поколение, рестайлинг",,0,750000
+4818,https://novosibirsk.drom.ru/chevrolet/niva/48924957.html,Chevrolet,Niva,Новосибирск,2019,бензин,1.7,80,механика,4WD,,серебристый,55000,левый,"1 поколение, рестайлинг",,0,717000
+4819,https://novorossiysk.drom.ru/chevrolet/niva/48259101.html,Chevrolet,Niva,Новороссийск,2015,бензин,1.7,80,механика,4WD,,зеленый,100000,левый,"1 поколение, рестайлинг",,0,657000
+4821,https://nizhnevartovsk.drom.ru/chevrolet/niva/48852563.html,Chevrolet,Niva,Нижневартовск,2017,бензин,1.7,80,механика,4WD,,белый,190000,левый,"1 поколение, рестайлинг",1.7 MT L,1,480000
+4822,https://krasnoyarsk.drom.ru/chevrolet/niva/48971990.html,Chevrolet,Niva,Красноярск,2017,бензин,1.7,80,механика,4WD,,коричневый,44000,левый,"1 поколение, рестайлинг",,0,779000
+4823,https://kemerovo.drom.ru/chevrolet/spark/48803955.html,Chevrolet,Spark,Кемерово,2018,бензин,1.0,75,автомат,передний,,черный,53000,левый,,,0,779000
+4824,https://gorkovskoe.drom.ru/chevrolet/niva/49133486.html,Chevrolet,Niva,Горьковское,2018,бензин,1.7,80,механика,4WD,,серый,14658,левый,"1 поколение, рестайлинг",1.7 MT LE ,0,834000
+4826,https://omsk.drom.ru/chevrolet/niva/48872603.html,Chevrolet,Niva,Омск,2017,бензин,1.7,80,механика,4WD,,синий,55000,левый,"1 поколение, рестайлинг",,0,659000
+4827,https://kurgan.drom.ru/chevrolet/niva/49133307.html,Chevrolet,Niva,Курган,2018,бензин,1.7,80,механика,4WD,,белый,39000,левый,"1 поколение, рестайлинг",1.7 MT GLC,0,820000
+4828,https://tomsk.drom.ru/chevrolet/niva/48816464.html,Chevrolet,Niva,Томск,2015,бензин,1.7,80,механика,4WD,,серебристый,93000,левый,"1 поколение, рестайлинг",,0,639000
+4830,https://novosibirsk.drom.ru/chevrolet/spark/49107045.html,Chevrolet,Spark,Новосибирск,2019,бензин,1.0,,автомат,передний,,коричневый,39407,левый,,,0,1200000
+4831,https://omsk.drom.ru/chevrolet/niva/47819348.html,Chevrolet,Niva,Омск,2015,бензин,1.7,80,механика,4WD,,белый,120238,левый,"1 поколение, рестайлинг",,0,575000
+4832,https://habarovsk.drom.ru/chevrolet/camaro/48922289.html,Chevrolet,Camaro,Хабаровск,2018,бензин,2.0,238,АКПП,задний,купе,синий,47000,левый,6 поколение,2.0 AT 2LT ,0,3099000
+4833,https://chelyabinsk.drom.ru/chevrolet/equinox/49106295.html,Chevrolet,Equinox,Челябинск,2017,бензин,1.5,170,АКПП,передний,,серый,74500,левый,3 поколение,,0,1399900
+4834,https://nizhnevartovsk.drom.ru/chevrolet/camaro/49105418.html,Chevrolet,Camaro,Нижневартовск,2019,бензин,2.0,279,автомат,задний,купе,белый,40000,левый,,,0,3500000
+4835,https://berdsk.drom.ru/chevrolet/niva/46565177.html,Chevrolet,Niva,Бердск,2016,бензин,1.7,80,механика,4WD,,белый,92000,левый,"1 поколение, рестайлинг",1.7 MT Special Edition,0,650000
+4836,https://krasnodar.drom.ru/chevrolet/malibu/48970348.html,Chevrolet,Malibu,Краснодар,2019,бензин,1.4,150,автомат,передний,седан,красный,74000,левый,,,1,1568000
+4837,https://barnaul.drom.ru/chevrolet/niva/49104218.html,Chevrolet,Niva,Барнаул,2015,бензин,1.7,80,механика,4WD,,коричневый,63000,левый,"1 поколение, рестайлинг",,0,600000
+4838,https://vladivostok.drom.ru/chevrolet/camaro/47350139.html,Chevrolet,Camaro,Владивосток,2016,бензин,2.0,238,АКПП,задний,купе,желтый,40000,левый,6 поколение,2.0 AT 2LT ,0,2555000
+4839,https://nizhnevartovsk.drom.ru/chevrolet/niva/46695249.html,Chevrolet,Niva,Нижневартовск,2017,бензин,1.7,80,механика,4WD,,белый,180000,левый,"1 поколение, рестайлинг",,0,530000
+4840,https://sochi.drom.ru/chevrolet/camaro/47494321.html,Chevrolet,Camaro,Сочи,2019,бензин,2.0,238,АКПП,задний,купе,черный,16200,левый,"6 поколение, рестайлинг",,0,2650000
+4841,https://khanty-mansiysk.drom.ru/chevrolet/spark/48767500.html,Chevrolet,Spark,Ханты-Мансийск,2017,бензин,1.0,75,автомат,передний,,серый,44000,левый,,,0,770000
+4842,https://novosibirsk.drom.ru/chevrolet/tahoe/48850643.html,Chevrolet,Tahoe,Новосибирск,2015,бензин,6.2,409,АКПП,4WD,джип/suv 5 дв.,черный,169000,левый,4 поколение,6.2 AT LTZ,0,3500000
+4843,https://omsk.drom.ru/chevrolet/tahoe/48743116.html,Chevrolet,Tahoe,Омск,2016,бензин,6.2,409,АКПП,4WD,джип/suv 5 дв.,красный,105000,левый,4 поколение,6.2 AT LTZ,0,3850000
+4844,https://kaluga.drom.ru/chevrolet/malibu/49102686.html,Chevrolet,Malibu,Калуга,2018,бензин,1.5,160,автомат,передний,седан,красный,96921,левый,,,0,1375000
+4845,https://kaluga.drom.ru/chevrolet/niva/49102646.html,Chevrolet,Niva,Калуга,2018,бензин,1.7,80,механика,4WD,,черный,72633,левый,"1 поколение, рестайлинг",,0,790000
+4846,https://omsk.drom.ru/chevrolet/cruze/48338756.html,Chevrolet,Cruze,Омск,2016,бензин,1.4,153,АКПП,передний,седан,черный,101720,левый,2 поколение,1.4 AT LT,0,1000000
+4847,https://krasnoyarsk.drom.ru/chevrolet/niva/48711331.html,Chevrolet,Niva,Красноярск,2017,бензин,1.7,80,механика,4WD,,зеленый,54000,левый,"1 поколение, рестайлинг",1.7 MT LE+,0,720000
+4848,https://omsk.drom.ru/chevrolet/niva/48316026.html,Chevrolet,Niva,Омск,2018,бензин,1.7,80,механика,4WD,,белый,64329,левый,"1 поколение, рестайлинг",,0,744990
+4849,https://krasnoyarsk.drom.ru/chevrolet/niva/46759422.html,Chevrolet,Niva,Красноярск,2015,бензин,1.7,80,механика,4WD,,серый,110000,левый,"1 поколение, рестайлинг",,0,568000
+4850,https://salehard.drom.ru/chevrolet/niva/49096359.html,Chevrolet,Niva,Салехард,2015,бензин,1.7,80,механика,4WD,,коричневый,56600,левый,"1 поколение, рестайлинг",1.7 MT LE ,0,740000
+4852,https://kamensk-uralskiy.drom.ru/chevrolet/malibu/48170272.html,Chevrolet,Malibu,Каменск-Уральский,2019,бензин,1.5,163,вариатор,передний,седан,серый,71470,левый,"9 поколение, рестайлинг",,0,1300000
+4853,https://rostov-na-donu.drom.ru/chevrolet/niva/46729836.html,Chevrolet,Niva,Ростов-на-Дону,2018,бензин,1.7,80,механика,4WD,,белый,58500,левый,"1 поколение, рестайлинг",1.7 MT LE+,0,875000
+4854,https://mysky.drom.ru/chevrolet/malibu/49095101.html,Chevrolet,Malibu,Мыски,2018,бензин,1.5,163,АКПП,передний,седан,серый,61000,левый,9 поколение,1.5T AT LT,0,1750000
+4855,https://yaroslavl.drom.ru/chevrolet/niva/49094941.html,Chevrolet,Niva,Ярославль,2018,бензин,1.7,80,механика,4WD,,синий,56000,левый,"1 поколение, рестайлинг",1.7 MT L,0,765000
+4856,https://barnaul.drom.ru/chevrolet/niva/48734946.html,Chevrolet,Niva,Барнаул,2015,бензин,1.7,80,механика,4WD,,коричневый,108000,левый,"1 поколение, рестайлинг",1.7 MT GLC,1,627000
+4858,https://ekaterinburg.drom.ru/chevrolet/niva/49093969.html,Chevrolet,Niva,Екатеринбург,2018,бензин,1.7,80,механика,4WD,,коричневый,118572,левый,"1 поколение, рестайлинг",,0,558000
+4859,https://sterlitamak.drom.ru/chevrolet/niva/49093819.html,Chevrolet,Niva,Стерлитамак,2017,бензин,1.7,80,механика,4WD,,черный,127000,левый,"1 поколение, рестайлинг",,0,635000
+4860,https://izhevsk.drom.ru/chevrolet/niva/48751882.html,Chevrolet,Niva,Ижевск,2015,бензин,1.7,80,механика,4WD,,синий,97123,левый,"1 поколение, рестайлинг",1.7 MT GLS ,0,550000
+4892,https://moscow.drom.ru/chevrolet/aveo/48740647.html,Chevrolet,Aveo,Москва,2015,бензин,1.6,115,АКПП,передний,седан,белый,178000,левый,2 поколение,,0,649900
+4909,https://magnitogorsk.drom.ru/chevrolet/niva/48927344.html,Chevrolet,Niva,Магнитогорск,2016,бензин,1.7,80,механика,4WD,,белый,116000,левый,"1 поколение, рестайлинг",1.7 MT GLC,0,599000
+4911,https://pskov.drom.ru/chevrolet/niva/49102195.html,Chevrolet,Niva,Псков,2016,бензин,1.7,80,механика,4WD,,серебристый,54000,левый,"1 поколение, рестайлинг",,0,699000
+4912,https://togliatti.drom.ru/chevrolet/malibu/48767343.html,Chevrolet,Malibu,Тольятти,2018,бензин,1.5,163,вариатор,передний,седан,,65352,левый,"9 поколение, рестайлинг",,0,1390000
+4913,https://cherepanovo.drom.ru/chevrolet/niva/47906888.html,Chevrolet,Niva,Черепаново,2017,бензин,1.7,80,механика,4WD,,черный,86000,левый,"1 поколение, рестайлинг",1.7 MT LE+,1,695000
+4914,https://krasnozerskoe.drom.ru/chevrolet/niva/48399666.html,Chevrolet,Niva,Краснозёрское,2017,бензин,1.7,80,механика,4WD,,синий,100000,левый,"1 поколение, рестайлинг",1.7 MT LE+,0,675000
+4915,https://pskov.drom.ru/chevrolet/niva/49101633.html,Chevrolet,Niva,Псков,2017,бензин,1.7,80,механика,4WD,,бежевый,53193,левый,"1 поколение, рестайлинг",,0,770000
+4916,https://barnaul.drom.ru/chevrolet/niva/47708516.html,Chevrolet,Niva,Барнаул,2016,бензин,1.7,80,механика,4WD,,коричневый,107000,левый,"1 поколение, рестайлинг",1.7 MT LE+,0,680000
+4917,https://biysk.drom.ru/chevrolet/niva/47971331.html,Chevrolet,Niva,Бийск,2015,бензин,1.7,80,механика,4WD,,белый,158000,левый,"1 поколение, рестайлинг",1.7 MT LE+,0,640000
+4918,https://biysk.drom.ru/chevrolet/niva/48422791.html,Chevrolet,Niva,Бийск,2016,бензин,1.7,80,механика,4WD,,серый,92000,левый,"1 поколение, рестайлинг",1.7 MT GLC,0,579000
+4919,https://vladivostok.drom.ru/chevrolet/cruze/47607951.html,Chevrolet,Cruze,Владивосток,2018,бензин,1.4,153,АКПП,передний,седан,серый,71000,левый,"2 поколение, рестайлинг",1.4 AT LT,0,1150000
+4920,https://krasnodar.drom.ru/chevrolet/niva/48771043.html,Chevrolet,Niva,Краснодар,2016,бензин,1.7,80,механика,4WD,,зеленый,88000,левый,"1 поколение, рестайлинг",,0,599800
+4921,https://pyatigorsk.drom.ru/chevrolet/tahoe/48079799.html,Chevrolet,Tahoe,Пятигорск,2017,бензин,6.2,426,автомат,4WD,джип/suv 5 дв.,серебристый,124873,левый,,,0,4450000
+4922,https://novorossiysk.drom.ru/chevrolet/cruze/48771648.html,Chevrolet,Cruze,Новороссийск,2017,бензин,1.4,153,АКПП,передний,седан,белый,67000,левый,2 поколение,1.4 AT LT,0,1050000
+4923,https://tobolsk.drom.ru/chevrolet/niva/48770715.html,Chevrolet,Niva,Тобольск,2017,бензин,1.7,80,механика,4WD,,серый,85925,левый,"1 поколение, рестайлинг",,0,500000
+4925,https://stroitel-tambov.drom.ru/chevrolet/niva/48769784.html,Chevrolet,Niva,Строитель,2016,бензин,1.7,80,механика,4WD,,серебристый,90000,левый,"1 поколение, рестайлинг",,0,630000
+4926,https://saratov.drom.ru/chevrolet/cruze/48767264.html,Chevrolet,Cruze,Саратов,2018,бензин,1.4,153,АКПП,передний,седан,синий,121000,левый,2 поколение,,0,1060000
+4927,https://moscow.drom.ru/chevrolet/malibu/48766395.html,Chevrolet,Malibu,Москва,2019,бензин,1.5,163,вариатор,передний,седан,черный,70000,левый,"9 поколение, рестайлинг",,0,1300000
+4928,https://moscow.drom.ru/chevrolet/camaro/48422188.html,Chevrolet,Camaro,Москва,2018,бензин,3.6,335,АКПП,задний,купе,черный,49000,левый,6 поколение,,0,2950000
+4929,https://moscow.drom.ru/chevrolet/niva/49073592.html,Chevrolet,Niva,Москва,2015,бензин,1.7,80,механика,4WD,,серый,175260,левый,"1 поколение, рестайлинг",,0,439700
+4930,https://perm.drom.ru/chevrolet/niva/49073501.html,Chevrolet,Niva,Пермь,2019,бензин,1.7,80,механика,4WD,,серый,69000,левый,"1 поколение, рестайлинг",1.7 MT L,0,749000
+4931,https://moscow.drom.ru/chevrolet/niva/49073382.html,Chevrolet,Niva,Москва,2015,бензин,1.7,80,механика,4WD,,серый,159462,левый,"1 поколение, рестайлинг",,0,515000
+4932,https://velikie-luki.drom.ru/chevrolet/niva/48386460.html,Chevrolet,Niva,Великие Луки,2017,бензин,1.7,80,механика,4WD,,серебристый,108000,левый,"1 поколение, рестайлинг",,0,680000
+4933,https://tambov.drom.ru/chevrolet/niva/49072980.html,Chevrolet,Niva,Тамбов,2018,бензин,1.7,80,механика,4WD,,синий,40000,левый,"1 поколение, рестайлинг",,0,859000
+4934,https://stavropol.drom.ru/chevrolet/niva/48735536.html,Chevrolet,Niva,Ставрополь,2018,бензин,1.7,80,механика,4WD,,серый,115500,левый,"1 поколение, рестайлинг",1.7 MT GL,0,680000
+4935,https://stavropol.drom.ru/chevrolet/niva/48735743.html,Chevrolet,Niva,Ставрополь,2018,бензин,1.7,80,механика,4WD,,белый,94000,левый,"1 поколение, рестайлинг",,0,750000
+4936,https://belorechensk.drom.ru/chevrolet/niva/48868754.html,Chevrolet,Niva,Белореченск,2015,бензин,1.7,80,механика,4WD,,серый,98000,левый,"1 поколение, рестайлинг",,0,585000
+4937,https://velsk.drom.ru/chevrolet/niva/49072338.html,Chevrolet,Niva,Вельск,2017,бензин,1.7,80,механика,4WD,,белый,69000,левый,"1 поколение, рестайлинг",,0,790000
+4938,https://pospeliha.drom.ru/chevrolet/niva/49071914.html,Chevrolet,Niva,Поспелиха,2017,бензин,1.7,80,механика,4WD,,зеленый,155000,левый,"1 поколение, рестайлинг",,1,460000
+4939,https://krasnoyarsk.drom.ru/chevrolet/niva/47144109.html,Chevrolet,Niva,Красноярск,2018,бензин,1.7,80,механика,4WD,,белый,56707,левый,"1 поколение, рестайлинг",1.7 MT LE+,0,987000
+4940,https://kropotkin.drom.ru/chevrolet/niva/48626405.html,Chevrolet,Niva,Кропоткин,2018,бензин,1.7,80,механика,4WD,,белый,,левый,"1 поколение, рестайлинг",1.7 MT GLC,0,860000
+4941,https://kropotkin.drom.ru/chevrolet/niva/48625086.html,Chevrolet,Niva,Кропоткин,2015,бензин,1.7,80,механика,4WD,,серый,125000,левый,"1 поколение, рестайлинг",1.7 MT GLS ,0,615000
+4942,https://tyumen.drom.ru/chevrolet/niva/44961120.html,Chevrolet,Niva,Тюмень,2018,бензин,1.7,80,механика,4WD,,коричневый,22694,левый,"1 поколение, рестайлинг",,0,750000
+4944,https://nefteyugansk.drom.ru/chevrolet/niva/48648559.html,Chevrolet,Niva,Нефтеюганск,2016,бензин,1.7,80,механика,4WD,,синий,112000,левый,"1 поколение, рестайлинг",1.7 MT L,0,550000
+4945,https://dzerzhinsk.drom.ru/chevrolet/niva/48391411.html,Chevrolet,Niva,Дзержинск,2016,бензин,1.7,80,механика,4WD,,коричневый,39675,левый,"1 поколение, рестайлинг",,0,645000
+4946,https://omsk.drom.ru/chevrolet/niva/48583233.html,Chevrolet,Niva,Омск,2015,бензин,1.7,80,механика,4WD,,коричневый,49000,левый,"1 поколение, рестайлинг",,0,599000
+4948,https://krasnoyarsk.drom.ru/chevrolet/niva/48768913.html,Chevrolet,Niva,Красноярск,2016,бензин,1.7,80,механика,4WD,,белый,78160,левый,"1 поколение, рестайлинг",,0,610000
+4949,https://tula.drom.ru/chevrolet/niva/45880271.html,Chevrolet,Niva,Тула,2019,бензин,1.7,80,механика,4WD,,серый,76869,левый,"1 поколение, рестайлинг",,0,719000
+4951,https://saransk.drom.ru/chevrolet/niva/45365404.html,Chevrolet,Niva,Саранск,2019,бензин,1.7,,механика,4WD,,серый,80100,,,,0,860000
+4952,https://ufa.drom.ru/chevrolet/niva/44187554.html,Chevrolet,Niva,Уфа,2015,бензин,1.7,80,механика,4WD,,серый,153500,левый,"1 поколение, рестайлинг",,0,539000
+4953,https://spb.drom.ru/chevrolet/niva/49088341.html,Chevrolet,Niva,Санкт-Петербург,2017,бензин,1.7,80,механика,4WD,,черный,65450,левый,"1 поколение, рестайлинг",,0,679000
+4955,https://ust-ilimsk.drom.ru/chevrolet/niva/46348742.html,Chevrolet,Niva,Усть-Илимск,2016,бензин,1.7,80,механика,4WD,,коричневый,140000,левый,"1 поколение, рестайлинг",,0,630000
+4956,https://sochi.drom.ru/chevrolet/cruze/49087849.html,Chevrolet,Cruze,Сочи,2015,бензин,1.8,141,АКПП,передний,универсал,серебристый,155000,левый,"1 поколение, рестайлинг",1.8 AT LT,0,780000
+4957,https://moscow.drom.ru/chevrolet/bolt/49087780.html,Chevrolet,Bolt,Москва,2017,электр,,200,АКПП,передний,,черный,87000,левый,1 поколение,60 kWt EV Premier,0,1939000
+4958,https://moscow.drom.ru/chevrolet/malibu/49087742.html,Chevrolet,Malibu,Москва,2016,бензин,1.5,163,АКПП,передний,седан,белый,89070,левый,9 поколение,,0,1238000
+4959,https://dzerzhinsk.drom.ru/chevrolet/niva/49087667.html,Chevrolet,Niva,Дзержинск,2016,бензин,1.7,80,механика,4WD,,белый,40712,левый,"1 поколение, рестайлинг",,0,699000
+4960,https://tyumen.drom.ru/chevrolet/niva/48607981.html,Chevrolet,Niva,Тюмень,2018,бензин,1.7,80,механика,4WD,,серебристый,25001,левый,"1 поколение, рестайлинг",,0,785900
+4961,https://surgut.drom.ru/chevrolet/niva/49026486.html,Chevrolet,Niva,Сургут,2017,бензин,1.7,80,механика,4WD,,серый,77500,левый,"1 поколение, рестайлинг",,0,629000
+4962,https://nizhnekamsk.drom.ru/chevrolet/niva/49086905.html,Chevrolet,Niva,Нижнекамск,2018,бензин,1.7,80,механика,4WD,,серый,94000,левый,"1 поколение, рестайлинг",,0,725000
+4963,https://barnaul.drom.ru/chevrolet/niva/48266475.html,Chevrolet,Niva,Барнаул,2016,бензин,1.7,80,механика,4WD,,серый,55000,левый,"1 поколение, рестайлинг",1.7 MT GLC,1,595000
+4965,https://perm.drom.ru/chevrolet/niva/49085922.html,,,,,,,,,,,,,,,,0,
+4966,https://voronezh.drom.ru/chevrolet/niva/49085718.html,Chevrolet,Niva,Воронеж,2017,бензин,1.7,80,механика,4WD,,белый,132321,левый,"1 поколение, рестайлинг",,0,655000
+4967,https://perm.drom.ru/chevrolet/niva/49085462.html,Chevrolet,Niva,Пермь,2018,бензин,1.7,80,механика,4WD,,зеленый,87000,левый,"1 поколение, рестайлинг",1.7 MT LE ,0,700000
+4968,https://volgograd.drom.ru/chevrolet/cruze/49085392.html,Chevrolet,Cruze,Волгоград,2016,бензин,1.4,153,АКПП,передний,седан,синий,72200,левый,2 поколение,,0,999999
+4969,https://abinsk.drom.ru/chevrolet/niva/48420772.html,Chevrolet,Niva,Абинск,2015,бензин,1.7,80,механика,4WD,,зеленый,121920,левый,"1 поколение, рестайлинг",1.7 MT GLC,0,590000
+4970,https://perm.drom.ru/chevrolet/niva/48420016.html,Chevrolet,Niva,Пермь,2017,бензин,1.7,80,механика,4WD,,коричневый,155000,левый,"1 поколение, рестайлинг",,0,540000
+4971,https://nizhnevartovsk.drom.ru/chevrolet/niva/48080976.html,Chevrolet,Niva,Нижневартовск,2016,бензин,1.7,80,механика,4WD,,белый,170,левый,"1 поколение, рестайлинг",,0,500000
+4972,https://raduzhniy-hanty.drom.ru/chevrolet/niva/48078408.html,Chevrolet,Niva,Радужный,2017,бензин,1.7,80,механика,4WD,,зеленый,35100,левый,"1 поколение, рестайлинг",,0,750000
+4973,https://kemerovo.drom.ru/chevrolet/cruze/47393981.html,Chevrolet,Cruze,Кемерово,2016,бензин,1.4,153,АКПП,передний,седан,серебристый,132000,левый,2 поколение,1.4 AT LT,0,1150000
+4974,https://omsk.drom.ru/chevrolet/niva/47089677.html,Chevrolet,Niva,Омск,2016,бензин,1.7,80,механика,4WD,,коричневый,54000,левый,"1 поколение, рестайлинг",,0,695000
+4975,https://prokopyevsk.drom.ru/chevrolet/niva/47006555.html,Chevrolet,Niva,Прокопьевск,2019,бензин,1.7,80,механика,4WD,,белый,30000,левый,"1 поколение, рестайлинг",1.7 MT GLC Multimedia,0,950000
+4976,https://sochi.drom.ru/chevrolet/camaro/46814918.html,Chevrolet,Camaro,Сочи,2016,бензин,2.0,275,АКПП,задний,открытый,серый,47000,левый,6 поколение,2.0 AT 1LT,0,2800000
+4977,https://voronezh.drom.ru/chevrolet/niva/46744309.html,Chevrolet,Niva,Воронеж,2016,бензин,1.7,80,механика,4WD,,зеленый,63554,левый,"1 поколение, рестайлинг",,0,778000
+4978,https://nizhniy-novgorod.drom.ru/chevrolet/niva/45003350.html,Chevrolet,Niva,Нижний Новгород,2017,бензин,1.7,80,механика,4WD,,черный,161000,левый,"1 поколение, рестайлинг",,0,660000
+4980,https://sevastopol.drom.ru/chevrolet/malibu/46919366.html,Chevrolet,Malibu,Севастополь,2018,бензин,1.5,163,АКПП,передний,седан,серебристый,43300,левый,9 поколение,,0,1300000
+4981,https://ulyanovsk.drom.ru/chevrolet/niva/49099283.html,Chevrolet,Niva,Ульяновск,2018,бензин,1.7,80,механика,4WD,,серебристый,68000,левый,"1 поколение, рестайлинг",,0,679000
+4982,https://krasnodar.drom.ru/chevrolet/cruze/48368397.html,Chevrolet,Cruze,Краснодар,2017,бензин,1.4,153,АКПП,передний,седан,серебристый,39000,левый,2 поколение,1.4 AT LT,0,1160000
+4983,https://samara.drom.ru/chevrolet/niva/49098776.html,Chevrolet,Niva,Самара,2015,бензин,1.7,80,механика,4WD,,бежевый,95000,левый,"1 поколение, рестайлинг",,0,649900
+4984,https://nadim.drom.ru/chevrolet/equinox/48608776.html,Chevrolet,Equinox,Надым,2018,бензин,1.5,170,АКПП,4WD,,синий,71000,левый,3 поколение,1.5 AT AWD LT,0,1490000
+4985,https://surgut.drom.ru/chevrolet/niva/48697506.html,Chevrolet,Niva,Сургут,2018,бензин,1.7,80,механика,4WD,,синий,89500,левый,"1 поколение, рестайлинг",,0,660000
+4986,https://belgorod.drom.ru/chevrolet/malibu/49097840.html,Chevrolet,Malibu,Белгород,2018,,,,,,седан,,97800,левый,,,0,1550000
+4987,https://krasnoyarsk.drom.ru/chevrolet/niva/46683322.html,Chevrolet,Niva,Красноярск,2016,бензин,1.7,80,механика,4WD,,зеленый,140000,левый,"1 поколение, рестайлинг",,0,595000
+4988,https://nizhniy-tagil.drom.ru/chevrolet/niva/49097568.html,Chevrolet,Niva,Нижний Тагил,2018,бензин,1.7,80,механика,4WD,,серый,60000,левый,"1 поколение, рестайлинг",,0,810000
+4989,https://ekaterinburg.drom.ru/chevrolet/niva/47475676.html,Chevrolet,Niva,Екатеринбург,2017,бензин,1.7,80,механика,4WD,,коричневый,,левый,"1 поколение, рестайлинг",1.7 MT LE+,0,730000
+4990,https://astrahan.drom.ru/chevrolet/aveo/45669780.html,Chevrolet,Aveo,Астрахань,2015,бензин,1.6,116,механика,передний,седан,белый,122165,,,,0,710000
+4991,https://naberezhnye-chelny.drom.ru/chevrolet/niva/45345682.html,Chevrolet,Niva,Набережные Челны,2015,бензин,1.7,80,механика,4WD,,серый,133140,левый,"1 поколение, рестайлинг",,0,456000
+4992,https://kropotkin.drom.ru/chevrolet/malibu/48355793.html,Chevrolet,Malibu,Кропоткин,2016,бензин,1.5,163,АКПП,передний,седан,белый,безпробегапоРФ,левый,9 поколение,1.5T AT LT,0,1300000
+4993,https://engels.drom.ru/chevrolet/cruze/49067443.html,Chevrolet,Cruze,Энгельс,2016,бензин,1.4,153,АКПП,передний,седан,черный,134600,левый,2 поколение,,0,889900
+4994,https://novorossiysk.drom.ru/chevrolet/niva/45413168.html,Chevrolet,Niva,Новороссийск,2018,бензин,1.7,80,механика,4WD,,белый,138000,левый,"1 поколение, рестайлинг",1.7 MT  Special Edition,0,717000
+4995,https://kaspiysk.drom.ru/chevrolet/cruze/49067297.html,Chevrolet,Cruze,Каспийск,2018,бензин,1.4,153,АКПП,передний,седан,синий,128000,левый,2 поколение,1.4 AT LT,0,1050000
+4996,https://ekaterinburg.drom.ru/chevrolet/cruze/48651744.html,Chevrolet,Cruze,Екатеринбург,2016,бензин,1.4,153,АКПП,передний,седан,синий,63000,левый,2 поколение,,1,1050000
+4997,https://ivanovo.drom.ru/chevrolet/niva/47956054.html,Chevrolet,Niva,Иваново,2019,бензин,1.7,80,механика,4WD,,зеленый,32000,левый,"1 поколение, рестайлинг",1.7 MT LE ,0,900000
+4998,https://spb.drom.ru/chevrolet/captiva/49066999.html,Chevrolet,Captiva,Санкт-Петербург,2015,бензин,3.0,249,АКПП,4WD,,бежевый,200000,левый,"1 поколение, 2 рестайлинг",3.0 AT LTZ (5 сидений),0,1019000
+4999,https://cherepovets.drom.ru/chevrolet/malibu/48265133.html,Chevrolet,Malibu,Череповец,2018,бензин,1.5,163,АКПП,передний,седан,синий,121070,левый,9 поколение,1.5T AT L,0,1280000
+5000,https://armavir.drom.ru/chevrolet/cruze/48602966.html,Chevrolet,Cruze,Армавир,2016,бензин,1.4,153,АКПП,передний,седан,красный,160000,левый,2 поколение,,0,1390000
+5001,https://lebyazhe-kurgan.drom.ru/chevrolet/niva/49066713.html,Chevrolet,Niva,Лебяжье,2017,бензин,1.7,80,механика,4WD,,зеленый,60500,левый,"1 поколение, рестайлинг",,1,660000
+5002,https://tyumen.drom.ru/chevrolet/bolt/48979447.html,Chevrolet,Bolt,Тюмень,2017,электр,,200,АКПП,передний,,бордовый,91000,левый,1 поколение,60 kWt EV Premier,1,1900000
+5003,https://shahty.drom.ru/chevrolet/niva/49066366.html,Chevrolet,Niva,Шахты,2017,бензин,1.7,80,механика,4WD,,белый,,левый,"1 поколение, рестайлинг",,1,670000
+5004,https://kalachinsk-saratov.drom.ru/chevrolet/niva/49065870.html,Chevrolet,Niva,Калининск,2017,бензин,1.7,80,механика,4WD,,бежевый,22000,левый,"1 поколение, рестайлинг",1.7 MT LC,0,850000
+5005,https://omsk.drom.ru/chevrolet/malibu/49065751.html,Chevrolet,Malibu,Омск,2018,бензин,2.0,250,АКПП,передний,седан,черный,42000,левый,"9 поколение, рестайлинг",2.0T AT Premier,0,1450000
+5006,https://kolomna.drom.ru/chevrolet/niva/49065216.html,Chevrolet,Niva,Коломна,2016,бензин,1.7,80,механика,4WD,,черный,86366,левый,"1 поколение, рестайлинг",,0,669000
+5007,https://novoselovo.drom.ru/chevrolet/niva/48697124.html,Chevrolet,Niva,Новоселово,2018,бензин,1.7,80,механика,4WD,,черный,44000,левый,"1 поколение, рестайлинг",1.7 MT L,1,770000
+5008,https://biysk.drom.ru/chevrolet/niva/47191423.html,Chevrolet,Niva,Бийск,2017,бензин,1.7,80,механика,4WD,,черный,141000,левый,"1 поколение, рестайлинг",1.7 MT  Special Edition,0,680000
+5009,https://volgograd.drom.ru/chevrolet/niva/48372707.html,Chevrolet,Niva,Волгоград,2016,бензин,1.7,80,механика,4WD,,серебристый,77529,левый,"1 поколение, рестайлинг",,0,704800
+5010,https://nefteyugansk.drom.ru/chevrolet/niva/46774055.html,Chevrolet,Niva,Нефтеюганск,2018,бензин,1.7,80,механика,4WD,,синий,205000,левый,"1 поколение, рестайлинг",1.7 MT LE+,1,500000
+5011,https://ekaterinburg.drom.ru/chevrolet/niva/48723020.html,Chevrolet,Niva,Екатеринбург,2019,бензин,1.7,80,механика,4WD,,серебристый,36000,левый,"1 поколение, рестайлинг",,0,755000
+5012,https://spb.drom.ru/chevrolet/captiva/48728697.html,Chevrolet,Captiva,Санкт-Петербург,2015,дизель,2.2,184,АКПП,4WD,,коричневый,145000,левый,"1 поколение, 2 рестайлинг",,0,1200000
+5013,https://slavgorod.drom.ru/chevrolet/niva/48728351.html,Chevrolet,Niva,Славгород,2016,бензин,1.7,80,механика,4WD,,зеленый,62000,левый,"1 поколение, рестайлинг",1.7 MT GLC,0,630000
+5014,https://togliatti.drom.ru/chevrolet/equinox/48726907.html,Chevrolet,Equinox,Тольятти,2018,бензин,2.0,252,АКПП,передний,,черный,74000,левый,3 поколение,2.0 AT LT,0,1799999
+5015,https://samara.drom.ru/chevrolet/cruze/48726110.html,Chevrolet,Cruze,Самара,2016,бензин,1.4,153,АКПП,передний,седан,синий,132000,левый,2 поколение,1.4 AT Premier,0,890000
+5016,https://togliatti.drom.ru/chevrolet/volt/48725529.html,Chevrolet,Volt,Тольятти,2018,бензин,1.5,101,вариатор,передний,,белый,98000,левый,2 поколение,1.5 CVT LT,0,1700000
+5017,https://sochi.drom.ru/chevrolet/niva/48725420.html,Chevrolet,Niva,Сочи,2018,бензин,1.7,80,механика,4WD,,серый,55000,левый,"1 поколение, рестайлинг",1.7 MT LC,1,760000
+5018,https://ekaterinburg.drom.ru/chevrolet/niva/48724408.html,Chevrolet,Niva,Екатеринбург,2018,бензин,1.7,80,механика,4WD,,серебристый,30000,левый,"1 поколение, рестайлинг",,0,826900
+5019,https://simferopol.drom.ru/chevrolet/malibu/48724208.html,Chevrolet,Malibu,Симферополь,2019,бензин,1.5,163,вариатор,передний,седан,белый,99000,левый,"9 поколение, рестайлинг",,0,1290000
+5020,https://novosibirsk.drom.ru/chevrolet/niva/48721261.html,Chevrolet,Niva,Новосибирск,2016,бензин,1.7,80,механика,4WD,,серый,56000,левый,"1 поколение, рестайлинг",1.7 MT LC,0,635000
+5022,https://saratov.drom.ru/chevrolet/cruze/48718508.html,Chevrolet,Cruze,Саратов,2017,бензин,1.4,153,АКПП,передний,седан,черный,129000,левый,2 поколение,1.4 AT Premier,0,1150000
+5023,https://moscow.drom.ru/chevrolet/niva/48718280.html,Chevrolet,Niva,Москва,2016,бензин,1.7,80,механика,4WD,,белый,21416,левый,"1 поколение, рестайлинг",,0,655000
+5024,https://neftekamsk-bash.drom.ru/chevrolet/niva/48380313.html,Chevrolet,Niva,Нефтекамск,2019,бензин,1.7,80,механика,4WD,,черный,50000,левый,"1 поколение, рестайлинг",,0,849000
+5025,https://ustyuzhna.drom.ru/chevrolet/niva/48379223.html,Chevrolet,Niva,Устюжна,2016,бензин,1.7,80,механика,4WD,,синий,45000,левый,"1 поколение, рестайлинг",,0,720000
+5026,https://ufa.drom.ru/chevrolet/niva/48377775.html,Chevrolet,Niva,Уфа,2019,бензин,1.7,80,механика,4WD,,серый,51700,левый,"1 поколение, рестайлинг",1.7 MT LE ,0,800000
+5027,https://ulyanovsk.drom.ru/chevrolet/niva/48377451.html,Chevrolet,Niva,Ульяновск,2018,бензин,1.7,80,механика,4WD,,черный,69500,левый,"1 поколение, рестайлинг",,0,737000
+5028,https://kirov.drom.ru/chevrolet/niva/47031371.html,Chevrolet,Niva,Киров,2016,бензин,1.7,80,механика,4WD,,серебристый,90583,левый,"1 поколение, рестайлинг",,0,613000
+5029,https://astrahan.drom.ru/chevrolet/malibu/49111025.html,Chevrolet,Malibu,Астрахань,2017,бензин,1.5,163,АКПП,передний,седан,белый,99700,левый,9 поколение,,0,1500000
+5030,https://velikie-luki.drom.ru/chevrolet/cruze/49111015.html,Chevrolet,Cruze,Великие Луки,2015,бензин,1.8,141,механика,передний,седан,черный,128750,левый,"1 поколение, рестайлинг",,0,760000
+5031,https://kaluga.drom.ru/chevrolet/equinox/47040823.html,Chevrolet,Equinox,Калуга,2017,бензин,1.5,170,АКПП,передний,,коричневый,71000,левый,3 поколение,1.5 AT LT,0,1640000
+5032,https://belgorod.drom.ru/chevrolet/niva/49110239.html,Chevrolet,Niva,Белгород,2016,бензин,1.7,80,механика,4WD,,серый,102500,левый,"1 поколение, рестайлинг",,0,670000
+5034,https://ufa.drom.ru/chevrolet/niva/49109643.html,Chevrolet,Niva,Уфа,2016,бензин,1.7,80,механика,4WD,,зеленый,166966,левый,"1 поколение, рестайлинг",,0,789000
+5036,https://pankrushiha.drom.ru/chevrolet/niva/49109189.html,Chevrolet,Niva,Панкрушиха,2015,бензин,1.7,80,механика,4WD,,серебристый,78000,левый,"1 поколение, рестайлинг",1.7 MT LE+,0,650000
+5037,https://cheboksary.drom.ru/chevrolet/niva/49109127.html,Chevrolet,Niva,Чебоксары,2019,бензин,1.7,80,механика,4WD,,белый,57000,левый,"1 поколение, рестайлинг",1.7 MT L,0,850000
+5038,https://nizhniy-tagil.drom.ru/chevrolet/malibu/49109058.html,Chevrolet,Malibu,Нижний Тагил,2017,бензин,1.5,160,автомат,передний,седан,черный,80000,левый,,,0,1350000
+5039,https://shushenskoe.drom.ru/chevrolet/niva/49108968.html,Chevrolet,Niva,Шушенское,2017,бензин,1.7,80,механика,4WD,,черный,77000,левый,"1 поколение, рестайлинг",,0,770000
+5040,https://moscow.drom.ru/chevrolet/equinox/49108925.html,Chevrolet,Equinox,Москва,2019,бензин,1.5,170,АКПП,передний,,синий,42000,левый,3 поколение,1.5 AT LT,0,1620000
+5042,https://voronezh.drom.ru/chevrolet/niva/49108585.html,Chevrolet,Niva,Воронеж,2018,бензин,1.7,80,механика,4WD,,белый,32300,левый,"1 поколение, рестайлинг",,0,899900
+5043,https://tomsk.drom.ru/chevrolet/niva/48676100.html,Chevrolet,Niva,Томск,2018,бензин,1.7,80,механика,4WD,,зеленый,46000,левый,"1 поколение, рестайлинг",1.7 MT L,1,740000
+5044,https://moscow.drom.ru/chevrolet/tahoe/48424175.html,Chevrolet,Tahoe,Москва,2016,бензин,6.2,409,АКПП,4WD,джип/suv 5 дв.,черный,134000,левый,4 поколение,,0,2815000
+5045,https://voronezh.drom.ru/chevrolet/cruze/49108433.html,Chevrolet,Cruze,Воронеж,2016,бензин,1.4,153,АКПП,передний,седан,серый,130922,левый,2 поколение,,0,1015000
+5046,https://moscow.drom.ru/chevrolet/niva/49107921.html,Chevrolet,Niva,Москва,2019,бензин,1.7,80,механика,4WD,,серый,12000,левый,"1 поколение, рестайлинг",1.7 MT L,0,824000
+5047,https://kazan.drom.ru/chevrolet/malibu/47728836.html,Chevrolet,Malibu,Казань,2018,бензин,1.5,163,АКПП,передний,седан,черный,126000,левый,9 поколение,1.5T AT LT,0,1250000
+5048,https://krasnodar.drom.ru/chevrolet/niva/49107346.html,Chevrolet,Niva,Краснодар,2016,бензин,1.7,80,механика,4WD,,белый,76000,левый,"1 поколение, рестайлинг",1.7 MT L,1,725000
+5049,https://samara.drom.ru/chevrolet/niva/47385214.html,Chevrolet,Niva,Самара,2017,бензин,1.7,80,механика,4WD,,белый,78801,левый,"1 поколение, рестайлинг",,0,645000
+5050,https://krasnodar.drom.ru/chevrolet/niva/47042865.html,Chevrolet,Niva,Краснодар,2018,бензин,1.7,80,механика,4WD,,серебристый,67500,левый,"1 поколение, рестайлинг",,0,865000
+5051,https://krasnoyarsk.drom.ru/chevrolet/tahoe/46728398.html,Chevrolet,Tahoe,Красноярск,2016,бензин,6.2,409,АКПП,4WD,джип/suv 5 дв.,белый,108000,левый,4 поколение,6.2 AT LTZ,0,4200000
+5052,https://perm.drom.ru/chevrolet/bolt/46490023.html,Chevrolet,Bolt,Пермь,2017,электр,,200,АКПП,передний,,серый,103500,левый,1 поколение,60 kWt EV LT,0,1830000
+5053,https://ulyanovsk.drom.ru/chevrolet/niva/45679824.html,Chevrolet,Niva,Ульяновск,2017,бензин,1.7,80,механика,4WD,,серый,53392,левый,"1 поколение, рестайлинг",,0,595000
+5054,https://moscow.drom.ru/chevrolet/cruze/49077888.html,Chevrolet,Cruze,Москва,2019,бензин,1.4,153,АКПП,передний,седан,серый,74000,левый,"2 поколение, рестайлинг",1.4 AT LT,0,1120000
+5056,https://tula.drom.ru/chevrolet/niva/48733733.html,Chevrolet,Niva,Тула,2016,бензин,1.7,80,механика,4WD,,коричневый,115559,левый,"1 поколение, рестайлинг",,0,639000
+5057,https://rostov-na-donu.drom.ru/chevrolet/malibu/49076923.html,Chevrolet,Malibu,Ростов-на-Дону,2019,бензин,1.5,163,вариатор,передний,седан,белый,91000,левый,"9 поколение, рестайлинг",1.5T CVT LT,0,1380000
+5058,https://sterlitamak.drom.ru/chevrolet/malibu/49052791.html,Chevrolet,Malibu,Стерлитамак,2016,бензин,1.5,163,АКПП,передний,седан,синий,90000,левый,9 поколение,1.5T AT LT,0,1355555
+5060,https://karagay.drom.ru/chevrolet/niva/49076158.html,Chevrolet,Niva,Карагай,2019,бензин,1.7,80,механика,4WD,,черный,22700,левый,"1 поколение, рестайлинг",,1,845000
+5061,https://krasnodar.drom.ru/chevrolet/cruze/48357810.html,Chevrolet,Cruze,Краснодар,2016,бензин,1.4,153,АКПП,передний,седан,красный,103000,левый,2 поколение,1.4 AT LT,0,870000
+5062,https://ulyanovsk.drom.ru/chevrolet/tracker/49075655.html,Chevrolet,Tracker,Ульяновск,2015,бензин,1.8,140,механика,передний,джип/suv 5 дв.,белый,120739,левый,3 поколение,1.8 MT LT,0,995000
+5063,https://krasnoyarsk.drom.ru/chevrolet/niva/48900301.html,Chevrolet,Niva,Красноярск,2018,бензин,1.7,80,механика,4WD,,коричневый,70000,левый,"1 поколение, рестайлинг",1.7 MT LE+,0,770000
+5064,https://krasnoyarsk.drom.ru/chevrolet/niva/48597674.html,Chevrolet,Niva,Красноярск,2016,бензин,1.7,80,механика,4WD,,серебристый,30000,левый,"1 поколение, рестайлинг",1.7 MT LE ,0,730000
+5065,https://sovetskiy.drom.ru/chevrolet/niva/48947677.html,Chevrolet,Niva,Советский,2016,бензин,1.7,80,механика,4WD,,серый,36400,левый,"1 поколение, рестайлинг",1.7 MT LE ,0,750000
+5066,https://noviy-urengoy.drom.ru/chevrolet/niva/49074293.html,Chevrolet,Niva,Новый Уренгой,2018,бензин,1.7,80,механика,4WD,,коричневый,155921,левый,"1 поколение, рестайлинг",1.7 MT LC,0,545000
+5068,https://moscow.drom.ru/chevrolet/niva/49073608.html,Chevrolet,Niva,Москва,2015,бензин,1.7,80,механика,4WD,,серый,159595,левый,"1 поколение, рестайлинг",,0,489700
+5069,https://krasnoyarsk.drom.ru/chevrolet/camaro/48409457.html,Chevrolet,Camaro,Красноярск,2016,бензин,2.0,275,АКПП,задний,открытый,белый,28065,левый,6 поколение,,0,3400000
+5070,https://seversk.drom.ru/chevrolet/niva/48593137.html,Chevrolet,Niva,Северск,2015,бензин,1.7,80,механика,4WD,,зеленый,38000,левый,"1 поколение, рестайлинг",1.7 MT GLC,0,700000
+5071,https://kazan.drom.ru/chevrolet/camaro/48758728.html,Chevrolet,Camaro,Казань,2019,бензин,2.0,238,АКПП,задний,купе,красный,23000,левый,"6 поколение, рестайлинг",2.0 AT 3LT,0,2800000
+5072,https://moscow.drom.ru/chevrolet/cruze/48753180.html,Chevrolet,Cruze,Москва,2016,бензин,1.4,153,АКПП,передний,седан,серебристый,131000,левый,2 поколение,1.4 AT LT,0,1200000
+5073,https://leninsk-kuznetskiy.drom.ru/chevrolet/niva/48752249.html,Chevrolet,Niva,Ленинск-Кузнецкий,2015,бензин,1.7,80,механика,4WD,,зеленый,98237,левый,"1 поколение, рестайлинг",,0,585000
+5074,https://perm.drom.ru/chevrolet/niva/48413667.html,Chevrolet,Niva,Пермь,2015,бензин,1.7,80,механика,4WD,,коричневый,136267,левый,"1 поколение, рестайлинг",,0,539000
+5075,https://voronezh.drom.ru/chevrolet/niva/48412939.html,Chevrolet,Niva,Воронеж,2019,бензин,1.7,80,механика,4WD,,черный,62292,левый,"1 поколение, рестайлинг",,0,749000
+5076,https://omsk.drom.ru/chevrolet/camaro/48411869.html,Chevrolet,Camaro,Омск,2017,бензин,2.0,275,АКПП,задний,купе,синий,80000,левый,6 поколение,,0,2999000
+5077,https://nizhnevartovsk.drom.ru/chevrolet/niva/48411675.html,Chevrolet,Niva,Нижневартовск,2016,бензин,1.7,80,механика,4WD,,коричневый,98000,левый,"1 поколение, рестайлинг",1.7 MT L,0,580000
+5078,https://spb.drom.ru/chevrolet/malibu/48410510.html,Chevrolet,Malibu,Санкт-Петербург,2016,бензин,1.5,163,АКПП,передний,седан,серебристый,119500,левый,9 поколение,,0,1250000
+5079,https://ekaterinburg.drom.ru/chevrolet/niva/48409578.html,Chevrolet,Niva,Екатеринбург,2015,бензин,1.7,80,механика,4WD,,серый,39305,левый,"1 поколение, рестайлинг",1.7 MT GLC,0,680000
+5080,https://novokuznetsk.drom.ru/chevrolet/niva/48408017.html,Chevrolet,Niva,Новокузнецк,2017,бензин,1.7,80,механика,4WD,,красный,20218,левый,"1 поколение, рестайлинг",,0,790000
+5081,https://moscow.drom.ru/chevrolet/captiva/48404971.html,Chevrolet,Captiva,Москва,2015,бензин,3.0,249,АКПП,4WD,,белый,165288,левый,"1 поколение, 2 рестайлинг",3.0 AT LTZ (5 сидений),0,1125000
+5082,https://simferopol.drom.ru/chevrolet/cruze/48404983.html,Chevrolet,Cruze,Симферополь,2018,бензин,1.4,153,АКПП,передний,седан,черный,115000,левый,2 поколение,1.4 AT LT,0,1050000
+5083,https://noyabrsk.drom.ru/chevrolet/niva/48213334.html,Chevrolet,Niva,Ноябрьск,2015,бензин,1.7,80,механика,4WD,,белый,102000,левый,"1 поколение, рестайлинг",1.7 MT GLS ,0,609999
+5084,https://salehard.drom.ru/chevrolet/niva/47731330.html,Chevrolet,Niva,Салехард,2017,бензин,1.7,80,механика,4WD,,красный,55000,левый,"1 поколение, рестайлинг",1.7 MT L,1,750000
+5085,https://petrozavodsk.drom.ru/chevrolet/niva/47365143.html,Chevrolet,Niva,Петрозаводск,2019,бензин,1.7,80,механика,4WD,,серебристый,16200,левый,"1 поколение, рестайлинг",,0,170000
+5086,https://spb.drom.ru/chevrolet/captiva/47063410.html,Chevrolet,Captiva,Санкт-Петербург,2015,дизель,2.2,184,АКПП,4WD,,белый,210000,левый,"1 поколение, 2 рестайлинг",,0,999000
+5087,https://chesma.drom.ru/chevrolet/niva/46617219.html,Chevrolet,Niva,Чесма,2017,бензин,1.7,80,механика,4WD,,серый,141000,левый,"1 поколение, рестайлинг",,0,650000
+5088,https://kurgan.drom.ru/chevrolet/niva/46455171.html,Chevrolet,Niva,Курган,2019,бензин,1.7,80,механика,4WD,,серебристый,59700,левый,"1 поколение, рестайлинг",1.7 MT LE ,1,750000
+5089,https://shelehov.drom.ru/chevrolet/niva/49092434.html,Chevrolet,Niva,Шелехов,2016,бензин,1.7,80,механика,4WD,,зеленый,54000,левый,"1 поколение, рестайлинг",,1,600000
+5090,https://megion.drom.ru/chevrolet/niva/49092432.html,Chevrolet,Niva,Мегион,2019,бензин,1.7,80,механика,4WD,,серый,48316,левый,"1 поколение, рестайлинг",,0,675000
+5091,https://surgut.drom.ru/chevrolet/niva/48337269.html,Chevrolet,Niva,Сургут,2016,бензин,1.7,80,механика,4WD,,коричневый,140001,левый,"1 поколение, рестайлинг",,0,539990
+5092,https://ulyanovsk.drom.ru/chevrolet/niva/49092282.html,Chevrolet,Niva,Ульяновск,2015,бензин,1.7,80,механика,4WD,,синий,65304,левый,"1 поколение, рестайлинг",,0,673000
+5093,https://vladimir.drom.ru/chevrolet/niva/48758589.html,Chevrolet,Niva,Владимир,2015,бензин,1.7,80,механика,4WD,,синий,56000,левый,"1 поколение, рестайлинг",,0,699000
+5094,https://novosibirsk.drom.ru/chevrolet/cruze/48264737.html,Chevrolet,Cruze,Новосибирск,2017,бензин,1.4,153,АКПП,передний,седан,белый,116814,левый,2 поколение,1.4 AT LT,0,1220000
+5095,https://surgut.drom.ru/chevrolet/niva/49092006.html,Chevrolet,Niva,Сургут,2017,бензин,1.7,80,механика,4WD,,коричневый,83000,левый,"1 поколение, рестайлинг",,0,575000
+5096,https://novosibirsk.drom.ru/chevrolet/niva/49091851.html,Chevrolet,Niva,Новосибирск,2019,бензин,1.7,80,механика,4WD,,серый,47000,левый,"1 поколение, рестайлинг",1.7 MT LE ,0,790000
+5097,https://samara.drom.ru/chevrolet/niva/48756329.html,Chevrolet,Niva,Самара,2019,бензин,1.7,80,механика,4WD,,серебристый,56000,левый,"1 поколение, рестайлинг",,0,690000
+5098,https://togliatti.drom.ru/chevrolet/bolt/48408376.html,Chevrolet,Bolt,Тольятти,2016,электр,,200,АКПП,передний,,бордовый,99400,левый,1 поколение,60 kWt EV Premier,1,1795000
+5099,https://togliatti.drom.ru/chevrolet/bolt/48408276.html,Chevrolet,Bolt,Тольятти,2017,электр,,200,АКПП,передний,,черный,58123,левый,1 поколение,60 kWt EV LT,0,1895000
+5100,https://togliatti.drom.ru/chevrolet/niva/45731202.html,Chevrolet,Niva,Тольятти,2016,бензин,1.7,80,механика,4WD,,,6700,левый,"1 поколение, рестайлинг",,0,730000
+5101,https://togliatti.drom.ru/chevrolet/niva/45735335.html,Chevrolet,Niva,Тольятти,2018,бензин,1.7,80,механика,4WD,,,,левый,"1 поколение, рестайлинг",,0,650000
+5102,https://togliatti.drom.ru/chevrolet/niva/45731301.html,Chevrolet,Niva,Тольятти,2016,бензин,1.7,80,механика,4WD,,,3200,левый,"1 поколение, рестайлинг",,0,750000
+5103,https://tomsk.drom.ru/chevrolet/niva/46785869.html,Chevrolet,Niva,Томск,2017,бензин,1.7,80,механика,4WD,,серый,38000,левый,"1 поколение, рестайлинг",1.7 MT L,0,595000
+5104,https://vladimir.drom.ru/chevrolet/niva/46396571.html,Chevrolet,Niva,Владимир,2019,бензин,1.7,80,механика,4WD,,черный,35400,левый,"1 поколение, рестайлинг",,0,895000
+5105,https://cherlak.drom.ru/chevrolet/niva/49089988.html,Chevrolet,Niva,Черлак,2015,бензин,1.7,80,механика,4WD,,белый,80000,левый,"1 поколение, рестайлинг",1.7 MT GLC,0,580000
+5106,https://polysaevo.drom.ru/chevrolet/niva/47061904.html,Chevrolet,Niva,Полысаево,2018,бензин,1.7,80,механика,4WD,,белый,83250,левый,"1 поколение, рестайлинг",1.7 MT L,0,650000
+5107,https://togul.drom.ru/chevrolet/niva/49068498.html,Chevrolet,Niva,Тогул,2015,бензин,1.7,80,механика,4WD,,серебристый,41000,левый,"1 поколение, рестайлинг",1.7 MT LE ,0,665000
+5108,https://novosibirsk.drom.ru/chevrolet/traverse/46977793.html,Chevrolet,Traverse,Новосибирск,2018,бензин,3.6,318,АКПП,4WD,,белый,56000,левый,2 поколение,3.6 AT Premier,0,2950000
+5109,https://kaliningrad.drom.ru/chevrolet/cruze/48813307.html,Chevrolet,Cruze,Калининград,2015,бензин,1.8,141,АКПП,передний,универсал,коричневый,149000,левый,"1 поколение, рестайлинг",1.8 AT LTZ ,0,700000
+5110,https://krasnoyarsk.drom.ru/chevrolet/tahoe/49085048.html,Chevrolet,Tahoe,Красноярск,2015,бензин,6.2,409,АКПП,4WD,джип/suv 5 дв.,черный,131000,левый,4 поколение,6.2 AT LTZ,0,3700000
+5111,https://ekaterinburg.drom.ru/chevrolet/niva/48181227.html,Chevrolet,Niva,Екатеринбург,2017,бензин,1.7,80,механика,4WD,,коричневый,85000,левый,"1 поколение, рестайлинг",1.7 MT GL,0,597000
+5112,https://volgograd.drom.ru/chevrolet/niva/49084009.html,Chevrolet,Niva,Волгоград,2019,бензин,1.7,80,механика,4WD,,серый,42567,левый,"1 поколение, рестайлинг",,1,898000
+5113,https://saratov.drom.ru/chevrolet/niva/49083994.html,Chevrolet,Niva,Саратов,2017,бензин,1.7,80,механика,4WD,,серый,34000,левый,"1 поколение, рестайлинг",,0,840000
+5114,https://chelyabinsk.drom.ru/chevrolet/cruze/47684620.html,Chevrolet,Cruze,Челябинск,2017,бензин,1.4,153,АКПП,передний,седан,красный,123000,левый,2 поколение,,0,1100000
+5115,https://chelyabinsk.drom.ru/chevrolet/niva/48371978.html,Chevrolet,Niva,Челябинск,2017,бензин,1.7,80,механика,4WD,,зеленый,78000,левый,"1 поколение, рестайлинг",,0,650000
+5116,https://lesosibirsk.drom.ru/chevrolet/niva/49082902.html,Chevrolet,Niva,Лесосибирск,2017,бензин,1.7,80,механика,4WD,,серый,87000,левый,"1 поколение, рестайлинг",1.7 MT GL,1,750000
+5117,https://neftekamsk-bash.drom.ru/chevrolet/niva/49082816.html,Chevrolet,Niva,Нефтекамск,2018,бензин,1.7,80,механика,4WD,,серый,50000,левый,"1 поколение, рестайлинг",,1,720000
+5118,https://dzerzhinsk.drom.ru/chevrolet/niva/48659922.html,Chevrolet,Niva,Дзержинск,2018,бензин,1.7,80,механика,4WD,,черный,74000,левый,"1 поколение, рестайлинг",1.7 MT GL,0,660000
+5119,https://magnitogorsk.drom.ru/chevrolet/niva/49080941.html,Chevrolet,Niva,Магнитогорск,2016,бензин,1.7,80,механика,4WD,,серебристый,142891,левый,"1 поколение, рестайлинг",,0,555000
+5120,https://krasnoshchekovo.drom.ru/chevrolet/niva/49080901.html,Chevrolet,Niva,Краснощёково,2015,бензин,1.7,80,механика,4WD,,черный,200,левый,"1 поколение, рестайлинг",,1,500000
+5121,https://moscow.drom.ru/chevrolet/malibu/49080694.html,Chevrolet,Malibu,Москва,2017,бензин,1.5,160,автомат,передний,седан,белый,122000,левый,,,0,1300000
+5122,https://krasnoyarsk.drom.ru/chevrolet/niva/48121816.html,Chevrolet,Niva,Красноярск,2018,бензин,1.7,80,механика,4WD,,черный,67000,левый,"1 поколение, рестайлинг",1.7 MT L,0,717000
+5123,https://pervouralsk.drom.ru/chevrolet/niva/49080093.html,Chevrolet,Niva,Первоуральск,2017,бензин,1.7,80,механика,4WD,,синий,62000,левый,"1 поколение, рестайлинг",,0,800000
+5124,https://kurgan.drom.ru/chevrolet/niva/49080072.html,Chevrolet,Niva,Курган,2018,бензин,1.7,80,механика,4WD,,синий,68000,левый,"1 поколение, рестайлинг",1.7 MT LE ,0,680000
+5125,https://omsk.drom.ru/chevrolet/niva/48319657.html,Chevrolet,Niva,Омск,2018,бензин,1.7,80,механика,4WD,,серебристый,76000,левый,"1 поколение, рестайлинг",1.7 MT LE ,1,645000
+5126,https://omsk.drom.ru/chevrolet/niva/48736734.html,Chevrolet,Niva,Омск,2016,бензин,1.7,80,механика,4WD,,серебристый,137000,левый,"1 поколение, рестайлинг",1.7 MT L,0,579000
+5127,https://omsk.drom.ru/chevrolet/niva/48989734.html,Chevrolet,Niva,Омск,2015,бензин,1.7,80,механика,4WD,,серый,151000,левый,"1 поколение, рестайлинг",1.7 MT GLC,0,575000
+5128,https://tomsk.drom.ru/chevrolet/niva/48821464.html,Chevrolet,Niva,Томск,2017,бензин,1.7,80,механика,4WD,,черный,115220,левый,"1 поколение, рестайлинг",1.7 MT LC,0,664000
+5129,https://tomsk.drom.ru/chevrolet/niva/48677912.html,Chevrolet,Niva,Томск,2015,бензин,1.7,80,механика,4WD,,серый,74000,левый,"1 поколение, рестайлинг",1.7 MT LC,0,644000
+5130,https://moscow.drom.ru/chevrolet/tahoe/49079043.html,Chevrolet,Tahoe,Москва,2019,бензин,6.2,426,АКПП,4WD,джип/suv 5 дв.,синий,71775,левый,4 поколение,6.2 AT Premier,0,6245000
+5132,https://spb.drom.ru/chevrolet/tahoe/49078968.html,Chevrolet,Tahoe,Санкт-Петербург,2019,бензин,6.2,426,АКПП,4WD,джип/suv 5 дв.,черный,72161,левый,4 поколение,,0,4895000
+5134,https://moscow.drom.ru/chevrolet/captiva/49077971.html,Chevrolet,Captiva,Москва,2015,дизель,2.2,184,АКПП,4WD,,белый,335000,левый,"1 поколение, 2 рестайлинг",,0,1049000
+5135,https://voronezh.drom.ru/chevrolet/cruze/48750275.html,Chevrolet,Cruze,Воронеж,2016,бензин,1.4,153,АКПП,передний,хэтчбек 5 дв.,черный,95000,левый,2 поколение,1.4 AT LT,0,1140000
+5138,https://novosibirsk.drom.ru/chevrolet/camaro/48748124.html,Chevrolet,Camaro,Новосибирск,2016,бензин,2.0,238,АКПП,задний,купе,желтый,101000,левый,6 поколение,2.0 AT 2LT ,0,2699000
+5139,https://omsk.drom.ru/chevrolet/niva/48403915.html,Chevrolet,Niva,Омск,2018,бензин,1.7,80,механика,4WD,,белый,160000,левый,"1 поколение, рестайлинг",1.7 MT L,0,545000
+5140,https://voronezh.drom.ru/chevrolet/niva/48401471.html,Chevrolet,Niva,Воронеж,2017,бензин,1.7,80,механика,4WD,,зеленый,93497,левый,"1 поколение, рестайлинг",,0,655000
+5141,https://ufa.drom.ru/chevrolet/niva/48400583.html,Chevrolet,Niva,Уфа,2016,бензин,1.7,80,механика,4WD,,синий,92355,левый,"1 поколение, рестайлинг",,0,609990
+5142,https://moscow.drom.ru/chevrolet/cruze/48399412.html,Chevrolet,Cruze,Москва,2018,бензин,1.4,153,АКПП,передний,седан,черный,80401,левый,2 поколение,1.4 AT LT,0,1100000
+5143,https://perm.drom.ru/chevrolet/niva/48398425.html,Chevrolet,Niva,Пермь,2017,бензин,1.7,80,механика,4WD,,белый,50000,левый,"1 поколение, рестайлинг",,0,681000
+5144,https://samara.drom.ru/chevrolet/niva/48395331.html,Chevrolet,Niva,Самара,2015,бензин,1.7,80,механика,4WD,,серый,130000,левый,"1 поколение, рестайлинг",1.7 MT LE+,0,590000
+5145,https://ulan-ude.drom.ru/chevrolet/niva/48395008.html,Chevrolet,Niva,Улан-Удэ,2019,бензин,1.7,80,механика,4WD,,серый,10000,левый,"1 поколение, рестайлинг",,1,800000
+5147,https://moscow.drom.ru/chevrolet/cruze/47720342.html,Chevrolet,Cruze,Москва,2016,бензин,1.4,153,АКПП,передний,седан,черный,93000,левый,2 поколение,1.4 AT LT,0,1050000
+5148,https://chelyabinsk.drom.ru/chevrolet/volt/47713887.html,Chevrolet,Volt,Челябинск,2018,бензин,1.5,101,вариатор,передний,,синий,200000,левый,2 поколение,1.5 CVT LT,0,1890000
+5150,https://nizhnevartovsk.drom.ru/chevrolet/niva/48661210.html,Chevrolet,Niva,Нижневартовск,2017,бензин,1.7,80,механика,4WD,,серый,130000,левый,"1 поколение, рестайлинг",,0,620000
+5152,https://nizhnevartovsk.drom.ru/chevrolet/aveo/48659827.html,Chevrolet,Aveo,Нижневартовск,2015,бензин,1.6,115,механика,передний,седан,белый,368000,левый,2 поколение,,0,395000
+5153,https://sterlitamak.drom.ru/chevrolet/niva/48659295.html,Chevrolet,Niva,Стерлитамак,2016,бензин,1.7,80,механика,4WD,,синий,73114,левый,"1 поколение, рестайлинг",,0,650000
+5154,https://moscow.drom.ru/chevrolet/niva/48659096.html,Chevrolet,Niva,Москва,2017,бензин,1.7,80,механика,4WD,,бежевый,110000,левый,"1 поколение, рестайлинг",,0,665000
+5155,https://tyumen.drom.ru/chevrolet/camaro/48657898.html,Chevrolet,Camaro,Тюмень,2016,бензин,2.0,275,механика,задний,купе,синий,49500,левый,6 поколение,2.0 MT 2LT,1,2300000
+5156,https://borisoglebsk.drom.ru/chevrolet/niva/48657012.html,Chevrolet,Niva,Борисоглебск,2019,бензин,1.7,80,механика,4WD,,коричневый,67341,левый,"1 поколение, рестайлинг",,0,835000
+5157,https://asino.drom.ru/chevrolet/niva/48655575.html,Chevrolet,Niva,Асино,2017,бензин,1.7,80,механика,4WD,,красный,86000,левый,"1 поколение, рестайлинг",,0,710000
+5158,https://yuzhno-sakhalinsk.drom.ru/chevrolet/camaro/48653109.html,Chevrolet,Camaro,Южно-Сахалинск,2016,бензин,2.0,238,АКПП,задний,купе,бордовый,39400,левый,6 поколение,2.0 AT 2LT ,0,2650000
+5159,https://moscow.drom.ru/chevrolet/camaro/48314861.html,Chevrolet,Camaro,Москва,2018,бензин,2.0,238,АКПП,задний,купе,черный,53500,левый,6 поколение,2.0 AT RS,0,2800000
+5160,https://noginsk.drom.ru/chevrolet/bolt/48313477.html,Chevrolet,Bolt,Ногинск,2017,электр,,200,АКПП,передний,,серый,58550,левый,1 поколение,60 kWt EV LT,0,2100000
+5161,https://krasnoyarsk.drom.ru/chevrolet/niva/48313342.html,Chevrolet,Niva,Красноярск,2015,бензин,1.7,80,механика,4WD,,красный,100000,левый,"1 поколение, рестайлинг",,1,610000
+5162,https://voronezh.drom.ru/chevrolet/niva/48312903.html,Chevrolet,Niva,Воронеж,2017,бензин,1.7,80,механика,4WD,,коричневый,148355,левый,"1 поколение, рестайлинг",,0,649000
+5163,https://moscow.drom.ru/chevrolet/tahoe/48312217.html,Chevrolet,Tahoe,Москва,2016,бензин,6.2,409,АКПП,4WD,джип/suv 5 дв.,белый,71004,левый,4 поколение,,0,3730000
+5164,https://nahabino.drom.ru/chevrolet/malibu/47964440.html,Chevrolet,Malibu,Нахабино,2019,бензин,1.5,163,вариатор,передний,седан,серый,97000,левый,"9 поколение, рестайлинг",1.5T CVT L,0,1278000
+5165,https://ufa.drom.ru/chevrolet/niva/47634744.html,Chevrolet,Niva,Уфа,2018,бензин,1.7,80,механика,4WD,,зеленый,93000,левый,"1 поколение, рестайлинг",,0,710000
+5166,https://tobolsk.drom.ru/chevrolet/niva/47631356.html,Chevrolet,Niva,Тобольск,2016,бензин,1.7,80,механика,4WD,,зеленый,22854,левый,"1 поколение, рестайлинг",,0,690000
+5167,https://ufa.drom.ru/chevrolet/niva/47298311.html,Chevrolet,Niva,Уфа,2017,бензин,1.7,80,механика,4WD,,красный,80500,левый,"1 поколение, рестайлинг",,0,630000
+5168,https://anapa.drom.ru/chevrolet/cruze/47104802.html,Chevrolet,Cruze,Анапа,2018,бензин,1.4,153,АКПП,передний,седан,серый,27000,левый,"2 поколение, рестайлинг",1.4 AT Premier,0,1440000
+5169,https://perm.drom.ru/chevrolet/niva/49037918.html,Chevrolet,Niva,Пермь,2016,бензин,1.7,80,механика,4WD,,зеленый,104000,левый,"1 поколение, рестайлинг",,0,599990
+5170,https://aldan.drom.ru/chevrolet/tahoe/48081903.html,Chevrolet,Tahoe,Алдан,2015,бензин,6.2,409,АКПП,4WD,джип/suv 5 дв.,черный,150000,левый,4 поколение,6.2 AT LTZ,0,2899000
+5171,https://ufa.drom.ru/chevrolet/malibu/49037050.html,Chevrolet,Malibu,Уфа,2018,бензин,1.5,160,автомат,передний,седан,красный,140365,левый,,,0,1359000
+5172,https://novorossiysk.drom.ru/chevrolet/cruze/49036516.html,Chevrolet,Cruze,Новороссийск,2015,бензин,1.4,140,АКПП,передний,седан,серый,100000,левый,"1 поколение, рестайлинг",,0,850000
+5173,https://cherkessk.drom.ru/chevrolet/niva/49035682.html,Chevrolet,Niva,Черкесск,2016,бензин,1.7,80,механика,4WD,,белый,143000,левый,"1 поколение, рестайлинг",1.7 MT L,0,550000
+5174,https://taganrog.drom.ru/chevrolet/malibu/49035622.html,Chevrolet,Malibu,Таганрог,2016,бензин,1.5,160,автомат,передний,седан,серебристый,120000,левый,,,0,1249000
+5176,https://tomsk.drom.ru/chevrolet/niva/49035074.html,Chevrolet,Niva,Томск,2018,бензин,1.7,80,механика,4WD,,серый,99022,левый,"1 поколение, рестайлинг",1.7 MT L,0,630000
+5177,https://tyumen.drom.ru/chevrolet/cruze/48245580.html,Chevrolet,Cruze,Тюмень,2018,бензин,1.4,153,АКПП,передний,седан,белый,55085,левый,2 поколение,,0,1289000
+5178,https://moscow.drom.ru/chevrolet/niva/49034874.html,Chevrolet,Niva,Москва,2015,бензин,1.7,80,механика,4WD,,серый,120675,левый,"1 поколение, рестайлинг",,0,529700
+5179,https://michurinsk.drom.ru/chevrolet/niva/46965190.html,Chevrolet,Niva,Мичуринск,2018,бензин,1.7,80,механика,4WD,,серый,55000,левый,"1 поколение, рестайлинг",1.7 MT LE+,0,860000
+5180,https://georgievsk.drom.ru/chevrolet/cruze/48308309.html,Chevrolet,Cruze,Георгиевск,2016,бензин,1.4,153,АКПП,передний,седан,синий,63000,левый,2 поколение,1.4 AT LT,0,1050000
+5181,https://kemerovo.drom.ru/chevrolet/tracker/49033943.html,Chevrolet,Tracker,Кемерово,2015,бензин,1.8,141,механика,передний,джип/suv 5 дв.,серебристый,48000,левый,,,0,989999
+5182,https://barnaul.drom.ru/chevrolet/spark/49033368.html,Chevrolet,Spark,Барнаул,2016,бензин,1.0,55,автомат,передний,,черный,66000,левый,,,0,859999
+5183,https://rostov-na-donu.drom.ru/chevrolet/niva/47015926.html,Chevrolet,Niva,Ростов-на-Дону,2019,бензин,1.7,80,механика,4WD,,коричневый,96650,левый,"1 поколение, рестайлинг",1.7 MT GL,0,775000
+5186,https://krasnodar.drom.ru/chevrolet/cruze/48323186.html,Chevrolet,Cruze,Краснодар,2018,бензин,1.4,153,АКПП,передний,седан,серебристый,102000,левый,2 поколение,1.4 AT LS,0,997000
+5187,https://saratov.drom.ru/chevrolet/aveo/49032649.html,Chevrolet,Aveo,Саратов,2015,бензин,1.6,115,механика,передний,седан,белый,152000,левый,2 поколение,,0,572000
+5188,https://sochi.drom.ru/chevrolet/cruze/48682182.html,Chevrolet,Cruze,Сочи,2017,бензин,1.4,153,АКПП,передний,седан,серый,80000,левый,2 поколение,1.4 AT LT,0,1050000
+5189,https://ekaterinburg.drom.ru/chevrolet/niva/49013963.html,Chevrolet,Niva,Екатеринбург,2017,бензин,1.7,80,механика,4WD,,зеленый,66110,левый,"1 поколение, рестайлинг",,0,736410
+5190,https://kemerovo.drom.ru/chevrolet/cruze/49013824.html,Chevrolet,Cruze,Кемерово,2016,бензин,1.4,153,АКПП,передний,седан,белый,145000,левый,2 поколение,,0,1179999
+5191,https://vladivostok.drom.ru/chevrolet/spark/48638006.html,Chevrolet,Spark,Владивосток,2018,бензин,1.0,77,автомат,передний,,бежевый,73345,левый,,,0,720000
+5192,https://kuybyshev.drom.ru/chevrolet/niva/49012096.html,Chevrolet,Niva,Куйбышев,2016,бензин,1.7,80,механика,4WD,,белый,71000,левый,"1 поколение, рестайлинг",,0,680000
+5193,https://novorossiysk.drom.ru/chevrolet/cruze/49010827.html,Chevrolet,Cruze,Новороссийск,2019,бензин,1.4,153,АКПП,передний,седан,черный,63434,левый,"2 поколение, рестайлинг",1.4 AT LT,0,1195000
+5218,https://moscow.drom.ru/chevrolet/malibu/48663061.html,Chevrolet,Malibu,Москва,2017,бензин,1.5,160,автомат,передний,седан,серый,76000,левый,,,0,1180000
+5219,https://moscow.drom.ru/chevrolet/malibu/48328586.html,Chevrolet,Malibu,Москва,2019,бензин,1.5,163,вариатор,передний,седан,черный,44500,левый,"9 поколение, рестайлинг",1.5T CVT LS,0,1540000
+5220,https://khanty-mansiysk.drom.ru/chevrolet/niva/48324940.html,Chevrolet,Niva,Ханты-Мансийск,2017,бензин,1.7,80,механика,4WD,,синий,145000,левый,"1 поколение, рестайлинг",,0,450000
+5221,https://moscow.drom.ru/chevrolet/tahoe/48323604.html,Chevrolet,Tahoe,Москва,2016,бензин,6.2,409,АКПП,4WD,джип/suv 5 дв.,черный,30000,левый,4 поколение,6.2 AT LTZ,0,4850000
+5222,https://prokopyevsk.drom.ru/chevrolet/niva/48319248.html,Chevrolet,Niva,Прокопьевск,2017,бензин,1.7,80,механика,4WD,,черный,97000,левый,"1 поколение, рестайлинг",,1,680000
+5223,https://rodionovo-nesvetayskaya.drom.ru/chevrolet/malibu/48319030.html,Chevrolet,Malibu,Родионово-Несветайская,2018,бензин,1.5,163,АКПП,передний,седан,черный,132000,левый,9 поколение,1.5T AT L,0,1400000
+5224,https://belaya-kalitva.drom.ru/chevrolet/cruze/47975308.html,Chevrolet,Cruze,Белая Калитва,2016,бензин,1.4,153,АКПП,передний,седан,серый,136000,левый,2 поколение,,0,1200000
+5225,https://kanevskaya.drom.ru/chevrolet/niva/47972709.html,Chevrolet,Niva,Каневская,2015,бензин,1.7,80,механика,4WD,,коричневый,171347,левый,"1 поколение, рестайлинг",,0,550000
+5226,https://barnaul.drom.ru/chevrolet/niva/47638833.html,Chevrolet,Niva,Барнаул,2017,бензин,1.7,80,механика,4WD,,,24863,левый,"1 поколение, рестайлинг",1.7 MT LE+,0,780000
+5227,https://staronizhesteblievskaya.drom.ru/chevrolet/niva/47269698.html,Chevrolet,Niva,Старонижестеблиевская,2016,бензин,1.7,80,механика,4WD,,белый,49000,левый,"1 поколение, рестайлинг",,0,610000
+5228,https://vyborg.drom.ru/chevrolet/malibu/47242104.html,Chevrolet,Malibu,Выборг,2017,бензин,1.5,163,АКПП,передний,седан,серый,82000,левый,9 поколение,1.5T AT LT,0,1430000
+5230,https://sterlitamak.drom.ru/chevrolet/niva/49048966.html,Chevrolet,Niva,Стерлитамак,2017,бензин,1.7,80,механика,4WD,,серый,,левый,"1 поколение, рестайлинг",,0,697000
+5231,https://nizhnevartovsk.drom.ru/chevrolet/niva/48763148.html,Chevrolet,Niva,Нижневартовск,2018,бензин,1.7,80,механика,4WD,,зеленый,66000,левый,"1 поколение, рестайлинг",,0,709000
+5232,https://samara.drom.ru/chevrolet/camaro/49047693.html,Chevrolet,Camaro,Самара,2019,бензин,2.0,238,АКПП,задний,купе,белый,28652,левый,"6 поколение, рестайлинг",,0,3600000
+5233,https://sochi.drom.ru/chevrolet/tahoe/48786544.html,Chevrolet,Tahoe,Сочи,2017,бензин,6.2,409,АКПП,4WD,джип/suv 5 дв.,черный,55500,левый,4 поколение,6.2 AT LE,1,4200000
+5234,https://surgut.drom.ru/chevrolet/malibu/49047219.html,Chevrolet,Malibu,Сургут,2016,бензин,1.5,163,АКПП,передний,седан,серый,170000,левый,9 поколение,1.5T AT L,0,1200000
+5235,https://barnaul.drom.ru/chevrolet/spark/48300555.html,Chevrolet,Spark,Барнаул,2018,бензин,1.0,77,автомат,передний,,,49000,левый,,,0,789000
+5236,https://kuybyshev.drom.ru/chevrolet/niva/49046806.html,Chevrolet,Niva,Куйбышев,2015,бензин,1.7,80,механика,4WD,,белый,20050,левый,"1 поколение, рестайлинг",1.7 MT GLS ,1,700000
+5237,https://barnaul.drom.ru/chevrolet/niva/49046391.html,Chevrolet,Niva,Барнаул,2015,бензин,1.7,80,механика,4WD,,белый,101000,левый,"1 поколение, рестайлинг",1.7 MT GLC,0,625000
+5238,https://astrahan.drom.ru/chevrolet/cruze/49046077.html,Chevrolet,Cruze,Астрахань,2017,бензин,1.4,153,АКПП,передний,седан,белый,157702,левый,2 поколение,,0,1045000
+5239,https://nizhnevartovsk.drom.ru/chevrolet/niva/47307557.html,Chevrolet,Niva,Нижневартовск,2017,бензин,1.7,80,механика,4WD,,серый,150800,левый,"1 поколение, рестайлинг",,0,565000
+5240,https://leninsk-kuznetskiy.drom.ru/chevrolet/aveo/49041861.html,Chevrolet,Aveo,Ленинск-Кузнецкий,2015,бензин,1.6,115,механика,передний,седан,серый,70000,левый,2 поколение,1.6 MT LTZ ,0,750000
+5241,https://astrahan.drom.ru/chevrolet/cruze/49045154.html,Chevrolet,Cruze,Астрахань,2018,бензин,1.4,153,АКПП,передний,седан,серый,90063,левый,2 поколение,,1,999000
+5242,https://chehov.drom.ru/chevrolet/niva/49045044.html,Chevrolet,Niva,Чехов,2015,бензин,1.7,80,механика,4WD,,,,левый,"1 поколение, рестайлинг",,0,550000
+5243,https://tomsk.drom.ru/chevrolet/niva/49044344.html,Chevrolet,Niva,Томск,2018,бензин,1.7,80,механика,4WD,,серебристый,67000,левый,"1 поколение, рестайлинг",1.7 MT GLC,0,710000
+5244,https://nevinnomissk.drom.ru/chevrolet/cruze/49044379.html,Chevrolet,Cruze,Невинномысск,2016,бензин,1.4,153,АКПП,передний,хэтчбек 5 дв.,серый,165000,левый,2 поколение,1.4 AT LT,0,890000
+5245,https://sagan-nur.drom.ru/chevrolet/niva/49044171.html,Chevrolet,Niva,Саган-Нур,2018,бензин,1.7,80,механика,4WD,,,150000,левый,"1 поколение, рестайлинг",,0,700000
+5246,https://nefteyugansk.drom.ru/chevrolet/niva/48490623.html,Chevrolet,Niva,Нефтеюганск,2016,бензин,1.7,80,механика,4WD,,синий,70000,левый,"1 поколение, рестайлинг",,0,500000
+5247,https://moscow.drom.ru/chevrolet/cruze/48552743.html,Chevrolet,Cruze,Москва,2018,бензин,1.4,153,АКПП,передний,седан,черный,89900,левый,2 поколение,1.4 AT Premier,1,1250000
+5248,https://moscow.drom.ru/chevrolet/captiva/49027066.html,Chevrolet,Captiva,Москва,2015,дизель,2.2,184,АКПП,4WD,,коричневый,129000,левый,"1 поколение, 2 рестайлинг",,0,1005000
+5249,https://omsk.drom.ru/chevrolet/niva/49032330.html,Chevrolet,Niva,Омск,2015,бензин,1.7,80,механика,4WD,,,130000,левый,"1 поколение, рестайлинг",,0,497000
+5250,https://yessentuki.drom.ru/chevrolet/niva/49032223.html,Chevrolet,Niva,Ессентуки,2019,бензин,1.7,80,механика,4WD,,серый,25000,левый,"1 поколение, рестайлинг",,1,920000
+5252,https://nizhnevartovsk.drom.ru/chevrolet/niva/49031746.html,Chevrolet,Niva,Нижневартовск,2017,бензин,1.7,80,механика,4WD,,серый,245700,левый,"1 поколение, рестайлинг",,0,495000
+5253,https://volgograd.drom.ru/chevrolet/niva/46656813.html,Chevrolet,Niva,Волгоград,2018,бензин,1.7,80,механика,4WD,,серебристый,,левый,"1 поколение, рестайлинг",,0,790000
+5254,https://moscow.drom.ru/chevrolet/cruze/49023504.html,Chevrolet,Cruze,Москва,2017,бензин,1.4,153,АКПП,передний,седан,голубой,126000,левый,2 поколение,1.4 AT LT,0,950000
+5255,https://tyumen.drom.ru/chevrolet/niva/48955056.html,Chevrolet,Niva,Тюмень,2017,бензин,1.7,80,механика,4WD,,серый,43400,левый,"1 поколение, рестайлинг",1.7 MT GLC,1,750000
+5256,https://perm.drom.ru/chevrolet/niva/48694209.html,Chevrolet,Niva,Пермь,2018,бензин,1.7,80,механика,4WD,,,72900,левый,"1 поколение, рестайлинг",,0,610000
+5258,https://ekaterinburg.drom.ru/chevrolet/niva/48346760.html,Chevrolet,Niva,Екатеринбург,2017,бензин,1.7,80,механика,4WD,,зеленый,52973,левый,"1 поколение, рестайлинг",,0,699890
+5259,https://krasnodar.drom.ru/chevrolet/tahoe/48692851.html,Chevrolet,Tahoe,Краснодар,2016,бензин,6.2,409,АКПП,4WD,джип/suv 5 дв.,черный,186078,левый,4 поколение,,0,3140900
+5260,https://ekaterinburg.drom.ru/chevrolet/trax/48692113.html,Chevrolet,Trax,Екатеринбург,2018,бензин,1.4,138,АКПП,передний,,серый,43000,левый,"1 поколение, рестайлинг",1.4T AT LT,0,1299999
+5261,https://ivanovo.drom.ru/chevrolet/cruze/48690962.html,Chevrolet,Cruze,Иваново,2016,бензин,1.4,153,АКПП,передний,хэтчбек 5 дв.,синий,130000,левый,2 поколение,1.4 AT LT,0,1020000
+5262,https://ust-abakan.drom.ru/chevrolet/niva/48684747.html,Chevrolet,Niva,Усть-Абакан,2016,бензин,1.7,80,механика,4WD,,серебристый,85000,левый,"1 поколение, рестайлинг",,0,600000
+5263,https://kaluga.drom.ru/chevrolet/niva/48350854.html,Chevrolet,Niva,Калуга,2015,бензин,1.7,80,механика,4WD,,серый,53174,левый,"1 поколение, рестайлинг",,0,650000
+5264,https://ulyanovsk.drom.ru/chevrolet/niva/48348105.html,Chevrolet,Niva,Ульяновск,2018,бензин,1.7,80,механика,4WD,,зеленый,114000,левый,"1 поколение, рестайлинг",,0,745000
+5265,https://krasnoyarsk.drom.ru/chevrolet/niva/48341987.html,Chevrolet,Niva,Красноярск,2016,бензин,1.7,80,механика,4WD,,зеленый,70000,левый,"1 поколение, рестайлинг",1.7 MT LE ,0,625000
+5266,https://biysk.drom.ru/chevrolet/niva/47710937.html,Chevrolet,Niva,Бийск,2015,бензин,1.7,80,механика,4WD,,серый,1,левый,"1 поколение, рестайлинг",1.7 MT L,0,550000
+5267,https://lipetsk.drom.ru/chevrolet/volt/47358238.html,Chevrolet,Volt,Липецк,2017,бензин,1.5,101,вариатор,передний,,черный,95000,левый,2 поколение,1.5 CVT LT,0,1300000
+5268,https://borodino.drom.ru/chevrolet/niva/47089578.html,Chevrolet,Niva,Бородино,2018,бензин,1.7,80,механика,4WD,,коричневый,53000,левый,"1 поколение, рестайлинг",1.7 MT LE ,0,700000
+5269,https://biysk.drom.ru/chevrolet/niva/49055163.html,Chevrolet,Niva,Бийск,2016,бензин,1.7,80,механика,4WD,,синий,99042,левый,"1 поколение, рестайлинг",,0,597000
+5270,https://biysk.drom.ru/chevrolet/niva/48786052.html,Chevrolet,Niva,Бийск,2015,бензин,1.7,80,механика,4WD,,белый,121866,левый,"1 поколение, рестайлинг",,1,597000
+5271,https://nizhnevartovsk.drom.ru/chevrolet/niva/49008967.html,Chevrolet,Niva,Нижневартовск,2016,бензин,1.7,80,механика,4WD,,белый,78000,левый,"1 поколение, рестайлинг",1.7 MT GLC,1,518000
+5272,https://novosibirsk.drom.ru/chevrolet/bolt/48247417.html,Chevrolet,Bolt,Новосибирск,2018,электр,,200,АКПП,передний,,белый,24000,левый,1 поколение,60 kWt EV LT,0,1900000
+5273,https://toguchin.drom.ru/chevrolet/niva/48686766.html,Chevrolet,Niva,Тогучин,2019,бензин,1.7,80,механика,4WD,,зеленый,77000,левый,"1 поколение, рестайлинг",,0,785000
+5274,https://glazov.drom.ru/chevrolet/niva/47682770.html,Chevrolet,Niva,Глазов,2016,бензин,1.7,80,механика,4WD,,черный,63000,левый,"1 поколение, рестайлинг",,0,585000
+5275,https://tyumen.drom.ru/chevrolet/niva/48366041.html,Chevrolet,Niva,Тюмень,2016,бензин,1.7,80,механика,4WD,,белый,190100,левый,"1 поколение, рестайлинг",1.7 MT GL,0,535000
+5276,https://nizhnevartovsk.drom.ru/chevrolet/niva/48521036.html,Chevrolet,Niva,Нижневартовск,2019,бензин,1.7,80,механика,4WD,,синий,64300,левый,"1 поколение, рестайлинг",,0,755000
+5277,https://nizhniy-novgorod.drom.ru/chevrolet/niva/48366502.html,Chevrolet,Niva,Нижний Новгород,2016,бензин,1.7,80,механика,4WD,,,60000,левый,"1 поколение, рестайлинг",,0,770000
+5278,https://shelaboliha.drom.ru/chevrolet/niva/49051674.html,Chevrolet,Niva,Шелаболиха,2015,бензин,1.7,80,механика,4WD,,коричневый,110000,левый,"1 поколение, рестайлинг",,0,580000
+5279,https://nizhniy-novgorod.drom.ru/chevrolet/niva/48366389.html,Chevrolet,Niva,Нижний Новгород,2019,бензин,1.7,80,механика,4WD,,серый,51000,левый,"1 поколение, рестайлинг",1.7 MT L,0,840000
+5280,https://ufa.drom.ru/chevrolet/niva/48351284.html,Chevrolet,Niva,Уфа,2017,бензин,1.7,80,механика,4WD,,серебристый,113740,левый,"1 поколение, рестайлинг",,0,679000
+5281,https://habarovsk.drom.ru/chevrolet/camaro/48558520.html,Chevrolet,Camaro,Хабаровск,2018,бензин,6.2,455,АКПП,задний,купе,серый,33700,левый,"6 поколение, рестайлинг",6.2 AT 1SS 1LE Track Performance Package,0,4700000
+5282,https://tyumen.drom.ru/chevrolet/niva/48709774.html,Chevrolet,Niva,Тюмень,2015,бензин,1.7,80,механика,4WD,,серый,98790,левый,"1 поколение, рестайлинг",,0,555000
+5283,https://moscow.drom.ru/chevrolet/malibu/48717486.html,Chevrolet,Malibu,Москва,2017,бензин,1.5,163,АКПП,передний,седан,серый,101500,левый,9 поколение,1.5T AT LT,0,1220000
+5284,https://tambov.drom.ru/chevrolet/niva/48717480.html,Chevrolet,Niva,Тамбов,2017,бензин,1.7,80,механика,4WD,,серебристый,45375,левый,"1 поколение, рестайлинг",,0,785000
+5285,https://spb.drom.ru/chevrolet/traverse/48712928.html,Chevrolet,Traverse,Санкт-Петербург,2018,бензин,3.6,318,АКПП,4WD,,коричневый,69841,левый,2 поколение,,0,3090000
+5286,https://vologda.drom.ru/chevrolet/niva/48706469.html,Chevrolet,Niva,Вологда,2015,бензин,1.7,80,механика,4WD,,коричневый,119212,левый,"1 поколение, рестайлинг",,0,599000
+5287,https://kupino.drom.ru/chevrolet/niva/48665672.html,Chevrolet,Niva,Купино,2018,бензин,1.7,80,механика,4WD,,белый,133000,левый,"1 поколение, рестайлинг",,0,755000
+5288,https://togliatti.drom.ru/chevrolet/malibu/48370244.html,Chevrolet,Malibu,Тольятти,2016,бензин,1.5,163,АКПП,передний,седан,серебристый,145000,левый,9 поколение,1.5T AT LT,0,1300000
+5289,https://spb.drom.ru/chevrolet/cruze/46975568.html,Chevrolet,Cruze,Санкт-Петербург,2015,бензин,1.6,109,АКПП,передний,хэтчбек 5 дв.,черный,129039,левый,"1 поколение, рестайлинг",1.6 AT LS ,0,710000
+5290,https://tyumentsevo.drom.ru/chevrolet/niva/46930570.html,Chevrolet,Niva,Тюменцево,2015,бензин,1.7,80,механика,4WD,,,113000,левый,"1 поколение, рестайлинг",1.7 MT GLS ,0,500000
+5291,https://stavropol.drom.ru/chevrolet/niva/46647376.html,Chevrolet,Niva,Ставрополь,2017,бензин,1.7,,механика,4WD,,белый,83000,,,,0,850000
+5292,https://spb.drom.ru/chevrolet/tahoe/46311984.html,Chevrolet,Tahoe,Санкт-Петербург,2016,бензин,6.2,409,АКПП,4WD,джип/suv 5 дв.,белый,103400,левый,4 поколение,,0,3599000
+5293,https://labinsk.drom.ru/chevrolet/niva/48200779.html,Chevrolet,Niva,Лабинск,2015,бензин,1.7,80,механика,4WD,,коричневый,80000,левый,"1 поколение, рестайлинг",,0,610000
+5294,https://kemerovo.drom.ru/chevrolet/aveo/49003395.html,Chevrolet,Aveo,Кемерово,2015,бензин,1.6,115,механика,передний,седан,черный,112300,левый,2 поколение,1.6 MT LT Comfort Pack,0,600000
+5295,https://berezniky.drom.ru/chevrolet/niva/49003312.html,Chevrolet,Niva,Березники,2015,бензин,1.7,80,механика,4WD,,серебристый,72000,левый,"1 поколение, рестайлинг",,0,555000
+5296,https://kirov.drom.ru/chevrolet/niva/49003188.html,Chevrolet,Niva,Киров,2017,бензин,1.7,80,механика,4WD,,серый,,левый,"1 поколение, рестайлинг",,0,799000
+5297,https://moscow.drom.ru/chevrolet/blazer/49003135.html,Chevrolet,Blazer,Москва,2019,бензин,2.5,193,АКПП,передний,джип/suv 5 дв.,серый,22000,левый,3 поколение,,0,2800000
+5298,https://ekaterinburg.drom.ru/chevrolet/captiva/49003084.html,Chevrolet,Captiva,Екатеринбург,2015,бензин,2.4,167,АКПП,4WD,,белый,83515,левый,"1 поколение, 2 рестайлинг",2.4 AT LT (5 сидений),1,1500000
+5299,https://krasnodar.drom.ru/chevrolet/malibu/49002449.html,Chevrolet,Malibu,Краснодар,2018,бензин,1.5,163,АКПП,передний,седан,черный,53000,левый,9 поколение,,0,1570000
+5300,https://moscow.drom.ru/chevrolet/camaro/49001970.html,Chevrolet,Camaro,Москва,2019,бензин,2.0,238,АКПП,задний,купе,черный,25000,левый,"6 поколение, рестайлинг",,0,2680000
+5301,https://moscow.drom.ru/chevrolet/captiva/49001635.html,Chevrolet,Captiva,Москва,2015,бензин,2.4,167,АКПП,4WD,,черный,139601,левый,"1 поколение, 2 рестайлинг",,0,1330000
+5302,https://chernogorsk.drom.ru/chevrolet/niva/47974063.html,Chevrolet,Niva,Черногорск,2015,бензин,1.7,80,механика,4WD,,белый,153000,левый,"1 поколение, рестайлинг",1.7 MT LE ,0,560000
+5303,https://kurgan.drom.ru/chevrolet/niva/48657635.html,Chevrolet,Niva,Курган,2017,бензин,1.7,80,механика,4WD,,черный,98746,левый,"1 поколение, рестайлинг",,0,549000
+5304,https://klin.drom.ru/chevrolet/malibu/48602052.html,Chevrolet,Malibu,Клин,2017,бензин,1.5,163,АКПП,передний,седан,серый,76000,левый,9 поколение,1.5T AT LT,0,1150000
+5305,https://ekaterinburg.drom.ru/chevrolet/cruze/48999917.html,Chevrolet,Cruze,Екатеринбург,2016,бензин,1.4,153,АКПП,передний,седан,синий,120000,левый,2 поколение,1.4 AT LT,0,995000
+5306,https://krasnodar.drom.ru/chevrolet/cruze/48997834.html,Chevrolet,Cruze,Краснодар,2018,бензин,1.4,153,АКПП,передний,седан,серый,73000,левый,2 поколение,,0,1240000
+5307,https://krasnodar.drom.ru/chevrolet/equinox/48998900.html,Chevrolet,Equinox,Краснодар,2017,бензин,1.5,170,АКПП,4WD,,серый,35500,левый,3 поколение,1.5 AT AWD LT,0,1700000
+5308,https://slavyansk-na-kubani.drom.ru/chevrolet/niva/48998890.html,Chevrolet,Niva,Славянск-На-Кубани,2019,бензин,1.7,80,механика,4WD,,белый,70000,левый,"1 поколение, рестайлинг",,1,665000
+5309,https://moscow.drom.ru/chevrolet/captiva/48469133.html,Chevrolet,Captiva,Москва,2015,дизель,2.2,184,АКПП,4WD,,черный,118000,левый,"1 поколение, 2 рестайлинг",,0,1105000
+5310,https://slavyansk-na-kubani.drom.ru/chevrolet/niva/47433120.html,Chevrolet,Niva,Славянск-На-Кубани,2015,бензин,1.7,80,механика,4WD,,коричневый,55000,левый,"1 поколение, рестайлинг",,0,580000
+5311,https://novocherkassk.drom.ru/chevrolet/cruze/48402211.html,Chevrolet,Cruze,Новочеркасск,2015,бензин,1.8,141,механика,передний,седан,коричневый,141300,левый,"1 поколение, рестайлинг",,0,689000
+5312,https://simferopol.drom.ru/chevrolet/cruze/48654476.html,Chevrolet,Cruze,Симферополь,2015,бензин,1.6,109,АКПП,передний,седан,белый,146004,левый,"1 поколение, рестайлинг",,0,650000
+5313,https://nizhnevartovsk.drom.ru/chevrolet/niva/48608309.html,Chevrolet,Niva,Нижневартовск,2017,бензин,1.7,80,механика,4WD,,зеленый,215000,левый,"1 поколение, рестайлинг",,0,509900
+5314,https://moscow.drom.ru/chevrolet/niva/48353594.html,Chevrolet,Niva,Москва,2017,бензин,1.7,80,механика,4WD,,зеленый,5000,левый,"1 поколение, рестайлинг",,0,721000
+5315,https://kemerovo.drom.ru/chevrolet/niva/48609386.html,Chevrolet,Niva,Кемерово,2015,бензин,1.7,80,механика,4WD,,серебристый,79000,левый,"1 поколение, рестайлинг",1.7 MT GLC,1,595000
+5316,https://novosibirsk.drom.ru/chevrolet/niva/49042189.html,Chevrolet,Niva,Новосибирск,2019,бензин,1.7,80,механика,4WD,,серый,49000,левый,"1 поколение, рестайлинг",1.7 MT LC,0,800000
+5317,https://biysk.drom.ru/chevrolet/niva/48787590.html,Chevrolet,Niva,Бийск,2018,бензин,1.7,80,механика,4WD,,белый,42000,левый,"1 поколение, рестайлинг",,0,797000
+5318,https://chelyabinsk.drom.ru/chevrolet/captiva/48883562.html,Chevrolet,Captiva,Челябинск,2015,бензин,2.4,167,АКПП,4WD,,белый,113000,левый,"1 поколение, 2 рестайлинг",,0,1450000
+5319,https://abakan.drom.ru/chevrolet/niva/48942197.html,Chevrolet,Niva,Абакан,2015,бензин,1.7,80,механика,4WD,,серебристый,68000,левый,"1 поколение, рестайлинг",,1,595000
+5320,https://barnaul.drom.ru/chevrolet/camaro/48655157.html,Chevrolet,Camaro,Барнаул,2018,бензин,2.0,238,АКПП,задний,купе,желтый,55000,левый,6 поколение,2.0 AT 2LT ,0,2830000
+5321,https://tambov.drom.ru/chevrolet/niva/49040993.html,Chevrolet,Niva,Тамбов,2016,бензин,1.7,80,механика,4WD,,белый,138392,левый,"1 поколение, рестайлинг",,0,680000
+5322,https://volgograd.drom.ru/chevrolet/cruze/48695197.html,Chevrolet,Cruze,Волгоград,2017,бензин,1.4,153,АКПП,передний,седан,черный,177992,левый,2 поколение,,0,1289000
+5323,https://tyumen.drom.ru/chevrolet/niva/48701451.html,Chevrolet,Niva,Тюмень,2015,бензин,1.7,80,механика,4WD,,серебристый,218000,левый,"1 поколение, рестайлинг",,0,439000
+5324,https://novokuznetsk.drom.ru/chevrolet/niva/48700821.html,Chevrolet,Niva,Новокузнецк,2015,бензин,1.7,80,механика,4WD,,зеленый,32496,левый,"1 поколение, рестайлинг",,0,645000
+5325,https://moscow.drom.ru/chevrolet/malibu/48706041.html,Chevrolet,Malibu,Москва,2018,бензин,1.5,163,АКПП,передний,седан,синий,90400,левый,9 поколение,1.5T AT LT,0,1340000
+5326,https://novosibirsk.drom.ru/chevrolet/niva/48703142.html,Chevrolet,Niva,Новосибирск,2018,бензин,1.7,80,механика,4WD,,синий,21000,левый,"1 поколение, рестайлинг",1.7 MT  Special Edition,0,825000
+5327,https://ekaterinburg.drom.ru/chevrolet/niva/48700362.html,Chevrolet,Niva,Екатеринбург,2015,бензин,1.7,80,механика,4WD,,серебристый,160000,левый,"1 поколение, рестайлинг",,0,569900
+5328,https://minvody.drom.ru/chevrolet/cruze/48699657.html,Chevrolet,Cruze,Минеральные Воды,2018,бензин,1.4,153,АКПП,передний,седан,серебристый,150000,левый,2 поколение,1.4 AT Premier,0,1100000
+5329,https://kaluga.drom.ru/chevrolet/tracker/45611545.html,Chevrolet,Tracker,Калуга,2015,бензин,1.4,140,механика,4WD,джип/suv 5 дв.,синий,162261,левый,3 поколение,1.4 MT LTZ AWD,0,945000
+5330,https://verhnyaya-pyshma.drom.ru/chevrolet/niva/49028481.html,Chevrolet,Niva,Верхняя Пышма,2018,бензин,1.7,80,механика,4WD,,синий,76000,левый,"1 поколение, рестайлинг",1.7 MT LE ,1,660000
+5331,https://krasnodar.drom.ru/chevrolet/cruze/48337303.html,Chevrolet,Cruze,Краснодар,2016,бензин,1.4,153,АКПП,передний,седан,синий,135000,левый,2 поколение,,0,1070000
+5332,https://barnaul.drom.ru/chevrolet/cruze/48802024.html,Chevrolet,Cruze,Барнаул,2016,бензин,1.4,153,АКПП,передний,седан,черный,63000,левый,2 поколение,,0,1160000
+5333,https://nizhniy-novgorod.drom.ru/chevrolet/camaro/46580429.html,Chevrolet,Camaro,Нижний Новгород,2018,бензин,2.0,238,АКПП,задний,купе,красный,32000,левый,"6 поколение, рестайлинг",2.0 AT 3LT,0,3888000
+5334,https://vladimir.drom.ru/chevrolet/niva/49027680.html,Chevrolet,Niva,Владимир,2016,бензин,1.7,80,механика,4WD,,белый,67119,левый,"1 поколение, рестайлинг",1.7 MT LE+,0,655000
+5335,https://chaykovskiy.drom.ru/chevrolet/niva/45272721.html,Chevrolet,Niva,Чайковский,2016,бензин,1.7,80,механика,4WD,,зеленый,41000,левый,"1 поколение, рестайлинг",,0,749000
+5336,https://nefteyugansk.drom.ru/chevrolet/niva/49027423.html,Chevrolet,Niva,Нефтеюганск,2018,бензин,1.7,80,механика,4WD,,серебристый,117000,левый,"1 поколение, рестайлинг",,0,555000
+5337,https://anapa.drom.ru/chevrolet/niva/49024588.html,Chevrolet,Niva,Анапа,2018,бензин,1.7,80,механика,4WD,,серый,16500,левый,"1 поколение, рестайлинг",1.7 MT LE+,0,1050000
+5338,https://perm.drom.ru/chevrolet/niva/49024389.html,Chevrolet,Niva,Пермь,2017,бензин,1.7,80,механика,4WD,,красный,108000,левый,"1 поколение, рестайлинг",,0,595000
+5339,https://moscow.drom.ru/chevrolet/niva/49024120.html,Chevrolet,Niva,Москва,2016,бензин,1.7,80,механика,4WD,,серый,138000,левый,"1 поколение, рестайлинг",,0,599000
+5340,https://novosibirsk.drom.ru/chevrolet/niva/49023684.html,Chevrolet,Niva,Новосибирск,2019,бензин,1.7,80,механика,4WD,,серый,30000,левый,"1 поколение, рестайлинг",1.7 MT L,1,790000
+5341,https://yaroslavl.drom.ru/chevrolet/niva/49023156.html,Chevrolet,Niva,Ярославль,2017,бензин,1.7,80,механика,4WD,,серый,28000,левый,"1 поколение, рестайлинг",,0,725000
+5342,https://kurgan.drom.ru/chevrolet/niva/48856756.html,Chevrolet,Niva,Курган,2017,бензин,1.7,80,механика,4WD,,черный,58000,левый,"1 поколение, рестайлинг",,0,680000
+5343,https://voronezh.drom.ru/chevrolet/malibu/49021878.html,Chevrolet,Malibu,Воронеж,2018,бензин,1.5,160,автомат,передний,седан,черный,102560,левый,,,0,1399900
+5344,https://tyumen.drom.ru/chevrolet/captiva/49021792.html,Chevrolet,Captiva,Тюмень,2015,дизель,2.2,184,АКПП,4WD,,белый,119000,левый,"1 поколение, 2 рестайлинг",,0,1350000
+5345,https://krasnodar.drom.ru/chevrolet/volt/45544706.html,Chevrolet,Volt,Краснодар,2015,бензин,1.4,83,вариатор,передний,,белый,232000,левый,1 поколение,1.4 CVT,0,1200000
+5346,https://astrahan.drom.ru/chevrolet/cruze/49021407.html,Chevrolet,Cruze,Астрахань,2018,бензин,1.4,153,АКПП,передний,седан,серый,90063,левый,2 поколение,,0,999000
+5347,https://tomsk.drom.ru/chevrolet/niva/48356935.html,Chevrolet,Niva,Томск,2017,бензин,1.7,80,механика,4WD,,черный,100250,левый,"1 поколение, рестайлинг",1.7 MT LE ,1,714000
+5348,https://izhevsk.drom.ru/chevrolet/niva/49020680.html,Chevrolet,Niva,Ижевск,2017,бензин,1.7,80,механика,4WD,,коричневый,127388,левый,"1 поколение, рестайлинг",,0,659900
+5350,https://moscow.drom.ru/chevrolet/equinox/48331476.html,Chevrolet,Equinox,Москва,2018,бензин,1.5,170,АКПП,передний,,черный,85000,левый,3 поколение,1.5 AT LS,0,1379000
+5351,https://krasnoyarsk.drom.ru/chevrolet/niva/48330585.html,Chevrolet,Niva,Красноярск,2018,бензин,1.7,80,механика,4WD,,серый,17687,левый,"1 поколение, рестайлинг",,0,799000
+5352,https://ulyanovsk.drom.ru/chevrolet/niva/48330668.html,Chevrolet,Niva,Ульяновск,2019,бензин,1.7,80,механика,4WD,,серебристый,53511,левый,"1 поколение, рестайлинг",,0,814000
+5353,https://krasnoyarsk.drom.ru/chevrolet/camaro/48330248.html,Chevrolet,Camaro,Красноярск,2016,бензин,2.0,238,АКПП,задний,купе,серый,70000,левый,6 поколение,2.0 AT 2LT ,0,2500000
+5354,https://podolsk.drom.ru/chevrolet/equinox/47989685.html,Chevrolet,Equinox,Подольск,2017,бензин,1.5,170,АКПП,передний,,серый,97000,левый,3 поколение,1.5 AT Premium,0,1790000
+5355,https://moscow.drom.ru/chevrolet/cruze/47989578.html,Chevrolet,Cruze,Москва,2016,бензин,1.4,153,АКПП,передний,седан,серебристый,62000,левый,2 поколение,1.4 AT LT,0,990000
+5356,https://belokuriha.drom.ru/chevrolet/niva/47988210.html,Chevrolet,Niva,Белокуриха,2016,бензин,1.7,80,механика,4WD,,серый,78000,левый,"1 поколение, рестайлинг",1.7 MT L,1,675000
+5357,https://moscow.drom.ru/chevrolet/niva/47983884.html,Chevrolet,Niva,Москва,2016,бензин,1.7,80,механика,4WD,,серый,113000,левый,"1 поколение, рестайлинг",,0,565000
+5358,https://syzran.drom.ru/chevrolet/niva/47652307.html,Chevrolet,Niva,Сызрань,2015,бензин,1.7,80,механика,4WD,,черный,111000,левый,"1 поколение, рестайлинг",,0,580000
+5359,https://ufa.drom.ru/chevrolet/niva/47649014.html,Chevrolet,Niva,Уфа,2017,бензин,1.7,80,механика,4WD,,красный,62540,левый,"1 поколение, рестайлинг",,0,625000
+5360,https://stavropol.drom.ru/chevrolet/niva/46659720.html,Chevrolet,Niva,Ставрополь,2017,бензин,1.7,,механика,4WD,,зеленый,157888,,,,0,840000
+5361,https://tashtagol.drom.ru/chevrolet/niva/46635507.html,Chevrolet,Niva,Таштагол,2017,бензин,1.7,80,механика,4WD,,коричневый,70000,левый,"1 поколение, рестайлинг",,0,700000
+5362,https://usk-kut.drom.ru/chevrolet/tracker/45721932.html,Chevrolet,Tracker,Усть-Кут,2015,бензин,1.8,140,АКПП,4WD,джип/suv 5 дв.,серый,61000,левый,3 поколение,1.8 AT LT AWD,1,1000000
+5363,https://pyatigorsk.drom.ru/chevrolet/cruze/49016071.html,Chevrolet,Cruze,Пятигорск,2016,бензин,1.4,,автомат,передний,седан,черный,128000,левый,,,0,1200000
+5364,https://slavyansk-na-kubani.drom.ru/chevrolet/malibu/49015552.html,Chevrolet,Malibu,Славянск-На-Кубани,2016,бензин,1.5,163,АКПП,передний,седан,черный,78000,левый,9 поколение,,0,1380000
+5365,https://saratov.drom.ru/chevrolet/niva/49015501.html,Chevrolet,Niva,Саратов,2019,бензин,1.7,80,механика,4WD,,серый,40260,левый,"1 поколение, рестайлинг",,0,855000
+5366,https://vladikavkaz.drom.ru/chevrolet/cruze/49015376.html,Chevrolet,Cruze,Владикавказ,2019,бензин,1.4,153,АКПП,передний,седан,серый,98296,левый,"2 поколение, рестайлинг",1.4 AT LT,0,1100000
+5367,https://ekaterinburg.drom.ru/chevrolet/niva/49014869.html,Chevrolet,Niva,Екатеринбург,2019,бензин,1.7,80,механика,4WD,,серый,48000,левый,"1 поколение, рестайлинг",,0,780000
+5368,https://barnaul.drom.ru/chevrolet/niva/49013116.html,Chevrolet,Niva,Барнаул,2015,бензин,1.7,80,механика,4WD,,серый,78000,левый,"1 поколение, рестайлинг",,0,529990
+5370,https://volgograd.drom.ru/chevrolet/niva/47834717.html,Chevrolet,Niva,Волгоград,2016,бензин,1.7,80,механика,4WD,,серебристый,104000,левый,"1 поколение, рестайлинг",,0,675000
+5371,https://slavyansk-na-kubani.drom.ru/chevrolet/niva/48114439.html,Chevrolet,Niva,Славянск-На-Кубани,2017,бензин,1.7,80,механика,4WD,,белый,95000,левый,"1 поколение, рестайлинг",1.7 MT L,0,675000
+5372,https://biysk.drom.ru/chevrolet/camaro/46654934.html,Chevrolet,Camaro,Бийск,2018,бензин,2.0,238,АКПП,задний,купе,белый,35000,левый,6 поколение,2.0 AT 2LT ,0,2200000
+5373,https://samara.drom.ru/chevrolet/niva/48659166.html,Chevrolet,Niva,Самара,2015,бензин,1.7,80,механика,4WD,,,178000,левый,"1 поколение, рестайлинг",,0,565000
+5374,https://kurgan.drom.ru/chevrolet/niva/48152774.html,Chevrolet,Niva,Курган,2016,бензин,1.7,80,механика,4WD,,серый,82000,левый,"1 поколение, рестайлинг",1.7 MT GL,1,600000
+5375,https://rostov-na-donu.drom.ru/chevrolet/niva/48996533.html,Chevrolet,Niva,Ростов-на-Дону,2017,бензин,1.7,80,механика,4WD,,серый,55000,левый,"1 поколение, рестайлинг",,0,795000
+5376,https://ulyanovsk.drom.ru/chevrolet/niva/48996372.html,Chevrolet,Niva,Ульяновск,2018,бензин,1.7,80,механика,4WD,,серый,38000,левый,"1 поколение, рестайлинг",,0,820000
+5377,https://simferopol.drom.ru/chevrolet/niva/48614470.html,Chevrolet,Niva,Симферополь,2016,бензин,1.7,80,механика,4WD,,серый,90000,левый,"1 поколение, рестайлинг",1.7 MT LE+,0,700000
+5378,https://tarko-sale.drom.ru/chevrolet/niva/46388949.html,Chevrolet,Niva,Тарко-Сале,2018,бензин,1.7,80,механика,4WD,,черный,20000,левый,"1 поколение, рестайлинг",1.7 MT LE+,0,850000
+5379,https://strezhevoy.drom.ru/chevrolet/niva/48797011.html,Chevrolet,Niva,Стрежевой,2015,бензин,1.7,80,механика,4WD,,серый,260000,левый,"1 поколение, рестайлинг",,0,435000
+5380,https://omsk.drom.ru/chevrolet/camaro/46895235.html,Chevrolet,Camaro,Омск,2017,бензин,2.0,275,механика,задний,купе,белый,70000,левый,6 поколение,2.0 MT 1LS RS,0,2650000
+5381,https://kerch.drom.ru/chevrolet/cruze/47958861.html,Chevrolet,Cruze,Керчь,2017,бензин,1.4,153,АКПП,передний,седан,черный,185000,левый,2 поколение,1.4 AT LT,0,1350000
+5382,https://balebey.drom.ru/chevrolet/niva/48995071.html,Chevrolet,Niva,Белебей,2016,бензин,1.7,80,механика,4WD,,серебристый,70000,левый,"1 поколение, рестайлинг",1.7 MT GL,1,560000
+5383,https://leninsk-kuznetskiy.drom.ru/chevrolet/camaro/46995098.html,Chevrolet,Camaro,Ленинск-Кузнецкий,2018,бензин,2.0,238,АКПП,задний,купе,серебристый,55000,левый,"6 поколение, рестайлинг",2.0 AT 3LT,1,2150000
+5384,https://stavropol.drom.ru/chevrolet/malibu/48994274.html,Chevrolet,Malibu,Ставрополь,2017,бензин,1.5,160,автомат,передний,седан,коричневый,137969,левый,,,0,1269000
+5385,https://tomsk.drom.ru/chevrolet/tahoe/47531826.html,Chevrolet,Tahoe,Томск,2016,бензин,6.2,409,АКПП,4WD,джип/suv 5 дв.,серый,110500,левый,4 поколение,6.2 AT LT,0,3860000
+5386,https://omsk.drom.ru/chevrolet/niva/48993810.html,Chevrolet,Niva,Омск,2017,бензин,1.7,80,механика,4WD,,серый,69000,левый,"1 поколение, рестайлинг",1.7 MT GL,0,630000
+5387,https://krasnodar.drom.ru/chevrolet/aveo/48661618.html,Chevrolet,Aveo,Краснодар,2015,бензин,1.6,115,механика,передний,седан,черный,94690,левый,2 поколение,,0,512100
+5388,https://achinsk.drom.ru/chevrolet/niva/48662862.html,Chevrolet,Niva,Ачинск,2017,бензин,1.7,80,механика,4WD,,серый,64000,левый,"1 поколение, рестайлинг",,0,720000
+5389,https://ulyanovsk.drom.ru/chevrolet/niva/47024086.html,Chevrolet,Niva,Ульяновск,2016,бензин,1.7,80,механика,4WD,,серый,115187,левый,"1 поколение, рестайлинг",,0,566000
+5390,https://krasnoyarsk.drom.ru/chevrolet/niva/46875674.html,Chevrolet,Niva,Красноярск,2015,бензин,1.7,80,механика,4WD,,серый,82000,левый,"1 поколение, рестайлинг",1.7 MT L,0,620000
+5391,https://spb.drom.ru/chevrolet/tahoe/45646762.html,Chevrolet,Tahoe,Санкт-Петербург,2019,бензин,6.2,426,АКПП,4WD,джип/suv 5 дв.,черный,69281,левый,4 поколение,,0,4091000
+5392,https://kamyshlov.drom.ru/chevrolet/cruze/38724119.html,Chevrolet,Cruze,Камышлов,2015,бензин,1.6,109,АКПП,передний,седан,черный,103500,левый,"1 поколение, рестайлинг",,0,799000
+5393,https://moscow.drom.ru/chevrolet/equinox/49059241.html,Chevrolet,Equinox,Москва,2019,бензин,2.0,252,АКПП,4WD,,синий,40000,левый,3 поколение,2.0 AT AWD LT,0,1800000
+5395,https://ulyanovsk.drom.ru/chevrolet/niva/49058886.html,Chevrolet,Niva,Ульяновск,2017,бензин,1.7,80,механика,4WD,,серебристый,85000,левый,"1 поколение, рестайлинг",,0,669000
+5396,https://tyumen.drom.ru/chevrolet/niva/49058640.html,Chevrolet,Niva,Тюмень,2019,бензин,1.7,80,механика,4WD,,серый,30084,левый,"1 поколение, рестайлинг",1.7 MT L,0,849000
+5397,https://spb.drom.ru/chevrolet/niva/49058631.html,Chevrolet,Niva,Санкт-Петербург,2018,бензин,1.7,80,механика,4WD,,коричневый,75546,левый,"1 поколение, рестайлинг",,0,862500
+5398,https://spb.drom.ru/chevrolet/niva/49058612.html,Chevrolet,Niva,Санкт-Петербург,2015,бензин,1.7,80,механика,4WD,,зеленый,160000,левый,"1 поколение, рестайлинг",1.7 MT LE+,1,550000
+5399,https://krasnodar.drom.ru/chevrolet/camaro/49058602.html,Chevrolet,Camaro,Краснодар,2016,бензин,2.0,238,АКПП,задний,купе,белый,120000,левый,6 поколение,2.0 AT 2LT ,1,2150000
+5400,https://moscow.drom.ru/chevrolet/captiva/45564151.html,Chevrolet,Captiva,Москва,2015,дизель,2.2,184,АКПП,4WD,,серый,109000,левый,"1 поколение, 2 рестайлинг",,0,1349000
+5401,https://pokachi.drom.ru/chevrolet/niva/48949570.html,Chevrolet,Niva,Покачи,2018,бензин,1.7,80,механика,4WD,,красный,76000,левый,"1 поколение, рестайлинг",1.7 MT L,1,650000
+5402,https://moscow.drom.ru/chevrolet/tahoe/49057893.html,Chevrolet,Tahoe,Москва,2016,бензин,6.2,409,АКПП,4WD,джип/suv 5 дв.,коричневый,85058,левый,4 поколение,,0,3000000
+5403,https://samara.drom.ru/chevrolet/cruze/49057911.html,Chevrolet,Cruze,Самара,2017,бензин,1.4,153,АКПП,передний,седан,белый,46321,левый,2 поколение,,0,1059900
+5404,https://moscow.drom.ru/chevrolet/volt/49057827.html,Chevrolet,Volt,Москва,2018,бензин,1.5,101,вариатор,передний,,серый,57000,левый,2 поколение,1.5 CVT LT,0,1570000
+5405,https://rostov-na-donu.drom.ru/chevrolet/malibu/48660637.html,Chevrolet,Malibu,Ростов-на-Дону,2016,бензин,1.5,163,АКПП,передний,седан,серый,99000,левый,9 поколение,1.5T AT LT,0,1400000
+5406,https://tyumen.drom.ru/chevrolet/niva/49056099.html,Chevrolet,Niva,Тюмень,2018,бензин,1.7,80,механика,4WD,,серый,90000,левый,"1 поколение, рестайлинг",1.7 MT SE,0,755000
+5407,https://omsk.drom.ru/chevrolet/niva/48059079.html,Chevrolet,Niva,Омск,2016,бензин,1.7,80,механика,4WD,,серый,97000,левый,"1 поколение, рестайлинг",,0,445000
+5408,https://irkutsk.drom.ru/chevrolet/camaro/47386034.html,Chevrolet,Camaro,Иркутск,2016,бензин,2.0,238,АКПП,задний,купе,красный,33000,левый,6 поколение,2.0 AT 2LT ,0,2400000
+5410,https://moscow.drom.ru/chevrolet/tahoe/48368533.html,,,,,,,,,,,,,,,,0,
+5412,https://ishim.drom.ru/chevrolet/niva/48366804.html,,,,,,,,,,,,,,,,0,
+5413,https://kaluga.drom.ru/chevrolet/niva/48014949.html,Chevrolet,Niva,Калуга,2019,бензин,1.7,80,механика,4WD,,синий,57508,левый,"1 поколение, рестайлинг",,0,790000
+5414,https://kushva.drom.ru/chevrolet/niva/47685940.html,Chevrolet,Niva,Кушва,2015,бензин,1.7,80,механика,4WD,,серебристый,109000,левый,"1 поколение, рестайлинг",,0,500000
+5415,https://ryazan.drom.ru/chevrolet/tahoe/47349614.html,Chevrolet,Tahoe,Рязань,2019,бензин,6.2,426,АКПП,4WD,джип/suv 5 дв.,красный,49001,левый,4 поколение,6.2 AT Premier,0,4750000
+5416,https://svobodniy.drom.ru/chevrolet/niva/47312916.html,Chevrolet,Niva,Свободный,2018,бензин,1.7,80,механика,4WD,,серебристый,77607,левый,"1 поколение, рестайлинг",,0,600000
+5417,https://moscow.drom.ru/chevrolet/traverse/47008999.html,Chevrolet,Traverse,Москва,2019,бензин,3.6,318,АКПП,4WD,,серый,21871,левый,2 поколение,,0,3430000
+5418,https://voronezh.drom.ru/chevrolet/niva/46363388.html,Chevrolet,Niva,Воронеж,2018,бензин,1.7,80,механика,4WD,,коричневый,36423,левый,"1 поколение, рестайлинг",,0,784000
+5419,https://tyumen.drom.ru/chevrolet/niva/46258975.html,Chevrolet,Niva,Тюмень,2017,бензин,1.7,80,механика,4WD,,серебристый,65000,левый,"1 поколение, рестайлинг",,0,690000
+5420,https://kirov.drom.ru/chevrolet/niva/49050301.html,Chevrolet,Niva,Киров,2018,бензин,1.7,80,механика,4WD,,черный,94352,левый,"1 поколение, рестайлинг",,0,755000
+5421,https://nizhniy-novgorod.drom.ru/chevrolet/niva/45321504.html,Chevrolet,Niva,Нижний Новгород,2017,бензин,1.7,80,механика,4WD,,коричневый,82001,левый,"1 поколение, рестайлинг",,0,660000
+5422,https://nefteyugansk.drom.ru/chevrolet/niva/48084691.html,Chevrolet,Niva,Нефтеюганск,2019,бензин,1.7,80,механика,4WD,,синий,70000,левый,"1 поколение, рестайлинг",1.7 MT GLC Multimedia,1,800000
+5423,https://pyatigorsk.drom.ru/chevrolet/niva/47952077.html,Chevrolet,Niva,Пятигорск,2019,бензин,1.7,80,механика,4WD,,,100000,левый,"1 поколение, рестайлинг",,0,759000
