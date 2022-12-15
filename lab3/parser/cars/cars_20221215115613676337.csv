@@ -1,0 +1,484 @@
+Id,Url,Brand,Model,Region,Year,Engine,EngineVolume,Power,Transmission,Drive,Body,Color,Mileage,Wheel,Generation,Complectation,IsSold,Price
+7000,https://perm.drom.ru/chevrolet/cobalt/47720260.html,Chevrolet,Cobalt,Пермь,2020,бензин,1.5,106,АКПП,передний,седан,серый,11315,левый,2 поколение,,0,1120000
+7001,https://irkutsk.drom.ru/chevrolet/tahoe/45678262.html,Chevrolet,Tahoe,Иркутск,2021,бензин,5.3,343,АКПП,4WD,джип/suv 5 дв.,черный,,левый,5 поколение,5.3 AT RST,0,9990000
+7002,https://simferopol.drom.ru/chevrolet/nexia/48104782.html,Chevrolet,Nexia,Симферополь,2020,бензин,1.5,105,автомат,передний,,белый,29276,левый,,,0,870000
+7003,https://spb.drom.ru/chevrolet/tahoe/43927234.html,Chevrolet,Tahoe,Санкт-Петербург,2021,бензин,5.3,343,АКПП,4WD,джип/suv 5 дв.,черный,,левый,5 поколение,5.3 AT RST,0,11250000
+7004,https://samara.drom.ru/chevrolet/equinox/48546249.html,Chevrolet,Equinox,Самара,2022,бензин,2.0,237,автомат,4WD,,красный,34,левый,,,0,3020000
+7005,https://ordynskoe.drom.ru/chevrolet/nexia/48198715.html,Chevrolet,Nexia,Ордынское,2022,бензин,1.5,106,механика,передний,,черный,30,левый,1 поколение,1.5 MT LT,0,890000
+7006,https://saratov.drom.ru/chevrolet/nexia/47861425.html,Chevrolet,Nexia,Саратов,2021,бензин,1.5,106,механика,передний,,белый,2700,левый,1 поколение,1.5 MT LT,0,1090000
+7007,https://ufa.drom.ru/chevrolet/nexia/47861045.html,Chevrolet,Nexia,Уфа,2020,бензин,1.5,105,автомат,передний,,белый,23871,левый,,,0,892403
+7008,https://krasnodar.drom.ru/chevrolet/cobalt/47854569.html,Chevrolet,Cobalt,Краснодар,2021,бензин,1.5,106,механика,передний,седан,черный,1000,левый,2 поколение,1.5 MT LT,0,990000
+7009,https://simferopol.drom.ru/chevrolet/captiva/48304266.html,Chevrolet,Captiva,Симферополь,2022,бензин,1.5,145,вариатор,передний,,серый,новый автомобиль,левый,"2 поколение, рестайлинг",1.5T CVT Premier,0,2190000
+7010,https://spb.drom.ru/chevrolet/spark/48885557.html,Chevrolet,Spark,Санкт-Петербург,2022,бензин,1.2,85,АКПП,передний,,серый,50,левый,"3 поколение, рестайлинг",1.25 AT LT,0,1079000
+7011,https://moscow.drom.ru/chevrolet/trailblazer/43829678.html,Chevrolet,TrailBlazer,Москва,2021,бензин,1.3,150,вариатор,передний,,черный,,левый,3 поколение,1.3 CVT LT,0,2510000
+7012,https://ufa.drom.ru/chevrolet/tracker/48503885.html,Chevrolet,Tracker,Уфа,2022,бензин,1.0,125,автомат,передний,джип/suv 5 дв.,черный,42,левый,,,0,1944990
+7013,https://voronezh.drom.ru/chevrolet/malibu/48503310.html,Chevrolet,Malibu,Воронеж,2022,бензин,2.0,250,АКПП,передний,седан,коричневый,900,левый,"9 поколение, рестайлинг",2.0T AT Premier,0,2579000
+7014,https://novosibirsk.drom.ru/chevrolet/tahoe/47795069.html,Chevrolet,Tahoe,,2022,бензин,5.3,343,АКПП,4WD,джип/suv 5 дв.,белый,15,левый,5 поколение,,0,6800000
+7015,https://omsk.drom.ru/chevrolet/silverado/49151684.html,Chevrolet,Silverado,,2022,бензин,6.6,401,автомат,4WD,,черный,,левый,,,0,6700000
+7016,https://omsk.drom.ru/chevrolet/captiva/49149933.html,Chevrolet,Captiva,,2022,бензин,1.5,145,вариатор,передний,,черный,,левый,"2 поколение, рестайлинг",,0,2100000
+7017,https://novosibirsk.drom.ru/chevrolet/silverado/47188864.html,Chevrolet,Silverado,,2022,бензин,5.3,355,автомат,4WD,,черный,17,левый,,,0,6200000
+7018,https://novosibirsk.drom.ru/chevrolet/tahoe/48094697.html,Chevrolet,Tahoe,,2022,бензин,6.2,426,автомат,4WD,джип/suv 5 дв.,черный,22,левый,,,0,7400000
+7019,https://krasnodar.drom.ru/chevrolet/captiva/48836677.html,Chevrolet,Captiva,Краснодар,2022,бензин,1.5,145,вариатор,передний,,красный,10,левый,"2 поколение, рестайлинг",1.5T CVT Premier,1,2650000
+7020,https://spb.drom.ru/chevrolet/equinox/48133636.html,Chevrolet,Equinox,Санкт-Петербург,2021,бензин,2.0,237,автомат,4WD,,черный,4880,левый,,,0,2799000
+7021,https://krasnodar.drom.ru/chevrolet/captiva/48836119.html,Chevrolet,Captiva,Краснодар,2022,бензин,1.5,145,вариатор,передний,,белый,10,левый,"2 поколение, рестайлинг",1.5T CVT Premier,1,2450000
+7022,https://moscow.drom.ru/chevrolet/damas/48835252.html,Chevrolet,Damas,Москва,2022,бензин,0.8,38,механика,задний,,белый,15,левый,1 поколение,0.8 MT DLX,0,800000
+7023,https://shahty.drom.ru/chevrolet/tracker/48835704.html,Chevrolet,Tracker,Шахты,2022,бензин,1.2,132,АКПП,передний,джип/suv 5 дв.,синий,,левый,4 поколение,1.2 AT Premier,0,2100000
+7024,https://temryuk.drom.ru/chrysler/300m/49111536.html,Chrysler,300M,Темрюк,1999,бензин,3.5,250,АКПП,передний,,черный,134600,левый,1 поколение,3.5 AT 300M,0,200000
+7025,https://balashiha.drom.ru/chrysler/voyager/48783202.html,Chrysler,Voyager,Балашиха,2000,бензин,2.4,150,АКПП,передний,,бордовый,202000,левый,3 поколение,2.4 AT Base,0,365000
+7026,https://neryungri.drom.ru/chrysler/300c/48773280.html,Chrysler,300C,Нерюнгри,2006,бензин,2.7,193,АКПП,задний,седан,черный,255000,левый,1 поколение,2.7 AT,0,1200000
+7027,https://angarsk.drom.ru/chrysler/300c/47419967.html,Chrysler,300C,Ангарск,2006,бензин,3.5,249,АКПП,задний,седан,черный,322000,левый,1 поколение,3.5 AT,0,820000
+7028,https://krasnodar.drom.ru/chrysler/sebring/47387016.html,Chrysler,Sebring,Краснодар,2007,бензин,2.7,186,АКПП,передний,седан,черный,340000,левый,3 поколение,2.7 AT Touring,0,415000
+7029,https://chita.drom.ru/chrysler/pt_cruiser/46279323.html,Chrysler,PT Cruiser,Чита,2000,бензин,2.4,150,АКПП,передний,хэтчбек 5 дв.,красный,67700,левый,1 поколение,2.4 AT,0,750000
+7030,https://ulan-ude.drom.ru/chrysler/300c/44002558.html,Chrysler,300C,Улан-Удэ,2005,бензин,2.7,193,АКПП,задний,седан,серебристый,150000,левый,1 поколение,2.7 AT,0,745000
+7031,https://kachkanar.drom.ru/chrysler/voyager/36472589.html,Chrysler,Voyager,Качканар,1996,дизель,2.5,118,механика,передний,,серый,230000,левый,3 поколение,2.5 TD MT,0,250000
+7032,https://spb.drom.ru/chrysler/pt_cruiser/49110814.html,Chrysler,PT Cruiser,Санкт-Петербург,2006,бензин,2.4,143,АКПП,передний,хэтчбек 5 дв.,белый,170000,левый,"1 поколение, рестайлинг",2.4 AT Limited,0,479000
+7033,https://moscow.drom.ru/chrysler/300c/49108839.html,Chrysler,300C,Москва,2015,бензин,3.6,292,АКПП,задний,седан,синий,100000,левый,"2 поколение, рестайлинг",3.6 AT 300 Limited,0,1700000
+7034,https://bogotol.drom.ru/chrysler/pacifica/49107881.html,Chrysler,Pacifica,Боготол,2003,бензин,3.5,253,АКПП,передний,джип/suv 5 дв.,черный,245054,левый,1 поколение,3.5 AT LX,0,550000
+7035,https://volgograd.drom.ru/chrysler/200/46362907.html,Chrysler,200,Волгоград,2014,бензин,2.4,184,АКПП,передний,седан,серый,51000,левый,2 поколение,,0,750000
+7036,https://nakhodka.drom.ru/chrysler/300c/45054542.html,Chrysler,300C,Находка,2004,бензин,5.7,340,АКПП,задний,седан,черный,90000,левый,1 поколение,5.7 AT,0,1350000
+7037,https://magnitogorsk.drom.ru/chrysler/300c/49103670.html,Chrysler,300C,Магнитогорск,2007,бензин,2.7,193,АКПП,задний,седан,серебристый,167300,левый,1 поколение,2.7 AT,0,649900
+7038,https://surgut.drom.ru/chrysler/sebring/48264091.html,Chrysler,Sebring,Сургут,2007,бензин,2.4,170,АКПП,передний,седан,серебристый,223492,левый,3 поколение,2.4 AT Limited,0,330000
+7039,https://novosibirsk.drom.ru/chrysler/voyager/49102475.html,Chrysler,Voyager,Новосибирск,2001,бензин,2.4,147,АКПП,передний,,синий,270000,левый,4 поколение,,0,110000
+7040,https://novosibirsk.drom.ru/chrysler/sebring/48721456.html,Chrysler,Sebring,Новосибирск,2005,бензин,2.4,150,АКПП,передний,седан,зеленый,95000,левый,"2 поколение, рестайлинг",2.4 AT Base,0,199000
+7041,https://novomihailovskiy.drom.ru/chrysler/300c/48770066.html,Chrysler,300C,Новомихайловский,2005,бензин,3.5,249,АКПП,задний,седан,черный,230000,левый,1 поколение,3.5 AT,0,950000
+7042,https://novosibirsk.drom.ru/chrysler/300c/48575094.html,Chrysler,300C,Новосибирск,2006,бензин,3.5,249,АКПП,задний,седан,белый,151000,левый,1 поколение,3.5 AT,0,1090000
+7043,https://novosibirsk.drom.ru/chrysler/300c/48762419.html,Chrysler,300C,Новосибирск,2005,бензин,5.7,340,АКПП,задний,седан,черный,223000,левый,1 поколение,5.7 AT,0,949000
+7044,https://spb.drom.ru/chrysler/voyager/46570042.html,Chrysler,Voyager,Санкт-Петербург,2001,бензин,2.4,,автомат,,,красный,189000,левый,,,0,270000
+7045,https://novosibirsk.drom.ru/chrysler/sebring/46085780.html,Chrysler,Sebring,Новосибирск,2007,бензин,2.4,170,АКПП,передний,седан,черный,158000,левый,3 поколение,2.4 AT Limited,0,470000
+7046,https://moscow.drom.ru/chrysler/concorde/44185629.html,Chrysler,Concorde,Москва,2001,бензин,2.7,204,АКПП,передний,,серебристый,162000,левый,2 поколение,2.7 AT LX,0,255000
+7047,https://krasnodar.drom.ru/chrysler/300c/49081644.html,Chrysler,300C,Краснодар,2007,бензин,3.5,249,АКПП,задний,седан,черный,230000,левый,1 поколение,3.5 AT,0,815000
+7048,https://grozniy.drom.ru/chrysler/300c/47700154.html,Chrysler,300C,Грозный,2005,бензин,3.5,249,АКПП,задний,седан,черный,112000,левый,1 поколение,3.5 AT,0,850000
+7049,https://ussuriisk.drom.ru/chrysler/300c/40088825.html,Chrysler,300C,Уссурийск,2005,бензин,3.5,249,АКПП,задний,седан,белый,150000,левый,1 поколение,3.5 AT,0,600000
+7050,https://ussuriisk.drom.ru/chrysler/300c/41084573.html,Chrysler,300C,Уссурийск,2004,бензин,3.5,249,АКПП,задний,седан,розовый,28000,левый,1 поколение,3.5 AT,0,600000
+7051,https://orenburg.drom.ru/chrysler/sebring/46976351.html,Chrysler,Sebring,Оренбург,2006,бензин,2.0,141,механика,передний,седан,золотистый,,левый,,,0,160000
+7052,https://kazan.drom.ru/chrysler/pt_cruiser/49083555.html,Chrysler,PT Cruiser,Казань,2002,бензин,2.4,150,АКПП,передний,хэтчбек 5 дв.,синий,176000,левый,1 поколение,2.4 AT Limited Edition,1,175000
+7053,https://kiselevsk.drom.ru/chrysler/300m/47095406.html,Chrysler,300M,Киселёвск,2000,бензин,3.5,250,АКПП,передний,,черный,315398,левый,1 поколение,3.5 AT 300M,0,230000
+7054,https://samara.drom.ru/chrysler/pt_cruiser/48922838.html,Chrysler,PT Cruiser,Самара,2000,бензин,2.4,150,АКПП,передний,хэтчбек 5 дв.,,,левый,1 поколение,,0,315000
+7055,https://novorossiysk.drom.ru/chrysler/pt_cruiser/48402320.html,Chrysler,PT Cruiser,Новороссийск,2001,бензин,2.4,150,АКПП,передний,хэтчбек 5 дв.,черный,201000,левый,1 поколение,2.4 AT Limited Edition,0,400000
+7057,https://budyonnovsk.drom.ru/chrysler/300c/41343834.html,Chrysler,300C,Буденновск,2005,бензин,3.5,249,АКПП,задний,седан,белый,96000,левый,1 поколение,3.5 AT,0,745000
+7059,https://krasnoyarsk.drom.ru/chrysler/300c/47621340.html,,,,,,,,,,,,,,,,0,
+7061,https://novorossiysk.drom.ru/chrysler/imperial/48401643.html,,,,,,,,,,,,,,,,0,
+7063,https://malgobek.drom.ru/chrysler/300c/48050260.html,,,,,,,,,,,,,,,,0,
+7065,https://omsk.drom.ru/chrysler/200/48798663.html,Chrysler,200,Омск,2015,бензин,2.4,184,АКПП,передний,седан,черный,194000,левый,2 поколение,2.4 AT S,0,1100000
+7066,https://kemerovo.drom.ru/chrysler/concorde/48454514.html,Chrysler,Concorde,Кемерово,1993,бензин,2.8,163,автомат,передний,,серебристый,250000,левый,,,0,235000
+7067,https://kemerovo.drom.ru/chrysler/300c/48449429.html,Chrysler,300C,Кемерово,2005,бензин,3.5,249,АКПП,задний,седан,белый,60000,левый,1 поколение,3.5 AT,0,790000
+7068,https://rybnoe.drom.ru/chrysler/pt_cruiser/48116349.html,Chrysler,PT Cruiser,Рыбное,2001,бензин,2.4,150,АКПП,передний,хэтчбек 5 дв.,серебристый,177000,левый,1 поколение,,0,290000
+7069,https://ivanovo.drom.ru/chrysler/300m/48111993.html,Chrysler,300M,Иваново,1999,бензин,2.7,204,АКПП,передний,,серебристый,370000,левый,1 поколение,2.7 AT,0,350000
+7070,https://krasnodar.drom.ru/chrysler/300c/47084146.html,Chrysler,300C,Краснодар,2005,бензин,2.7,193,АКПП,задний,универсал,серебристый,280000,левый,1 поколение,2.7 AT,0,900000
+7071,https://noyabrsk.drom.ru/chrysler/pt_cruiser/43283023.html,Chrysler,PT Cruiser,Ноябрьск,2001,бензин,2.4,150,АКПП,передний,хэтчбек 5 дв.,золотистый,70000,левый,1 поколение,2.4 AT,0,700000
+7072,https://moscow.drom.ru/chrysler/sebring/49131065.html,Chrysler,Sebring,Москва,2005,бензин,2.4,150,АКПП,передний,седан,,121000,левый,"2 поколение, рестайлинг",2.4 AT Base,1,275000
+7073,https://omsk.drom.ru/chrysler/300c/48992622.html,Chrysler,300C,Омск,2007,бензин,3.5,249,АКПП,задний,седан,,85000,левый,1 поколение,3.5 AT,1,850000
+7074,https://orenburg.drom.ru/chrysler/300c/49130558.html,Chrysler,300C,Оренбург,2012,бензин,3.6,286,АКПП,задний,седан,черный,127000,левый,2 поколение,,0,1390000
+7075,https://moscow.drom.ru/chrysler/300c/48100318.html,Chrysler,300C,Москва,2019,бензин,3.6,296,автомат,задний,седан,серый,55000,левый,,,0,2199800
+7076,https://krasnodar.drom.ru/chrysler/300c/49129417.html,Chrysler,300C,Краснодар,2007,бензин,3.5,249,АКПП,задний,седан,черный,225000,левый,"1 поколение, рестайлинг",3.5 AT,1,815000
+7077,https://omsk.drom.ru/chrysler/300c/49128367.html,Chrysler,300C,Омск,2004,бензин,2.7,193,АКПП,задний,седан,белый,198000,левый,1 поколение,2.7 AT,0,700000
+7078,https://nizhniy-novgorod.drom.ru/chrysler/pt_cruiser/49127063.html,Chrysler,PT Cruiser,Нижний Новгород,2002,бензин,2.4,150,АКПП,передний,хэтчбек 5 дв.,бежевый,250000,левый,1 поколение,2.4 AT Limited Edition,0,330000
+7079,https://novorossiysk.drom.ru/chrysler/pt_cruiser/49126265.html,Chrysler,PT Cruiser,Новороссийск,2002,бензин,2.4,150,АКПП,передний,хэтчбек 5 дв.,серебристый,175000,левый,1 поколение,2.4 AT,0,359000
+7080,https://surgut.drom.ru/chrysler/300m/49125779.html,Chrysler,300M,Сургут,1999,бензин,3.5,250,АКПП,передний,,золотистый,149000,левый,1 поколение,3.5 AT 300M,0,320000
+7081,https://moscow.drom.ru/chrysler/200/48765610.html,Chrysler,200,Москва,2011,бензин,2.4,184,АКПП,передний,седан,серебристый,44000,левый,1 поколение,,1,485000
+7082,https://ufa.drom.ru/chrysler/pt_cruiser/46658904.html,Chrysler,PT Cruiser,Уфа,2005,бензин,2.4,152,автомат,передний,хэтчбек 5 дв.,серебристый,187000,левый,,,0,452000
+7083,https://barnaul.drom.ru/chrysler/300c/47425032.html,Chrysler,300C,Барнаул,2006,бензин,2.7,193,АКПП,задний,седан,белый,100000,левый,1 поколение,2.7 AT,0,870000
+7084,https://poltavskaya.drom.ru/chrysler/pt_cruiser/49038067.html,Chrysler,PT Cruiser,Полтавская,2000,бензин,2.0,141,АКПП,передний,хэтчбек 5 дв.,черный,300000,левый,1 поколение,2.0 AT Limited,1,280000
+7085,https://kemerovo.drom.ru/chrysler/300c/49037825.html,Chrysler,300C,Кемерово,2004,бензин,2.7,190,АКПП,задний,седан,черный,190000,левый,1 поколение,2.7 AT 300,0,850000
+7086,https://tyumen.drom.ru/chrysler/town_country/49037196.html,Chrysler,Town and Country,Тюмень,1995,бензин,,218,автомат,передний,,коричневый,180000,левый,,,1,399999
+7087,https://krasnoyarsk.drom.ru/chrysler/town_country/48262715.html,Chrysler,Town and Country,Красноярск,2011,бензин,3.6,283,АКПП,передний,,белый,211000,левый,"5 поколение, рестайлинг",,0,1300000
+7088,https://moscow.drom.ru/chrysler/stratus/49033238.html,Chrysler,Stratus,Москва,1999,бензин,2.0,131,механика,передний,седан,синий,335000,левый,1 поколение,2.0 MT LE,1,129000
+7089,https://ekaterinburg.drom.ru/chrysler/pacifica/49033182.html,Chrysler,Pacifica,Екатеринбург,2006,бензин,3.5,250,автомат,передний,джип/suv 5 дв.,синий,275000,левый,,,0,490000
+7090,https://vladivostok.drom.ru/chrysler/300c/49029140.html,Chrysler,300C,Владивосток,2011,бензин,2.7,177,АКПП,задний,седан,черный,51228,левый,"1 поколение, рестайлинг",2.7 AT,0,750000
+7091,https://sevastopol.drom.ru/chrysler/sebring/48350381.html,Chrysler,Sebring,Севастополь,2008,бензин,2.7,186,АКПП,передний,седан,черный,210000,левый,3 поколение,2.7 AT Touring,1,350000
+7092,https://moscow.drom.ru/chrysler/sebring/47996063.html,Chrysler,Sebring,Москва,2002,бензин,2.4,150,АКПП,передний,седан,серебристый,170000,левый,2 поколение,2.4 AT LX,0,205000
+7093,https://novosibirsk.drom.ru/chrysler/300c/47991177.html,Chrysler,300C,Новосибирск,2004,,,,,,седан,,220000,левый,,,0,350000
+7094,https://rostov-na-donu.drom.ru/chrysler/sebring/47668410.html,Chrysler,Sebring,Ростов-на-Дону,2007,бензин,2.4,170,АКПП,передний,седан,серебристый,250000,левый,3 поколение,2.4 AT Limited,0,300000
+7095,https://kupino.drom.ru/chrysler/pt_cruiser/47107301.html,Chrysler,PT Cruiser,Купино,2006,бензин,2.4,143,АКПП,передний,хэтчбек 5 дв.,оранжевый,65000,левый,"1 поколение, рестайлинг",2.4 AT Limited,0,750000
+7096,https://sosnovoborsk.drom.ru/chrysler/sebring/46982659.html,Chrysler,Sebring,Сосновоборск,2007,бензин,2.4,173,АКПП,передний,седан,черный,283000,левый,3 поколение,2.4 AT Limited,0,420000
+7097,https://ekaterinburg.drom.ru/chrysler/300c/49024559.html,Chrysler,300C,Екатеринбург,2005,бензин,2.7,193,АКПП,задний,седан,белый,123000,левый,1 поколение,2.7 AT,0,850000
+7098,https://glazov.drom.ru/chrysler/sebring/48298603.html,Chrysler,Sebring,Глазов,2005,бензин,2.7,200,АКПП,передний,седан,красный,,левый,"2 поколение, рестайлинг",2.7 AT Limited,0,213000
+7099,https://moscow.drom.ru/chrysler/cirrus/49023535.html,Chrysler,Cirrus,Москва,1998,бензин,2.5,168,АКПП,передний,,золотистый,325000,левый,1 поколение,2.5 AT LX,1,149000
+7100,https://volno-nadezhdinskoe.drom.ru/chrysler/300c/40954035.html,Chrysler,300C,Вольно-Надеждинское,2013,бензин,3.6,286,АКПП,задний,седан,черный,20000,левый,2 поколение,3.6 AT Luxury Series,0,1600000
+7101,https://zelenograd.drom.ru/chrysler/town_country/49019599.html,Chrysler,Town and Country,Зеленоград,2001,бензин,3.8,215,АКПП,передний,,серебристый,343182,левый,4 поколение,,1,400000
+7102,https://krasnoyarsk.drom.ru/chrysler/concorde/49018300.html,Chrysler,Concorde,Красноярск,1994,бензин,3.1,180,автомат,передний,,коричневый,300000,левый,,,1,100000
+7103,https://omsk.drom.ru/chrysler/sebring/47469259.html,Chrysler,Sebring,Омск,2001,бензин,2.7,201,АКПП,передний,седан,голубой,223000,левый,2 поколение,2.7 AT LX,0,300000
+7104,https://novosibirsk.drom.ru/chrysler/sebring/48804518.html,Chrysler,Sebring,Новосибирск,2006,бензин,2.7,200,АКПП,передний,седан,черный,155000,левый,"2 поколение, рестайлинг",2.7 AT Limited,1,455000
+7105,https://krasnogorsk.drom.ru/chrysler/pt_cruiser/48717621.html,Chrysler,PT Cruiser,Красногорск,2007,бензин,2.4,143,АКПП,передний,хэтчбек 5 дв.,синий,220000,левый,"1 поколение, рестайлинг",2.4 AT Limited,0,420000
+7106,https://tomsk.drom.ru/chrysler/pacifica/48713377.html,Chrysler,Pacifica,Томск,2004,бензин,3.5,253,АКПП,передний,джип/suv 5 дв.,бежевый,310000,левый,1 поколение,3.5 AT LX,0,330000
+7107,https://novosibirsk.drom.ru/chrysler/sebring/48712219.html,Chrysler,Sebring,Новосибирск,2004,бензин,2.4,152,автомат,передний,седан,серый,128890,левый,,,0,285000
+7108,https://barnaul.drom.ru/chrysler/sebring/48368563.html,Chrysler,Sebring,Барнаул,2002,бензин,2.4,150,АКПП,передний,седан,серебристый,189000,левый,2 поколение,2.4 AT LX,0,250000
+7109,https://vladikavkaz.drom.ru/chrysler/pt_cruiser/48365336.html,Chrysler,PT Cruiser,Владикавказ,2005,бензин,2.4,220,механика,передний,хэтчбек 5 дв.,бежевый,70000,левый,1 поколение,2.4 MT GT,0,111111
+7110,https://grozniy.drom.ru/chrysler/300c/47688954.html,Chrysler,300C,Грозный,2007,бензин,2.7,190,АКПП,задний,седан,белый,88000,левый,1 поколение,2.7 AT 300,0,550000
+7111,https://novosibirsk.drom.ru/chrysler/pacifica/47350862.html,Chrysler,Pacifica,Новосибирск,2006,бензин,3.5,253,автомат,передний,джип/suv 5 дв.,оранжевый,138000,левый,,,0,430000
+7112,https://krasnoyarsk.drom.ru/chrysler/300c/47015321.html,Chrysler,300C,Красноярск,2005,бензин,5.7,340,АКПП,задний,седан,черный,240000,левый,1 поколение,5.7 AT,0,950000
+7113,https://tomsk.drom.ru/chrysler/pt_cruiser/45836232.html,Chrysler,PT Cruiser,Томск,2000,бензин,2.4,150,АКПП,передний,хэтчбек 5 дв.,фиолетовый,222000,левый,1 поколение,,0,200000
+7114,https://kemerovo.drom.ru/chrysler/300c/40968185.html,Chrysler,300C,Кемерово,2006,бензин,2.7,193,АКПП,задний,седан,белый,146000,левый,1 поколение,2.7 AT,0,830000
+7115,https://barnaul.drom.ru/chrysler/300c/48352949.html,Chrysler,300C,Барнаул,2007,бензин,2.7,178,АКПП,задний,седан,белый,113000,левый,"1 поколение, рестайлинг",2.7 AT 300 LX,0,1005000
+7116,https://megion.drom.ru/chrysler/300c/49049155.html,Chrysler,300C,Мегион,2004,бензин,3.5,249,АКПП,задний,седан,серый,170000,левый,1 поколение,3.5 AT,0,680000
+7117,https://novosibirsk.drom.ru/chrysler/300c/49048852.html,Chrysler,300C,Новосибирск,2012,бензин,3.6,286,АКПП,задний,седан,черный,105200,левый,2 поколение,3.6 AT Luxury Series,0,1600000
+7118,https://krasnodar.drom.ru/chrysler/300c/48355912.html,Chrysler,300C,Краснодар,2006,бензин,3.5,253,автомат,задний,седан,черный,164000,левый,,,0,850000
+7119,https://yuzhno-sakhalinsk.drom.ru/chrysler/300c/49043418.html,Chrysler,300C,Южно-Сахалинск,2012,бензин,3.6,286,АКПП,задний,седан,черный,123000,левый,2 поколение,3.6 AT Luxury Series,0,1400000
+7120,https://orenburg.drom.ru/chrysler/pacifica/49043391.html,Chrysler,Pacifica,Оренбург,2005,бензин,3.5,253,АКПП,передний,джип/suv 5 дв.,черный,364000,левый,1 поколение,3.5 AT LX,0,450000
+7121,https://chelyabinsk.drom.ru/chrysler/300c/48878784.html,Chrysler,300C,Челябинск,2006,бензин,3.5,249,АКПП,задний,седан,черный,215111,левый,1 поколение,3.5 AT,0,950000
+7122,https://tyumen.drom.ru/chrysler/300c/48478067.html,Chrysler,300C,Тюмень,2005,бензин,5.7,340,АКПП,4WD,универсал,серый,300000,левый,1 поколение,5.7 AT,0,1050000
+7123,https://penza.drom.ru/chrysler/pt_cruiser/48702179.html,Chrysler,PT Cruiser,Пенза,2001,бензин,2.4,150,механика,передний,хэтчбек 5 дв.,синий,268000,левый,1 поколение,2.4 MT,1,265000
+7124,https://ishim.drom.ru/chrysler/sebring/48680588.html,Chrysler,Sebring,Ишим,2007,бензин,2.7,186,АКПП,передний,седан,черный,286000,левый,3 поколение,2.7 AT Touring,0,515000
+7125,https://chelyabinsk.drom.ru/chrysler/stratus/48677330.html,Chrysler,Stratus,Челябинск,1995,бензин,2.5,161,АКПП,передний,седан,желтый,200000,левый,1 поколение,2.5 AT LX,0,100000
+7126,https://usoliye-sibirskoe.drom.ru/chrysler/300c/48674147.html,Chrysler,300C,Усолье-Сибирское,2004,бензин,3.5,249,АКПП,задний,седан,серый,263000,левый,1 поколение,3.5 AT,0,600000
+7127,https://spb.drom.ru/chrysler/sebring/48339490.html,Chrysler,Sebring,Санкт-Петербург,2005,бензин,2.4,152,механика,передний,седан,серебристый,155000,левый,,,0,319990
+7128,https://yalutorovsk.drom.ru/chrysler/pt_cruiser/48338085.html,Chrysler,PT Cruiser,Ялуторовск,2000,бензин,2.4,150,АКПП,передний,хэтчбек 5 дв.,серебристый,300000,левый,1 поколение,,0,200000
+7129,https://barnaul.drom.ru/chrysler/sebring/48329589.html,Chrysler,Sebring,Барнаул,2003,бензин,2.4,150,АКПП,передний,седан,золотистый,195000,левый,"2 поколение, рестайлинг",2.4 AT Base,0,260000
+7130,https://ufa.drom.ru/chrysler/300c/47983018.html,Chrysler,300C,Уфа,2010,бензин,2.7,177,АКПП,задний,седан,серебристый,253006,левый,"1 поколение, рестайлинг",2.7 AT,0,622740
+7131,https://dzerzhinsk.drom.ru/chrysler/pt_cruiser/47402718.html,Chrysler,PT Cruiser,Дзержинск,2003,бензин,2.4,150,АКПП,передний,хэтчбек 5 дв.,черный,108000,левый,1 поколение,2.4 AT Limited Edition,0,550000
+7132,https://moscow.drom.ru/chrysler/new_yorker/47318573.html,Chrysler,New Yorker,Москва,1989,бензин,3.3,150,АКПП,передний,седан,бежевый,100000,левый,13 поколение,3.3 AT,0,449000
+7133,https://eiysk.drom.ru/chrysler/sebring/47117624.html,Chrysler,Sebring,Ейск,2007,бензин,2.4,170,АКПП,передний,седан,черный,236000,левый,3 поколение,2.4 AT Limited,0,390000
+7134,https://chita.drom.ru/chrysler/pt_cruiser/46981257.html,Chrysler,PT Cruiser,Чита,2002,бензин,2.0,141,автомат,передний,хэтчбек 5 дв.,красный,178650,правый,,,0,330000
+7135,https://pyt-yah.drom.ru/chrysler/sebring/46694772.html,Chrysler,Sebring,Пыть-Ях,2007,бензин,2.7,186,АКПП,передний,седан,бежевый,163000,левый,3 поколение,2.7 AT Touring,1,400000
+7136,https://tyumen.drom.ru/chrysler/town_country/45737248.html,Chrysler,Town and Country,Тюмень,2011,бензин,3.6,283,АКПП,передний,,серебристый,153000,левый,"5 поколение, рестайлинг",,0,1350000
+7137,https://neryungri.drom.ru/chrysler/saratoga/47489202.html,Chrysler,Saratoga,Нерюнгри,1993,бензин,2.0,,автомат,передний,седан,красный,200000,левый,,,0,100000
+7138,https://tomsk.drom.ru/chrysler/300c/49009980.html,Chrysler,300C,Томск,2004,бензин,3.5,249,АКПП,задний,седан,белый,254122,левый,1 поколение,3.5 AT,0,600000
+7139,https://tyumen.drom.ru/chrysler/sebring/48671638.html,Chrysler,Sebring,Тюмень,2002,бензин,2.4,150,АКПП,передний,седан,серебристый,280000,левый,2 поколение,2.4 AT LX,0,165000
+7140,https://apsheronsk.drom.ru/chrysler/300c/49004909.html,Chrysler,300C,Апшеронск,2004,бензин,3.5,249,АКПП,задний,седан,бежевый,95000,левый,1 поколение,3.5 AT,0,760000
+7141,https://krasnodar.drom.ru/chrysler/lhs/48668576.html,Chrysler,LHS,Краснодар,2000,бензин,3.5,257,АКПП,передний,,серый,213000,левый,2 поколение,3.5 AT,0,285000
+7142,https://nizhniy-tagil.drom.ru/chrysler/sebring/48668205.html,Chrysler,Sebring,Нижний Тагил,2004,бензин,2.4,150,АКПП,передний,седан,зеленый,176000,левый,"2 поколение, рестайлинг",2.4 AT Base,0,300000
+7143,https://slobodskoy.drom.ru/chrysler/pt_cruiser/48665471.html,Chrysler,PT Cruiser,Слободской,2002,бензин,2.4,143,механика,передний,хэтчбек 5 дв.,синий,196000,левый,,,0,380000
+7144,https://spb.drom.ru/chrysler/neon/48663306.html,Chrysler,Neon,Санкт-Петербург,1998,бензин,2.0,132,АКПП,передний,седан,черный,115000,левый,1 поколение,2.0 AT,0,75000
+7145,https://podolsk.drom.ru/chrysler/pacifica/47643339.html,Chrysler,Pacifica,Подольск,2005,бензин,3.5,253,АКПП,передний,джип/suv 5 дв.,серебристый,310000,левый,1 поколение,3.5 AT LX,1,560000
+7146,https://tyumen.drom.ru/chrysler/300c/46935445.html,Chrysler,300C,Тюмень,2005,бензин,2.7,193,АКПП,задний,седан,голубой,181000,левый,1 поколение,2.7 AT,0,440000
+7147,https://kansk.drom.ru/chrysler/pacifica/46524616.html,Chrysler,Pacifica,Канск,2005,бензин,3.5,253,АКПП,передний,джип/suv 5 дв.,серый,170000,левый,1 поколение,3.5 AT LX,0,750000
+7148,https://tulun.drom.ru/chrysler/300c/42574017.html,Chrysler,300C,Тулун,2006,бензин,3.5,249,АКПП,задний,седан,черный,96000,левый,1 поколение,3.5 AT,0,450000
+7149,https://nizhnevartovsk.drom.ru/chrysler/pt_cruiser/49004583.html,Chrysler,PT Cruiser,Нижневартовск,2001,бензин,2.0,141,АКПП,передний,хэтчбек 5 дв.,черный,200000,левый,1 поколение,2.0 AT Limited,0,300000
+7150,https://sevastopol.drom.ru/chrysler/sebring/47430605.html,Chrysler,Sebring,Севастополь,2000,бензин,2.5,168,АКПП,передний,открытый,красный,175000,левый,"1 поколение, рестайлинг",2.5 AT JX,0,430000
+7151,https://tyumen.drom.ru/chrysler/sebring/49003127.html,Chrysler,Sebring,Тюмень,2003,бензин,2.4,150,АКПП,передний,седан,серый,232000,левый,"2 поколение, рестайлинг",2.4 AT Base,1,308000
+7152,https://simferopol.drom.ru/chrysler/concorde/49000636.html,Chrysler,Concorde,Симферополь,2001,бензин,2.7,204,АКПП,передний,,серебристый,220000,левый,"2 поколение, рестайлинг",2.7 AT LX,1,180000
+7153,https://slavyansk-na-kubani.drom.ru/chrysler/le_baron/48999790.html,Chrysler,Le Baron,Славянск-На-Кубани,1990,бензин,3.0,141,АКПП,передний,купе,красный,120000,левый,3 поколение,,0,260000
+7154,https://moscow.drom.ru/chrysler/pt_cruiser/48999274.html,Chrysler,PT Cruiser,Москва,2005,бензин,2.4,152,автомат,передний,хэтчбек 5 дв.,черный,177000,левый,,,0,430000
+7155,https://podolsk.drom.ru/chrysler/pacifica/48998675.html,Chrysler,Pacifica,Подольск,2004,бензин,3.5,253,АКПП,передний,джип/suv 5 дв.,серебристый,306000,левый,1 поколение,3.5 AT LX,1,945000
+7156,https://novoaleksandrovsk.drom.ru/chrysler/new_yorker/48997824.html,Chrysler,New Yorker,Новоалександровск,1996,бензин,3.5,214,АКПП,передний,седан,красный,212535,левый,14 поколение,3.5 AT,1,300000
+7157,https://pyatigorsk.drom.ru/chrysler/300c/47965711.html,Chrysler,300C,Пятигорск,2005,бензин,2.7,193,АКПП,задний,седан,серебристый,,левый,1 поколение,2.7 AT,0,1100000
+7158,https://spassk-dalniy.drom.ru/chrysler/300c/47628217.html,Chrysler,300C,Спасск-Дальний,2006,бензин,5.7,340,АКПП,задний,седан,черный,100000,левый,1 поколение,5.7 AT,0,800000
+7159,https://kaliningrad.drom.ru/chrysler/grand_voyager/48660937.html,Chrysler,Grand Voyager,Калининград,2006,бензин,3.3,172,АКПП,передний,,черный,250000,левый,"4 поколение, рестайлинг",,0,990000
+7160,https://chelyabinsk.drom.ru/chrysler/voyager/48313195.html,Chrysler,Voyager,Челябинск,2002,бензин,2.4,147,АКПП,передний,,синий,300000,левый,4 поколение,,0,230000
+7161,https://spb.drom.ru/chrysler/300c/48312077.html,Chrysler,300C,Санкт-Петербург,2006,бензин,5.7,340,АКПП,4WD,универсал,серый,333333,левый,1 поколение,5.7 AT,0,1190000
+7162,https://novomoskovsk.drom.ru/chrysler/300c/47299516.html,Chrysler,300C,Новомосковск,2006,бензин,3.5,253,АКПП,4WD,универсал,черный,210000,левый,1 поколение,3.5 AT,0,950000
+7163,https://irkutsk.drom.ru/chrysler/pt_cruiser/47232387.html,Chrysler,PT Cruiser,Иркутск,2001,бензин,2.4,150,АКПП,передний,хэтчбек 5 дв.,синий,200000,левый,1 поколение,,0,200000
+7164,https://tyumen.drom.ru/chrysler/pt_cruiser/47135692.html,Chrysler,PT Cruiser,Тюмень,2001,бензин,2.0,141,механика,передний,хэтчбек 5 дв.,серебристый,420000,левый,1 поколение,2.0 MT Touring,1,200000
+7165,https://tyumen.drom.ru/chrysler/pt_cruiser/46664164.html,Chrysler,PT Cruiser,Тюмень,2007,бензин,2.4,143,АКПП,передний,хэтчбек 5 дв.,белый,20000,левый,"1 поколение, рестайлинг",2.4 AT Limited,0,800000
+7166,https://irkutsk.drom.ru/chrysler/300c/35569955.html,Chrysler,300C,Иркутск,2005,бензин,3.5,249,автомат,задний,седан,бежевый,40000,левый,,,0,1500000
+7167,https://bratsk.drom.ru/chrysler/300c/47079233.html,Chrysler,300C,Братск,2005,бензин,2.7,193,АКПП,задний,седан,зеленый,158000,левый,1 поколение,2.7 AT,0,800000
+7168,https://blagoveshchensk.drom.ru/chrysler/300c/48988823.html,Chrysler,300C,Благовещенск,2004,бензин,3.5,249,АКПП,задний,седан,черный,250000,левый,1 поколение,3.5 AT,1,500000
+7169,https://habarovsk.drom.ru/chrysler/pacifica/46710525.html,Chrysler,Pacifica,Хабаровск,2004,бензин,3.5,253,АКПП,передний,джип/suv 5 дв.,золотистый,206000,левый,1 поколение,3.5 AT LX,0,600000
+7170,https://nizhniy-tagil.drom.ru/chrysler/pt_cruiser/46965891.html,Chrysler,PT Cruiser,Нижний Тагил,2007,бензин,1.6,116,механика,передний,хэтчбек 5 дв.,бордовый,130000,левый,"1 поколение, рестайлинг",1.6 MT Touring,0,410000
+7171,https://pyatigorsk.drom.ru/chrysler/grand_voyager/48986122.html,Chrysler,Grand Voyager,Пятигорск,2010,дизель,2.8,163,АКПП,передний,,черный,186200,левый,5 поколение,2.8 CRD AT Limited,0,1199000
+7172,https://chelyabinsk.drom.ru/chrysler/stratus/48631816.html,Chrysler,Stratus,Челябинск,1995,бензин,2.5,163,автомат,передний,седан,зеленый,172942,левый,,,0,170000
+7173,https://volgograd.drom.ru/chrysler/intrepid/48648425.html,Chrysler,Intrepid,Волгоград,1994,бензин,3.3,163,АКПП,передний,,красный,390000,левый,1 поколение,3.3 AT ES,0,65990
+7174,https://zdvinsk.drom.ru/chrysler/pt_cruiser/48441442.html,Chrysler,PT Cruiser,Здвинск,2000,бензин,2.0,141,АКПП,передний,хэтчбек 5 дв.,черный,230000,левый,1 поколение,2.0 AT Limited,0,355000
+7175,https://penza.drom.ru/chrysler/pt_cruiser/48301136.html,Chrysler,PT Cruiser,Пенза,2001,бензин,2.0,141,механика,передний,хэтчбек 5 дв.,серебристый,235000,левый,1 поколение,2.0 MT Touring,0,250000
+7176,https://ekaterinburg.drom.ru/chrysler/cirrus/48298280.html,Chrysler,Cirrus,Екатеринбург,1998,бензин,2.5,168,АКПП,передний,,зеленый,168800,левый,1 поколение,2.5 AT LXi,0,220000
+7177,https://ust-ilimsk.drom.ru/chrysler/pacifica/48294924.html,Chrysler,Pacifica,Усть-Илимск,2005,бензин,3.5,253,АКПП,передний,джип/suv 5 дв.,черный,330000,левый,1 поколение,3.5 AT LX,0,550000
+7178,https://moscow.drom.ru/chrysler/300c/47959678.html,Chrysler,300C,Москва,2007,бензин,2.7,193,АКПП,задний,седан,серебристый,114000,левый,1 поколение,2.7 AT,0,590000
+7179,https://omsk.drom.ru/chrysler/300c/47583738.html,Chrysler,300C,Омск,2006,бензин,3.5,249,автомат,4WD,универсал,бежевый,128900,левый,,,0,1050000
+7180,https://kerch.drom.ru/chrysler/town_country/47246421.html,Chrysler,Town and Country,Керчь,2008,бензин,3.8,197,АКПП,передний,,синий,150000,левый,5 поколение,3.8 AT Touring,1,1000000
+7182,https://sochi.drom.ru/chrysler/pacifica/45677983.html,,,,,,,,,,,,,,,,0,
+7184,https://strunino.drom.ru/chrysler/town_country/48699369.html,,,,,,,,,,,,,,,,0,
+7186,https://moscow.drom.ru/chrysler/voyager/48360747.html,,,,,,,,,,,,,,,,0,
+7188,https://uyar.drom.ru/chrysler/stratus/48356913.html,Chrysler,Stratus,Уяр,1997,бензин,2.0,131,механика,передний,седан,фиолетовый,140888,левый,1 поколение,2.0 MT LE,0,159000
+7189,https://sochi.drom.ru/chrysler/sebring/48010447.html,Chrysler,Sebring,Сочи,2007,бензин,2.4,170,АКПП,передний,седан,черный,100000,левый,3 поколение,2.4 AT Limited,0,300000
+7190,https://vladivostok.drom.ru/chrysler/voyager/48002646.html,Chrysler,Voyager,Владивосток,1989,бензин,2.5,97,механика,передний,,серый,327000,левый,1 поколение,2.5 MT SE,0,140000
+7191,https://noviy-urengoy.drom.ru/chrysler/voyager/47672221.html,Chrysler,Voyager,Новый Уренгой,2001,бензин,2.4,150,АКПП,передний,,зеленый,224175,левый,4 поколение,2.4 AT Base,0,450000
+7192,https://tyumen.drom.ru/chrysler/300c/47672203.html,Chrysler,300C,Тюмень,2004,бензин,3.5,249,АКПП,задний,седан,белый,200000,левый,1 поколение,3.5 AT,0,700000
+7193,https://irkutsk.drom.ru/chrysler/300c/47519550.html,Chrysler,300C,Иркутск,2007,бензин,2.7,177,АКПП,задний,седан,черный,290000,левый,"1 поколение, рестайлинг",2.7 AT,1,649000
+7194,https://surgut.drom.ru/chrysler/sebring/47186495.html,Chrysler,Sebring,Сургут,2005,бензин,2.4,150,АКПП,передний,седан,серый,160000,левый,"2 поколение, рестайлинг",2.4 AT Base,0,475000
+7195,https://irkutsk.drom.ru/chrysler/pt_cruiser/47120420.html,Chrysler,PT Cruiser,Иркутск,2005,бензин,2.4,143,АКПП,передний,хэтчбек 5 дв.,красный,176000,левый,"1 поколение, рестайлинг",2.4 AT Limited,0,300000
+7196,https://komsomolsk.drom.ru/chrysler/pt_cruiser/46846892.html,Chrysler,PT Cruiser,Комсомольск-на-Амуре,2002,бензин,2.0,141,автомат,передний,хэтчбек 5 дв.,золотистый,160000,правый,,,0,300000
+7197,https://moscow.drom.ru/chrysler/intrepid/46438687.html,Chrysler,Intrepid,Москва,1997,бензин,3.5,218,АКПП,передний,,зеленый,275000,левый,1 поколение,3.5 AT Sport,0,300000
+7198,https://tyumen.drom.ru/chrysler/300c/45964157.html,Chrysler,300C,Тюмень,2008,бензин,3.5,249,АКПП,задний,седан,черный,159999,левый,"1 поколение, рестайлинг",3.5 AT,0,999999
+7199,https://omsk.drom.ru/chrysler/300c/45702005.html,Chrysler,300C,Омск,2004,бензин,3.5,253,автомат,задний,седан,зеленый,134740,левый,,,0,750000
+7200,https://kupino.drom.ru/chrysler/pacifica/45351848.html,Chrysler,Pacifica,Купино,2003,бензин,3.5,253,АКПП,передний,джип/suv 5 дв.,черный,250000,левый,1 поколение,3.5 AT LX,0,420000
+7201,https://novosibirsk.drom.ru/chrysler/300m/45025314.html,Chrysler,300M,Новосибирск,1999,бензин,3.5,250,АКПП,передний,,черный,320000,левый,1 поколение,3.5 AT 300M,0,300000
+7202,https://kogalym.drom.ru/chrysler/pacifica/38634643.html,Chrysler,Pacifica,Когалым,2003,бензин,3.5,253,АКПП,передний,джип/suv 5 дв.,черный,316815,левый,1 поколение,3.5 AT LX,0,400999
+7203,https://barnaul.drom.ru/chrysler/300c/17283309.html,Chrysler,300C,Барнаул,2004,бензин,3.5,249,АКПП,задний,седан,черный,85000,левый,1 поколение,3.5 AT,0,790000
+7204,https://krasnodar.drom.ru/chrysler/voyager/47796805.html,Chrysler,Voyager,Краснодар,1993,бензин,3.3,150,АКПП,передний,,черный,235238,левый,2 поколение,,0,85000
+7205,https://chelyabinsk.drom.ru/chrysler/stratus/47796264.html,Chrysler,Stratus,Челябинск,1995,бензин,2.5,161,АКПП,передний,седан,желтый,200000,левый,1 поколение,2.5 AT LX,0,120000
+7206,https://krasnodar.drom.ru/chrysler/300c/47794922.html,Chrysler,300C,Краснодар,2005,бензин,3.5,249,АКПП,задний,седан,белый,120000,левый,1 поколение,3.5 AT,0,1000000
+7207,https://cheboksary.drom.ru/chrysler/300c/47789688.html,Chrysler,300C,Чебоксары,2004,бензин,2.7,193,АКПП,задний,седан,белый,139000,левый,1 поколение,2.7 AT,0,750000
+7208,https://irkutsk.drom.ru/chrysler/town_country/47462075.html,Chrysler,Town and Country,Иркутск,1999,бензин,3.8,180,АКПП,передний,,зеленый,400000,левый,3 поколение,3.8 AT LXi,0,250000
+7209,https://zlatoust.drom.ru/chrysler/pt_cruiser/47279068.html,Chrysler,PT Cruiser,Златоуст,2007,бензин,1.6,116,механика,передний,хэтчбек 5 дв.,оранжевый,237000,левый,"1 поколение, рестайлинг",1.6 MT Touring,0,350000
+7210,https://moscow.drom.ru/chrysler/300c/47130203.html,Chrysler,300C,Москва,2007,бензин,2.7,193,АКПП,задний,седан,черный,103100,левый,1 поколение,2.7 AT,0,980000
+7211,https://korenovsk.drom.ru/chrysler/300c/44504717.html,Chrysler,300C,Кореновск,2006,бензин,2.7,193,АКПП,задний,седан,синий,70000,левый,1 поколение,2.7 AT,0,1500000
+7212,https://novosibirsk.drom.ru/chrysler/pacifica/44257123.html,Chrysler,Pacifica,Новосибирск,2005,бензин,3.5,253,АКПП,передний,джип/suv 5 дв.,серебристый,263000,левый,1 поколение,3.5 AT LX,0,450000
+7213,https://moscow.drom.ru/chrysler/pacifica/49148987.html,Chrysler,Pacifica,Москва,2022,бензин,3.6,287,автомат,4WD,минивэн,черный,15,левый,,,0,5200000
+7214,https://moscow.drom.ru/chrysler/saratoga/49147693.html,Chrysler,Saratoga,Москва,1992,бензин,3.0,141,АКПП,передний,седан,черный,267000,левый,4 поколение,3.0 AT,0,75000
+7215,https://tomsk.drom.ru/chrysler/pacifica/49147540.html,Chrysler,Pacifica,Томск,2004,бензин,3.5,254,автомат,4WD,джип/suv 5 дв.,голубой,255095,левый,,,0,450000
+7216,https://vladivostok.drom.ru/chrysler/pt_cruiser/49147004.html,Chrysler,PT Cruiser,Владивосток,2005,бензин,2.4,150,АКПП,передний,хэтчбек 5 дв.,синий,97767,левый,1 поколение,2.4 AT Limited Edition,0,900000
+7217,https://omsk.drom.ru/chrysler/sebring/48228606.html,Chrysler,Sebring,Омск,2007,бензин,2.7,189,автомат,передний,седан,бежевый,174001,левый,,,0,391000
+7218,https://nizhnevartovsk.drom.ru/chrysler/300m/49146024.html,Chrysler,300M,Нижневартовск,2000,бензин,2.7,204,АКПП,передний,,черный,215000,левый,1 поколение,2.7 AT,0,350000
+7219,https://bolshoe-sorokino.drom.ru/chrysler/300c/49075466.html,Chrysler,300C,Большое Сорокино,2005,бензин,3.5,249,АКПП,задний,седан,белый,169000,левый,1 поколение,3.5 AT,0,550000
+7220,https://tyumen.drom.ru/chrysler/300c/47934311.html,Chrysler,300C,Тюмень,2005,бензин,2.7,193,АКПП,задний,седан,серебристый,182221,левый,1 поколение,2.7 AT,0,449000
+7221,https://novosibirsk.drom.ru/chrysler/pacifica/49145165.html,Chrysler,Pacifica,Новосибирск,2003,бензин,3.5,253,АКПП,передний,джип/suv 5 дв.,синий,270000,левый,1 поколение,3.5 AT LX,0,299000
+7222,https://moscow.drom.ru/chrysler/pt_cruiser/49144708.html,Chrysler,PT Cruiser,Москва,2003,бензин,2.4,150,АКПП,передний,хэтчбек 5 дв.,красный,220000,левый,1 поколение,,1,349000
+7223,https://krasnodar.drom.ru/chrysler/voyager/46350961.html,Chrysler,Voyager,Краснодар,2011,бензин,3.6,283,автомат,передний,,серый,210000,левый,,,0,1300000
+7224,https://krasnoyarsk.drom.ru/chrysler/lhs/37205006.html,Chrysler,LHS,Красноярск,1998,бензин,3.5,257,АКПП,передний,,серый,222222,левый,2 поколение,3.5 AT,0,320000
+7225,https://khanty-mansiysk.drom.ru/chrysler/300m/49067211.html,Chrysler,300M,Ханты-Мансийск,1998,бензин,3.5,250,АКПП,передний,,синий,450000,левый,1 поколение,3.5 AT 300M,0,210000
+7226,https://moscow.drom.ru/chrysler/town_country/48727494.html,Chrysler,Town and Country,Москва,2008,бензин,3.3,175,АКПП,передний,,голубой,117000,левый,5 поколение,3.3 AT LX,0,785000
+7227,https://chernomorskiy.drom.ru/chrysler/pt_cruiser/46665565.html,Chrysler,PT Cruiser,Черноморский,2004,бензин,2.4,220,механика,передний,хэтчбек 5 дв.,красный,168000,левый,1 поколение,2.4 MT GT,0,400000
+7228,https://novosibirsk.drom.ru/chrysler/pt_cruiser/49063755.html,Chrysler,PT Cruiser,Новосибирск,2000,бензин,2.0,141,АКПП,передний,хэтчбек 5 дв.,серебристый,170000,левый,1 поколение,2.0 AT Limited,1,180000
+7229,https://spb.drom.ru/chrysler/300c/49063697.html,Chrysler,300C,Санкт-Петербург,2005,бензин,5.7,340,АКПП,4WD,универсал,черный,200707,левый,1 поколение,5.7 AT,0,890000
+7230,https://malahovka.drom.ru/chrysler/sebring/48051857.html,Chrysler,Sebring,Малаховка,2002,бензин,2.7,203,автомат,передний,седан,голубой,173023,левый,,,0,234000
+7231,https://novorossiysk.drom.ru/chrysler/200/48728093.html,Chrysler,200,Новороссийск,2015,бензин,2.4,184,АКПП,передний,седан,белый,154000,левый,2 поколение,,0,1300000
+7232,https://irkutsk.drom.ru/chrysler/sebring/43393369.html,Chrysler,Sebring,Иркутск,2000,бензин,2.7,200,АКПП,передний,открытый,серый,154000,левый,2 поколение,,0,559000
+7233,https://novosibirsk.drom.ru/chrysler/pacifica/45210659.html,Chrysler,Pacifica,Новосибирск,2005,бензин,3.5,253,автомат,4WD,джип/suv 5 дв.,синий,242500,левый,,,0,525000
+7234,https://mytishchi.drom.ru/chrysler/300c/48722109.html,Chrysler,300C,Мытищи,2006,бензин,3.5,249,АКПП,задний,седан,серый,300000,левый,1 поколение,3.5 AT,0,650000
+7235,https://moscow.drom.ru/chrysler/sebring/48377575.html,Chrysler,Sebring,Москва,2008,бензин,2.7,186,АКПП,передний,седан,серый,162737,левый,3 поколение,2.7 AT Touring,0,490000
+7236,https://saransk.drom.ru/chrysler/pacifica/48373400.html,Chrysler,Pacifica,Саранск,2004,бензин,3.5,253,АКПП,передний,джип/suv 5 дв.,,179000,левый,1 поколение,3.5 AT LX,0,160000
+7237,https://moscow.drom.ru/chrysler/town_country/47699648.html,Chrysler,Town and Country,Москва,2005,бензин,3.8,215,АКПП,передний,,черный,235000,левый,"4 поколение, рестайлинг",,0,799000
+7238,https://astrahan.drom.ru/chrysler/pt_cruiser/47691219.html,Chrysler,PT Cruiser,Астрахань,2002,бензин,2.0,141,механика,передний,хэтчбек 5 дв.,серебристый,140000,левый,1 поколение,2.0 MT Touring,0,230000
+7239,https://moscow.drom.ru/chrysler/voyager/46442641.html,Chrysler,Voyager,Москва,2002,бензин,2.4,150,АКПП,передний,,синий,217000,левый,4 поколение,2.4 AT Base,0,400000
+7240,https://goryachiy-kluch.drom.ru/chrysler/voyager/49057936.html,Chrysler,Voyager,Горячий Ключ,1992,бензин,3.3,150,АКПП,4WD,,красный,400000,левый,2 поколение,3.3 AT LE,0,440000
+7241,https://krasnodar.drom.ru/chrysler/300m/49057576.html,Chrysler,300M,Краснодар,1998,бензин,3.5,250,АКПП,передний,,зеленый,90000,левый,1 поколение,3.5 AT 300M,0,199000
+7242,https://tyumen.drom.ru/chrysler/sebring/49055713.html,Chrysler,Sebring,Тюмень,2004,бензин,2.4,150,АКПП,передний,седан,черный,180000,левый,"2 поколение, рестайлинг",2.4 AT Base,0,305000
+7243,https://novosibirsk.drom.ru/chrysler/cirrus/48980226.html,Chrysler,Cirrus,Новосибирск,1996,бензин,2.5,168,АКПП,передний,,бордовый,150000,левый,1 поколение,2.5 AT LXi,1,53000
+7244,https://habarovsk.drom.ru/chrysler/300c/43753732.html,Chrysler,300C,Хабаровск,2004,бензин,3.5,249,АКПП,задний,седан,серебристый,207000,левый,1 поколение,3.5 AT,0,785000
+7245,https://kaliningrad.drom.ru/chrysler/town_country/48793865.html,Chrysler,Town and Country,Калининград,2001,бензин,3.3,180,АКПП,передний,,серебристый,243000,левый,4 поколение,3.3 AT LX,0,445000
+7246,https://moscow.drom.ru/chrysler/voyager/48444035.html,Chrysler,Voyager,Москва,2006,бензин,2.4,147,механика,передний,,серый,180000,левый,"4 поколение, рестайлинг",2.4 MT Classic,0,850000
+7247,https://tobolsk.drom.ru/chrysler/sebring/48442793.html,Chrysler,Sebring,Тобольск,2005,бензин,2.4,150,АКПП,передний,седан,серый,155710,левый,"2 поколение, рестайлинг",2.4 AT Base,0,250000
+7248,https://vladivostok.drom.ru/chrysler/sebring/47754075.html,Chrysler,Sebring,Владивосток,2008,бензин,2.4,170,АКПП,передний,седан,черный,188000,левый,3 поколение,2.4 AT Limited,0,500000
+7249,https://bratsk.drom.ru/chrysler/concorde/43627027.html,Chrysler,Concorde,Братск,2003,бензин,3.5,235,АКПП,передний,,черный,260000,левый,"2 поколение, рестайлинг",3.5 AT LXi,0,350000
+7250,https://blagoveshchensk.drom.ru/chrysler/le_baron/34397446.html,Chrysler,Le Baron,Благовещенск,1986,бензин,5.2,100,автомат,задний,седан,черный,150000,левый,,,0,1100000
+7251,https://kurganinsk.drom.ru/chrysler/300m/48973112.html,Chrysler,300M,Курганинск,1999,бензин,2.7,204,АКПП,передний,,серебристый,222222,левый,1 поколение,2.7 AT,0,222222
+7252,https://novorossiysk.drom.ru/chrysler/pt_cruiser/48873562.html,Chrysler,PT Cruiser,Новороссийск,2002,бензин,2.4,150,АКПП,передний,хэтчбек 5 дв.,серебристый,196300,левый,1 поколение,2.4 AT Limited Edition,0,359000
+7253,https://novosibirsk.drom.ru/chrysler/pacifica/44428913.html,Chrysler,Pacifica,Новосибирск,2005,бензин,3.5,253,АКПП,передний,джип/suv 5 дв.,синий,275000,левый,1 поколение,3.5 AT LX,0,500000
+7254,https://ekaterinburg.drom.ru/chrysler/pacifica/49117957.html,Chrysler,Pacifica,Екатеринбург,2004,бензин,3.5,253,АКПП,передний,джип/suv 5 дв.,синий,220000,левый,1 поколение,3.5 AT LX,0,380000
+7255,https://moscow.drom.ru/chrysler/lhs/49116920.html,Chrysler,LHS,Москва,1999,бензин,3.5,257,АКПП,передний,,синий,200000,левый,2 поколение,3.5 AT,0,160000
+7256,https://novosibirsk.drom.ru/chrysler/300c/46400877.html,Chrysler,300C,Новосибирск,2006,бензин,2.7,193,АКПП,задний,седан,черный,145000,левый,1 поколение,2.7 AT,0,799000
+7257,https://moscow.drom.ru/chrysler/sebring/47446753.html,Chrysler,Sebring,Москва,2002,бензин,2.7,201,АКПП,передний,седан,,173000,левый,2 поколение,2.7 AT LX,0,400000
+7258,https://chelyabinsk.drom.ru/chrysler/voyager/49116281.html,Chrysler,Voyager,Челябинск,2002,бензин,2.4,150,АКПП,передний,,синий,180000,левый,4 поколение,2.4 AT Base,1,279000
+7259,https://bolshoy-kamen.drom.ru/chrysler/300c/49116139.html,Chrysler,300C,Большой Камень,2012,бензин,3.6,286,АКПП,задний,седан,белый,201000,левый,2 поколение,3.6 AT Luxury Series,0,1600000
+7260,https://habarovsk.drom.ru/chrysler/300c/48221163.html,Chrysler,300C,Хабаровск,2005,бензин,2.7,193,АКПП,задний,универсал,серый,264000,левый,1 поколение,2.7 AT,0,690000
+7261,https://novorossiysk.drom.ru/chrysler/300c/49115518.html,Chrysler,300C,Новороссийск,2005,бензин,2.7,193,АКПП,задний,седан,белый,170000,левый,1 поколение,2.7 AT,0,850000
+7262,https://astrahan.drom.ru/chrysler/200/49115526.html,Chrysler,200,Астрахань,2014,бензин,2.4,184,АКПП,передний,седан,серый,197000,левый,2 поколение,2.4 AT LX,0,1250000
+7263,https://neryungri.drom.ru/chrysler/pt_cruiser/49114151.html,Chrysler,PT Cruiser,Нерюнгри,2007,бензин,2.4,143,АКПП,передний,хэтчбек 5 дв.,белый,85000,левый,"1 поколение, рестайлинг",2.4 AT Limited,0,1350000
+7264,https://tyumen.drom.ru/chrysler/pt_cruiser/47562284.html,Chrysler,PT Cruiser,Тюмень,2002,бензин,2.4,150,АКПП,передний,хэтчбек 5 дв.,серебристый,475000,левый,1 поколение,2.4 AT Limited Edition,0,280000
+7265,https://novosibirsk.drom.ru/chrysler/pt_cruiser/47430884.html,Chrysler,PT Cruiser,Новосибирск,2005,бензин,2.4,152,автомат,передний,хэтчбек 5 дв.,серебристый,170000,левый,,,0,449000
+7266,https://togliatti.drom.ru/chrysler/pt_cruiser/44664598.html,Chrysler,PT Cruiser,Тольятти,2001,бензин,2.0,141,механика,передний,хэтчбек 5 дв.,,209000,левый,1 поколение,2.0 MT Touring,0,188000
+7267,https://berdsk.drom.ru/chrysler/pacifica/46370997.html,Chrysler,Pacifica,Бердск,2005,бензин,3.8,207,АКПП,передний,джип/suv 5 дв.,серебристый,300000,левый,1 поколение,3.8 AT LX,0,530000
+7268,https://novorossiysk.drom.ru/chrysler/sebring/48814862.html,Chrysler,Sebring,Новороссийск,2007,бензин,2.4,173,АКПП,передний,седан,черный,130000,левый,3 поколение,2.4 AT Limited,0,780000
+7269,https://lenino-krym.drom.ru/chrysler/voyager/47117765.html,Chrysler,Voyager,Ленино,1998,бензин,2.4,150,механика,передний,,серебристый,470000,левый,3 поколение,2.4 MT,0,275000
+7270,https://tatarsk.drom.ru/chrysler/300c/47109344.html,Chrysler,300C,Татарск,2007,бензин,2.7,177,АКПП,задний,седан,черный,16000,левый,"1 поколение, рестайлинг",2.7 AT,0,2200000
+7271,https://komsomolsk.drom.ru/chrysler/ypsilon/47099257.html,Chrysler,Ypsilon,Комсомольск-на-Амуре,2012,бензин,0.9,85,АКПП,передний,,белый,61000,правый,,Platina,0,590000
+7272,https://novomoskovsk.drom.ru/chrysler/300c/46785948.html,Chrysler,300C,Новомосковск,2005,бензин,5.7,340,АКПП,4WD,универсал,черный,318000,левый,1 поколение,5.7 AT,0,899000
+7273,https://biysk.drom.ru/chrysler/stratus/46689344.html,Chrysler,Stratus,Бийск,1996,бензин,2.5,161,АКПП,передний,седан,серебристый,230,левый,1 поколение,2.5 AT LX,0,170000
+7274,https://ivanovo.drom.ru/chrysler/300c/46451386.html,Chrysler,300C,Иваново,2010,бензин,2.7,181,автомат,задний,седан,белый,101781,,,,0,1100000
+7275,https://moscow.drom.ru/chrysler/crossfire/45051096.html,Chrysler,Crossfire,Москва,2006,бензин,3.2,215,автомат,задний,купе,серый,138000,левый,,,0,680000
+7276,https://spb.drom.ru/chrysler/voyager/49141165.html,Chrysler,Voyager,Санкт-Петербург,2006,дизель,2.8,150,АКПП,передний,,серый,201000,левый,"4 поколение, рестайлинг",,0,799990
+7277,https://moscow.drom.ru/chrysler/300c/49140579.html,Chrysler,300C,Москва,2008,бензин,2.7,177,АКПП,задний,седан,серебристый,171000,левый,"1 поколение, рестайлинг",2.7 AT,1,1100000
+7278,https://biysk.drom.ru/chrysler/pacifica/49138571.html,Chrysler,Pacifica,Бийск,2003,бензин,3.5,253,автомат,4WD,джип/suv 5 дв.,черный,255000,левый,,,0,390000
+7279,https://krasnoyarsk.drom.ru/chrysler/concorde/48456582.html,Chrysler,Concorde,Красноярск,1993,бензин,3.5,217,АКПП,передний,,синий,400000,левый,1 поколение,,0,220000
+7280,https://biysk.drom.ru/chrysler/300c/49136767.html,Chrysler,300C,Бийск,2006,бензин,2.7,193,АКПП,задний,седан,черный,283082,левый,1 поколение,2.7 AT,0,900000
+7281,https://petrozavodsk.drom.ru/chrysler/300c/48458696.html,Chrysler,300C,Петрозаводск,2012,дизель,3.0,190,автомат,задний,седан,черный,106572,левый,,,0,2000000
+7282,https://krasnoyarsk.drom.ru/chrysler/pt_cruiser/45600512.html,Chrysler,PT Cruiser,Красноярск,2003,бензин,2.0,141,АКПП,передний,хэтчбек 5 дв.,черный,161000,левый,1 поколение,2.0 AT Limited,1,478000
+7283,https://volno-nadezhdinskoe.drom.ru/chrysler/pt_cruiser/48458502.html,Chrysler,PT Cruiser,Вольно-Надеждинское,2002,бензин,2.0,,автомат,передний,хэтчбек 5 дв.,черный,240000,правый,,,0,45000
+7284,https://irkutsk.drom.ru/chrysler/sebring/47721608.html,Chrysler,Sebring,Иркутск,2006,бензин,2.7,200,АКПП,передний,седан,черный,145000,левый,"2 поколение, рестайлинг",,0,200000
+7285,https://spb.drom.ru/chrysler/300m/47378137.html,Chrysler,300M,Санкт-Петербург,1999,бензин,3.5,252,автомат,передний,,бежевый,196006,левый,,,0,115000
+7286,https://irkutsk.drom.ru/chrysler/pt_cruiser/49075883.html,Chrysler,PT Cruiser,Иркутск,2002,бензин,2.4,150,АКПП,передний,хэтчбек 5 дв.,желтый,260000,левый,1 поколение,2.4 AT Limited Edition,0,395000
+7287,https://nizhnevartovsk.drom.ru/chrysler/300m/49074398.html,Chrysler,300M,Нижневартовск,1998,бензин,3.5,250,АКПП,передний,,фиолетовый,165000,левый,1 поколение,3.5 AT,0,350000
+7288,https://moscow.drom.ru/chrysler/pacifica/48917103.html,Chrysler,Pacifica,Москва,2005,бензин,3.5,253,АКПП,передний,джип/suv 5 дв.,белый,164383,левый,1 поколение,3.5 AT LX,1,499000
+7289,https://kaliningrad.drom.ru/chrysler/sebring/48424017.html,Chrysler,Sebring,Калининград,2004,бензин,2.4,150,АКПП,передний,седан,серебристый,,левый,"2 поколение, рестайлинг",2.4 AT Base,0,329000
+7290,https://vozdvizhenka.drom.ru/chrysler/sebring/48726506.html,Chrysler,Sebring,Воздвиженка,2008,бензин,2.4,173,АКПП,передний,седан,черный,90000,левый,3 поколение,2.4 AT Limited,0,360000
+7291,https://vladivostok.drom.ru/chrysler/300c/47929718.html,Chrysler,300C,Владивосток,2005,бензин,3.5,250,АКПП,4WD,седан,черный,318000,левый,1 поколение,3.5 AT AWD 300 Touring,1,950000
+7292,https://kurgan.drom.ru/chrysler/sebring/45328354.html,Chrysler,Sebring,Курган,1998,бензин,2.5,168,АКПП,передний,открытый,красный,128000,левый,1 поколение,2.5 AT JX,0,450000
+7293,https://spb.drom.ru/chrysler/sebring/48738508.html,Chrysler,Sebring,Санкт-Петербург,2006,бензин,2.7,200,АКПП,передний,седан,синий,10,левый,"2 поколение, рестайлинг",2.7 AT Limited,0,300000
+7294,https://chelyabinsk.drom.ru/chrysler/voyager/48382811.html,Chrysler,Voyager,Челябинск,2002,бензин,2.4,147,АКПП,передний,,синий,300000,левый,4 поколение,,0,230000
+7296,https://moscow.drom.ru/chrysler/town_country/47709528.html,,,,,,,,,,,,,,,,0,
+7298,https://moscow.drom.ru/chrysler/pt_cruiser/47706964.html,,,,,,,,,,,,,,,,0,
+7300,https://krasnodar.drom.ru/chrysler/vision/47368297.html,,,,,,,,,,,,,,,,0,
+7302,https://tomsk.drom.ru/chrysler/pacifica/46608883.html,Chrysler,Pacifica,Томск,2005,бензин,3.5,253,АКПП,передний,джип/suv 5 дв.,красный,224000,левый,1 поколение,3.5 AT LX,0,280000
+7303,https://tomsk.drom.ru/chrysler/pt_cruiser/44264985.html,Chrysler,PT Cruiser,Томск,2006,бензин,1.6,116,механика,передний,хэтчбек 5 дв.,красный,195000,левый,"1 поколение, рестайлинг",1.6 MT Touring,0,499999
+7304,https://murmansk.drom.ru/chrysler/300m/48771279.html,Chrysler,300M,Мурманск,1999,бензин,3.5,250,АКПП,передний,,серый,251000,левый,1 поколение,3.5 AT 300M,0,350000
+7305,https://moscow.drom.ru/chrysler/300c/48427372.html,Chrysler,300C,Москва,2007,бензин,3.5,249,АКПП,задний,седан,белый,250000,левый,1 поколение,3.5 AT,0,895000
+7306,https://krasnodar.drom.ru/chrysler/300c/48081135.html,Chrysler,300C,Краснодар,2012,бензин,3.6,286,АКПП,задний,седан,черный,148000,левый,2 поколение,3.6 AT Luxury Series P0,0,1400000
+7307,https://chita.drom.ru/chrysler/pt_cruiser/47740557.html,Chrysler,PT Cruiser,Чита,2002,бензин,2.4,150,АКПП,передний,хэтчбек 5 дв.,белый,1,левый,1 поколение,,0,350000
+7308,https://krasnodar.drom.ru/chrysler/300c/47063953.html,Chrysler,300C,Краснодар,2006,бензин,2.7,193,АКПП,задний,седан,белый,275000,левый,1 поколение,2.7 AT,0,785000
+7309,https://smolenshchina.drom.ru/chrysler/pacifica/46100683.html,Chrysler,Pacifica,Смоленщина,2003,бензин,3.5,253,АКПП,передний,джип/suv 5 дв.,бордовый,350000,левый,1 поколение,3.5 AT LX,0,600000
+7310,https://yalutorovsk.drom.ru/chrysler/pt_cruiser/43382877.html,Chrysler,PT Cruiser,Ялуторовск,2000,бензин,2.4,150,АКПП,передний,хэтчбек 5 дв.,серебристый,330000,левый,1 поколение,,0,240000
+7311,https://nizhniy-novgorod.drom.ru/chrysler/pt_cruiser/49097177.html,Chrysler,PT Cruiser,Нижний Новгород,2001,бензин,2.4,150,АКПП,передний,хэтчбек 5 дв.,,150000,левый,1 поколение,,1,225000
+7312,https://tomsk.drom.ru/chrysler/pt_cruiser/49094206.html,Chrysler,PT Cruiser,Томск,2001,бензин,2.4,150,АКПП,передний,хэтчбек 5 дв.,бордовый,150000,левый,1 поколение,2.4 AT,0,235000
+7313,https://krasnoyarsk.drom.ru/chrysler/crossfire/49092442.html,Chrysler,Crossfire,Красноярск,2004,бензин,3.2,215,АКПП,задний,открытый,бордовый,65000,левый,1 поколение,,0,950000
+7314,https://moscow.drom.ru/chrysler/grand_voyager/46295697.html,Chrysler,Grand Voyager,Москва,2006,дизель,2.8,150,АКПП,передний,,серебристый,198982,левый,"4 поколение, рестайлинг",,0,675000
+7315,https://abakan.drom.ru/chrysler/300c/47727996.html,Chrysler,300C,Абакан,2005,бензин,2.7,190,АКПП,задний,седан,черный,160000,левый,1 поколение,2.7 AT 300,0,979000
+7316,https://spb.drom.ru/chrysler/sebring/49088720.html,Chrysler,Sebring,Санкт-Петербург,2006,бензин,2.7,203,автомат,передний,седан,серый,225988,левый,,,0,194000
+7317,https://moscow.drom.ru/chrysler/pacifica/48409220.html,Chrysler,Pacifica,Москва,2003,бензин,3.5,253,автомат,4WD,джип/suv 5 дв.,синий,273245,левый,,,0,550000
+7318,https://spb.drom.ru/chrysler/voyager/48405128.html,Chrysler,Voyager,Санкт-Петербург,2001,бензин,2.4,150,АКПП,передний,,серебристый,217880,левый,4 поколение,2.4 AT Base,0,450000
+7319,https://vidnoe.drom.ru/chrysler/pt_cruiser/48060987.html,Chrysler,PT Cruiser,Видное,2007,бензин,1.6,116,механика,передний,хэтчбек 5 дв.,красный,190600,левый,"1 поколение, рестайлинг",1.6 MT Touring,0,440000
+7320,https://kultuk.drom.ru/chrysler/300m/47731977.html,Chrysler,300M,Култук,1999,бензин,3.5,250,АКПП,передний,,серебристый,855555,левый,1 поколение,3.5 AT 300M,0,165000
+7321,https://moscow.drom.ru/chrysler/grand_voyager/47395266.html,Chrysler,Grand Voyager,Москва,2003,бензин,3.3,174,автомат,передний,,серебристый,273218,левый,,,0,850000
+7322,https://slobodskoy.drom.ru/chrysler/pt_cruiser/47063445.html,Chrysler,PT Cruiser,Слободской,2002,бензин,2.4,149,механика,передний,хэтчбек 5 дв.,синий,191000,левый,,,0,380000
+7323,https://spb.drom.ru/chrysler/voyager/47055200.html,Chrysler,Voyager,Санкт-Петербург,2002,бензин,2.4,150,АКПП,передний,,серебристый,212000,левый,4 поколение,2.4 AT Base,0,470000
+7324,https://krasnodar.drom.ru/chrysler/prowler/48833762.html,Chrysler,Prowler,Краснодар,2001,бензин,3.5,257,АКПП,задний,,золотистый,17000,левый,1 поколение,3.5 AT,0,4600000
+7325,https://anapa.drom.ru/chrysler/pt_cruiser/48492245.html,Chrysler,PT Cruiser,Анапа,2007,бензин,1.6,116,механика,передний,хэтчбек 5 дв.,желтый,100000,левый,"1 поколение, рестайлинг",1.6 MT Touring,0,499999
+7326,https://moscow.drom.ru/chrysler/300c/48488417.html,Chrysler,300C,Москва,2005,бензин,3.5,249,АКПП,задний,седан,серый,243221,левый,1 поколение,3.5 AT,0,580000
+7327,https://salehard.drom.ru/chrysler/sebring/48139456.html,Chrysler,Sebring,Салехард,2007,бензин,2.4,170,АКПП,передний,седан,серый,111500,левый,3 поколение,2.4 AT Limited,0,530000
+7328,https://otradniy.drom.ru/chrysler/pt_cruiser/47124708.html,Chrysler,PT Cruiser,Отрадный,2004,бензин,2.4,142,АКПП,передний,хэтчбек 5 дв.,серый,286000,левый,1 поколение,,0,400000
+7329,https://novosibirsk.drom.ru/chrysler/300c/46260087.html,Chrysler,300C,Новосибирск,2006,бензин,3.5,250,АКПП,задний,седан,черный,250000,левый,1 поколение,,0,1105000
+7330,https://simferopol.drom.ru/chrysler/300c/49162953.html,Chrysler,300C,Симферополь,2007,бензин,3.5,249,АКПП,задний,седан,серый,98000,левый,1 поколение,3.5 AT,0,1550000
+7331,https://sochi.drom.ru/chrysler/pt_cruiser/49162371.html,Chrysler,PT Cruiser,Сочи,2002,бензин,2.4,150,АКПП,передний,хэтчбек 5 дв.,синий,250000,левый,1 поколение,2.4 AT,0,75000
+7332,https://krasnoyarsk.drom.ru/chrysler/voyager/48996348.html,Chrysler,Voyager,Красноярск,1997,бензин,2.4,150,механика,передний,,синий,200000,левый,3 поколение,2.4 MT,0,200000
+7333,https://hvastovichi.drom.ru/chrysler/pt_cruiser/49160422.html,Chrysler,PT Cruiser,Хвастовичи,2002,бензин,2.0,141,АКПП,передний,хэтчбек 5 дв.,красный,140000,левый,1 поколение,2.0 AT Limited,0,305000
+7334,https://simferopol.drom.ru/chrysler/sebring/49158957.html,Chrysler,Sebring,Симферополь,2003,бензин,2.7,200,АКПП,передний,седан,синий,156000,левый,"2 поколение, рестайлинг",,0,245000
+7335,https://novosibirsk.drom.ru/chrysler/sebring/48969623.html,Chrysler,Sebring,Новосибирск,2004,бензин,2.4,150,АКПП,передний,седан,серый,122000,левый,"2 поколение, рестайлинг",2.4 AT Base,0,187000
+7336,https://omsk.drom.ru/chrysler/300c/49156401.html,Chrysler,300C,Омск,2004,бензин,2.7,193,АКПП,задний,седан,белый,200000,левый,1 поколение,2.7 AT,0,550000
+7337,https://omsk.drom.ru/chrysler/sebring/49154411.html,Chrysler,Sebring,Омск,2007,бензин,2.4,170,АКПП,передний,седан,синий,139636,левый,3 поколение,2.4 AT Limited,0,525000
+7338,https://voronezh.drom.ru/chrysler/300c/49154250.html,Chrysler,300C,Воронеж,2006,бензин,2.7,193,АКПП,задний,седан,черный,290000,левый,1 поколение,2.7 AT,1,600000
+7339,https://novokuznetsk.drom.ru/chrysler/sebring/47016911.html,Chrysler,Sebring,Новокузнецк,2007,бензин,2.4,173,АКПП,передний,седан,черный,279000,левый,3 поколение,2.4 AT LX,0,400000
+7340,https://ulan-ude.drom.ru/chrysler/pacifica/49152665.html,Chrysler,Pacifica,Улан-Удэ,2004,бензин,3.5,253,автомат,4WD,джип/suv 5 дв.,,194,левый,,,0,750000
+7341,https://kuvandyk.drom.ru/chrysler/crossfire/48819731.html,Chrysler,Crossfire,Кувандык,2003,бензин,3.2,215,АКПП,задний,хэтчбек 3 дв.,черный,190000,левый,1 поколение,3.2 AT Limited,0,550000
+7342,https://moscow.drom.ru/chrysler/pt_cruiser/48480596.html,Chrysler,PT Cruiser,Москва,2002,бензин,2.4,152,автомат,передний,хэтчбек 5 дв.,серый,42000,левый,,,0,395000
+7343,https://sevastopol.drom.ru/chrysler/300c/48476837.html,Chrysler,300C,Севастополь,2005,бензин,2.7,193,АКПП,задний,седан,белый,220000,левый,1 поколение,2.7 AT,0,1050000
+7344,https://moscow.drom.ru/chrysler/300m/47858151.html,Chrysler,300M,Москва,1999,бензин,2.7,204,АКПП,передний,,золотистый,300000,левый,1 поколение,2.7 AT,0,219000
+7345,https://moscow.drom.ru/chrysler/crossfire/47855032.html,Chrysler,Crossfire,Москва,2003,бензин,3.2,215,АКПП,задний,хэтчбек 3 дв.,серебристый,180000,левый,1 поколение,3.2 AT Limited,0,650000
+7346,https://krasnoyarsk.drom.ru/chrysler/sebring/41462017.html,Chrysler,Sebring,Красноярск,2006,бензин,2.4,170,АКПП,передний,седан,синий,200000,левый,3 поколение,2.4 AT Limited,0,520000
+7347,https://krasnoyarsk.drom.ru/chrysler/300c/48882005.html,Chrysler,300C,Красноярск,2007,бензин,2.7,178,АКПП,задний,седан,черный,97500,левый,"1 поколение, рестайлинг",2.7 AT 300 LX,1,990147
+7348,https://irkutsk.drom.ru/chrysler/300c/47138082.html,Chrysler,300C,Иркутск,2004,бензин,2.7,193,АКПП,задний,седан,черный,201157,левый,1 поколение,2.7 AT,0,790000
+7349,https://ekaterinburg.drom.ru/chrysler/300m/48879349.html,Chrysler,300M,Екатеринбург,1998,бензин,3.5,250,АКПП,передний,,черный,200000,левый,1 поколение,3.5 AT 300M,1,500000
+7350,https://omsk.drom.ru/chrysler/grand_voyager/48878801.html,Chrysler,Grand Voyager,Омск,2001,бензин,3.3,147,АКПП,передний,,черный,408000,левый,4 поколение,3.3 AT LE,0,470000
+7351,https://sochi.drom.ru/chrysler/pacifica/46248360.html,Chrysler,Pacifica,Сочи,2006,бензин,4.0,260,АКПП,передний,джип/suv 5 дв.,черный,270000,левый,1 поколение,4.0 AT Touring,0,820000
+7352,https://moscow.drom.ru/chrysler/prowler/46847695.html,Chrysler,Prowler,Москва,2001,бензин,3.5,257,АКПП,задний,,серебристый,28000,левый,1 поколение,3.5 AT,0,3590000
+7353,https://luga.drom.ru/chrysler/sebring/48532368.html,Chrysler,Sebring,Луга,2005,бензин,2.4,150,АКПП,передний,седан,синий,168270,левый,"2 поколение, рестайлинг",2.4 AT Base,0,350000
+7354,https://sochi.drom.ru/chrysler/crossfire/48189568.html,Chrysler,Crossfire,Сочи,2003,бензин,3.2,215,АКПП,задний,хэтчбек 3 дв.,красный,200000,левый,1 поколение,,0,480000
+7355,https://moscow.drom.ru/chrysler/300/47510531.html,Chrysler,300,Москва,2007,бензин,6.1,425,автомат,задний,седан,черный,115765,левый,,,0,1420000
+7356,https://togliatti.drom.ru/chrysler/300c/46847481.html,Chrysler,300C,Тольятти,2004,бензин,3.5,249,АКПП,задний,седан,белый,230000,левый,1 поколение,3.5 AT,1,750000
+7357,https://habarovsk.drom.ru/chrysler/300c/46328506.html,Chrysler,300C,Хабаровск,2004,бензин,3.5,249,АКПП,задний,седан,розовый,90000,левый,1 поколение,3.5 AT,0,679000
+7358,https://arhangelsk.drom.ru/chrysler/pt_cruiser/48874870.html,Chrysler,PT Cruiser,Архангельск,2001,бензин,2.4,150,АКПП,передний,хэтчбек 5 дв.,бордовый,180000,левый,1 поколение,,0,260000
+7359,https://spb.drom.ru/chrysler/voyager/48873625.html,Chrysler,Voyager,Санкт-Петербург,2002,бензин,2.4,150,АКПП,передний,,серый,279800,левый,4 поколение,2.4 AT Base,0,279700
+7360,https://novorossiysk.drom.ru/chrysler/pacifica/48709107.html,Chrysler,Pacifica,Новороссийск,2007,бензин,4.0,260,АКПП,передний,джип/suv 5 дв.,черный,222780,левый,"1 поколение, рестайлинг",4.0 AT Limited,1,830000
+7361,https://astrahan.drom.ru/chrysler/intrepid/47429534.html,Chrysler,Intrepid,Астрахань,2003,бензин,2.7,200,АКПП,передний,,серебристый,250000,левый,2 поколение,2.7 AT,1,199900
+7362,https://noviy-urengoy.drom.ru/chrysler/300c/48870748.html,Chrysler,300C,Новый Уренгой,2006,бензин,2.7,193,АКПП,задний,седан,серый,220420,левый,1 поколение,2.7 AT,0,880000
+7363,https://yaroslavl.drom.ru/chrysler/pt_cruiser/48867370.html,Chrysler,PT Cruiser,Ярославль,2006,бензин,1.6,116,механика,передний,хэтчбек 5 дв.,бежевый,158754,левый,"1 поколение, рестайлинг",1.6 MT Touring,0,369000
+7364,https://surgut.drom.ru/chrysler/300m/48858324.html,Chrysler,300M,Сургут,2002,бензин,3.5,250,АКПП,передний,,черный,152000,левый,1 поколение,3.5 AT 300M,1,85000
+7365,https://moscow.drom.ru/chrysler/sebring/48857798.html,Chrysler,Sebring,Москва,2007,бензин,2.4,172,автомат,передний,седан,серебристый,372000,левый,,,0,355000
+7366,https://taganrog.drom.ru/chrysler/300c/48514572.html,Chrysler,300C,Таганрог,2004,бензин,2.7,193,АКПП,задний,седан,черный,145123,левый,1 поколение,2.7 AT,0,758000
+7367,https://moscow.drom.ru/chrysler/town_country/48854767.html,Chrysler,Town and Country,Москва,2005,бензин,3.3,180,АКПП,передний,,серебристый,153820,левый,"4 поколение, рестайлинг",3.3 AT LX,0,555000
+7368,https://kemerovo.drom.ru/chrysler/concorde/48854728.html,Chrysler,Concorde,Кемерово,2000,бензин,3.2,223,АКПП,передний,,серебристый,150000,левый,2 поколение,3.2 AT LXi,1,250000
+7369,https://bataysk.drom.ru/chrysler/pt_cruiser/48852482.html,Chrysler,PT Cruiser,Батайск,2002,бензин,2.4,150,АКПП,передний,хэтчбек 5 дв.,серебристый,350000,левый,1 поколение,2.4 AT Limited Edition,1,360000
+7370,https://krasnoyarsk.drom.ru/chrysler/sebring/43887891.html,Chrysler,Sebring,Красноярск,2001,бензин,2.7,200,АКПП,передний,открытый,белый,150000,левый,2 поколение,,0,700000
+7371,https://ivanovo.drom.ru/chrysler/voyager/48851405.html,Chrysler,Voyager,Иваново,2001,бензин,2.4,150,АКПП,передний,,зеленый,410000,левый,4 поколение,2.4 AT Base,1,190000
+7372,https://spb.drom.ru/chrysler/voyager/48849738.html,Chrysler,Voyager,Санкт-Петербург,2002,бензин,2.4,150,АКПП,передний,,синий,266754,левый,4 поколение,2.4 AT Base,0,230000
+7373,https://spb.drom.ru/chrysler/concorde/48514462.html,Chrysler,Concorde,Санкт-Петербург,1999,бензин,2.7,204,АКПП,передний,,серый,300000,левый,2 поколение,2.7 AT LX,0,150000
+7374,https://novosibirsk.drom.ru/chrysler/sebring/48514237.html,Chrysler,Sebring,Новосибирск,2004,бензин,2.4,150,АКПП,передний,седан,синий,300000,левый,"2 поколение, рестайлинг",2.4 AT Base,0,245000
+7375,https://nizhneudinsk.drom.ru/chrysler/pacifica/48512115.html,Chrysler,Pacifica,Нижнеудинск,2003,бензин,3.5,253,АКПП,передний,джип/suv 5 дв.,серебристый,228443,левый,1 поколение,3.5 AT LX,1,400000
+7376,https://ozery.drom.ru/chrysler/pt_cruiser/47827463.html,Chrysler,PT Cruiser,Озёры,2000,бензин,2.4,150,АКПП,передний,хэтчбек 5 дв.,серебристый,133623,левый,1 поколение,2.4 AT,0,300000
+7377,https://vvedenskoe.drom.ru/chrysler/300c/47151236.html,Chrysler,300C,Введенское,2005,бензин,2.7,193,АКПП,задний,седан,черный,350000,левый,1 поколение,2.7 AT,0,750000
+7378,https://chita.drom.ru/chrysler/pt_cruiser/47138381.html,Chrysler,PT Cruiser,Чита,2000,бензин,2.0,150,автомат,передний,хэтчбек 5 дв.,красный,156505,правый,,,0,350000
+7379,https://cherkessk.drom.ru/chrysler/300m/46832662.html,Chrysler,300M,Черкесск,2001,бензин,3.5,250,АКПП,передний,,черный,357086,левый,1 поколение,3.5 AT,0,300000
+7380,https://tomsk.drom.ru/chrysler/300c/46810626.html,Chrysler,300C,Томск,2005,бензин,3.5,250,АКПП,задний,седан,белый,151000,левый,1 поколение,3.5 AT 300 Touring,0,700000
+7381,https://tyazhinskiy.drom.ru/chrysler/concorde/48848045.html,Chrysler,Concorde,Тяжинский,2001,бензин,2.7,204,АКПП,передний,,синий,230000,левый,2 поколение,2.7 AT LX,0,95000
+7382,https://moscow.drom.ru/chrysler/neon/48847944.html,Chrysler,Neon,Москва,2001,бензин,2.0,132,АКПП,передний,седан,черный,280000,левый,2 поколение,2.0 AT,1,75000
+7383,https://vladikavkaz.drom.ru/chrysler/town_country/48847922.html,Chrysler,Town and Country,Владикавказ,2013,бензин,3.6,283,АКПП,передний,,,240000,левый,"5 поколение, рестайлинг",,0,550000
+7384,https://tyumen.drom.ru/chrysler/sebring/47542442.html,Chrysler,Sebring,Тюмень,2004,бензин,2.4,150,АКПП,передний,седан,серый,200000,левый,"2 поколение, рестайлинг",2.4 AT Base,0,300000
+7385,https://biysk.drom.ru/chrysler/300m/48519341.html,Chrysler,300M,Бийск,2001,бензин,2.7,204,АКПП,передний,,черный,192000,левый,1 поколение,2.7 AT,1,195000
+7386,https://omsk.drom.ru/chrysler/300c/46771636.html,Chrysler,300C,Омск,2006,бензин,3.5,249,АКПП,задний,седан,серебристый,150,левый,1 поколение,3.5 AT,0,1200000
+7387,https://abakan.drom.ru/chrysler/300c/48183227.html,Chrysler,300C,Абакан,2008,бензин,2.7,193,автомат,задний,седан,белый,140000,левый,,,0,1100000
+7388,https://moscow.drom.ru/chrysler/sebring/48520815.html,Chrysler,Sebring,Москва,2004,бензин,2.4,150,АКПП,передний,седан,серебристый,265000,левый,"2 поколение, рестайлинг",2.4 AT Base,0,238000
+7389,https://ekaterinburg.drom.ru/chrysler/sebring/48520253.html,Chrysler,Sebring,Екатеринбург,2007,бензин,2.4,170,АКПП,передний,седан,серебристый,250000,левый,3 поколение,2.4 AT Limited,0,515000
+7390,https://nizhnevartovsk.drom.ru/chrysler/300c/48182520.html,Chrysler,300C,Нижневартовск,2006,бензин,3.5,249,АКПП,задний,седан,серый,138000,левый,1 поколение,3.5 AT,0,830000
+7391,https://trehgorniy.drom.ru/chrysler/300c/48181896.html,Chrysler,300C,Екатеринбург,2007,бензин,2.7,193,АКПП,задний,седан,белый,200000,левый,1 поколение,2.7 AT,0,800000
+7392,https://anapa.drom.ru/chrysler/town_country/48174696.html,Chrysler,Town and Country,Анапа,2003,бензин,3.3,180,АКПП,передний,,белый,305000,левый,4 поколение,3.3 AT LX,0,550000
+7393,https://chelyabinsk.drom.ru/chrysler/300c/48005756.html,Chrysler,300C,Челябинск,2006,бензин,6.1,426,АКПП,задний,седан,серебристый,72000,левый,1 поколение,6.1 AT 300C SRT8,0,1500000
+7394,https://sevastopol.drom.ru/chrysler/pt_cruiser/47480757.html,Chrysler,PT Cruiser,Севастополь,2002,бензин,1.6,116,механика,передний,хэтчбек 5 дв.,синий,317000,левый,,,0,350000
+7395,https://krasnoyarsk.drom.ru/chrysler/300c/47163007.html,Chrysler,300C,Красноярск,2012,бензин,3.6,286,АКПП,задний,седан,серебристый,180000,левый,2 поколение,3.6 AT Luxury Series,0,1700000
+7396,https://ekaterinburg.drom.ru/chrysler/300c/47143953.html,Chrysler,300C,Екатеринбург,2007,бензин,2.7,177,АКПП,задний,седан,черный,240000,левый,"1 поколение, рестайлинг",2.7 AT,0,630000
+7397,https://novosibirsk.drom.ru/chrysler/pt_cruiser/46854722.html,Chrysler,PT Cruiser,Новосибирск,2002,2.2 ,.2,,механика,,хэтчбек 5 дв.,бордовый,100000,левый,,,0,155000
+7398,https://kytmanovo.drom.ru/chrysler/300m/46858042.html,Chrysler,300M,Кытманово,1999,бензин,3.5,250,АКПП,передний,,золотистый,173351,левый,1 поколение,3.5 AT,0,250000
+7399,https://engels.drom.ru/chrysler/neon/44851856.html,Chrysler,Neon,Энгельс,2001,бензин,2.0,150,АКПП,передний,седан,серебристый,208000,левый,2 поколение,2.0 AT,0,200000
+7400,https://tuymazy.drom.ru/chrysler/sebring/44224757.html,Chrysler,Sebring,Туймазы,2006,бензин,2.7,200,АКПП,передний,седан,серый,224000,левый,"2 поколение, рестайлинг",2.7 AT Limited,0,370000
+7401,https://astrahan.drom.ru/chrysler/le_baron/43861134.html,Chrysler,Le Baron,Астрахань,1989,бензин,2.5,152,АКПП,передний,купе,белый,100000,левый,3 поколение,2.5T AT GTC,0,60000
+7402,https://komsomolsk.drom.ru/chrysler/300c/40972751.html,Chrysler,300C,Комсомольск-на-Амуре,2008,бензин,2.7,177,АКПП,задний,седан,серый,230000,левый,"1 поколение, рестайлинг",2.7 AT,0,900000
+7403,https://moscow.drom.ru/chrysler/200/48861361.html,Chrysler,200,Москва,2015,бензин,2.4,184,АКПП,передний,седан,красный,180000,левый,2 поколение,,0,1100000
+7404,https://tyumen.drom.ru/chrysler/saratoga/47560591.html,Chrysler,Saratoga,Тюмень,1992,бензин,3.0,141,АКПП,передний,седан,белый,291769,левый,4 поколение,3.0 AT,0,150000
+7405,https://seversk.drom.ru/chrysler/concorde/38844416.html,Chrysler,Concorde,Северск,2003,бензин,2.7,204,АКПП,передний,,голубой,212000,левый,"2 поколение, рестайлинг",2.7 AT LX,0,290000
+7406,https://kerch.drom.ru/chrysler/300m/34515325.html,Chrysler,300M,Керчь,1999,бензин,3.5,254,автомат,передний,,черный,250000,левый,,,0,280000
+7407,https://voronezh.drom.ru/chrysler/sebring/48917540.html,Chrysler,Sebring,Воронеж,2008,бензин,2.7,186,АКПП,передний,седан,черный,175000,левый,3 поколение,2.7 AT Touring,1,550000
+7408,https://moscow.drom.ru/chrysler/saratoga/48914884.html,Chrysler,Saratoga,Москва,1992,бензин,3.0,141,АКПП,передний,седан,белый,280000,левый,4 поколение,3.0 AT,0,200000
+7409,https://surgut.drom.ru/chrysler/300c/48914396.html,Chrysler,300C,Сургут,2007,бензин,6.1,431,АКПП,задний,седан,черный,142000,левый,"1 поколение, рестайлинг",6.1 AT SRT8,0,1700000
+7410,https://astrahan.drom.ru/chrysler/pt_cruiser/48912272.html,Chrysler,PT Cruiser,Астрахань,2002,бензин,2.4,150,АКПП,передний,хэтчбек 5 дв.,серый,354000,левый,1 поколение,2.4 AT,0,325000
+7411,https://moscow.drom.ru/chrysler/sebring/48910751.html,Chrysler,Sebring,Москва,2007,бензин,2.4,172,автомат,передний,седан,белый,246446,левый,,,0,459000
+7412,https://moscow.drom.ru/chrysler/voyager/47879744.html,Chrysler,Voyager,Москва,2002,бензин,2.4,150,АКПП,передний,,серебристый,213859,левый,4 поколение,2.4 AT Base,0,310000
+7413,https://krasnodar.drom.ru/chrysler/300m/48573094.html,Chrysler,300M,Краснодар,1998,бензин,3.5,250,АКПП,передний,,зеленый,300000,левый,1 поколение,3.5 AT 300M,1,250000
+7414,https://agrarnoe-krym.drom.ru/chrysler/concorde/47883407.html,Chrysler,Concorde,Аграрное,2000,бензин,2.7,204,АКПП,передний,,зеленый,322000,левый,2 поколение,2.7 AT LX,0,180000
+7415,https://krasnoyarsk.drom.ru/chrysler/300c/47550162.html,Chrysler,300C,Красноярск,2012,бензин,3.6,286,АКПП,задний,седан,белый,111500,левый,2 поколение,3.6 AT Luxury Series,0,1480000
+7416,https://chelyabinsk.drom.ru/chrysler/300c/44962173.html,Chrysler,300C,Челябинск,2005,бензин,3.5,249,АКПП,задний,седан,белый,180000,левый,1 поколение,3.5 AT,0,799000
+7417,https://moscow.drom.ru/chrysler/pt_cruiser/48908340.html,Chrysler,PT Cruiser,Москва,2007,бензин,2.4,143,АКПП,передний,хэтчбек 5 дв.,красный,94500,левый,"1 поколение, рестайлинг",2.4 AT Limited,1,375000
+7418,https://moscow.drom.ru/chrysler/voyager/48535811.html,Chrysler,Voyager,Москва,2003,бензин,2.4,152,автомат,передний,,серый,199000,левый,,,0,449000
+7419,https://sverdlovskiy.drom.ru/chrysler/sebring/48906020.html,Chrysler,Sebring,Свердловский,2008,бензин,2.4,170,АКПП,передний,седан,серебристый,267000,левый,3 поколение,2.4 AT Limited,1,350000
+7420,https://sevastopol.drom.ru/chrysler/voyager/48905989.html,Chrysler,Voyager,Севастополь,1997,дизель,2.5,118,механика,передний,,фиолетовый,310000,левый,3 поколение,,0,120000
+7421,https://khanty-mansiysk.drom.ru/chrysler/300c/48901909.html,Chrysler,300C,Ханты-Мансийск,2008,бензин,2.7,177,АКПП,задний,седан,черный,240000,левый,"1 поколение, рестайлинг",2.7 AT,0,800000
+7422,https://moscow.drom.ru/chrysler/300c/48849324.html,Chrysler,300C,Москва,2006,бензин,3.5,249,АКПП,задний,седан,серый,245000,левый,1 поколение,3.5 AT,1,490000
+7423,https://dzhubga.drom.ru/chrysler/sebring/48561576.html,Chrysler,Sebring,Джубга,2004,бензин,2.7,200,АКПП,передний,седан,,185000,левый,"2 поколение, рестайлинг",2.7 AT Touring Platinum,0,480000
+7424,https://barnaul.drom.ru/chrysler/300c/47927515.html,Chrysler,300C,Барнаул,2004,бензин,3.5,249,АКПП,задний,седан,белый,1,левый,1 поколение,3.5 AT,0,900000
+7425,https://novosibirsk.drom.ru/chrysler/new_yorker/46239078.html,Chrysler,New Yorker,Новосибирск,1984,бензин,2.2,97,АКПП,передний,седан,голубой,150000,левый,12 поколение,2.2 AT,0,375000
+7426,https://tomsk.drom.ru/chrysler/pt_cruiser/45906296.html,Chrysler,PT Cruiser,Томск,2001,бензин,2.4,150,механика,передний,хэтчбек 5 дв.,зеленый,134000,левый,1 поколение,,1,150000
+7427,https://zabaikalsk.drom.ru/chrysler/new_yorker/44467814.html,Chrysler,New Yorker,Забайкальск,1990,бензин,3.3,150,АКПП,передний,седан,бордовый,163800,левый,13 поколение,3.3 AT,0,5550000
+7428,https://spb.drom.ru/chrysler/300m/48962614.html,Chrysler,300M,Санкт-Петербург,2001,бензин,2.7,204,АКПП,передний,,желтый,325480,левый,1 поколение,2.7 AT,1,135000
+7429,https://omsk.drom.ru/chrysler/pacifica/48960879.html,Chrysler,Pacifica,Омск,2004,бензин,3.5,253,АКПП,передний,джип/suv 5 дв.,серебристый,240000,левый,1 поколение,3.5 AT LX,0,490000
+7430,https://neryungri.drom.ru/chrysler/300c/47472722.html,Chrysler,300C,Нерюнгри,2005,бензин,5.7,340,АКПП,задний,седан,серебристый,211030,левый,1 поколение,5.7 AT,1,1150000
+7431,https://korenovsk.drom.ru/chrysler/intrepid/48957906.html,Chrysler,Intrepid,Кореновск,1998,бензин,2.7,200,АКПП,передний,,зеленый,111000,левый,2 поколение,2.7 AT,1,160000
+7432,https://ekaterinburg.drom.ru/chrysler/crossfire/48956153.html,Chrysler,Crossfire,Екатеринбург,2005,бензин,3.2,215,автомат,задний,купе,серый,160000,левый,,,1,380000
+7433,https://habarovsk.drom.ru/chrysler/300c/19921827.html,Chrysler,300C,Хабаровск,2008,бензин,3.5,218,автомат,задний,седан,белый,70000,левый,,,0,800000
+7434,https://ekaterinburg.drom.ru/chrysler/300c/47923170.html,Chrysler,300C,Екатеринбург,2012,бензин,3.6,286,АКПП,задний,седан,черный,181000,левый,2 поколение,,0,1265000
+7435,https://simferopol.drom.ru/chrysler/300c/41961745.html,Chrysler,300C,Симферополь,2005,бензин,5.7,340,АКПП,задний,седан,серебристый,220000,левый,1 поколение,5.7 AT,0,950000
+7436,https://tyumen.drom.ru/chrysler/voyager/48610766.html,Chrysler,Voyager,Тюмень,2003,бензин,2.4,150,АКПП,передний,,белый,213755,левый,4 поколение,2.4 AT Base,1,250000
+7437,https://spb.drom.ru/chrysler/sebring/47915668.html,Chrysler,Sebring,Санкт-Петербург,2001,бензин,2.4,152,автомат,передний,седан,серебристый,183255,левый,,,0,209900
+7438,https://chelyabinsk.drom.ru/chrysler/300c/48950212.html,Chrysler,300C,Челябинск,2005,бензин,2.7,193,АКПП,задний,седан,серый,265793,левый,1 поколение,2.7 AT,1,820000
+7439,https://gvardeyskoe.drom.ru/chrysler/voyager/48950038.html,Chrysler,Voyager,Гвардейское,2002,дизель,2.5,149,механика,передний,,белый,400000,левый,,,0,460000
+7440,https://ulan-ude.drom.ru/chrysler/pacifica/46926579.html,Chrysler,Pacifica,Улан-Удэ,2003,бензин,3.5,253,автомат,4WD,джип/suv 5 дв.,серебристый,250000,левый,,,0,700000
+7441,https://nizhniy-novgorod.drom.ru/chrysler/pacifica/48605365.html,Chrysler,Pacifica,Нижний Новгород,2004,бензин,3.5,253,АКПП,передний,джип/suv 5 дв.,,80000,левый,1 поколение,3.5 AT LX,0,400000
+7442,https://surgut.drom.ru/chrysler/300c/48702471.html,Chrysler,300C,Сургут,2006,бензин,2.7,193,АКПП,задний,седан,серебристый,233690,левый,1 поколение,2.7 AT,1,749000
+7443,https://mayma.drom.ru/chrysler/300m/48941875.html,Chrysler,300M,Майма,2003,бензин,2.7,204,АКПП,передний,,синий,299000,левый,1 поколение,2.7 AT,0,450000
+7444,https://chelyabinsk.drom.ru/chrysler/crossfire/48847470.html,Chrysler,Crossfire,Челябинск,2004,бензин,3.2,215,АКПП,задний,хэтчбек 3 дв.,голубой,239000,левый,1 поколение,3.2 AT Limited,0,499000
+7445,https://gelendzhik.drom.ru/chrysler/sebring/48846786.html,Chrysler,Sebring,Геленджик,1998,бензин,2.5,168,АКПП,передний,открытый,синий,122000,левый,1 поколение,,0,380000
+7446,https://sergiev-posad.drom.ru/chrysler/voyager/48844634.html,Chrysler,Voyager,Сергиев Посад,1989,бензин,3.0,141,АКПП,передний,,бордовый,299370,левый,1 поколение,,0,950000
+7447,https://krasnoyarsk.drom.ru/chrysler/300m/48842812.html,Chrysler,300M,Красноярск,2002,бензин,2.7,204,АКПП,передний,,синий,273000,левый,1 поколение,2.7 AT,1,235000
+7448,https://ulan-ude.drom.ru/chrysler/300c/45976605.html,Chrysler,300C,Улан-Удэ,2005,бензин,5.7,340,автомат,4WD,седан,черный,200000,левый,,,0,1650000
+7449,https://volgodonsk.drom.ru/chrysler/pacifica/48841686.html,Chrysler,Pacifica,Волгодонск,2007,бензин,3.5,253,автомат,4WD,джип/suv 5 дв.,серебристый,170000,левый,,,0,520000
+7450,https://ishim.drom.ru/chrysler/neon/48840964.html,Chrysler,Neon,Ишим,2000,бензин,2.0,132,АКПП,передний,седан,серебристый,280000,левый,2 поколение,2.0 AT,1,110000
+7451,https://tomsk.drom.ru/chrysler/300c/27131106.html,Chrysler,300C,Томск,2012,бензин,3.6,249,автомат,задний,универсал,белый,35000,левый,,,0,870000
+7452,https://kyzyl.drom.ru/chrysler/300c/48497079.html,Chrysler,300C,Кызыл,2004,бензин,3.5,249,АКПП,задний,седан,белый,208000,левый,1 поколение,3.5 AT,0,860000
+7453,https://orel.drom.ru/chrysler/sebring/48502413.html,Chrysler,Sebring,Орел,2007,бензин,2.4,170,АКПП,передний,седан,черный,280000,левый,3 поколение,2.4 AT Limited,1,300000
+7454,https://kemerovo.drom.ru/chrysler/pt_cruiser/48499516.html,Chrysler,PT Cruiser,Кемерово,2001,бензин,2.4,150,АКПП,передний,хэтчбек 5 дв.,серый,126522,левый,1 поколение,2.4 AT Limited Edition,1,340000
+7455,https://moscow.drom.ru/chrysler/grand_voyager/48160848.html,Chrysler,Grand Voyager,Москва,2001,бензин,3.3,147,АКПП,передний,,,180000,левый,4 поколение,3.3 AT LE,0,450000
+7456,https://kaliningrad.drom.ru/chrysler/sebring/48156023.html,Chrysler,Sebring,Калининград,2004,бензин,2.4,150,автомат,передний,купе,голубой,171000,левый,,,1,410000
+7457,https://omsk.drom.ru/chrysler/pt_cruiser/47380773.html,Chrysler,PT Cruiser,Омск,2001,бензин,2.4,150,механика,передний,хэтчбек 5 дв.,красный,136000,левый,1 поколение,,0,133000
+7458,https://strezhevoy.drom.ru/chrysler/sebring/46820528.html,Chrysler,Sebring,Стрежевой,2004,бензин,2.4,150,АКПП,передний,седан,серебристый,260200,левый,"2 поколение, рестайлинг",2.4 AT Base,0,282282
+7459,https://simferopol.drom.ru/chrysler/200/46816829.html,Chrysler,200,Симферополь,2015,бензин,2.4,184,АКПП,передний,седан,черный,117000,левый,2 поколение,,0,1180000
+7460,https://yuzhno-sakhalinsk.drom.ru/chrysler/300c/27213531.html,Chrysler,300C,Южно-Сахалинск,2004,бензин,3.5,249,АКПП,задний,седан,белый,120000,левый,1 поколение,3.5 AT,0,650000
+7461,https://nizhniy-novgorod.drom.ru/chrysler/pacifica/48988152.html,Chrysler,Pacifica,,2020,бензин,3.6,264,автомат,4WD,минивэн,черный,100,левый,,,0,8000000
+7462,https://novosibirsk.drom.ru/chrysler/pacifica/48296974.html,Chrysler,Pacifica,,2022,бензин,3.6,287,автомат,4WD,минивэн,белый,22,левый,,,0,6200000
+7463,https://spb.drom.ru/chrysler/pacifica/47451925.html,Chrysler,Pacifica,,2020,бензин,3.6,279,АКПП,передний,минивэн,,62000,левый,2 поколение,3.6 AT Touring L,0,1400000
+7464,https://ekaterinburg.drom.ru/chrysler/300c/48837276.html,Chrysler,300C,Екатеринбург,2006,бензин,2.7,193,АКПП,задний,седан,черный,320000,левый,1 поколение,2.7 AT,0,795000
+7465,https://smolensk.drom.ru/chrysler/pacifica/48835932.html,Chrysler,Pacifica,Смоленск,2003,бензин,3.5,253,АКПП,передний,джип/suv 5 дв.,синий,320000,левый,1 поколение,3.5 AT LX,0,320000
+7466,https://sevastopol.drom.ru/chrysler/sebring/48834752.html,Chrysler,Sebring,Севастополь,2001,бензин,2.7,200,АКПП,передний,открытый,голубой,60000,левый,2 поколение,,1,550000
+7467,https://togliatti.drom.ru/chrysler/sebring/48831920.html,Chrysler,Sebring,Тольятти,2007,бензин,2.4,170,АКПП,передний,седан,бежевый,,левый,3 поколение,2.4 AT Limited,0,497000
+7468,https://tyumen.drom.ru/chrysler/saratoga/48488391.html,Chrysler,Saratoga,Тюмень,1993,бензин,3.0,141,АКПП,передний,седан,черный,349740,левый,4 поколение,3.0 AT,1,120000
+7469,https://anapa.drom.ru/chrysler/sebring/48561543.html,Chrysler,Sebring,Анапа,2004,бензин,2.7,200,АКПП,передний,седан,серебристый,172000,левый,"2 поколение, рестайлинг",,0,470000
+7470,https://moscow.drom.ru/chrysler/300c/48559625.html,Chrysler,300C,Москва,2005,бензин,5.7,340,АКПП,задний,седан,серый,191100,левый,1 поколение,5.7 AT,1,650000
+7471,https://afipskiy.drom.ru/chrysler/grand_voyager/48556288.html,Chrysler,Grand Voyager,Афипский,1998,бензин,3.3,156,АКПП,передний,,черный,236000,левый,3 поколение,,0,215000
+7472,https://ussuriisk.drom.ru/chrysler/300c/48550046.html,Chrysler,300C,Уссурийск,2006,бензин,3.5,249,АКПП,задний,седан,бордовый,66171,левый,1 поколение,3.5 AT,0,800000
+7473,https://moscow.drom.ru/chrysler/300c/47527605.html,Chrysler,300C,Москва,2005,бензин,2.7,193,АКПП,задний,седан,синий,146100,левый,1 поколение,2.7 AT,0,685000
+7474,https://surgut.drom.ru/chrysler/crossfire/47202120.html,Chrysler,Crossfire,Сургут,2003,бензин,3.2,215,АКПП,задний,купе,серебристый,202000,левый,1 поколение,3.2 AT Limited,0,700000
+7475,https://moscow.drom.ru/chrysler/pt_cruiser/47166174.html,Chrysler,PT Cruiser,Москва,2000,бензин,2.4,150,АКПП,передний,хэтчбек 5 дв.,синий,202822,левый,1 поколение,2.4 AT,0,210000
+7476,https://krasnodar.drom.ru/chrysler/pt_cruiser/48898606.html,Chrysler,PT Cruiser,Краснодар,2002,бензин,2.4,150,АКПП,передний,хэтчбек 5 дв.,серебристый,280000,левый,1 поколение,2.4 AT,1,270000
+7477,https://naberezhnye-chelny.drom.ru/chrysler/300c/48897635.html,Chrysler,300C,Набережные Челны,2007,бензин,3.5,249,АКПП,задний,седан,черный,262438,левый,1 поколение,,0,630000
+7478,https://noginsk.drom.ru/chrysler/300m/48896825.html,Chrysler,300M,Ногинск,2000,бензин,2.7,204,АКПП,передний,,серебристый,183932,левый,1 поколение,2.7 AT,1,245000
+7479,https://chehov.drom.ru/chrysler/300c/48845700.html,Chrysler,300C,Чехов,2007,бензин,3.5,249,АКПП,задний,седан,черный,222222,левый,"1 поколение, рестайлинг",3.5 AT,0,850000
+7481,https://troytsk-chelabinsk.drom.ru/chrysler/voyager/48247101.html,Chrysler,Voyager,Троицк,2001,бензин,2.4,147,АКПП,передний,,бордовый,200000,левый,4 поколение,2.4 AT Family,0,300000
+7483,https://krasnoyarsk.drom.ru/chrysler/stratus/48888931.html,,,,,,,,,,,,,,,,0,
+7485,https://kurganinsk.drom.ru/chrysler/sebring/48548404.html,,,,,,,,,,,,,,,,0,
+7487,https://krasnodar.drom.ru/chrysler/sebring/48548357.html,,,,,,,,,,,,,,,,0,
+7488,https://samara.drom.ru/chrysler/300c/48088280.html,Chrysler,300C,Самара,2006,бензин,3.5,249,АКПП,задний,седан,серебристый,280000,левый,1 поколение,3.5 AT,1,640000
+7489,https://kurgan.drom.ru/chrysler/300c/48212698.html,Chrysler,300C,Курган,2006,бензин,3.5,249,АКПП,задний,седан,серый,237000,левый,1 поколение,3.5 AT,0,550000
+7490,https://novorossiysk.drom.ru/chrysler/300c/48355593.html,Chrysler,300C,Новороссийск,2012,бензин,3.6,292,АКПП,задний,седан,черный,210000,левый,2 поколение,3.6 AT 300,0,1600000
+7491,https://tomsk.drom.ru/chrysler/300c/12359261.html,Chrysler,300C,Томск,2007,бензин,3.5,249,автомат,4WD,седан,белый,41000,левый,,,0,829900
+7492,https://novosibirsk.drom.ru/chrysler/300c/47575088.html,Chrysler,300C,Новосибирск,2004,бензин,2.7,193,АКПП,задний,седан,черный,210000,левый,1 поколение,2.7 AT,0,750000
+7494,https://kurgan.drom.ru/chrysler/300c/47242816.html,Chrysler,300C,Курган,2008,бензин,3.5,249,АКПП,4WD,универсал,серый,88000,левый,"1 поколение, рестайлинг",3.5 AT AWD,0,500000
+7495,https://novolugovoe.drom.ru/chrysler/intrepid/47227284.html,Chrysler,Intrepid,Новолуговое,1995,бензин,3.5,218,АКПП,передний,,серый,260000,левый,1 поколение,3.5 AT Sport,0,180000
+7496,https://krasnoyarsk.drom.ru/chrysler/cirrus/46009008.html,Chrysler,Cirrus,Красноярск,1997,бензин,2.5,163,автомат,передний,,красный,100000,левый,,,0,100000
+7497,https://biysk.drom.ru/chrysler/pacifica/45510879.html,Chrysler,Pacifica,Бийск,2005,бензин,3.8,207,АКПП,передний,джип/suv 5 дв.,серебристый,207000,левый,1 поколение,3.8 AT LX,0,500000
+7498,https://novosibirsk.drom.ru/chrysler/300c/44722375.html,Chrysler,300C,Новосибирск,2005,бензин,2.7,193,АКПП,задний,седан,черный,95000,левый,1 поколение,2.7 AT,0,550000
+7499,https://tomsk.drom.ru/chrysler/town_country/26957800.html,Chrysler,Town and Country,Томск,2003,бензин,3.8,218,автомат,передний,,зеленый,250000,левый,,,0,500000
+7500,https://biokombinata.drom.ru/chrysler/voyager/48973596.html,Chrysler,Voyager,Биокомбината,2002,бензин,2.4,150,АКПП,передний,,серый,169300,левый,4 поколение,2.4 AT Base,0,230000

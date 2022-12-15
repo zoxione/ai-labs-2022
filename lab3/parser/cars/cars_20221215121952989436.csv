@@ -1,0 +1,15 @@
+Id,Url,Brand,Model,Region,Year,Engine,EngineVolume,Power,Transmission,Drive,Body,Color,Mileage,Wheel,Generation,Complectation,IsSold,Price
+10001,https://minvody.drom.ru/daewoo/nexia/48805956.html,Daewoo,Nexia,Минеральные Воды,2012,бензин,1.5,80,механика,передний,седан,голубой,179189,левый,"1 поколение, 2 рестайлинг",,0,237000
+10002,https://tomsk.drom.ru/daewoo/nexia/48804465.html,Daewoo,Nexia,Томск,2010,бензин,1.5,80,механика,передний,седан,бежевый,208000,левый,"1 поколение, 2 рестайлинг",,0,140000
+10003,https://moscow.drom.ru/daewoo/matiz/48804425.html,Daewoo,Matiz,Москва,2008,бензин,0.8,51,механика,передний,,оранжевый,180000,левый,"1 поколение, рестайлинг",,0,130000
+10004,https://spb.drom.ru/daewoo/nexia/48803255.html,Daewoo,Nexia,Санкт-Петербург,2001,бензин,1.5,75,механика,передний,седан,зеленый,172000,левый,1 поколение,,0,115000
+10005,https://sergiev-posad.drom.ru/daewoo/matiz/48802884.html,Daewoo,Matiz,Сергиев Посад,2006,бензин,0.8,51,автомат,передний,,голубой,93000,левый,,,1,160000
+10006,https://tomsk.drom.ru/daewoo/matiz/48801652.html,Daewoo,Matiz,Томск,2010,бензин,0.8,51,механика,передний,,бежевый,81000,левый,"1 поколение, рестайлинг",,0,185000
+10007,https://ufa.drom.ru/daewoo/nexia/48801625.html,Daewoo,Nexia,Уфа,2010,бензин,1.6,109,механика,передний,седан,синий,238349,левый,"1 поколение, 2 рестайлинг",,0,128000
+10008,https://krasnodar.drom.ru/daewoo/nexia/48800919.html,Daewoo,Nexia,Краснодар,2007,бензин,1.5,75,механика,передний,седан,бордовый,120000,левый,"1 поколение, рестайлинг",1.5 MT SOHC GLE ,0,150000
+10009,https://ekaterinburg.drom.ru/daewoo/nexia/48799665.html,Daewoo,Nexia,Екатеринбург,2008,бензин,1.5,85,механика,передний,седан,серебристый,84000,левый,"1 поколение, рестайлинг",1.5 MT DOHC GL ++,1,185000
+10010,https://surgut.drom.ru/daewoo/matiz/46461294.html,Daewoo,Matiz,Сургут,2008,бензин,0.8,51,механика,передний,,бордовый,128000,левый,"1 поколение, рестайлинг",,1,150000
+10011,https://simferopol.drom.ru/daewoo/gentra/46353244.html,Daewoo,Gentra,Симферополь,2014,бензин,1.5,107,механика,передний,седан,черный,91000,левый,2 поколение,1.5 MT 2WD Elegant,0,600000
+10012,https://belogorsk.drom.ru/daewoo/winstorm/46119007.html,Daewoo,Winstorm,Белогорск,2008,дизель,2.0,150,АКПП,4WD,,серый,170000,,1 поколение,2.0 VGT 4WD LT 7-pass. Automatic,0,550000
+10013,https://irkutsk.drom.ru/daewoo/nexia/45943092.html,Daewoo,Nexia,Иркутск,2011,бензин,1.6,109,механика,передний,седан,черный,156586,левый,"1 поколение, 2 рестайлинг",1.6 DOHC MT НД16,0,175000
+10014,https://novosibirsk.drom.ru/daewoo/nexia/45952148.html,Daewoo,Nexia,Новосибирск,2012,бензин,1.5,80,механика,передний,седан,белый,167732,левый,"1 поколение, 2 рестайлинг",1.5 SOHC MT HC16,0,139000

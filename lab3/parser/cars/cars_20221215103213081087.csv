@@ -1,0 +1,7 @@
+Id,Url,Brand,Model,Region,Year,Engine,EngineVolume,Power,Transmission,Drive,Body,Color,Mileage,Wheel,Generation,Complectation,IsSold,Price
+6500,https://omsk.drom.ru/chevrolet/equinox/48197605.html,Chevrolet,Equinox,Омск,2021,бензин,2.0,240,автомат,4WD,,белый,13000,левый,,,0,3200000
+6501,https://omsk.drom.ru/chevrolet/captiva/48607599.html,Chevrolet,Captiva,Омск,2022,бензин,1.5,147,автомат,передний,,серый,20,левый,,,0,1899679
+6502,https://omsk.drom.ru/chevrolet/captiva/48552204.html,Chevrolet,Captiva,Омск,2022,бензин,1.5,147,автомат,передний,,серый,20,левый,,,0,2488679
+6503,https://engels.drom.ru/chevrolet/spark/49161638.html,Chevrolet,Spark,Энгельс,2022,бензин,1.3,85,автомат,передний,,белый,20,левый,,,0,999000
+6504,https://omsk.drom.ru/chevrolet/spark/48803707.html,Chevrolet,Spark,Омск,2022,бензин,1.2,85,АКПП,передний,,красный,20,левый,"3 поколение, рестайлинг",1.25 AT LT,0,799000
+6505,https://moscow.drom.ru/chevrolet/tahoe/49160821.html,Chevrolet,Tahoe,Москва,2021,бензин,5.3,343,АКПП,4WD,джип/suv 5 дв.,черный,37010,левый,5 поколение,,0,8890000

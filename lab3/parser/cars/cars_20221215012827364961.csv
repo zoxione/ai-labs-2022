@@ -1,0 +1,4 @@
+Id,Url,Brand,Model,Region,Year,Engine,EngineVolume,Power,Transmission,Drive,Body,Color,Mileage,Wheel,Generation,Complectation,IsSold,Price
+36000,https://vladivostok.drom.ru/honda/stepwgn/49159279.html,Honda,Stepwgn,Владивосток,2010,бензин,2.0,150,вариатор,передний,,белый,175650,правый,4 поколение,2.0 spada Z,0,1170000
+36001,https://krasnoyarsk.drom.ru/honda/civic/47906181.html,Honda,Civic,Красноярск,2012,бензин,1.8,141,автомат,передний,седан,белый,152000,левый,,,0,963000
+36002,https://blagoveshchensk.drom.ru/honda/fit_shuttle/48756186.html,Honda,Fit Shuttle,Благовещенск,2011,бензин,1.3,88,вариатор,передний,,черный,123000,правый,1 поколение,1.3 Smart selection,0,777000

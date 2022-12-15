@@ -204,6 +204,7 @@ if __name__ == '__main__':
             retryCars = 0;
             for i in range(args.start + ITERATION, args.end + 1):
                 if i not in idDiff:
+                    ITERATION += 1;
                     continue;
 
                 if len(carsData) == 1000:
@@ -219,9 +220,9 @@ if __name__ == '__main__':
                     retryCars = 0;
 
                 if retryCars > MAXRETRYCAR:
-                    # останавливаемся на 5 минут
-                    print('Превышено количество повторных попыток получения данных по об машинах. Остановка на 5 минут.\n');
-                    sleep(300);
+                    retryCars = 0;
+                    print('Превышено количество повторных попыток получения данных об машинах. Остановка на 3 минуты \n');
+                    sleep(180);
 
                 retryCar = 0;
                 while res['Price'] == '' and retryCar < MAXRETRYCAR:

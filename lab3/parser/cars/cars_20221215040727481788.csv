@@ -1,0 +1,916 @@
+Id,Url,Brand,Model,Region,Year,Engine,EngineVolume,Power,Transmission,Drive,Body,Color,Mileage,Wheel,Generation,Complectation,IsSold,Price
+28000,https://spb.drom.ru/geely/atlas/48992146.html,Geely,Atlas,Санкт-Петербург,2018,бензин,2.4,149,автомат,передний,,белый,64875,левый,,,0,1549789
+28001,https://shahty.drom.ru/geely/atlas/48990536.html,Geely,Atlas,Шахты,2021,бензин,2.4,148,АКПП,4WD,,серый,,левый,1 поколение,2.4 AT 4WD Люкс,0,1950000
+28002,https://moscow.drom.ru/geely/emgrand/48990523.html,Geely,Emgrand EC7,Москва,2013,бензин,1.8,126,механика,передний,седан,черный,73500,левый,1 поколение,,0,420000
+28003,https://moscow.drom.ru/geely/atlas_pro/48990491.html,Geely,Atlas Pro,Москва,2022,бензин,1.5,177,АКПП,передний,,белый,,левый,1 поколение,1.5T AT Comfort,0,2758990
+28005,https://moscow.drom.ru/geely/atlas_pro/48990476.html,Geely,Atlas Pro,Москва,2022,бензин,1.5,177,АКПП,передний,,белый,,левый,1 поколение,1.5T AT Comfort,0,2758990
+28006,https://novosibirsk.drom.ru/geely/mk_cross/48990135.html,Geely,MK Cross,Новосибирск,2014,бензин,1.5,94,механика,передний,,серый,82530,левый,1 поколение,1.5 MT Comfort,0,350000
+28007,https://rostov-na-donu.drom.ru/geely/mk_cross/48989937.html,Geely,MK Cross,Ростов-на-Дону,2013,бензин,1.5,94,механика,передний,,черный,100000,левый,1 поколение,1.5 MT Luxury,1,300000
+28008,https://stavropol.drom.ru/geely/atlas_pro/48651555.html,Geely,Atlas Pro,Ставрополь,2022,бензин,1.5,177,АКПП,передний,,белый,5,левый,1 поколение,,0,2250000
+28009,https://megion.drom.ru/geely/vision/48988990.html,Geely,Vision,Мегион,2008,бензин,1.8,133,механика,передний,,синий,132953,левый,,,0,125777
+28010,https://krasnodar.drom.ru/geely/emgrand_gt/48988101.html,Geely,Emgrand GT,Краснодар,2016,бензин,2.4,148,АКПП,передний,,черный,95000,левый,1 поколение,,0,1200000
+28011,https://spb.drom.ru/geely/gs/48987897.html,Geely,GS,Санкт-Петербург,2021,бензин,1.8,133,робот,передний,,красный,56451,левый,2 поколение,,0,1555000
+28012,https://sargatskoe.drom.ru/geely/mk_cross/48987864.html,Geely,MK Cross,Саргатское,2012,бензин,1.5,94,механика,передний,,серый,146000,левый,1 поколение,,0,280000
+28013,https://volzhskiy.drom.ru/geely/mk/48987297.html,Geely,MK,Волжский,2008,бензин,1.5,94,механика,передний,,черный,155000,левый,1 поколение,,0,150000
+28014,https://stariy-krym.drom.ru/geely/mk/48635249.html,Geely,MK,Старый Крым,2008,бензин,1.5,94,механика,передний,,черный,170000,левый,1 поколение,,0,150000
+28015,https://krasnogvardeyskoe.drom.ru/geely/mk/48987011.html,Geely,MK,Красногвардейское,2012,бензин,1.5,94,механика,передний,,черный,,левый,1 поколение,,0,240000
+28016,https://irkutsk.drom.ru/geely/sx11/48986729.html,Geely,Coolray SX11,Иркутск,2022,бензин,1.5,150,робот,передний,,красный,7200,левый,1 поколение,1.5 AMT Comfort,0,1850000
+28017,https://togliatti.drom.ru/geely/emgrand/48646093.html,Geely,Emgrand EC7,Тольятти,2014,бензин,1.8,126,вариатор,передний,седан,белый,12216,левый,1 поколение,,0,479000
+28018,https://noyabrsk.drom.ru/geely/tugella/48999806.html,Geely,Tugella FY11,Ноябрьск,2022,бензин,2.0,238,АКПП,4WD,,белый,1427,левый,1 поколение,2.0 AT 4WD Flagship,0,3985000
+28019,https://moscow.drom.ru/geely/atlas_pro/49000918.html,Geely,Atlas Pro,Москва,2022,бензин,1.5,177,АКПП,передний,,белый,,левый,1 поколение,1.5T AT Comfort,0,2898990
+28020,https://moscow.drom.ru/geely/tugella/49000910.html,Geely,Tugella FY11,Москва,2022,бензин,2.0,238,АКПП,4WD,,белый,,левый,"1 поколение, рестайлинг",2.0 AT 4WD Flagship Sport,0,4459990
+28022,https://moscow.drom.ru/geely/tugella/49000902.html,Geely,Tugella FY11,Москва,2022,бензин,2.0,238,АКПП,4WD,,белый,,левый,1 поколение,2.0 AT 4WD Flagship,0,4359900
+28024,https://moscow.drom.ru/geely/tugella/49000898.html,Geely,Tugella FY11,Москва,2022,бензин,2.0,238,АКПП,4WD,,белый,,левый,1 поколение,2.0 AT 4WD Flagship,0,4359900
+28026,https://moscow.drom.ru/geely/tugella/49000693.html,Geely,Tugella FY11,Москва,2022,бензин,2.0,238,АКПП,4WD,,белый,,левый,1 поколение,,0,4203887
+28027,https://moscow.drom.ru/geely/tugella/49000694.html,Geely,Tugella FY11,Москва,2022,бензин,2.0,238,АКПП,4WD,,белый,,левый,1 поколение,,0,4235409
+28028,https://moscow.drom.ru/geely/sx11/49000553.html,Geely,Coolray SX11,Москва,2021,бензин,1.5,150,робот,передний,,серый,17756,левый,1 поколение,,0,1949000
+28030,https://kazan.drom.ru/geely/ex7/49000391.html,Geely,Emgrand X7,Казань,2015,бензин,2.0,139,механика,передний,,черный,136200,левый,1 поколение,,0,589000
+28031,https://ekaterinburg.drom.ru/geely/atlas/49000354.html,Geely,Atlas,Екатеринбург,2019,бензин,2.0,139,механика,передний,,серебристый,26000,левый,1 поколение,,0,1645000
+28032,https://ekaterinburg.drom.ru/geely/sx11/49000190.html,Geely,Coolray SX11,Екатеринбург,2022,бензин,1.5,150,робот,передний,,синий,,левый,1 поколение,1.5 AMT Luxury,0,2469990
+28033,https://volgograd.drom.ru/geely/emgrand/48998650.html,Geely,Emgrand EC7,Волгоград,2012,бензин,1.8,126,механика,передний,седан,черный,125000,левый,1 поколение,,0,359000
+28034,https://surgut.drom.ru/geely/atlas/48567680.html,Geely,Atlas,Сургут,2022,бензин,1.5,177,автомат,4WD,,белый,,левый,,,0,2777000
+28035,https://tomsk.drom.ru/geely/mk_cross/48997980.html,Geely,MK Cross,Томск,2012,бензин,1.5,94,механика,передний,,черный,170000,левый,1 поколение,1.5 MT Comfort,1,285000
+28037,https://kaluga.drom.ru/geely/sx11/48997057.html,Geely,Coolray SX11,Калуга,2022,бензин,1.5,150,робот,передний,,белый,,левый,1 поколение,,0,2469990
+28038,https://yoshkar-ola.drom.ru/geely/sx11/48638722.html,Geely,Coolray SX11,Йошкар-Ола,2022,бензин,1.5,150,робот,передний,,белый,,левый,1 поколение,1.5 AMT Flagship,0,2499990
+28039,https://yoshkar-ola.drom.ru/geely/sx11/48638723.html,Geely,Coolray SX11,Йошкар-Ола,2022,бензин,1.5,150,робот,передний,,белый,,левый,1 поколение,1.5 AMT Flagship,0,2499990
+28040,https://yoshkar-ola.drom.ru/geely/sx11/48638724.html,Geely,Coolray SX11,Йошкар-Ола,2022,бензин,1.5,150,робот,передний,,белый,,левый,1 поколение,1.5 AMT Flagship,0,2499990
+28041,https://yoshkar-ola.drom.ru/geely/tugella/48638720.html,Geely,Tugella FY11,Йошкар-Ола,2022,бензин,2.0,238,АКПП,4WD,,черный,,левый,1 поколение,2.0 AT 4WD Flagship,0,3549990
+28042,https://spb.drom.ru/geely/sx11/48974563.html,Geely,Coolray SX11,Санкт-Петербург,2021,бензин,1.5,150,робот,передний,,красный,19990,левый,1 поколение,,0,1770000
+28043,https://simferopol.drom.ru/geely/emgrand/48638569.html,Geely,Emgrand EC7,Симферополь,2016,бензин,1.8,129,механика,передний,седан,бежевый,190000,левый,"1 поколение, рестайлинг",1.8 MT Comfort,0,710000
+28044,https://sochi.drom.ru/geely/mk_cross/48637940.html,Geely,MK Cross,Сочи,2013,бензин,1.5,94,механика,передний,,красный,269996,левый,1 поколение,1.5 MT Comfort,0,245000
+28045,https://kirov.drom.ru/geely/mk_cross/48637848.html,Geely,MK Cross,Киров,2011,бензин,1.5,94,механика,передний,,серебристый,127000,левый,1 поколение,1.5 MT Comfort,0,250000
+28046,https://chelyabinsk.drom.ru/geely/emgrand/48630860.html,Geely,Emgrand EC7,Челябинск,2012,бензин,1.8,126,механика,передний,седан,белый,238000,левый,1 поколение,1.8 MT Luxury,0,330000
+28047,https://berezovka-barnaul.drom.ru/geely/vision/48630335.html,Geely,Vision,Берёзовка,2008,бензин,1.8,133,механика,передний,,красный,400000,левый,,,0,100000
+28049,https://moscow.drom.ru/geely/sx11/48292404.html,Geely,Coolray SX11,Москва,2020,бензин,1.5,177,автомат,передний,,красный,15118,левый,,,0,1799000
+28050,https://kurgan.drom.ru/geely/atlas/48284097.html,Geely,Atlas,Курган,2019,бензин,2.4,148,АКПП,передний,,красный,114400,левый,1 поколение,2.4 AT 2WD Люкс,0,1435000
+28052,https://surgut.drom.ru/geely/atlas/47948775.html,,,,,,,,,,,,,,,,0,
+28054,https://novotroitsk.drom.ru/geely/mk/47947396.html,,,,,,,,,,,,,,,,0,
+28056,https://klin.drom.ru/geely/ck/47614718.html,,,,,,,,,,,,,,,,0,
+28058,https://novosibirsk.drom.ru/geely/ck/48755819.html,,,,,,,,,,,,,,,,0,
+28059,https://togliatti.drom.ru/geely/emgrand/48667035.html,Geely,Emgrand EC7,Тольятти,2019,бензин,1.8,133,вариатор,передний,седан,серебристый,,левый,"1 поколение, 2 рестайлинг",1.8 CVT Люкс,0,1150000
+28060,https://pokachi.drom.ru/geely/mk/49006332.html,Geely,MK,Покачи,2013,бензин,1.5,94,механика,передний,,белый,116000,левый,"1 поколение, рестайлинг",,1,200000
+28061,https://moscow.drom.ru/geely/tugella/49006032.html,Geely,Tugella FY11,Москва,2022,бензин,2.0,238,АКПП,4WD,,голубой,,левый,1 поколение,2.0 AT 4WD Flagship,0,4199990
+28062,https://moscow.drom.ru/geely/tugella/49006031.html,Geely,Tugella FY11,Москва,2022,бензин,2.0,238,АКПП,4WD,,белый,,левый,1 поколение,2.0 AT 4WD Flagship,0,4199990
+28063,https://moscow.drom.ru/geely/tugella/49006030.html,Geely,Tugella FY11,Москва,2022,бензин,2.0,238,АКПП,4WD,,голубой,,левый,1 поколение,2.0 AT 4WD Flagship,0,4199990
+28064,https://moscow.drom.ru/geely/tugella/49006029.html,Geely,Tugella FY11,Москва,2022,бензин,2.0,238,АКПП,4WD,,серый,,левый,1 поколение,2.0 AT 4WD Flagship,0,4199990
+28066,https://moscow.drom.ru/geely/tugella/49005959.html,,,,,,,,,,,,,,,,0,
+28068,https://moscow.drom.ru/geely/tugella/49005961.html,,,,,,,,,,,,,,,,0,
+28070,https://cherepanovo.drom.ru/geely/atlas_pro/47513314.html,Geely,Atlas Pro,Черепаново,2021,бензин,1.5,177,робот,4WD,,синий,13000,левый,1 поколение,1.5T AMT Flagship+,0,2500000
+28071,https://spb.drom.ru/geely/tugella/49005427.html,Geely,Tugella FY11,Санкт-Петербург,2022,бензин,2.0,238,АКПП,4WD,,черный,,левый,1 поколение,,0,3249990
+28072,https://spb.drom.ru/geely/tugella/49005425.html,Geely,Tugella FY11,Санкт-Петербург,2022,бензин,2.0,238,АКПП,4WD,,белый,,левый,1 поколение,,0,3549990
+28073,https://spb.drom.ru/geely/tugella/49005423.html,Geely,Tugella FY11,Санкт-Петербург,2022,бензин,2.0,238,АКПП,4WD,,черный,,левый,1 поколение,,0,3449990
+28074,https://spb.drom.ru/geely/tugella/49005421.html,Geely,Tugella FY11,Санкт-Петербург,2022,бензин,2.0,238,АКПП,4WD,,голубой,,левый,1 поколение,,0,3549990
+28076,https://spb.drom.ru/geely/tugella/49005419.html,,,,,,,,,,,,,,,,0,
+28078,https://omsk.drom.ru/geely/emgrand_gt/48885682.html,,,,,,,,,,,,,,,,0,
+28080,https://surgut.drom.ru/geely/ex7/48980471.html,,,,,,,,,,,,,,,,0,
+28082,https://saratov.drom.ru/geely/mk/48979551.html,Geely,MK,Саратов,2013,бензин,1.5,94,механика,передний,,,,левый,1 поколение,,0,260000
+28084,https://kamensk-uralskiy.drom.ru/geely/mk/48979141.html,Geely,MK,Каменск-Уральский,2008,бензин,1.5,94,механика,передний,,серебристый,214000,левый,1 поколение,,0,99000
+28085,https://anapa.drom.ru/geely/ck/48979093.html,Geely,CK,Анапа,2007,бензин,1.5,94,механика,передний,,черный,300000,левый,,,1,185000
+28086,https://blagoveshchensk.drom.ru/geely/sx11/48654084.html,Geely,Coolray SX11,Благовещенск,2022,бензин,1.5,150,робот,передний,,черный,,левый,1 поколение,1.5 AMT Flagship,0,2771180
+28087,https://blagoveshchensk.drom.ru/geely/sx11/48654034.html,Geely,Coolray SX11,Благовещенск,2022,бензин,1.5,150,робот,передний,,белый,,левый,1 поколение,1.5 AMT Flagship,1,2759680
+28088,https://blagoveshchensk.drom.ru/geely/atlas_pro/47993712.html,Geely,Atlas Pro,Благовещенск,2022,бензин,1.5,177,робот,4WD,,серый,,левый,1 поколение,1.5T AMT Flagship,1,3335780
+28089,https://buynaksk.drom.ru/geely/ck/48552815.html,Geely,CK,Буйнакск,2007,бензин,1.5,1500,механика,передний,,серебристый,261000,левый,,,0,85000
+28090,https://kemerovo.drom.ru/geely/atlas/48978775.html,Geely,Atlas,Кемерово,2019,бензин,2.4,149,автомат,4WD,,серый,48974,левый,,,0,1769000
+28091,https://chelyabinsk.drom.ru/geely/tugella/48624201.html,Geely,Tugella FY11,Челябинск,2021,бензин,2.0,238,АКПП,4WD,,красный,2860,левый,1 поколение,2.0 AT 4WD Flagship,0,3245000
+28092,https://barnaul.drom.ru/geely/emgrand/48978134.html,Geely,Emgrand EC7,Барнаул,2013,бензин,1.5,98,механика,передний,седан,белый,160000,левый,1 поколение,1.5 MT Comfort,0,330000
+28093,https://perm.drom.ru/geely/tugella/47276303.html,Geely,Tugella FY11,Пермь,2022,бензин,2.0,238,АКПП,4WD,,черный,,левый,1 поколение,2.0 AT 4WD Flagship,0,4199990
+28094,https://sevastopol.drom.ru/geely/emgrand/48978070.html,Geely,Emgrand EC7,Севастополь,2013,бензин,1.5,98,механика,передний,седан,черный,103222,левый,1 поколение,1.5 MT Standard,1,450000
+28095,https://omsk.drom.ru/geely/emgrand/48622805.html,Geely,Emgrand EC7,Омск,2013,бензин,1.5,98,механика,передний,седан,серый,231000,левый,1 поколение,1.5 MT Comfort,1,380000
+28096,https://irkutsk.drom.ru/geely/sx11/48843086.html,Geely,Coolray SX11,Иркутск,2021,бензин,1.5,150,робот,передний,,серый,48125,левый,1 поколение,1.5 AMT Flagship,1,1780000
+28097,https://bogdanovich.drom.ru/geely/emgrand/48976677.html,Geely,Emgrand EC7,Богданович,2014,бензин,1.5,98,механика,передний,седан,серебристый,100000,левый,1 поколение,1.5 MT Comfort,0,400000
+28098,https://chelyabinsk.drom.ru/geely/atlas_pro/48962449.html,Geely,Atlas Pro,Челябинск,2022,бензин,1.5,177,автомат,4WD,,красный,,левый,,,0,2655192
+28099,https://chelyabinsk.drom.ru/geely/sx11/48962448.html,Geely,Coolray SX11,Челябинск,2022,бензин,1.5,150,робот,передний,,серебристый,,левый,1 поколение,,0,1975992
+28100,https://chelyabinsk.drom.ru/geely/atlas_pro/48962447.html,Geely,Atlas Pro,Челябинск,2022,бензин,1.5,177,автомат,4WD,,серебристый,,левый,,,0,2571192
+28101,https://miass.drom.ru/geely/mk/48615351.html,Geely,MK,Миасс,2011,бензин,1.5,94,механика,передний,,серебристый,200588,левый,1 поколение,1.5 MT MK Comfort ,1,165000
+28102,https://iskitim.drom.ru/geely/mk/48961226.html,Geely,MK,Искитим,2008,бензин,1.5,94,механика,передний,,серебристый,100000,левый,1 поколение,,1,100000
+28103,https://chelyabinsk.drom.ru/geely/emgrand/48960634.html,Geely,Emgrand EC7,Челябинск,2014,бензин,1.5,98,механика,передний,седан,белый,109100,левый,1 поколение,1.5 MT Comfort,1,400000
+28104,https://simferopol.drom.ru/geely/ex7/48960387.html,Geely,Emgrand X7,Симферополь,2015,бензин,2.4,148,АКПП,передний,,черный,77000,левый,1 поколение,2.4 AT Prestige,1,670000
+28105,https://krasnodar.drom.ru/geely/atlas/48959569.html,Geely,Atlas,Краснодар,2020,бензин,1.8,184,АКПП,4WD,,белый,60000,левый,1 поколение,1.8T AT 4WD Люкс Яндекс.Авто,1,1850000
+28106,https://chelyabinsk.drom.ru/geely/mk_cross/48959481.html,Geely,MK Cross,Челябинск,2012,бензин,1.5,94,механика,передний,,серый,154420,левый,1 поколение,1.5 MT Luxury,0,270000
+28107,https://ekaterinburg.drom.ru/geely/mk/48959194.html,Geely,MK,Екатеринбург,2008,бензин,1.5,94,механика,передний,,зеленый,168000,левый,1 поколение,,0,115000
+28108,https://orenburg.drom.ru/geely/emgrand/48959178.html,Geely,Emgrand EC7,Оренбург,2013,бензин,1.8,126,механика,передний,седан,белый,124000,левый,1 поколение,1.8 MT Luxury,0,479000
+28109,https://krasnoyarsk.drom.ru/geely/sx11/48187771.html,Geely,Coolray SX11,Красноярск,2022,бензин,1.5,150,робот,передний,,красный,,левый,1 поколение,1.5 AMT Flagship,1,2659990
+28110,https://shahty.drom.ru/geely/mk/45765360.html,Geely,MK,Шахты,2012,бензин,1.5,94,механика,передний,,бордовый,,левый,1 поколение,,0,218000
+28111,https://nizhniy-tagil.drom.ru/geely/emgrand/48958499.html,Geely,Emgrand EC7,Нижний Тагил,2012,бензин,1.5,98,механика,передний,седан,белый,1000,левый,1 поколение,,0,369000
+28112,https://barnaul.drom.ru/geely/atlas_pro/48903890.html,Geely,Atlas Pro,Барнаул,2022,бензин,1.5,177,робот,4WD,,черный,,левый,1 поколение,1.5T AMT Flagship+,1,2969990
+28113,https://surgut.drom.ru/geely/atlas/48607342.html,Geely,Atlas,Сургут,2021,бензин,2.4,148,АКПП,4WD,,серый,70580,левый,1 поколение,,0,1886500
+28114,https://sterlitamak.drom.ru/geely/emgrand/48957715.html,Geely,Emgrand EC7,Стерлитамак,2013,бензин,1.8,126,механика,передний,хэтчбек 5 дв.,,128000,левый,1 поколение,,1,415000
+28116,https://krasnoyarsk.drom.ru/geely/emgrand/48957220.html,Geely,Emgrand EC7,Красноярск,2013,бензин,1.8,126,механика,передний,седан,черный,112996,левый,1 поколение,1.8 MT Comfort,1,220000
+28117,https://krasnodar.drom.ru/geely/sx11/48432195.html,Geely,Coolray SX11,Краснодар,2020,бензин,1.5,150,робот,передний,,красный,24000,левый,1 поколение,1.5 AMT Luxury,1,1650000
+28118,https://barnaul.drom.ru/geely/emgrand/48624504.html,Geely,Emgrand EC7,Барнаул,2013,бензин,1.8,126,механика,передний,седан,серый,300000,левый,1 поколение,1.8 MT Comfort,0,290000
+28119,https://rostov-na-donu.drom.ru/geely/ex7/48623219.html,Geely,Emgrand X7,Ростов-на-Дону,2020,бензин,2.0,139,АКПП,передний,,черный,33731,левый,"1 поколение, 2 рестайлинг",,0,1599900
+28120,https://anapa.drom.ru/geely/ex7/48622305.html,Geely,Emgrand X7,Анапа,2020,бензин,2.0,139,АКПП,передний,,бежевый,50000,левый,"1 поколение, 2 рестайлинг",2.0 AT Люкс,0,1650000
+28121,https://orenburg.drom.ru/geely/sx11/48616955.html,Geely,Coolray SX11,Оренбург,2022,бензин,1.5,150,робот,передний,,белый,,левый,1 поколение,1.5 AMT Flagship Sport,0,2839900
+28122,https://orenburg.drom.ru/geely/atlas_pro/48616957.html,Geely,Atlas Pro,Оренбург,2022,бензин,1.5,177,робот,4WD,,серый,,левый,1 поколение,1.5T AMT Luxury,0,3013990
+28123,https://simferopol.drom.ru/geely/mk/48281115.html,Geely,MK,Симферополь,2008,бензин,1.6,106,механика,передний,,черный,11111,левый,,,0,175000
+28125,https://irkutsk.drom.ru/geely/atlas_pro/48280047.html,Geely,Atlas Pro,Иркутск,2021,бензин,1.5,177,робот,4WD,,серый,6950,левый,1 поколение,1.5T AMT Flagship+,0,2788000
+28126,https://surgut.drom.ru/geely/atlas/48279958.html,Geely,Atlas,Сургут,2019,бензин,2.4,148,АКПП,4WD,,серый,67000,левый,1 поколение,2.4 AT 4WD Люкс,0,2000000
+28127,https://pangody.drom.ru/geely/ex7/48277981.html,Geely,Emgrand X7,Пангоды,2019,бензин,2.0,139,АКПП,передний,,белый,80000,левый,"1 поколение, 2 рестайлинг",2.0 AT Люкс,1,1450000
+28128,https://orenburg.drom.ru/geely/mk_cross/48276940.html,Geely,MK Cross,Оренбург,2012,бензин,1.5,94,механика,передний,,серебристый,94000,левый,1 поколение,1.5 MT Luxury,0,237000
+28129,https://voronezh.drom.ru/geely/mk_cross/48274297.html,Geely,MK Cross,Воронеж,2012,бензин,1.5,94,механика,передний,,бордовый,105500,левый,1 поколение,,0,270000
+28130,https://petrovsk.drom.ru/geely/mk_cross/47937911.html,Geely,MK Cross,Петровск,2013,бензин,1.5,94,механика,передний,,серый,210000,левый,1 поколение,1.5 MT Comfort,0,270000
+28131,https://tyumen.drom.ru/geely/atlas_pro/47935926.html,Geely,Atlas Pro,Тюмень,2021,бензин,1.5,177,робот,4WD,,черный,23000,левый,1 поколение,1.5T AMT Flagship+,0,2600000
+28133,https://nazyvaevsk.drom.ru/geely/mk_cross/47934585.html,Geely,MK Cross,Называевск,2012,бензин,1.5,94,механика,передний,,серебристый,114000,левый,1 поколение,,0,285000
+28134,https://tyumen.drom.ru/geely/emgrand/47602831.html,Geely,Emgrand EC7,Тюмень,2013,бензин,1.8,126,механика,передний,седан,черный,180000,левый,1 поколение,1.8 MT Comfort,0,265000
+28135,https://tomsk.drom.ru/geely/emgrand/47593549.html,Geely,Emgrand EC7,Томск,2013,бензин,1.5,98,механика,передний,седан,черный,121000,левый,1 поколение,1.5 MT Comfort,0,375000
+28136,https://magnitogorsk.drom.ru/geely/mk_cross/47262584.html,Geely,MK Cross,Магнитогорск,2012,бензин,1.5,94,механика,передний,,красный,130000,левый,1 поколение,1.5 MT Luxury,0,200000
+28137,https://izhevsk.drom.ru/geely/mk/47257707.html,Geely,MK,Ижевск,2012,бензин,1.5,94,механика,передний,,серый,117000,левый,1 поколение,1.5 MT MK Comfort ,0,190000
+28138,https://tyumen.drom.ru/geely/tugella/44579814.html,Geely,Tugella FY11,Тюмень,2022,бензин,2.0,238,АКПП,4WD,,красный,,левый,1 поколение,2.0 AT 4WD Flagship,1,3899990
+28139,https://tyumen.drom.ru/geely/atlas_pro/45099007.html,Geely,Atlas Pro,Тюмень,2022,бензин,1.5,177,автомат,4WD,,синий,,левый,,,1,3013990
+28140,https://tyumen.drom.ru/geely/tugella/44669538.html,Geely,Tugella FY11,Тюмень,2022,бензин,2.0,238,АКПП,4WD,,черный,,левый,1 поколение,2.0 AT 4WD Flagship,1,3899990
+28141,https://tyumen.drom.ru/geely/atlas_pro/45099001.html,Geely,Atlas Pro,Тюмень,2022,бензин,1.5,177,автомат,4WD,,черный,,левый,,,1,3013990
+28142,https://tyumen.drom.ru/geely/tugella/45460791.html,Geely,Tugella FY11,Тюмень,2022,бензин,2.0,238,АКПП,4WD,,серый,,левый,1 поколение,2.0 AT 4WD Flagship,1,3899990
+28143,https://tyumen.drom.ru/geely/sx11/45915571.html,Geely,Coolray SX11,Тюмень,2022,бензин,1.5,150,робот,передний,,белый,,левый,1 поколение,1.5 AMT Comfort,1,2299990
+28144,https://tyumen.drom.ru/geely/sx11/46370148.html,Geely,Coolray SX11,Тюмень,2022,бензин,1.5,150,робот,передний,,синий,,левый,1 поколение,1.5 AMT Flagship,1,2659990
+28145,https://tyumen.drom.ru/geely/sx11/46371602.html,Geely,Coolray SX11,Тюмень,2022,бензин,1.5,150,робот,передний,,серебристый,,левый,1 поколение,1.5 AMT Luxury,1,2469990
+28146,https://tyumen.drom.ru/geely/atlas/46536371.html,Geely,Atlas,Тюмень,2022,бензин,1.5,177,автомат,передний,,черный,,левый,,,1,2878990
+28147,https://tyumen.drom.ru/geely/atlas/46673097.html,Geely,Atlas,Тюмень,2022,бензин,1.5,177,автомат,передний,,синий,,левый,,,1,2878990
+28148,https://ekaterinburg.drom.ru/geely/atlas_pro/48963954.html,Geely,Atlas Pro,Екатеринбург,2022,бензин,1.5,177,АКПП,передний,,красный,,левый,1 поколение,1.5T AT Luxury,0,2878990
+28149,https://tyumen.drom.ru/geely/sx11/46677303.html,Geely,Coolray SX11,Тюмень,2022,бензин,1.5,150,робот,передний,,красный,,левый,1 поколение,1.5 AMT Comfort,0,2299990
+28150,https://surgut.drom.ru/geely/atlas/48626368.html,Geely,Atlas,Сургут,2021,бензин,2.4,149,автомат,4WD,,серый,45000,левый,,,0,2100000
+28151,https://ufa.drom.ru/geely/atlas/48627910.html,Geely,Atlas,Уфа,2021,бензин,2.4,148,АКПП,4WD,,коричневый,28300,левый,1 поколение,2.4 AT 4WD Люкс Яндекс.Авто,0,1950000
+28152,https://chelyabinsk.drom.ru/geely/emgrand/48627929.html,Geely,Emgrand EC7,Челябинск,2013,бензин,1.8,126,механика,передний,седан,серебристый,120192,левый,1 поколение,1.8 MT Comfort,1,350000
+28153,https://moscow.drom.ru/geely/tugella/48627388.html,Geely,Tugella FY11,Москва,2022,бензин,2.0,238,АКПП,4WD,,белый,,левый,"1 поколение, рестайлинг",2.0 AT 4WD Flagship Sport,0,4851844
+28154,https://moscow.drom.ru/geely/tugella/48627389.html,Geely,Tugella FY11,Москва,2022,бензин,2.0,238,АКПП,4WD,,голубой,,левый,"1 поколение, рестайлинг",2.0 AT 4WD Flagship Sport,0,4300000
+28155,https://krasnoufimsk.drom.ru/geely/ex7/48626969.html,Geely,Emgrand X7,Красноуфимск,2014,бензин,2.0,139,механика,передний,,коричневый,143000,левый,1 поколение,,1,580000
+28156,https://yoshkar-ola.drom.ru/geely/ex7/48626754.html,Geely,Emgrand X7,Йошкар-Ола,2016,бензин,1.8,125,механика,передний,,белый,85827,левый,"1 поколение, рестайлинг",,0,797000
+28157,https://balahna.drom.ru/geely/mk/48963606.html,Geely,MK,Балахна,2012,бензин,1.5,94,механика,передний,,серебристый,98000,левый,1 поколение,1.5 MT MK Comfort ,0,175000
+28158,https://magnitogorsk.drom.ru/geely/atlas_pro/48963474.html,Geely,Atlas Pro,Магнитогорск,2022,бензин,1.5,177,автомат,4WD,,,,левый,,,0,2571192
+28160,https://magnitogorsk.drom.ru/geely/tugella/48963471.html,,,,,,,,,,,,,,,,0,
+28162,https://magnitogorsk.drom.ru/geely/tugella/48963462.html,,,,,,,,,,,,,,,,0,
+28163,https://magnitogorsk.drom.ru/geely/sx11/48963459.html,Geely,Coolray SX11,Магнитогорск,2022,бензин,1.5,150,робот,передний,,красный,,левый,1 поколение,,0,1975992
+28165,https://magnitogorsk.drom.ru/geely/tugella/48963454.html,Geely,Tugella FY11,Магнитогорск,2022,бензин,2.0,238,АКПП,4WD,,черный,,левый,1 поколение,,0,3359992
+28167,https://moscow.drom.ru/geely/sx11/48963447.html,Geely,Coolray SX11,Москва,2022,бензин,1.5,150,робот,передний,,черный,,левый,1 поколение,1.5 AMT Flagship,0,2860000
+28168,https://sarapul.drom.ru/geely/mk_cross/48962849.html,Geely,MK Cross,Сарапул,2012,бензин,1.5,94,механика,передний,,бордовый,,левый,1 поколение,,0,165000
+28169,https://kurgan.drom.ru/geely/tugella/48962623.html,Geely,Tugella FY11,Курган,2022,бензин,2.0,238,АКПП,4WD,,черный,,левый,1 поколение,,0,4199990
+28170,https://petrozavodsk.drom.ru/geely/tugella/48962515.html,Geely,Tugella FY11,Петрозаводск,2021,бензин,2.0,238,АКПП,4WD,,серый,3180,левый,1 поколение,2.0 AT 4WD Flagship,0,3400000
+28171,https://noyabrsk.drom.ru/geely/atlas/48962514.html,Geely,Atlas,Ноябрьск,2019,бензин,2.4,148,АКПП,4WD,,белый,93000,левый,1 поколение,2.4 AT 4WD Люкс,1,1590000
+28172,https://chelyabinsk.drom.ru/geely/atlas_pro/48962460.html,Geely,Atlas Pro,Челябинск,2022,бензин,1.5,177,автомат,4WD,,белый,,левый,,,0,2571192
+28173,https://chelyabinsk.drom.ru/geely/tugella/48962457.html,Geely,Tugella FY11,Челябинск,2022,бензин,2.0,238,АКПП,4WD,,голубой,,левый,1 поколение,,0,3359992
+28174,https://chelyabinsk.drom.ru/geely/atlas_pro/48962456.html,Geely,Atlas Pro,Челябинск,2022,бензин,1.5,177,автомат,4WD,,красный,,левый,,,0,2571192
+28175,https://chelyabinsk.drom.ru/geely/atlas_pro/48962455.html,Geely,Atlas Pro,Челябинск,2022,бензин,1.5,177,автомат,4WD,,серебристый,,левый,,,0,2655192
+28176,https://chelyabinsk.drom.ru/geely/atlas_pro/48962454.html,Geely,Atlas Pro,Челябинск,2022,бензин,1.5,177,АКПП,передний,,белый,,левый,1 поколение,,0,2207192
+28177,https://moscow.drom.ru/genesis/gv70/45287411.html,Genesis,GV70,Москва,2021,дизель,2.2,199,АКПП,4WD,,черный,,левый,1 поколение,2.2D VGT AT 4WD Elegance,0,6370000
+28178,https://chelyabinsk.drom.ru/genesis/gv70/49013627.html,Genesis,GV70,Челябинск,2022,бензин,2.5,249,АКПП,4WD,,красный,25,левый,1 поколение,2.5 T-GDI AT 4WD Advance,1,5745000
+28179,https://petropavlovsk-kamchatskiy.drom.ru/genesis/g80/49012565.html,Genesis,G80,Петропавловск-Камчатский,2018,бензин,3.3,370,АКПП,4WD,,серый,70000,левый,1 поколение,3.3 T-GDI AT 4WD Ultimate,0,3500000
+28180,https://moscow.drom.ru/genesis/g70/49012305.html,Genesis,G70,Москва,2018,бензин,2.0,247,АКПП,4WD,седан,синий,85989,левый,1 поколение,2.0 T-GDI AT 4WD Sport,0,1450000
+28182,https://novosibirsk.drom.ru/genesis/g70/49009005.html,,,,,,,,,,,,,,,,0,
+28184,https://spb.drom.ru/genesis/gv80/48666453.html,,,,,,,,,,,,,,,,0,
+28186,https://vladivostok.drom.ru/genesis/g70/49005521.html,,,,,,,,,,,,,,,,0,
+28188,https://moscow.drom.ru/genesis/gv80/48666601.html,,,,,,,,,,,,,,,,0,
+28189,https://spb.drom.ru/genesis/g90/47710293.html,Genesis,G90,Санкт-Петербург,2016,бензин,3.3,370,АКПП,4WD,,черный,161709,левый,1 поколение,,0,2058299
+28190,https://moscow.drom.ru/genesis/g80/46967508.html,Genesis,G80,Москва,2018,бензин,2.0,245,АКПП,4WD,,черный,57600,левый,1 поколение,,0,2999000
+28191,https://spb.drom.ru/genesis/gv70/44888232.html,Genesis,GV70,Санкт-Петербург,2021,дизель,2.2,199,АКПП,4WD,,черный,,левый,1 поколение,2.2D VGT AT 4WD Elegance,0,6370000
+28192,https://moscow.drom.ru/genesis/gv80/49004249.html,Genesis,GV80,Москва,2022,дизель,3.0,249,АКПП,4WD,,синий,,левый,1 поколение,,0,10571630
+28194,https://moscow.drom.ru/genesis/gv80/48503365.html,,,,,,,,,,,,,,,,0,
+28195,https://tyumen.drom.ru/genesis/gv80/48300886.html,Genesis,GV80,Тюмень,2021,дизель,3.0,249,АКПП,4WD,,серый,13493,левый,1 поколение,3.0 VGT AT 4WD Premium 5 мест,1,6996000
+28196,https://spb.drom.ru/genesis/gv70/48999125.html,Genesis,GV70,Санкт-Петербург,2022,дизель,2.2,199,АКПП,4WD,,черный,,левый,1 поколение,,0,8393000
+28197,https://novosibirsk.drom.ru/genesis/gv70/49012569.html,Genesis,GV70,Новосибирск,2022,бензин,2.5,249,АКПП,4WD,,белый,100,левый,1 поколение,,0,5430001
+28198,https://vladivostok.drom.ru/genesis/gv80/48946203.html,Genesis,GV80,Владивосток,2020,дизель,3.0,273,АКПП,4WD,,белый,30000,левый,1 поколение,3.0 e-VGT AT 4WD 5 seats,0,6300000
+28199,https://moscow.drom.ru/genesis/gv70/48126668.html,Genesis,GV70,Москва,2021,дизель,2.2,199,АКПП,4WD,,черный,17340,левый,1 поколение,,0,5385000
+28200,https://moscow.drom.ru/genesis/gv80/49153090.html,Genesis,GV80,Москва,2021,дизель,3.0,,автомат,4WD,,черный,18576,левый,,,0,7380000
+28201,https://moscow.drom.ru/genesis/g80/49152912.html,Genesis,G80,Москва,2022,дизель,2.2,199,АКПП,4WD,,серый,,левый,2 поколение,,0,10391715
+28202,https://moscow.drom.ru/genesis/gv80/48817551.html,Genesis,GV80,Москва,2022,бензин,2.5,249,АКПП,4WD,,серый,30,левый,1 поколение,,0,6787000
+28203,https://surgut.drom.ru/genesis/g70/48128587.html,Genesis,G70,Сургут,2019,бензин,2.0,197,АКПП,4WD,седан,серебристый,90000,левый,1 поколение,2.0 T-GDI AT 4WD Supreme,0,2400000
+28204,https://kazan.drom.ru/genesis/gv70/47453395.html,Genesis,GV70,Казань,2021,дизель,2.2,199,АКПП,4WD,,белый,29000,левый,1 поколение,2.2D VGT AT 4WD Supreme,0,6050000
+28205,https://spb.drom.ru/genesis/g80/47448325.html,Genesis,G80,Санкт-Петербург,2021,бензин,2.5,249,АКПП,4WD,,синий,15000,левый,2 поколение,2.5 T-GDI AT 4WD Elite,0,6499999
+28206,https://moscow.drom.ru/genesis/g70/46930913.html,Genesis,G70,Москва,2018,бензин,2.0,197,АКПП,4WD,седан,черный,98741,левый,1 поколение,2.0 T-GDI AT 4WD Advance,0,2055000
+28207,https://moscow.drom.ru/genesis/gv80/45051573.html,Genesis,GV80,Москва,2021,дизель,3.0,249,АКПП,4WD,,зеленый,,левый,1 поколение,3.0 VGT AT 4WD Luxury 5 мест,0,10660000
+28208,https://surgut.drom.ru/genesis/g80/49151056.html,Genesis,G80,Сургут,2017,бензин,2.0,245,АКПП,4WD,,белый,76000,левый,1 поколение,2.0 T-GDI AT 4WD Business,0,2610000
+28210,https://novosibirsk.drom.ru/genesis/gv80/49145274.html,Genesis,GV80,Новосибирск,2020,дизель,3.0,249,АКПП,4WD,,белый,38000,левый,1 поколение,3.0 VGT AT 4WD Luxury 7 мест,0,6550000
+28212,https://moscow.drom.ru/genesis/gv80/49142330.html,Genesis,GV80,Москва,2021,дизель,3.0,,автомат,4WD,,серый,21162,левый,,,0,7480000
+28214,https://moscow.drom.ru/genesis/gv80/49142322.html,Genesis,GV80,Москва,2022,дизель,3.0,,автомат,4WD,,черный,25,левый,,,0,7980000
+28215,https://moscow.drom.ru/genesis/gv80/49142317.html,Genesis,GV80,Москва,2020,бензин,3.5,,автомат,4WD,,серый,27352,левый,,,0,7385000
+28216,https://moscow.drom.ru/genesis/g70/49142066.html,Genesis,G70,Москва,2018,бензин,2.0,197,АКПП,4WD,седан,белый,88787,левый,1 поколение,2.0 T-GDI AT 4WD Elegance,0,1820000
+28217,https://moscow.drom.ru/genesis/gv70/45323473.html,Genesis,GV70,Москва,2021,дизель,2.2,199,АКПП,4WD,,белый,,левый,1 поколение,2.2D VGT AT 4WD Advance,0,7390000
+28219,https://moscow.drom.ru/genesis/gv80/48782700.html,,,,,,,,,,,,,,,,0,
+28220,https://moscow.drom.ru/genesis/g70/48772372.html,Genesis,G70,Москва,2019,бензин,2.0,197,АКПП,4WD,седан,белый,85295,левый,1 поколение,2.0 T-GDI AT 4WD Elegance,0,1975000
+28221,https://moscow.drom.ru/genesis/g70/47082938.html,Genesis,G70,Москва,2018,бензин,2.0,197,АКПП,4WD,седан,черный,93423,левый,1 поколение,2.0 T-GDI AT 4WD Advance,0,1875000
+28222,https://moscow.drom.ru/genesis/g70/47082933.html,Genesis,G70,Москва,2018,бензин,2.0,197,АКПП,4WD,седан,белый,91353,левый,1 поколение,2.0 T-GDI AT 4WD Elegance,0,1705000
+28223,https://moscow.drom.ru/genesis/g70/47082934.html,Genesis,G70,Москва,2018,бензин,2.0,197,АКПП,4WD,седан,белый,96375,левый,1 поколение,2.0 T-GDI AT 4WD Elegance,0,1705000
+28224,https://moscow.drom.ru/genesis/g70/47082935.html,Genesis,G70,Москва,2018,бензин,2.0,197,АКПП,4WD,седан,белый,88395,левый,1 поколение,2.0 T-GDI AT 4WD Elegance,0,1855000
+28225,https://moscow.drom.ru/genesis/g70/46644565.html,Genesis,G70,Москва,2019,бензин,2.0,197,АКПП,4WD,седан,черный,81239,левый,1 поколение,2.0 T-GDI AT 4WD Advance,0,1905000
+28226,https://saransk.drom.ru/genesis/g80/46388808.html,Genesis,G80,Саранск,2017,бензин,2.0,,автомат,4WD,,белый,93302,,,,0,2350000
+28227,https://krasnodar.drom.ru/genesis/g70/49110681.html,Genesis,G70,Краснодар,2022,бензин,2.0,197,АКПП,4WD,седан,белый,37,левый,"1 поколение, рестайлинг",,0,4550000
+28228,https://kaluga.drom.ru/genesis/g80/47719887.html,Genesis,G80,Калуга,2017,бензин,2.0,245,АКПП,4WD,,белый,87091,левый,1 поколение,2.0 T-GDI AT 4WD Business,0,2475000
+28229,https://tyumen.drom.ru/genesis/g80/49110187.html,Genesis,G80,Тюмень,2017,бензин,2.0,245,АКПП,4WD,,черный,71000,левый,1 поколение,2.0 T-GDI AT 4WD Luxury,0,3150000
+28230,https://barnaul.drom.ru/genesis/g80/49109138.html,Genesis,G80,Барнаул,2018,бензин,2.0,245,АКПП,4WD,,коричневый,39500,левый,1 поколение,2.0 T-GDI AT 4WD Advance,0,2850000
+28231,https://simferopol.drom.ru/genesis/g70/46491190.html,Genesis,G70,Симферополь,2018,бензин,2.0,197,АКПП,4WD,седан,белый,35000,левый,1 поколение,2.0 T-GDI AT 4WD Advance,0,2500000
+28232,https://moscow.drom.ru/genesis/g70/49107925.html,Genesis,G70,Москва,2019,бензин,2.0,197,АКПП,4WD,седан,белый,77034,левый,1 поколение,,0,2475000
+28233,https://moscow.drom.ru/genesis/g90/49107630.html,Genesis,G90,Москва,2023,бензин,3.3,370,АКПП,4WD,,серебристый,200,левый,"1 поколение, рестайлинг",,0,17000000
+28234,https://moscow.drom.ru/genesis/g70/49101476.html,Genesis,G70,Москва,2018,бензин,2.0,197,АКПП,4WD,седан,белый,72796,левый,1 поколение,2.0 T-GDI AT 4WD Elegance,0,1820000
+28235,https://moscow.drom.ru/genesis/gv80/46180905.html,Genesis,GV80,Москва,2021,дизель,3.0,249,АКПП,4WD,,синий,,левый,1 поколение,3.0 VGT AT 4WD Luxury 5 мест,0,10590000
+28236,https://vladivostok.drom.ru/genesis/gv80/48670138.html,Genesis,GV80,Владивосток,2021,бензин,3.5,379,АКПП,4WD,,зеленый,7700,левый,1 поколение,3.5 T-GDI AT 4WD Premium 7 мест,0,7400000
+28237,https://moscow.drom.ru/genesis/g80/48706311.html,Genesis,G80,Москва,2020,бензин,2.5,249,АКПП,4WD,,белый,80000,левый,2 поколение,2.5 T-GDI AT 4WD Advance,0,3600000
+28238,https://gelendzhik.drom.ru/genesis/gv80/48025631.html,Genesis,GV80,Геленджик,2021,дизель,3.0,249,АКПП,4WD,,черный,9500,левый,1 поколение,3.0 VGT AT 4WD Executive 7 мест,0,6750000
+28239,https://moscow.drom.ru/genesis/gv80/48018322.html,Genesis,GV80,Москва,2021,дизель,3.0,249,АКПП,4WD,,серый,48,левый,1 поколение,,0,10298000
+28240,https://moscow.drom.ru/genesis/g70/47685056.html,Genesis,G70,Москва,2018,бензин,2.0,197,АКПП,4WD,седан,белый,84814,левый,1 поколение,2.0 T-GDI AT 4WD Elegance,0,1710000
+28241,https://spb.drom.ru/genesis/g70/47052314.html,Genesis,G70,Санкт-Петербург,2018,бензин,2.0,197,АКПП,4WD,седан,белый,95842,левый,1 поколение,2.0 T-GDI AT 4WD Elegance,0,1605000
+28242,https://moscow.drom.ru/genesis/gv80/49049810.html,Genesis,GV80,Москва,2021,дизель,3.0,249,АКПП,4WD,,серый,15446,левый,1 поколение,,0,7550000
+28243,https://shahty.drom.ru/genesis/g70/49049296.html,Genesis,G70,Шахты,2020,бензин,2.0,197,АКПП,4WD,седан,синий,44580,левый,1 поколение,,0,3200000
+28244,https://novosibirsk.drom.ru/genesis/gv70/48636895.html,Genesis,GV70,Новосибирск,2022,бензин,2.5,249,АКПП,4WD,,фиолетовый,1100,левый,1 поколение,2.5 T-GDI AT 4WD Supreme,0,6699000
+28246,https://moscow.drom.ru/genesis/g90/48886305.html,,,,,,,,,,,,,,,,0,
+28248,https://krasnoyarsk.drom.ru/genesis/gv70/49041415.html,,,,,,,,,,,,,,,,0,
+28250,https://spb.drom.ru/genesis/g70/47002835.html,,,,,,,,,,,,,,,,0,
+28252,https://novosibirsk.drom.ru/genesis/g70/48154381.html,Genesis,G70,Новосибирск,2019,бензин,2.0,197,АКПП,4WD,седан,зеленый,39864,левый,1 поколение,2.0 T-GDI AT 4WD Elegance,0,2700000
+28253,https://moscow.drom.ru/genesis/g70/47005079.html,Genesis,G70,Москва,2018,бензин,2.0,197,АКПП,4WD,седан,черный,105905,левый,1 поколение,2.0 T-GDI AT 4WD Advance,0,1880000
+28254,https://moscow.drom.ru/genesis/g70/46689787.html,Genesis,G70,Москва,2018,бензин,2.0,197,АКПП,4WD,седан,белый,94371,левый,1 поколение,2.0 T-GDI AT 4WD Elegance,0,1725000
+28255,https://spb.drom.ru/genesis/gv80/46019628.html,Genesis,GV80,Санкт-Петербург,2021,бензин,2.5,249,АКПП,4WD,,зеленый,,левый,1 поколение,2.5 T-GDI AT 4WD Premium 7 Мест,0,9990000
+28256,https://spb.drom.ru/genesis/gv70/44929878.html,Genesis,GV70,Санкт-Петербург,2021,дизель,2.2,199,АКПП,4WD,,белый,,левый,1 поколение,2.2D VGT AT 4WD Elegance,0,6430000
+28257,https://moscow.drom.ru/genesis/g80/48553935.html,Genesis,G80,Москва,2022,бензин,2.5,249,АКПП,4WD,,черный,новый автомобиль,левый,2 поколение,2.5 T-GDI AT 4WD Luxury,0,5600000
+28258,https://moscow.drom.ru/genesis/g80/48886083.html,Genesis,G80,Москва,2017,бензин,2.0,197,автомат,4WD,,черный,67044,левый,,,0,1899000
+28259,https://moscow.drom.ru/genesis/gv70/49039045.html,Genesis,GV70,Москва,2022,дизель,2.2,199,АКПП,4WD,,синий,,левый,1 поколение,2.2D VGT AT 4WD Advance,0,7961660
+28260,https://spb.drom.ru/genesis/gv80/48347499.html,Genesis,GV80,Санкт-Петербург,2022,бензин,2.5,249,АКПП,4WD,,зеленый,,левый,1 поколение,,0,8744000
+28262,https://tyumen.drom.ru/genesis/g70/47332948.html,Genesis,G70,Тюмень,2022,бензин,2.0,197,АКПП,4WD,универсал,белый,,левый,"1 поколение, рестайлинг",,0,8460000
+28264,https://moscow.drom.ru/genesis/g70/48683472.html,Genesis,G70,Москва,2018,бензин,2.0,197,АКПП,4WD,седан,черный,90031,левый,1 поколение,2.0 T-GDI AT 4WD Advance,0,1705000
+28265,https://moscow.drom.ru/genesis/g70/48683439.html,Genesis,G70,Москва,2018,бензин,2.0,197,АКПП,4WD,седан,белый,89845,левый,1 поколение,2.0 T-GDI AT 4WD Elegance,0,1725000
+28267,https://moscow.drom.ru/genesis/g70/46339175.html,Genesis,G70,Москва,2018,бензин,2.0,197,АКПП,4WD,седан,белый,71366,левый,1 поколение,2.0 T-GDI AT 4WD Elegance,0,1595000
+28268,https://moscow.drom.ru/genesis/g70/46339177.html,Genesis,G70,Москва,2018,бензин,2.0,197,АКПП,4WD,седан,белый,85749,левый,1 поколение,2.0 T-GDI AT 4WD Elegance,0,2000000
+28269,https://spb.drom.ru/genesis/gv70/44915718.html,Genesis,GV70,Санкт-Петербург,2021,дизель,2.2,199,АКПП,4WD,,черный,,левый,1 поколение,2.2D VGT AT 4WD Elegance,0,6370000
+28270,https://moscow.drom.ru/genesis/gv80/49027834.html,Genesis,GV80,Москва,2022,бензин,2.5,249,АКПП,4WD,,черный,,левый,1 поколение,,0,9220125
+28271,https://moscow.drom.ru/genesis/g90/49026286.html,Genesis,G90,Москва,2022,бензин,3.3,370,АКПП,4WD,,черный,300,левый,"1 поколение, рестайлинг",,0,17500000
+28272,https://balashiha.drom.ru/genesis/g80/49026019.html,Genesis,G80,Балашиха,2018,бензин,3.3,370,АКПП,4WD,,белый,9000,левый,1 поколение,3.3 T-GDI AT 4WD Ultimate,0,3450000
+28274,https://moscow.drom.ru/genesis/gv70/49025200.html,,,,,,,,,,,,,,,,0,
+28276,https://moscow.drom.ru/genesis/gv80/49025196.html,Genesis,GV80,Москва,2022,дизель,3.0,249,АКПП,4WD,,красный,,левый,1 поколение,,0,9300000
+28277,https://kemerovo.drom.ru/genesis/gv70/49044933.html,Genesis,GV70,Кемерово,2022,дизель,2.2,199,АКПП,4WD,,белый,,левый,1 поколение,2.2D VGT AT 4WD Elegance,0,6300000
+28278,https://vladivostok.drom.ru/genesis/g80/48372338.html,Genesis,G80,Владивосток,2017,бензин,2.0,245,АКПП,4WD,,коричневый,50000,левый,1 поколение,2.0 T-GDI AT 4WD Business,0,1800000
+28279,https://tyumen.drom.ru/genesis/gv80/47450810.html,Genesis,GV80,Тюмень,2022,бензин,2.5,249,АКПП,4WD,,синий,,левый,1 поколение,,0,11410000
+28280,https://tyumen.drom.ru/genesis/g80/47450794.html,Genesis,G80,Тюмень,2022,бензин,2.5,249,АКПП,4WD,,синий,,левый,2 поколение,,0,10250000
+28281,https://tyumen.drom.ru/genesis/gv80/47450800.html,Genesis,GV80,Тюмень,2021,бензин,2.5,249,АКПП,4WD,,серебристый,,левый,1 поколение,,0,11410000
+28282,https://tyumen.drom.ru/genesis/gv70/47449458.html,Genesis,GV70,Тюмень,2022,дизель,2.2,199,АКПП,4WD,,красный,,левый,1 поколение,2.2D VGT AT 4WD Supreme,0,9250000
+28283,https://moscow.drom.ru/genesis/gv70/48807454.html,Genesis,GV70,Москва,2022,бензин,2.5,249,АКПП,4WD,,зеленый,,левый,1 поколение,2.5 T-GDI AT 4WD Supreme,0,7990000
+28284,https://spb.drom.ru/genesis/g70/47786093.html,Genesis,G70,Санкт-Петербург,2022,бензин,2.0,197,АКПП,4WD,седан,синий,,левый,"1 поколение, рестайлинг",2.0 T-GDI AT 4WD Supreme,0,6285000
+28285,https://spb.drom.ru/genesis/g80/45417532.html,Genesis,G80,Санкт-Петербург,2021,дизель,2.2,199,АКПП,4WD,,серебристый,,левый,2 поколение,2.2D VGT AT 4WD Advance,0,7725000
+28286,https://moscow.drom.ru/genesis/g70/47082937.html,Genesis,G70,Москва,2018,бензин,2.0,197,АКПП,4WD,седан,белый,86240,левый,1 поколение,2.0 T-GDI AT 4WD Elegance,0,1845000
+28287,https://tyumen.drom.ru/genesis/gv80/49137388.html,Genesis,GV80,Тюмень,2021,бензин,2.5,249,АКПП,4WD,,черный,10057,левый,1 поколение,2.5 T-GDI AT 4WD Luxury 5 мест,1,8100000
+28288,https://moscow.drom.ru/genesis/gv80/49135190.html,Genesis,GV80,Москва,2021,бензин,2.5,304,АКПП,4WD,,белый,4069,левый,1 поколение,2.5 T-GDI AT 4WD 5 seats,0,8200000
+28289,https://omsk.drom.ru/genesis/gv70/48962529.html,Genesis,GV70,Омск,2020,бензин,3.5,379,АКПП,4WD,,бордовый,27000,левый,1 поколение,,1,5400000
+28290,https://novosibirsk.drom.ru/genesis/g80/48959738.html,Genesis,G80,Новосибирск,2018,бензин,2.0,197,АКПП,4WD,,черный,101000,левый,1 поколение,2.0 T-GDI AT 4WD Business,0,2490000
+28291,https://novosibirsk.drom.ru/genesis/g70/48713775.html,Genesis,G70,Новосибирск,2019,бензин,2.0,197,АКПП,4WD,седан,белый,28022,левый,1 поколение,,0,2772000
+28292,https://ekaterinburg.drom.ru/genesis/g80/47985188.html,Genesis,G80,Екатеринбург,2017,бензин,2.0,245,АКПП,4WD,,серый,103300,левый,1 поколение,2.0 T-GDI AT 4WD Business,0,2199196
+28293,https://moscow.drom.ru/genesis/gv80/49132729.html,Genesis,GV80,Москва,2021,бензин,3.5,,автомат,4WD,,серый,31174,левый,,,0,8320000
+28294,https://moscow.drom.ru/genesis/g90/47107741.html,Genesis,G90,Москва,2021,бензин,3.3,370,АКПП,4WD,,зеленый,,левый,"1 поколение, рестайлинг",3.3 T-GDI AT 4WD Elite,0,15540000
+28295,https://moscow.drom.ru/genesis/gv70/46180892.html,Genesis,GV70,Москва,2021,бензин,2.5,249,АКПП,4WD,,синий,,левый,1 поколение,2.5 T-GDI AT 4WD Elegance,0,6420000
+28296,https://vladivostok.drom.ru/genesis/gv80/47734255.html,Genesis,GV80,Владивосток,2020,дизель,3.0,249,АКПП,4WD,,черный,28500,левый,1 поколение,3.0 VGT AT 4WD Elite 7 мест,0,5970000
+28297,https://moscow.drom.ru/genesis/gv80/45026439.html,Genesis,GV80,Москва,2021,дизель,3.0,249,АКПП,4WD,,зеленый,,левый,1 поколение,3.0 VGT AT 4WD Luxury 5 мест,0,10660000
+28298,https://moscow.drom.ru/genesis/gv80/45026441.html,Genesis,GV80,Москва,2021,дизель,3.0,249,АКПП,4WD,,серый,,левый,1 поколение,3.0 VGT AT 4WD Luxury 5 мест,0,10590000
+28299,https://spb.drom.ru/genesis/gv70/46709788.html,Genesis,GV70,Санкт-Петербург,2021,дизель,2.2,199,АКПП,4WD,,белый,,левый,1 поколение,2.2D VGT AT 4WD Advance,0,7390000
+28300,https://tyumen.drom.ru/genesis/gv70/49117815.html,Genesis,GV70,Тюмень,2022,бензин,2.5,249,АКПП,4WD,,коричневый,,левый,1 поколение,,0,9490000
+28301,https://tyumen.drom.ru/genesis/gv80/49117811.html,Genesis,GV80,Тюмень,2022,бензин,2.5,249,АКПП,4WD,,зеленый,,левый,1 поколение,,0,11000000
+28302,https://tyumen.drom.ru/genesis/gv70/49117806.html,Genesis,GV70,Тюмень,2021,дизель,2.2,199,АКПП,4WD,,серый,,левый,1 поколение,2.2D VGT AT 4WD Elegance,0,7900000
+28303,https://tyumen.drom.ru/genesis/gv80/49117802.html,Genesis,GV80,Тюмень,2022,бензин,2.5,249,АКПП,4WD,,серебристый,,левый,1 поколение,,0,11490000
+28305,https://moscow.drom.ru/genesis/gv80/49041235.html,Genesis,GV80,Москва,2022,бензин,2.5,249,АКПП,4WD,,зеленый,20,левый,1 поколение,2.5 T-GDI AT 4WD Premium 5 мест,0,7770000
+28306,https://novosibirsk.drom.ru/genesis/g80/47917550.html,Genesis,G80,Новосибирск,2022,бензин,2.5,249,АКПП,4WD,,черный,,левый,2 поколение,2.5 T-GDI AT 4WD Luxury,0,6900000
+28307,https://novosibirsk.drom.ru/genesis/g80/48395166.html,Genesis,G80,Новосибирск,2022,бензин,2.5,249,АКПП,4WD,,черный,,левый,2 поколение,2.5 T-GDI AT 4WD Advance,0,5950000
+28308,https://novosibirsk.drom.ru/genesis/g80/48029160.html,Genesis,G80,Новосибирск,2022,бензин,2.5,249,АКПП,4WD,,серый,,левый,2 поколение,2.5 T-GDI AT 4WD Elite,0,7900000
+28310,https://noviy-urengoy.drom.ru/genesis/g70/46254884.html,Genesis,G70,Новый Уренгой,2019,бензин,2.0,197,АКПП,4WD,седан,синий,42500,левый,1 поколение,2.0 T-GDI AT 4WD Advance,0,2550000
+28311,https://nakhodka.drom.ru/genesis/gv70/49113162.html,Genesis,GV70,Находка,2021,бензин,2.5,249,АКПП,4WD,,серый,5400,левый,1 поколение,2.5 T-GDI AT 4WD Supreme,0,4950000
+28312,https://nakhodka.drom.ru/genesis/gv70/49113036.html,Genesis,GV70,Находка,2021,бензин,2.5,249,АКПП,4WD,,серый,4200,левый,1 поколение,2.5 T-GDI AT 4WD Supreme,0,5100000
+28313,https://nakhodka.drom.ru/genesis/gv70/49112949.html,Genesis,GV70,Находка,2021,бензин,2.5,249,АКПП,4WD,,белый,17800,левый,1 поколение,2.5 T-GDI AT 4WD Ultimate,0,5150000
+28314,https://tyumen.drom.ru/genesis/gv70/48689245.html,Genesis,GV70,Тюмень,2022,бензин,2.5,249,АКПП,4WD,,серый,20,левый,1 поколение,,0,5790000
+28315,https://omsk.drom.ru/genesis/gv80/48357370.html,Genesis,GV80,Омск,2021,дизель,3.0,249,АКПП,4WD,,синий,9531,левый,1 поколение,3.0 VGT AT 4WD Elite 5 мест,0,7950000
+28316,https://moscow.drom.ru/genesis/gv70/46180992.html,Genesis,GV70,Москва,2021,дизель,2.2,199,АКПП,4WD,,белый,,левый,1 поколение,2.2D VGT AT 4WD Advance,0,7390000
+28317,https://moscow.drom.ru/genesis/g80/48416827.html,Genesis,G80,Москва,2018,бензин,2.0,245,АКПП,4WD,,коричневый,111563,левый,1 поколение,,0,2197000
+28319,https://naberezhnye-chelny.drom.ru/genesis/g80/48762430.html,Genesis,G80,Набережные Челны,2017,бензин,3.3,370,АКПП,4WD,,бордовый,73000,левый,1 поколение,3.3 T-GDI AT 4WD Ultimate,0,2600000
+28320,https://moscow.drom.ru/genesis/g70/48760729.html,Genesis,G70,Москва,2018,бензин,2.0,197,АКПП,4WD,седан,белый,79601,левый,1 поколение,2.0 T-GDI AT 4WD Elegance,0,1835000
+28321,https://nizhniy-novgorod.drom.ru/genesis/g80/48426891.html,Genesis,G80,Нижний Новгород,2017,бензин,2.0,,автомат,4WD,,черный,119321,,,,0,2370000
+28322,https://moscow.drom.ru/genesis/gv80/48426109.html,Genesis,GV80,Москва,2021,дизель,3.0,249,АКПП,4WD,,серый,9100,левый,1 поколение,3.0 VGT AT 4WD Elite 5 мест,1,8000000
+28323,https://spb.drom.ru/genesis/g80/48422214.html,Genesis,G80,Санкт-Петербург,2017,бензин,2.0,245,АКПП,4WD,,черный,164247,левый,1 поколение,,0,1899999
+28324,https://moscow.drom.ru/genesis/g70/46415718.html,Genesis,G70,Москва,2018,бензин,2.0,197,АКПП,4WD,седан,белый,99102,левый,1 поколение,2.0 T-GDI AT 4WD Elegance,0,1710000
+28325,https://moscow.drom.ru/genesis/gv80/45029607.html,Genesis,GV80,Москва,2021,дизель,3.0,249,АКПП,4WD,,синий,,левый,1 поколение,3.0 VGT AT 4WD Luxury 5 мест,0,10590000
+28326,https://spb.drom.ru/genesis/g80/49099944.html,Genesis,G80,Санкт-Петербург,2019,бензин,2.0,197,АКПП,4WD,,черный,35414,левый,1 поколение,,0,2900000
+28327,https://moscow.drom.ru/genesis/gv80/49099886.html,Genesis,GV80,Москва,2022,дизель,3.0,249,АКПП,4WD,,белый,,левый,1 поколение,,0,11985000
+28328,https://novosibirsk.drom.ru/genesis/g80/45650870.html,Genesis,G80,Новосибирск,2017,бензин,2.0,245,АКПП,4WD,,черный,67142,левый,1 поколение,,0,2390000
+28329,https://spb.drom.ru/genesis/g70/49088842.html,Genesis,G70,Санкт-Петербург,2018,бензин,2.0,197,АКПП,4WD,седан,серый,135015,левый,1 поколение,,0,2100000
+28331,https://tyumen.drom.ru/genesis/g80/47058055.html,Genesis,G80,Тюмень,2022,бензин,2.5,249,АКПП,4WD,,синий,,левый,2 поколение,,0,9755000
+28332,https://tyumen.drom.ru/genesis/gv80/47025928.html,Genesis,GV80,Тюмень,2022,бензин,2.5,249,АКПП,4WD,,зеленый,,левый,1 поколение,,0,11650000
+28333,https://ufa.drom.ru/genesis/g80/48059582.html,Genesis,G80,Уфа,2017,бензин,2.0,245,АКПП,4WD,,черный,163000,левый,1 поколение,2.0 T-GDI AT 4WD Premium,0,2300000
+28334,https://moscow.drom.ru/genesis/g70/47723953.html,Genesis,G70,Москва,2019,бензин,2.0,197,АКПП,4WD,седан,белый,79012,левый,1 поколение,2.0 T-GDI AT 4WD Elegance,0,2000000
+28335,https://moscow.drom.ru/genesis/gv70/45691407.html,Genesis,GV70,Москва,2021,бензин,2.5,249,АКПП,4WD,,белый,,левый,1 поколение,2.5 T-GDI AT 4WD Elegance,0,6480000
+28336,https://moscow.drom.ru/genesis/g70/49088126.html,Genesis,G70,Москва,2019,бензин,2.0,197,АКПП,4WD,седан,черный,32897,левый,1 поколение,2.0 T-GDI AT 4WD Advance,0,2035000
+28338,https://mytishchi.drom.ru/genesis/gv80/49085057.html,Genesis,GV80,Мытищи,2021,дизель,3.0,273,АКПП,4WD,,серебристый,45000,левый,1 поколение,3.0 e-VGT AT 4WD 5 seats,0,6400000
+28339,https://vladivostok.drom.ru/genesis/gv80/48058595.html,Genesis,GV80,Владивосток,2020,дизель,3.0,249,АКПП,4WD,,белый,19850,левый,1 поколение,3.0 VGT AT 4WD Elite 7 мест,0,5590000
+28340,https://korolev.drom.ru/genesis/gv70/48922657.html,Genesis,GV70,Королёв,2022,бензин,2.5,249,АКПП,4WD,,черный,,левый,1 поколение,2.5 T-GDI AT 4WD Elegance,0,5600000
+28341,https://korolev.drom.ru/genesis/gv70/48922721.html,Genesis,GV70,Королёв,2022,бензин,2.5,249,АКПП,4WD,,белый,,левый,1 поколение,2.5 T-GDI AT 4WD Elegance,1,6000000
+28342,https://sochi.drom.ru/genesis/g90/48924952.html,Genesis,G90,Сочи,2020,бензин,3.3,370,автомат,задний,,черный,20000,левый,,,0,5180000
+28343,https://tyumen.drom.ru/genesis/gv80/47801594.html,Genesis,GV80,Тюмень,2021,дизель,3.0,249,АКПП,4WD,,зеленый,13437,левый,1 поколение,,0,7900000
+28344,https://spb.drom.ru/genesis/g80/49078904.html,Genesis,G80,Санкт-Петербург,2022,бензин,2.5,249,АКПП,4WD,,красный,,левый,2 поколение,,0,8723720
+28345,https://moscow.drom.ru/genesis/g70/48048376.html,Genesis,G70,Москва,2021,бензин,2.0,197,АКПП,4WD,седан,красный,,левый,"1 поколение, рестайлинг",2.0 T-GDI AT 4WD Advance,0,5310000
+28346,https://moscow.drom.ru/genesis/gv70/48749062.html,Genesis,GV70,Москва,2021,бензин,2.5,249,АКПП,4WD,,белый,9238,левый,1 поколение,2.5 T-GDI AT 4WD Elegance,1,4790000
+28348,https://moscow.drom.ru/genesis/g70/48393206.html,Genesis,G70,Москва,2019,бензин,2.0,197,АКПП,4WD,седан,черный,97427,левый,1 поколение,2.0 T-GDI AT 4WD Advance,0,2000000
+28349,https://moscow.drom.ru/genesis/g70/46066488.html,Genesis,G70,Москва,2018,бензин,2.0,197,АКПП,4WD,седан,белый,81154,левый,1 поколение,2.0 T-GDI AT 4WD Elegance,0,1755000
+28350,https://moscow.drom.ru/genesis/gv70/49070905.html,Genesis,GV70,Москва,2021,бензин,2.5,249,АКПП,4WD,,черный,100,левый,1 поколение,,1,4150000
+28351,https://chelyabinsk.drom.ru/genesis/gv80/48884910.html,Genesis,GV80,Челябинск,2022,дизель,3.0,249,АКПП,4WD,,белый,новый автомобиль,левый,1 поколение,3.0 VGT AT 4WD Luxury 5 мест,0,7999999
+28352,https://ussuriisk.drom.ru/genesis/gv80/48008895.html,Genesis,GV80,Уссурийск,2021,бензин,2.5,249,АКПП,4WD,,белый,14500,левый,1 поколение,2.5 T-GDI AT 4WD Premium 5 мест,0,6670000
+28353,https://moscow.drom.ru/genesis/g80/49068769.html,Genesis,G80,Москва,2021,бензин,3.5,379,АКПП,4WD,,синий,23946,левый,2 поколение,,0,6389000
+28354,https://moscow.drom.ru/genesis/gv80/49068766.html,Genesis,GV80,Москва,2021,дизель,3.0,,автомат,4WD,,серый,29953,левый,,,0,7470000
+28355,https://moscow.drom.ru/genesis/g70/49068761.html,Genesis,G70,Москва,2021,бензин,2.0,,автомат,4WD,седан,черный,15474,левый,,,0,4830000
+28356,https://kemerovo.drom.ru/genesis/gv80/47618227.html,Genesis,GV80,Кемерово,2021,бензин,2.5,304,АКПП,4WD,,зеленый,6900,левый,1 поколение,,0,6730000
+28357,https://ekaterinburg.drom.ru/genesis/g80/48104744.html,Genesis,G80,Екатеринбург,2017,бензин,2.0,197,автомат,4WD,,черный,159000,левый,,,0,1890000
+28358,https://moscow.drom.ru/genesis/gv80/49125496.html,Genesis,GV80,Москва,2022,бензин,2.5,249,АКПП,4WD,,белый,37,левый,1 поколение,2.5 T-GDI AT 4WD Premium 5 мест,0,6700000
+28359,https://pavlovskaya-sloboda.drom.ru/genesis/gv80/49125339.html,Genesis,GV80,Павловская Слобода,2022,бензин,3.5,379,АКПП,4WD,,черный,2050,левый,1 поколение,,0,7050000
+28360,https://ekaterinburg.drom.ru/genesis/gv80/48788312.html,Genesis,GV80,Екатеринбург,2022,дизель,3.0,249,АКПП,4WD,,,новый автомобиль,левый,1 поколение,3.0 VGT AT 4WD Premium 5 мест,0,8000000
+28361,https://omsk.drom.ru/genesis/gv80/47850108.html,Genesis,GV80,Омск,2021,бензин,2.5,249,АКПП,4WD,,красный,15000,левый,1 поколение,,0,7779000
+28362,https://moscow.drom.ru/genesis/gv80/49123269.html,Genesis,GV80,Москва,2021,дизель,3.0,249,АКПП,4WD,,синий,18444,левый,1 поколение,,0,7990000
+28363,https://moscow.drom.ru/genesis/g70/49123091.html,Genesis,G70,Москва,2019,бензин,2.0,197,АКПП,4WD,седан,черный,87342,левый,1 поколение,2.0 T-GDI AT 4WD Elegance,0,2000000
+28364,https://novokuznetsk.drom.ru/genesis/g80/48844594.html,Genesis,G80,Новокузнецк,2022,бензин,2.5,249,АКПП,4WD,,черный,,левый,2 поколение,2.5 T-GDI AT 4WD Advance,0,5790000
+28365,https://moscow.drom.ru/genesis/gv80/48787807.html,Genesis,GV80,Москва,2021,дизель,3.0,249,АКПП,4WD,,зеленый,15800,левый,1 поколение,,0,7449700
+28366,https://moscow.drom.ru/genesis/g70/48784190.html,Genesis,G70,Москва,2019,бензин,2.0,197,АКПП,4WD,седан,белый,83407,левый,1 поколение,2.0 T-GDI AT 4WD Elegance,0,1855000
+28367,https://moscow.drom.ru/genesis/g90/48437211.html,Genesis,G90,Москва,2016,бензин,3.3,370,АКПП,4WD,,коричневый,111400,левый,1 поколение,,0,2049000
+28368,https://spb.drom.ru/genesis/gv80/48237762.html,Genesis,GV80,Санкт-Петербург,2021,дизель,3.0,249,АКПП,4WD,,синий,,левый,1 поколение,3.0 VGT AT 4WD Luxury 5 мест,0,10590000
+28369,https://moscow.drom.ru/genesis/g70/48100875.html,Genesis,G70,Москва,2019,бензин,2.0,197,АКПП,4WD,седан,черный,101858,левый,1 поколение,2.0 T-GDI AT 4WD Advance,0,2000000
+28370,https://moscow.drom.ru/genesis/g70/48100884.html,Genesis,G70,Москва,2019,бензин,2.0,197,АКПП,4WD,седан,черный,94525,левый,1 поколение,2.0 T-GDI AT 4WD Advance,0,2000000
+28371,https://moscow.drom.ru/genesis/g70/48100885.html,Genesis,G70,Москва,2019,бензин,2.0,197,АКПП,4WD,седан,черный,70418,левый,1 поколение,2.0 T-GDI AT 4WD Advance,0,2315000
+28372,https://moscow.drom.ru/genesis/g70/47762777.html,Genesis,G70,Москва,2019,бензин,2.0,197,АКПП,4WD,седан,черный,84424,левый,1 поколение,2.0 T-GDI AT 4WD Elegance,0,2000000
+28373,https://moscow.drom.ru/genesis/g70/47759132.html,Genesis,G70,Москва,2018,бензин,2.0,197,АКПП,4WD,седан,черный,96900,левый,1 поколение,2.0 T-GDI AT 4WD Advance,0,1595000
+28374,https://moscow.drom.ru/genesis/gv80/47758862.html,Genesis,GV80,Москва,2020,дизель,3.0,249,АКПП,4WD,,серый,32000,левый,1 поколение,3.0 VGT AT 4WD Luxury 5 мест,0,5600000
+28375,https://moscow.drom.ru/genesis/gv80/45026400.html,Genesis,GV80,Москва,2021,дизель,3.0,249,АКПП,4WD,,синий,,левый,1 поколение,3.0 VGT AT 4WD Luxury 5 мест,0,10790000
+28376,https://moscow.drom.ru/genesis/gv80/45026417.html,Genesis,GV80,Москва,2021,дизель,3.0,249,АКПП,4WD,,черный,,левый,1 поколение,3.0 VGT AT 4WD Luxury 7 мест,0,10690000
+28377,https://tomsk.drom.ru/genesis/g70/49066942.html,Genesis,G70,Томск,2021,бензин,3.3,370,АКПП,4WD,седан,серый,18500,левый,"1 поколение, рестайлинг",3.3 T-GDI AT 4WD Ultimate,0,4900000
+28378,https://moscow.drom.ru/genesis/g70/48278288.html,Genesis,G70,Москва,2019,бензин,2.0,197,АКПП,4WD,седан,черный,97210,левый,1 поколение,2.0 T-GDI AT 4WD Elegance,0,2000000
+28379,https://moscow.drom.ru/genesis/g70/47172735.html,Genesis,G70,Москва,2018,бензин,2.0,197,АКПП,4WD,седан,черный,100949,левый,1 поколение,2.0 T-GDI AT 4WD Advance,0,1705000
+28380,https://nizhniy-novgorod.drom.ru/genesis/g70/46375177.html,Genesis,G70,Нижний Новгород,2019,бензин,2.0,197,АКПП,4WD,седан,коричневый,17682,левый,1 поколение,,0,2960000
+28381,https://moscow.drom.ru/genesis/gv70/45323423.html,Genesis,GV70,Москва,2021,бензин,2.5,249,АКПП,4WD,,синий,,левый,1 поколение,2.5 T-GDI AT 4WD Elegance,0,6420000
+28382,https://moscow.drom.ru/genesis/gv70/45323460.html,Genesis,GV70,Москва,2021,дизель,2.2,199,АКПП,4WD,,бордовый,,левый,1 поколение,2.2D VGT AT 4WD Elegance,0,6430000
+28383,https://moscow.drom.ru/genesis/gv70/45323465.html,Genesis,GV70,Москва,2021,дизель,2.2,199,АКПП,4WD,,белый,,левый,1 поколение,2.2D VGT AT 4WD Elegance,0,6430000
+28384,https://moscow.drom.ru/genesis/gv70/45323472.html,Genesis,GV70,Москва,2021,дизель,2.2,199,АКПП,4WD,,черный,,левый,1 поколение,2.2D VGT AT 4WD Elegance,0,6370000
+28385,https://moscow.drom.ru/genesis/gv70/45323474.html,Genesis,GV70,Москва,2021,дизель,2.2,199,АКПП,4WD,,синий,,левый,1 поколение,2.2D VGT AT 4WD Elegance,0,6370000
+28386,https://moscow.drom.ru/genesis/gv80/49058894.html,Genesis,GV80,Москва,2021,бензин,2.5,249,АКПП,4WD,,черный,20051,левый,1 поколение,,0,6120000
+28388,https://moscow.drom.ru/genesis/gv80/44556926.html,,,,,,,,,,,,,,,,0,
+28390,https://moscow.drom.ru/genesis/gv80/49055637.html,,,,,,,,,,,,,,,,0,
+28392,https://moscow.drom.ru/genesis/g70/48007844.html,,,,,,,,,,,,,,,,0,
+28393,https://moscow.drom.ru/genesis/gv70/49051197.html,Genesis,GV70,Москва,2022,дизель,2.2,199,АКПП,4WD,,синий,,левый,1 поколение,,0,7350000
+28394,https://vladivostok.drom.ru/genesis/gv70/48072270.html,Genesis,GV70,Владивосток,2021,дизель,2.2,199,АКПП,4WD,,серый,15500,левый,1 поколение,2.2D VGT AT 4WD Elegance,0,5200000
+28395,https://moscow.drom.ru/genesis/gv70/49050510.html,Genesis,GV70,Москва,2022,бензин,2.5,249,АКПП,4WD,,белый,35,левый,1 поколение,2.5 T-GDI AT 4WD Elegance,0,5599000
+28397,https://moscow.drom.ru/genesis/gv70/49025193.html,Genesis,GV70,Москва,2022,дизель,2.2,199,АКПП,4WD,,зеленый,,левый,1 поколение,2.2D VGT AT 4WD Supreme,0,7750000
+28398,https://moscow.drom.ru/genesis/g70/49025189.html,Genesis,G70,Москва,2022,бензин,2.0,197,АКПП,4WD,седан,синий,,левый,"1 поколение, рестайлинг",,0,4600000
+28399,https://novosibirsk.drom.ru/genesis/gv80/46902947.html,Genesis,GV80,Новосибирск,2022,дизель,3.0,249,АКПП,4WD,,серый,,левый,1 поколение,3.0 VGT AT 4WD Premium 5 мест,0,10950000
+28400,https://novosibirsk.drom.ru/genesis/gv80/47777301.html,Genesis,GV80,Новосибирск,2022,дизель,3.0,249,АКПП,4WD,,зеленый,,левый,1 поколение,3.0 VGT AT 4WD Luxury 5 мест,0,13400000
+28401,https://novosibirsk.drom.ru/genesis/gv70/47768264.html,Genesis,GV70,Новосибирск,2022,бензин,2.5,249,АКПП,4WD,,красный,,левый,1 поколение,2.5 T-GDI AT 4WD Advance,0,7450000
+28402,https://novosibirsk.drom.ru/genesis/gv70/47778188.html,Genesis,GV70,Новосибирск,2022,бензин,2.5,249,АКПП,4WD,,серый,,левый,1 поколение,2.5 T-GDI AT 4WD Advance,0,7450000
+28404,https://moscow.drom.ru/genesis/gv80/49017189.html,Genesis,GV80,Москва,2022,дизель,3.0,249,АКПП,4WD,,зеленый,,левый,1 поколение,,0,8499000
+28405,https://vladivostok.drom.ru/genesis/gv80/47943494.html,Genesis,GV80,Владивосток,2022,бензин,3.5,379,АКПП,4WD,,белый,14500,левый,1 поколение,3.5 T-GDI AT 4WD Royal 6 мест,0,7500000
+28406,https://vladivostok.drom.ru/genesis/gv80/48165215.html,Genesis,GV80,Владивосток,2022,бензин,2.5,249,АКПП,4WD,,белый,11500,левый,1 поколение,,0,7000000
+28407,https://moscow.drom.ru/genesis/gv70/48673447.html,Genesis,GV70,Москва,2022,бензин,2.5,249,АКПП,4WD,,белый,1,левый,1 поколение,,0,5949000
+28409,https://spb.drom.ru/genesis/gv70/47659357.html,Genesis,GV70,Санкт-Петербург,2022,бензин,2.5,249,АКПП,4WD,,красный,,левый,1 поколение,2.5 T-GDI AT 4WD Elegance,0,6440000
+28410,https://moscow.drom.ru/genesis/gv70/47258978.html,Genesis,GV70,Москва,2022,бензин,2.5,249,АКПП,4WD,,красный,,левый,1 поколение,2.5 T-GDI AT 4WD Elegance,0,6989070
+28411,https://moscow.drom.ru/genesis/g70/46978421.html,Genesis,G70,Москва,2019,бензин,2.0,197,АКПП,4WD,седан,белый,95754,левый,1 поколение,2.0 T-GDI AT 4WD Elegance,0,1980000
+28412,https://chelyabinsk.drom.ru/genesis/gv80/46926676.html,Genesis,GV80,Челябинск,2022,бензин,2.5,249,АКПП,4WD,,серый,,левый,1 поколение,2.5 T-GDI AT 4WD Luxury 5 мест,0,10100000
+28413,https://spb.drom.ru/genesis/gv70/46660487.html,Genesis,GV70,Санкт-Петербург,2021,дизель,2.2,199,АКПП,4WD,,белый,,левый,1 поколение,2.2D VGT AT 4WD Advance,0,7380000
+28414,https://moscow.drom.ru/genesis/g70/46000530.html,Genesis,G70,Москва,2018,бензин,2.0,197,АКПП,4WD,седан,черный,105939,левый,1 поколение,2.0 T-GDI AT 4WD Advance,0,1770000
+28415,https://moscow.drom.ru/genesis/gv70/45413553.html,Genesis,GV70,Москва,2021,дизель,2.2,199,АКПП,4WD,,белый,,левый,1 поколение,,0,7891590
+28416,https://moscow.drom.ru/genesis/gv70/45287399.html,Genesis,GV70,Москва,2021,дизель,2.2,199,АКПП,4WD,,белый,,левый,1 поколение,2.2D VGT AT 4WD Advance,0,7380000
+28417,https://vladivostok.drom.ru/genesis/gv70/48029621.html,Genesis,GV70,Владивосток,2021,дизель,2.2,199,АКПП,4WD,,белый,13000,левый,1 поколение,,1,4700000
+28418,https://moscow.drom.ru/genesis/g70/48805698.html,Genesis,G70,Москва,2019,бензин,2.0,197,АКПП,4WD,седан,черный,71794,левый,1 поколение,2.0 T-GDI AT 4WD Advance,0,2125000
+28419,https://moscow.drom.ru/genesis/g70/48107021.html,Genesis,G70,Москва,2019,бензин,2.0,197,АКПП,4WD,седан,черный,96382,левый,1 поколение,2.0 T-GDI AT 4WD Advance,0,2000000
+28420,https://moscow.drom.ru/genesis/g70/48107022.html,Genesis,G70,Москва,2019,бензин,2.0,197,АКПП,4WD,седан,черный,93991,левый,1 поколение,2.0 T-GDI AT 4WD Advance,0,2000000
+28421,https://moscow.drom.ru/genesis/g70/48106702.html,Genesis,G70,Москва,2019,бензин,2.0,197,АКПП,4WD,седан,черный,65232,левый,1 поколение,2.0 T-GDI AT 4WD Elegance,0,2000000
+28422,https://moscow.drom.ru/genesis/g70/47773981.html,Genesis,G70,Москва,2018,бензин,2.0,197,АКПП,4WD,седан,белый,79526,левый,1 поколение,2.0 T-GDI AT 4WD Elegance,0,1720000
+28423,https://moscow.drom.ru/genesis/g70/47773990.html,Genesis,G70,Москва,2019,бензин,2.0,197,АКПП,4WD,седан,черный,95582,левый,1 поколение,2.0 T-GDI AT 4WD Elegance,0,2000000
+28424,https://saratov.drom.ru/genesis/g70/47771640.html,Genesis,G70,Саратов,2019,бензин,2.0,,автомат,4WD,седан,,96760,,,,0,2440000
+28425,https://moscow.drom.ru/genesis/g70/47107217.html,Genesis,G70,Москва,2018,бензин,2.0,197,АКПП,4WD,седан,черный,97498,левый,1 поколение,2.0 T-GDI AT 4WD Advance,0,1820000
+28426,https://moscow.drom.ru/genesis/g70/47107215.html,Genesis,G70,Москва,2018,бензин,2.0,197,АКПП,4WD,седан,черный,90244,левый,1 поколение,2.0 T-GDI AT 4WD Advance,0,1750000
+28427,https://moscow.drom.ru/genesis/g70/47107216.html,Genesis,G70,Москва,2018,бензин,2.0,197,АКПП,4WD,седан,черный,106999,левый,1 поколение,2.0 T-GDI AT 4WD Advance,0,1845000
+28428,https://moscow.drom.ru/genesis/g70/45788073.html,Genesis,G70,Москва,2018,бензин,2.0,197,АКПП,4WD,седан,белый,75780,левый,1 поколение,2.0 T-GDI AT 4WD Elegance,0,1685000
+28429,https://moscow.drom.ru/genesis/g70/45741032.html,Genesis,G70,Москва,2018,бензин,2.0,197,АКПП,4WD,седан,белый,92076,левый,1 поколение,2.0 T-GDI AT 4WD Elegance,0,1873000
+28430,https://moscow.drom.ru/genesis/gv70/45251924.html,Genesis,GV70,Москва,2021,бензин,2.5,249,АКПП,4WD,,синий,,левый,1 поколение,2.5 T-GDI AT 4WD Elegance,0,6420000
+28431,https://moscow.drom.ru/genesis/gv80/45026440.html,Genesis,GV80,Москва,2021,дизель,3.0,249,АКПП,4WD,,серый,,левый,1 поколение,3.0 VGT AT 4WD Luxury 5 мест,0,10590000
+28432,https://spb.drom.ru/genesis/gv80/44659491.html,Genesis,GV80,Санкт-Петербург,2021,дизель,3.0,249,АКПП,4WD,,белый,,левый,1 поколение,3.0 VGT AT 4WD Luxury 5 мест,0,10660000
+28433,https://krasnogorsk.drom.ru/genesis/gv80/48366890.html,Genesis,GV80,Красногорск,2021,дизель,3.0,249,АКПП,4WD,,серый,25000,левый,1 поколение,,0,7200000
+28434,https://moscow.drom.ru/genesis/g70/48112744.html,Genesis,G70,Москва,2019,бензин,2.0,197,АКПП,4WD,седан,черный,96143,левый,1 поколение,2.0 T-GDI AT 4WD Elegance,0,2000000
+28435,https://moscow.drom.ru/genesis/g70/48112743.html,Genesis,G70,Москва,2019,бензин,2.0,197,АКПП,4WD,седан,черный,87767,левый,1 поколение,2.0 T-GDI AT 4WD Elegance,0,1795000
+28436,https://moscow.drom.ru/genesis/g70/48112740.html,Genesis,G70,Москва,2019,бензин,2.0,197,АКПП,4WD,седан,черный,92444,левый,1 поколение,2.0 T-GDI AT 4WD Elegance,0,2000000
+28437,https://moscow.drom.ru/genesis/g90/48661185.html,Genesis,G90,Москва,2022,бензин,3.3,370,АКПП,4WD,,черный,28000,левый,"1 поколение, рестайлинг",,0,8690000
+28438,https://moscow.drom.ru/genesis/g80/48660591.html,Genesis,G80,Москва,2019,бензин,2.0,245,АКПП,4WD,,черный,86000,левый,1 поколение,2.0 T-GDI AT 4WD Premium,1,3000000
+28439,https://moscow.drom.ru/genesis/g70/47626683.html,Genesis,G70,Москва,2018,бензин,2.0,197,АКПП,4WD,седан,белый,97306,левый,1 поколение,2.0 T-GDI AT 4WD Elegance,0,1945000
+28440,https://moscow.drom.ru/genesis/g70/46644564.html,Genesis,G70,Москва,2018,бензин,2.0,197,АКПП,4WD,седан,черный,107299,левый,1 поколение,2.0 T-GDI AT 4WD Advance,0,1780000
+28441,https://moscow.drom.ru/genesis/g70/45972622.html,Genesis,G70,Москва,2018,бензин,2.0,197,АКПП,4WD,седан,белый,100244,левый,1 поколение,2.0 T-GDI AT 4WD Elegance,0,1655000
+28442,https://moscow.drom.ru/genesis/g80/45973710.html,Genesis,G80,Москва,2022,дизель,2.2,199,АКПП,4WD,,синий,,левый,2 поколение,2.2D VGT AT 4WD Advance,0,7605000
+28443,https://moscow.drom.ru/genesis/gv70/45251926.html,Genesis,GV70,Москва,2021,бензин,2.5,249,АКПП,4WD,,белый,,левый,1 поколение,2.5 T-GDI AT 4WD Elegance,0,6480000
+28444,https://moscow.drom.ru/genesis/g80/45251909.html,Genesis,G80,Москва,2021,дизель,2.2,199,АКПП,4WD,,серебристый,,левый,2 поколение,2.2D VGT AT 4WD Advance,0,7725000
+28445,https://moscow.drom.ru/genesis/gv70/45251913.html,Genesis,GV70,Москва,2021,дизель,2.2,199,АКПП,4WD,,черный,,левый,1 поколение,2.2D VGT AT 4WD Elegance,0,6370000
+28446,https://moscow.drom.ru/genesis/gv70/45251914.html,Genesis,GV70,Москва,2021,дизель,2.2,199,АКПП,4WD,,белый,,левый,1 поколение,2.2D VGT AT 4WD Elegance,0,6430000
+28447,https://moscow.drom.ru/genesis/gv70/45251921.html,Genesis,GV70,Москва,2021,бензин,2.5,249,АКПП,4WD,,бордовый,,левый,1 поколение,2.5 T-GDI AT 4WD Elegance,0,6480000
+28448,https://moscow.drom.ru/genesis/gv70/45251922.html,Genesis,GV70,Москва,2021,бензин,2.5,249,АКПП,4WD,,черный,,левый,1 поколение,2.5 T-GDI AT 4WD Elegance,0,6420000
+28449,https://moscow.drom.ru/genesis/gv70/45251923.html,Genesis,GV70,Москва,2021,бензин,2.5,249,АКПП,4WD,,черный,,левый,1 поколение,2.5 T-GDI AT 4WD Elegance,0,6420000
+28450,https://moscow.drom.ru/genesis/gv70/45251927.html,Genesis,GV70,Москва,2021,бензин,2.5,249,АКПП,4WD,,белый,,левый,1 поколение,2.5 T-GDI AT 4WD Elegance,0,6480000
+28451,https://moscow.drom.ru/genesis/gv70/45251943.html,Genesis,GV70,Москва,2021,дизель,2.2,199,АКПП,4WD,,красный,,левый,1 поколение,2.2D VGT AT 4WD Elegance,0,6370000
+28452,https://moscow.drom.ru/genesis/g70/48990447.html,Genesis,G70,Москва,2019,бензин,2.0,197,АКПП,4WD,седан,серый,39400,левый,1 поколение,2.0 T-GDI AT 4WD Elegance,0,2499000
+28453,https://spb.drom.ru/genesis/gv80/48988951.html,Genesis,GV80,Санкт-Петербург,2022,бензин,2.5,249,АКПП,4WD,,зеленый,,левый,1 поколение,,0,10344000
+28454,https://novosibirsk.drom.ru/genesis/gv70/46265763.html,Genesis,GV70,Новосибирск,2021,бензин,2.5,249,АКПП,4WD,,серый,новый автомобиль,левый,1 поколение,2.5 T-GDI AT 4WD Elegance,0,7000000
+28455,https://moscow.drom.ru/genesis/g80/48984812.html,Genesis,G80,Москва,2018,бензин,2.0,197,АКПП,4WD,,черный,72000,левый,1 поколение,2.0 T-GDI AT 4WD Business,0,2670000
+28456,https://vladivostok.drom.ru/genesis/gv80/48145974.html,Genesis,GV80,Владивосток,2022,дизель,3.0,249,АКПП,4WD,,белый,2790,левый,1 поколение,3.0 VGT AT 4WD Luxury 5 мест,0,7000000
+28457,https://spb.drom.ru/genesis/gv80/46249415.html,Genesis,GV80,Санкт-Петербург,2021,бензин,2.5,249,АКПП,4WD,,зеленый,,левый,1 поколение,2.5 T-GDI AT 4WD Luxury 5 мест,0,10300000
+28458,https://vladivostok.drom.ru/genesis/gv80/49017101.html,Genesis,GV80,Владивосток,2022,бензин,2.5,249,АКПП,4WD,,белый,400,левый,1 поколение,,0,6970000
+28459,https://spb.drom.ru/genesis/g80/48389887.html,Genesis,G80,Санкт-Петербург,2018,бензин,2.0,197,АКПП,4WD,,черный,41371,левый,1 поколение,2.0 T-GDI AT 4WD Business,0,2569000
+28460,https://spb.drom.ru/genesis/g80/48389111.html,Genesis,G80,Санкт-Петербург,2019,бензин,2.0,197,АКПП,4WD,,черный,85753,левый,1 поколение,,0,2389789
+28461,https://moscow.drom.ru/genesis/g90/48382268.html,Genesis,G90,Москва,2022,бензин,3.3,370,АКПП,4WD,,синий,,левый,"1 поколение, рестайлинг",3.3 T-GDI AT 4WD Elite,0,15900000
+28463,https://moscow.drom.ru/genesis/gv70/48382275.html,Genesis,GV70,Москва,2021,дизель,2.2,199,АКПП,4WD,,синий,,левый,1 поколение,2.2D VGT AT 4WD Elegance,0,7077975
+28465,https://moscow.drom.ru/genesis/gv80/48382278.html,Genesis,GV80,Москва,2022,бензин,3.5,379,АКПП,4WD,,черный,,левый,1 поколение,,0,14995260
+28467,https://spb.drom.ru/genesis/g70/47564737.html,Genesis,G70,Санкт-Петербург,2019,бензин,2.0,197,АКПП,4WD,седан,черный,94365,левый,1 поколение,2.0 T-GDI AT 4WD Elegance,0,1885000
+28468,https://spb.drom.ru/genesis/gv80/47044291.html,Genesis,GV80,Санкт-Петербург,2022,бензин,2.5,249,АКПП,4WD,,зеленый,,левый,1 поколение,2.5 T-GDI AT 4WD Premium 5 мест,0,9960000
+28469,https://moscow.drom.ru/genesis/g70/46384564.html,Genesis,G70,Москва,2018,бензин,2.0,197,АКПП,4WD,седан,белый,83766,левый,1 поколение,2.0 T-GDI AT 4WD Elegance,0,1760000
+28470,https://moscow.drom.ru/genesis/g70/46000526.html,Genesis,G70,Москва,2018,бензин,2.0,197,АКПП,4WD,седан,белый,82610,левый,1 поколение,2.0 T-GDI AT 4WD Elegance,0,1500000
+28471,https://moscow.drom.ru/genesis/gv70/45412322.html,Genesis,GV70,Москва,2021,дизель,2.2,199,АКПП,4WD,,белый,,левый,1 поколение,,0,7891590
+28472,https://moscow.drom.ru/genesis/gv70/45413550.html,Genesis,GV70,Москва,2021,бензин,2.5,249,АКПП,4WD,,красный,,левый,1 поколение,2.5 T-GDI AT 4WD Elegance,0,7907000
+28473,https://moscow.drom.ru/genesis/g70/49067385.html,Genesis,G70,Москва,2018,бензин,2.0,197,АКПП,4WD,седан,черный,97610,левый,1 поколение,2.0 T-GDI AT 4WD Advance,0,1925000
+28474,https://moscow.drom.ru/genesis/g70/49067382.html,Genesis,G70,Москва,2018,бензин,2.0,197,АКПП,4WD,седан,черный,95629,левый,1 поколение,2.0 T-GDI AT 4WD Advance,0,1845000
+28475,https://moscow.drom.ru/genesis/g70/49067365.html,Genesis,G70,Москва,2018,бензин,2.0,197,АКПП,4WD,седан,черный,97545,левый,1 поколение,2.0 T-GDI AT 4WD Advance,0,1880000
+28476,https://moscow.drom.ru/genesis/g70/49067361.html,Genesis,G70,Москва,2018,бензин,2.0,197,АКПП,4WD,седан,черный,105225,левый,1 поколение,2.0 T-GDI AT 4WD Advance,0,1925000
+28477,https://moscow.drom.ru/genesis/g70/48482570.html,Genesis,G70,Москва,2022,бензин,2.0,197,АКПП,4WD,седан,красный,,левый,"1 поколение, рестайлинг",,0,4999000
+28478,https://moscow.drom.ru/genesis/gv70/48482571.html,Genesis,GV70,Москва,2022,бензин,2.5,249,АКПП,4WD,,серый,,левый,1 поколение,,0,6700000
+28479,https://moscow.drom.ru/genesis/gv70/48482577.html,Genesis,GV70,Москва,2022,бензин,2.5,249,АКПП,4WD,,серый,,левый,1 поколение,,0,6700000
+28480,https://moscow.drom.ru/genesis/g70/48482438.html,Genesis,G70,Москва,2019,бензин,2.0,197,АКПП,4WD,седан,черный,95168,левый,1 поколение,2.0 T-GDI AT 4WD Advance,0,1795000
+28481,https://omsk.drom.ru/genesis/g80/48147691.html,Genesis,G80,Омск,2022,бензин,2.5,249,АКПП,4WD,,черный,750,левый,2 поколение,2.5 T-GDI AT 4WD Luxury,0,6700000
+28482,https://moscow.drom.ru/genesis/g80/47473899.html,Genesis,G80,Москва,2021,бензин,2.5,249,АКПП,4WD,,черный,23000,левый,2 поколение,,0,5000000
+28483,https://yaroslavl.drom.ru/genesis/g80/49161691.html,Genesis,G80,Ярославль,2019,бензин,2.0,197,АКПП,4WD,,черный,26895,левый,1 поколение,2.0 T-GDI AT 4WD Premium,0,3199000
+28484,https://spb.drom.ru/genesis/gv80/48479110.html,Genesis,GV80,Санкт-Петербург,2022,бензин,2.5,249,АКПП,4WD,,зеленый,,левый,1 поколение,,0,8735000
+28485,https://spb.drom.ru/genesis/gv80/48075187.html,Genesis,GV80,Санкт-Петербург,2022,дизель,3.0,249,АКПП,4WD,,синий,,левый,1 поколение,,0,10511000
+28486,https://spb.drom.ru/genesis/gv70/46466815.html,Genesis,GV70,Санкт-Петербург,2022,бензин,2.5,249,АКПП,4WD,,белый,,левый,1 поколение,,0,8375040
+28487,https://spb.drom.ru/genesis/gv70/48788710.html,Genesis,GV70,Санкт-Петербург,2022,дизель,2.2,199,АКПП,4WD,,белый,,левый,1 поколение,,0,8500000
+28488,https://spb.drom.ru/genesis/gv70/48788707.html,Genesis,GV70,Санкт-Петербург,2022,дизель,2.2,199,АКПП,4WD,,белый,,левый,1 поколение,,0,7280000
+28489,https://spb.drom.ru/genesis/g90/48788713.html,Genesis,G90,Санкт-Петербург,2022,бензин,3.3,370,АКПП,4WD,,черный,,левый,"1 поколение, рестайлинг",,0,15945000
+28490,https://moscow.drom.ru/genesis/gv70/48808823.html,Genesis,GV70,Москва,2021,дизель,2.2,199,АКПП,4WD,,черный,17255,левый,1 поколение,,0,4477000
+28491,https://moscow.drom.ru/genesis/gv80/49160356.html,Genesis,GV80,Москва,2022,бензин,2.5,249,АКПП,4WD,,серый,89,левый,1 поколение,,0,6499800
+28493,https://spb.drom.ru/genesis/gv70/48075184.html,Genesis,GV70,Санкт-Петербург,2022,бензин,2.5,249,АКПП,4WD,,черный,,левый,1 поколение,,0,8121000
+28494,https://surgut.drom.ru/genesis/g70/46764045.html,Genesis,G70,Сургут,2021,бензин,2.0,197,АКПП,4WD,седан,серый,31064,левый,1 поколение,,0,3275000
+28495,https://spb.drom.ru/genesis/gv70/49158746.html,Genesis,GV70,Санкт-Петербург,2022,дизель,2.2,199,АКПП,4WD,,белый,,левый,1 поколение,,0,6600000
+28496,https://vladivostok.drom.ru/genesis/gv80/48731930.html,Genesis,GV80,Владивосток,2020,дизель,3.0,273,АКПП,4WD,,белый,41000,левый,1 поколение,3.0 e-VGT AT 4WD 5 seats,1,5780000
+28497,https://moscow.drom.ru/genesis/gv70/46181000.html,Genesis,GV70,Москва,2021,бензин,2.5,249,АКПП,4WD,,белый,,левый,1 поколение,2.5 T-GDI AT 4WD Elegance,0,6480000
+28498,https://moscow.drom.ru/genesis/gv70/46181025.html,Genesis,GV70,Москва,2021,дизель,2.2,199,АКПП,4WD,,белый,,левый,1 поколение,2.2D VGT AT 4WD Elegance,0,6430000
+28499,https://moscow.drom.ru/genesis/gv70/46180998.html,Genesis,GV70,Москва,2021,бензин,2.5,249,АКПП,4WD,,бордовый,,левый,1 поколение,2.5 T-GDI AT 4WD Elegance,0,6480000
+28500,https://moscow.drom.ru/genesis/gv70/46180999.html,Genesis,GV70,Москва,2021,бензин,2.5,249,АКПП,4WD,,черный,,левый,1 поколение,2.5 T-GDI AT 4WD Elegance,0,6420000
+28501,https://moscow.drom.ru/genesis/gv70/46180988.html,Genesis,GV70,Москва,2021,дизель,2.2,199,АКПП,4WD,,черный,,левый,1 поколение,2.2D VGT AT 4WD Elegance,0,6370000
+28502,https://moscow.drom.ru/genesis/gv70/46180989.html,Genesis,GV70,Москва,2021,дизель,2.2,199,АКПП,4WD,,черный,,левый,1 поколение,2.2D VGT AT 4WD Elegance,0,6370000
+28503,https://moscow.drom.ru/genesis/gv70/46180993.html,Genesis,GV70,Москва,2021,дизель,2.2,199,АКПП,4WD,,синий,,левый,1 поколение,2.2D VGT AT 4WD Elegance,0,6370000
+28504,https://moscow.drom.ru/genesis/gv70/46180997.html,Genesis,GV70,Москва,2021,бензин,2.5,249,АКПП,4WD,,белый,,левый,1 поколение,2.5 T-GDI AT 4WD Advance,0,7130000
+28505,https://moscow.drom.ru/genesis/gv70/46180976.html,Genesis,GV70,Москва,2021,дизель,2.2,199,АКПП,4WD,,бордовый,,левый,1 поколение,2.2D VGT AT 4WD Elegance,0,6430000
+28506,https://moscow.drom.ru/genesis/gv70/46180978.html,Genesis,GV70,Москва,2021,дизель,2.2,199,АКПП,4WD,,красный,,левый,1 поколение,2.2D VGT AT 4WD Elegance,0,6370000
+28507,https://moscow.drom.ru/genesis/gv70/46180983.html,Genesis,GV70,Москва,2021,дизель,2.2,199,АКПП,4WD,,белый,,левый,1 поколение,2.2D VGT AT 4WD Elegance,0,6430000
+28508,https://moscow.drom.ru/genesis/gv80/44999714.html,Genesis,GV80,Москва,2021,дизель,3.0,249,АКПП,4WD,,зеленый,,левый,1 поколение,3.0 VGT AT 4WD Luxury 5 мест,0,10660000
+28509,https://moscow.drom.ru/genesis/gv80/44999715.html,Genesis,GV80,Москва,2021,дизель,3.0,249,АКПП,4WD,,серый,,левый,1 поколение,3.0 VGT AT 4WD Luxury 5 мест,0,10590000
+28510,https://moscow.drom.ru/genesis/gv80/44999716.html,Genesis,GV80,Москва,2021,дизель,3.0,249,АКПП,4WD,,серый,,левый,1 поколение,3.0 VGT AT 4WD Luxury 5 мест,0,10590000
+28511,https://moscow.drom.ru/genesis/gv80/46180897.html,Genesis,GV80,Москва,2021,дизель,3.0,249,АКПП,4WD,,белый,,левый,1 поколение,3.0 VGT AT 4WD Elite 5 мест,0,10910000
+28512,https://moscow.drom.ru/genesis/gv80/46180902.html,Genesis,GV80,Москва,2021,бензин,2.5,249,АКПП,4WD,,зеленый,,левый,1 поколение,2.5 T-GDI AT 4WD Premium 7 Мест,0,9990000
+28513,https://moscow.drom.ru/genesis/gv70/46180890.html,Genesis,GV70,Москва,2021,бензин,2.5,249,АКПП,4WD,,черный,,левый,1 поколение,2.5 T-GDI AT 4WD Elegance,0,6420000
+28514,https://moscow.drom.ru/genesis/gv70/46180891.html,Genesis,GV70,Москва,2021,бензин,2.5,249,АКПП,4WD,,черный,,левый,1 поколение,2.5 T-GDI AT 4WD Elegance,0,6420000
+28515,https://moscow.drom.ru/genesis/gv70/46180893.html,Genesis,GV70,Москва,2021,бензин,2.5,249,АКПП,4WD,,синий,,левый,1 поколение,2.5 T-GDI AT 4WD Elegance,0,6420000
+28516,https://moscow.drom.ru/genesis/gv70/46180894.html,Genesis,GV70,Москва,2021,бензин,2.5,249,АКПП,4WD,,белый,,левый,1 поколение,2.5 T-GDI AT 4WD Elegance,0,6480000
+28517,https://moscow.drom.ru/genesis/g70/47247074.html,Genesis,G70,Москва,2018,бензин,2.0,197,АКПП,4WD,седан,белый,77762,левый,1 поколение,2.0 T-GDI AT 4WD Elegance,0,1740000
+28518,https://moscow.drom.ru/genesis/g70/47247076.html,Genesis,G70,Москва,2018,бензин,2.0,197,АКПП,4WD,седан,белый,98982,левый,1 поколение,2.0 T-GDI AT 4WD Elegance,0,1660000
+28519,https://moscow.drom.ru/genesis/g70/46289514.html,Genesis,G70,Москва,2018,бензин,2.0,197,АКПП,4WD,седан,белый,87851,левый,1 поколение,2.0 T-GDI AT 4WD Elegance,0,1705000
+28520,https://moscow.drom.ru/genesis/gv70/45204221.html,Genesis,GV70,Москва,2021,бензин,2.5,249,АКПП,4WD,,бордовый,,левый,1 поколение,2.5 T-GDI AT 4WD Elegance,0,6480000
+28521,https://moscow.drom.ru/genesis/g90/47795591.html,Genesis,G90,Москва,2017,бензин,3.8,309,АКПП,4WD,,черный,180000,левый,1 поколение,3.8 GDI AT 4WD Elite,0,2500000
+28522,https://moscow.drom.ru/genesis/g70/48951326.html,Genesis,G70,Москва,2018,бензин,2.0,197,АКПП,4WD,седан,белый,85574,левый,1 поколение,2.0 T-GDI AT 4WD Elegance,0,1660000
+28523,https://moscow.drom.ru/genesis/g70/48951322.html,Genesis,G70,Москва,2018,бензин,2.0,197,АКПП,4WD,седан,белый,87006,левый,1 поколение,2.0 T-GDI AT 4WD Elegance,0,1820000
+28524,https://moscow.drom.ru/genesis/g70/48951323.html,Genesis,G70,Москва,2018,бензин,2.0,197,АКПП,4WD,седан,белый,88908,левый,1 поколение,2.0 T-GDI AT 4WD Elegance,0,1855000
+28525,https://barnaul.drom.ru/genesis/g80/48039766.html,Genesis,G80,Барнаул,2022,бензин,2.5,249,АКПП,4WD,,черный,новый автомобиль,левый,2 поколение,2.5 T-GDI AT 4WD Advance,0,5490000
+28526,https://kurgan.drom.ru/genesis/g80/47547239.html,Genesis,G80,Курган,2018,бензин,2.0,197,АКПП,4WD,,белый,84500,левый,1 поколение,2.0 T-GDI AT 4WD Business,0,2950000
+28527,https://mayma.drom.ru/genesis/gv80/48947420.html,Genesis,GV80,Майма,2020,дизель,3.0,249,АКПП,4WD,,серый,102500,левый,1 поколение,3.0 VGT AT 4WD Luxury 5 мест,0,6100000
+28528,https://naberezhnye-chelny.drom.ru/genesis/gv70/48600786.html,Genesis,GV70,Набережные Челны,2022,бензин,2.5,249,АКПП,4WD,,серебристый,,левый,1 поколение,2.5 T-GDI AT 4WD Supreme,1,6300000
+28529,https://omsk.drom.ru/genesis/g70/48943601.html,Genesis,G70,Омск,2019,бензин,3.3,370,автомат,задний,седан,серый,37600,левый,,,0,2900000
+28530,https://moscow.drom.ru/genesis/g80/48941583.html,Genesis,G80,Москва,2019,бензин,2.0,197,АКПП,4WD,,коричневый,56947,левый,1 поколение,,0,2865000
+28531,https://moscow.drom.ru/genesis/g80/48941573.html,Genesis,G80,Москва,2021,бензин,2.5,249,АКПП,4WD,,черный,33341,левый,2 поколение,2.5 T-GDI AT 4WD Advance,0,4880000
+28533,https://moscow.drom.ru/genesis/g70/48250694.html,Genesis,G70,Москва,2019,бензин,2.0,197,АКПП,4WD,седан,черный,89093,левый,1 поколение,2.0 T-GDI AT 4WD Advance,0,2000000
+28534,https://moscow.drom.ru/genesis/g70/48250696.html,Genesis,G70,Москва,2019,бензин,2.0,197,АКПП,4WD,седан,черный,90262,левый,1 поколение,2.0 T-GDI AT 4WD Advance,0,1925000
+28535,https://moscow.drom.ru/genesis/g70/48250698.html,Genesis,G70,Москва,2019,бензин,2.0,197,АКПП,4WD,седан,черный,88624,левый,1 поколение,2.0 T-GDI AT 4WD Advance,0,1925000
+28536,https://moscow.drom.ru/genesis/g70/48250699.html,Genesis,G70,Москва,2019,бензин,2.0,197,АКПП,4WD,седан,черный,86464,левый,1 поколение,2.0 T-GDI AT 4WD Advance,0,2000000
+28537,https://moscow.drom.ru/genesis/g70/46930899.html,Genesis,G70,Москва,2018,бензин,2.0,197,АКПП,4WD,седан,белый,84987,левый,1 поколение,2.0 T-GDI AT 4WD Elegance,0,1850000
+28538,https://moscow.drom.ru/genesis/g70/46930914.html,Genesis,G70,Москва,2018,бензин,2.0,197,АКПП,4WD,седан,белый,92088,левый,1 поколение,2.0 T-GDI AT 4WD Elegance,0,2020000
+28539,https://spb.drom.ru/genesis/g90/46931643.html,Genesis,G90,Санкт-Петербург,2022,бензин,3.8,309,АКПП,4WD,,черный,,левый,"1 поколение, рестайлинг",3.8 GDI AT 4WD Premier,0,21100000
+28540,https://moscow.drom.ru/genesis/g70/45911970.html,Genesis,G70,Москва,2018,бензин,2.0,197,АКПП,4WD,седан,черный,86675,левый,1 поколение,2.0 T-GDI AT 4WD Advance,0,1810000
+28541,https://moscow.drom.ru/genesis/gv70/45545534.html,Genesis,GV70,Москва,2021,бензин,2.5,249,АКПП,4WD,,белый,,левый,1 поколение,2.5 T-GDI AT 4WD Advance,0,7130000
+28542,https://moscow.drom.ru/genesis/gv70/45251925.html,Genesis,GV70,Москва,2021,бензин,2.5,249,АКПП,4WD,,серебристый,,левый,1 поколение,2.5 T-GDI AT 4WD Elegance,0,6420000
+28543,https://moscow.drom.ru/genesis/gv70/45251942.html,Genesis,GV70,Москва,2021,дизель,2.2,199,АКПП,4WD,,серый,,левый,1 поколение,2.2D VGT AT 4WD Elegance,0,6370000
+28544,https://moscow.drom.ru/genesis/gv70/45238790.html,Genesis,GV70,Москва,2021,дизель,2.2,199,АКПП,4WD,,черный,,левый,1 поколение,2.2D VGT AT 4WD Elegance,0,6764070
+28545,https://spb.drom.ru/genesis/gv80/44840190.html,Genesis,GV80,Санкт-Петербург,2021,дизель,3.0,249,АКПП,4WD,,серый,,левый,1 поколение,3.0 VGT AT 4WD Luxury 5 мест,0,10590000
+28546,https://naberezhnye-chelny.drom.ru/genesis/gv80/48886878.html,Genesis,GV80,Набережные Челны,2022,бензин,2.5,249,АКПП,4WD,,белый,11000,левый,1 поколение,2.5 T-GDI AT 4WD Executive 5 мест,1,7000000
+28547,https://moscow.drom.ru/genesis/gv80/48257178.html,Genesis,GV80,Москва,2022,дизель,3.0,249,АКПП,4WD,,красный,,левый,1 поколение,,0,8499000
+28548,https://nakhodka.drom.ru/genesis/g70/48961381.html,Genesis,G70,Находка,2022,бензин,2.0,247,АКПП,4WD,седан,черный,5500,левый,"1 поколение, рестайлинг",2.0 T-GDI AT 4WD Supreme,0,4800000
+28549,https://bataysk.drom.ru/genesis/g80/47395185.html,Genesis,G80,Батайск,2017,бензин,2.0,245,АКПП,4WD,,синий,150000,левый,1 поколение,2.0 T-GDI AT 4WD Premium,0,2330000
+28550,https://spb.drom.ru/genesis/gv80/48958266.html,Genesis,GV80,Санкт-Петербург,2022,бензин,2.5,249,АКПП,4WD,,зеленый,,левый,1 поколение,,0,10614000
+28551,https://chehov.drom.ru/genesis/g80/48957182.html,Genesis,G80,Чехов,2019,бензин,2.0,245,автомат,4WD,,белый,151591,правый,,,0,2200000
+28552,https://ivanteevka.drom.ru/genesis/g80/48269666.html,Genesis,G80,Ивантеевка,2020,бензин,2.0,197,АКПП,4WD,,черный,46761,левый,1 поколение,2.0 T-GDI AT 4WD Premium,0,3420000
+28554,https://spb.drom.ru/genesis/gv80/48609143.html,Genesis,GV80,Санкт-Петербург,2022,бензин,2.5,249,АКПП,4WD,,черный,,левый,1 поколение,,0,8631000
+28555,https://spb.drom.ru/genesis/g70/48609140.html,Genesis,G70,Санкт-Петербург,2022,бензин,2.0,197,АКПП,4WD,седан,синий,,левый,"1 поколение, рестайлинг",,0,4957000
+28556,https://spb.drom.ru/genesis/g80/48237753.html,Genesis,G80,Санкт-Петербург,2022,дизель,2.2,199,АКПП,4WD,,синий,,левый,2 поколение,2.2D VGT AT 4WD Advance,0,7605000
+28557,https://irkutsk.drom.ru/genesis/g80/48952737.html,Genesis,G80,Иркутск,2017,бензин,2.0,245,АКПП,4WD,,черный,85000,левый,1 поколение,,0,2300000
+28558,https://moscow.drom.ru/genesis/g70/48606027.html,Genesis,G70,Москва,2018,бензин,2.0,197,АКПП,4WD,седан,белый,82287,левый,1 поколение,2.0 T-GDI AT 4WD Elegance,0,1720000
+28559,https://moscow.drom.ru/genesis/g70/48606014.html,Genesis,G70,Москва,2018,бензин,2.0,197,АКПП,4WD,седан,белый,95450,левый,1 поколение,2.0 T-GDI AT 4WD Elegance,0,1925000
+28561,https://moscow.drom.ru/genesis/g70/48262843.html,Genesis,G70,Москва,2019,бензин,2.0,197,АКПП,4WD,седан,черный,87087,левый,1 поколение,2.0 T-GDI AT 4WD Elegance,0,2000000
+28562,https://moscow.drom.ru/genesis/g70/48262834.html,Genesis,G70,Москва,2019,бензин,2.0,197,АКПП,4WD,седан,черный,89293,левый,1 поколение,2.0 T-GDI AT 4WD Elegance,0,1800000
+28563,https://moscow.drom.ru/genesis/g70/48262835.html,Genesis,G70,Москва,2019,бензин,2.0,197,АКПП,4WD,седан,черный,86865,левый,1 поколение,2.0 T-GDI AT 4WD Elegance,0,1925000
+28564,https://moscow.drom.ru/genesis/g70/48262838.html,Genesis,G70,Москва,2019,бензин,2.0,197,АКПП,4WD,седан,черный,93729,левый,1 поколение,2.0 T-GDI AT 4WD Elegance,0,2000000
+28565,https://moscow.drom.ru/genesis/g70/48262839.html,Genesis,G70,Москва,2019,бензин,2.0,197,АКПП,4WD,седан,черный,81039,левый,1 поколение,2.0 T-GDI AT 4WD Elegance,0,1800000
+28566,https://moscow.drom.ru/genesis/gv70/48237317.html,Genesis,GV70,Москва,2021,дизель,2.2,199,АКПП,4WD,,черный,,левый,1 поколение,2.2D VGT AT 4WD Elegance,0,7077975
+28568,https://spb.drom.ru/genesis/gv70/47252182.html,Genesis,GV70,Санкт-Петербург,2022,бензин,2.5,249,АКПП,4WD,,красный,,левый,1 поколение,2.5 T-GDI AT 4WD Advance,0,7490000
+28569,https://spb.drom.ru/genesis/gv80/47252175.html,Genesis,GV80,Санкт-Петербург,2022,бензин,2.5,249,АКПП,4WD,,черный,,левый,1 поколение,2.5 T-GDI AT 4WD Prestige 5 мест,0,9090000
+28570,https://spb.drom.ru/genesis/gv80/47252176.html,Genesis,GV80,Санкт-Петербург,2022,бензин,2.5,249,АКПП,4WD,,черный,,левый,1 поколение,2.5 T-GDI AT 4WD Executive 7 Мест,0,9690000
+28571,https://spb.drom.ru/genesis/gv80/47252177.html,Genesis,GV80,Санкт-Петербург,2022,бензин,2.5,249,АКПП,4WD,,черный,,левый,1 поколение,2.5 T-GDI AT 4WD Premium 5 мест,0,9890000
+28572,https://spb.drom.ru/genesis/gv70/47252178.html,Genesis,GV70,Санкт-Петербург,2022,бензин,2.5,249,АКПП,4WD,,серый,,левый,1 поколение,2.5 T-GDI AT 4WD Elegance,0,6560000
+28573,https://moscow.drom.ru/genesis/g70/47247070.html,Genesis,G70,Москва,2018,бензин,2.0,197,АКПП,4WD,седан,белый,87626,левый,1 поколение,2.0 T-GDI AT 4WD Elegance,0,1745000
+28574,https://moscow.drom.ru/genesis/g70/47247071.html,Genesis,G70,Москва,2018,бензин,2.0,197,АКПП,4WD,седан,белый,83852,левый,1 поколение,2.0 T-GDI AT 4WD Elegance,0,1855000
+28575,https://moscow.drom.ru/genesis/g70/47247072.html,Genesis,G70,Москва,2018,бензин,2.0,197,АКПП,4WD,седан,белый,93728,левый,1 поколение,2.0 T-GDI AT 4WD Elegance,0,1705000
+28576,https://moscow.drom.ru/genesis/g70/47247073.html,Genesis,G70,Москва,2018,бензин,2.0,197,АКПП,4WD,седан,белый,101304,левый,1 поколение,2.0 T-GDI AT 4WD Elegance,0,1660000
+28577,https://moscow.drom.ru/genesis/g90/47159695.html,Genesis,G90,Москва,2022,бензин,5.0,413,АКПП,4WD,,черный,,левый,"1 поколение, рестайлинг",,0,18980040
+28579,https://moscow.drom.ru/genesis/gv80/45499370.html,Genesis,GV80,Москва,2021,дизель,3.0,249,АКПП,4WD,,серый,,левый,1 поколение,3.0 VGT AT 4WD Luxury 5 мест,0,10590000
+28580,https://moscow.drom.ru/genesis/gv70/45238376.html,Genesis,GV70,Москва,2021,дизель,2.2,199,АКПП,4WD,,черный,,левый,1 поколение,2.2D VGT AT 4WD Elegance,0,6764070
+28581,https://ufa.drom.ru/genesis/g80/48925654.html,Genesis,G80,Уфа,2022,дизель,2.2,199,АКПП,4WD,,черный,50,левый,2 поколение,2.2D VGT AT 4WD Elite,0,5300000
+28582,https://moscow.drom.ru/genesis/g80/48921022.html,Genesis,G80,Москва,2019,бензин,2.0,197,АКПП,4WD,,черный,9230,левый,1 поколение,,0,3350000
+28583,https://ekaterinburg.drom.ru/genesis/g80/48230934.html,Genesis,G80,Екатеринбург,2022,бензин,2.5,249,АКПП,4WD,,белый,56,левый,2 поколение,,0,5900000
+28584,https://moscow.drom.ru/genesis/g80/48573872.html,Genesis,G80,Москва,2022,бензин,2.5,249,АКПП,4WD,,черный,,левый,2 поколение,2.5 T-GDI AT 4WD Business,0,6984705
+28585,https://moscow.drom.ru/genesis/g80/48573876.html,Genesis,G80,Москва,2022,бензин,2.5,249,АКПП,4WD,,серый,,левый,2 поколение,2.5 T-GDI AT 4WD Business,0,6499000
+28586,https://moscow.drom.ru/genesis/g80/48573878.html,Genesis,G80,Москва,2022,бензин,2.5,249,АКПП,4WD,,серый,,левый,2 поколение,2.5 T-GDI AT 4WD Business,0,6499000
+28587,https://moscow.drom.ru/genesis/g80/48573882.html,Genesis,G80,Москва,2022,бензин,2.5,249,АКПП,4WD,,черный,,левый,2 поколение,2.5 T-GDI AT 4WD Business,0,6995066
+28588,https://moscow.drom.ru/genesis/g80/48573884.html,Genesis,G80,Москва,2022,бензин,2.5,249,АКПП,4WD,,серый,,левый,2 поколение,2.5 T-GDI AT 4WD Business,0,6499000
+28589,https://moscow.drom.ru/genesis/g80/48573885.html,Genesis,G80,Москва,2022,бензин,2.5,249,АКПП,4WD,,серый,,левый,2 поколение,2.5 T-GDI AT 4WD Business,0,6499000
+28590,https://spb.drom.ru/genesis/g80/48233071.html,Genesis,G80,Санкт-Петербург,2019,бензин,2.0,245,АКПП,4WD,,синий,37490,левый,1 поколение,,0,2650000
+28591,https://novokuznetsk.drom.ru/genesis/g70/47886509.html,Genesis,G70,Новокузнецк,2019,бензин,2.0,197,АКПП,4WD,седан,черный,40000,левый,1 поколение,2.0 T-GDI AT 4WD Elegance,1,2850000
+28592,https://moscow.drom.ru/genesis/gv80/47562557.html,Genesis,GV80,Москва,2022,бензин,2.5,249,АКПП,4WD,,синий,,левый,1 поколение,,0,9005420
+28594,https://krasnodar.drom.ru/genesis/g70/47552114.html,Genesis,G70,Краснодар,2021,бензин,2.0,197,АКПП,4WD,седан,черный,7100,левый,1 поколение,,0,3280000
+28595,https://surgut.drom.ru/genesis/g70/43723892.html,Genesis,G70,Сургут,2019,бензин,2.0,197,АКПП,4WD,седан,белый,65000,левый,1 поколение,2.0 T-GDI AT 4WD Elegance,1,2300000
+28596,https://moscow.drom.ru/genesis/gv80/48572353.html,Genesis,GV80,Москва,2022,бензин,3.5,379,АКПП,4WD,,черный,,левый,1 поколение,,0,14995260
+28598,https://moscow.drom.ru/genesis/g70/47187488.html,Genesis,G70,Москва,2018,бензин,2.0,197,АКПП,4WD,седан,белый,91909,левый,1 поколение,2.0 T-GDI AT 4WD Elegance,0,2100000
+28599,https://spb.drom.ru/genesis/gv80/46200903.html,Genesis,GV80,Санкт-Петербург,2021,дизель,3.0,249,АКПП,4WD,,белый,,левый,1 поколение,3.0 VGT AT 4WD Elite 5 мест,0,10910000
+28600,https://moscow.drom.ru/genesis/g70/45842942.html,Genesis,G70,Москва,2018,бензин,2.0,197,АКПП,4WD,седан,белый,93610,левый,1 поколение,2.0 T-GDI AT 4WD Elegance,0,1585000
+28602,https://moscow.drom.ru/genesis/gv80/48884715.html,Genesis,GV80,Москва,2022,бензин,2.5,249,АКПП,4WD,,зеленый,,левый,1 поколение,,0,9160000
+28603,https://moscow.drom.ru/genesis/gv80/48884716.html,Genesis,GV80,Москва,2022,бензин,2.5,249,АКПП,4WD,,зеленый,,левый,1 поколение,2.5 T-GDI AT 4WD Executive 5 мест,0,9660000
+28604,https://moscow.drom.ru/genesis/gv80/48884719.html,Genesis,GV80,Москва,2022,дизель,3.0,249,АКПП,4WD,,серый,,левый,1 поколение,,0,9590000
+28605,https://moscow.drom.ru/genesis/gv70/48884710.html,Genesis,GV70,Москва,2022,дизель,2.2,199,АКПП,4WD,,бордовый,,левый,1 поколение,2.2D VGT AT 4WD Advance,0,7350000
+28606,https://moscow.drom.ru/genesis/gv70/48884711.html,Genesis,GV70,Москва,2022,дизель,2.2,199,АКПП,4WD,,,,левый,1 поколение,2.2D VGT AT 4WD Supreme,0,7660000
+28607,https://moscow.drom.ru/genesis/gv70/48884712.html,Genesis,GV70,Москва,2022,бензин,2.5,249,АКПП,4WD,,зеленый,,левый,1 поколение,2.5 T-GDI AT 4WD Elegance,0,6500000
+28608,https://moscow.drom.ru/genesis/gv70/48884713.html,Genesis,GV70,Москва,2022,бензин,2.5,249,АКПП,4WD,,синий,,левый,1 поколение,2.5 T-GDI AT 4WD Advance,0,7490000
+28609,https://moscow.drom.ru/genesis/gv80/48884714.html,Genesis,GV80,Москва,2022,бензин,2.5,249,АКПП,4WD,,зеленый,,левый,1 поколение,2.5 T-GDI AT 4WD Executive 5 мест,0,9460000
+28610,https://kazan.drom.ru/genesis/gv80/48880229.html,Genesis,GV80,Казань,2021,дизель,3.0,249,АКПП,4WD,,зеленый,6000,левый,1 поколение,3.0 VGT AT 4WD Elite 5 мест,0,9300000
+28611,https://moscow.drom.ru/genesis/gv80/46521854.html,Genesis,GV80,Москва,2020,бензин,3.5,379,АКПП,4WD,,зеленый,17608,левый,1 поколение,,0,6976000
+28612,https://novosibirsk.drom.ru/genesis/gv80/48876603.html,Genesis,GV80,Новосибирск,2022,дизель,3.0,249,АКПП,4WD,,зеленый,,левый,1 поколение,3.0 VGT AT 4WD Executive 5 мест,0,9800000
+28613,https://krasnoyarsk.drom.ru/genesis/g80/48876599.html,Genesis,G80,Красноярск,2017,бензин,2.0,245,АКПП,4WD,,черный,113951,левый,1 поколение,2.0 T-GDI AT 4WD Luxury,0,2575000
+28615,https://moscow.drom.ru/genesis/gv80/45118025.html,,,,,,,,,,,,,,,,0,
+28617,https://naberezhnye-chelny.drom.ru/genesis/gv80/48967219.html,,,,,,,,,,,,,,,,0,
+28619,https://moscow.drom.ru/genesis/g90/48965854.html,,,,,,,,,,,,,,,,0,
+28621,https://moscow.drom.ru/genesis/gv80/48964321.html,Genesis,GV80,Москва,2022,дизель,3.0,249,АКПП,4WD,,серый,,левый,1 поколение,,0,8499000
+28622,https://moscow.drom.ru/genesis/gv80/48964320.html,Genesis,GV80,Москва,2022,дизель,3.0,249,АКПП,4WD,,черный,,левый,1 поколение,,0,8000000
+28623,https://moscow.drom.ru/genesis/gv80/48964319.html,Genesis,GV80,Москва,2022,дизель,3.0,249,АКПП,4WD,,черный,,левый,1 поколение,,0,8499000
+28624,https://moscow.drom.ru/genesis/gv70/48964318.html,Genesis,GV70,Москва,2022,дизель,2.2,199,АКПП,4WD,,серебристый,,левый,1 поколение,2.2D VGT AT 4WD Elegance,0,6100000
+28625,https://moscow.drom.ru/genesis/gv80/48964317.html,Genesis,GV80,Москва,2022,дизель,3.0,249,АКПП,4WD,,серый,,левый,1 поколение,,0,8499000
+28626,https://moscow.drom.ru/genesis/gv70/48964316.html,Genesis,GV70,Москва,2022,дизель,2.2,199,АКПП,4WD,,серый,,левый,1 поколение,2.2D VGT AT 4WD Advance,0,6600000
+28627,https://moscow.drom.ru/genesis/gv80/48964315.html,Genesis,GV80,Москва,2022,дизель,3.0,249,АКПП,4WD,,зеленый,,левый,1 поколение,,0,8499000
+28628,https://moscow.drom.ru/genesis/gv80/48964314.html,Genesis,GV80,Москва,2022,дизель,3.0,249,АКПП,4WD,,синий,,левый,1 поколение,,0,8499000
+28629,https://moscow.drom.ru/genesis/gv80/48964313.html,Genesis,GV80,Москва,2022,дизель,3.0,249,АКПП,4WD,,белый,,левый,1 поколение,,0,8900000
+28630,https://moscow.drom.ru/genesis/gv70/48964312.html,Genesis,GV70,Москва,2022,дизель,2.2,199,АКПП,4WD,,зеленый,,левый,1 поколение,2.2D VGT AT 4WD Elegance,0,6100000
+28631,https://moscow.drom.ru/genesis/gv80/48964311.html,Genesis,GV80,Москва,2022,дизель,3.0,249,АКПП,4WD,,зеленый,,левый,1 поколение,,0,8499000
+28632,https://moscow.drom.ru/genesis/gv80/48964310.html,Genesis,GV80,Москва,2022,дизель,3.0,249,АКПП,4WD,,красный,,левый,1 поколение,,0,8499000
+28633,https://voronezh.drom.ru/genesis/g80/48621132.html,Genesis,G80,Воронеж,2018,бензин,2.0,245,АКПП,4WD,,серый,180074,левый,1 поколение,2.0 T-GDI AT 4WD Advance,0,1800000
+28634,https://spb.drom.ru/genesis/gv80/48279689.html,Genesis,GV80,Санкт-Петербург,2020,дизель,3.0,249,АКПП,4WD,,белый,3751,левый,1 поколение,,0,6550000
+28635,https://stavropol.drom.ru/genesis/g80/48278943.html,Genesis,G80,Ставрополь,2018,бензин,2.0,245,АКПП,4WD,,серый,70796,левый,1 поколение,2.0 T-GDI AT 4WD Advance,0,2570000
+28636,https://simferopol.drom.ru/genesis/g80/47599336.html,Genesis,G80,Симферополь,2017,бензин,2.0,245,АКПП,4WD,,белый,86000,левый,1 поколение,2.0 T-GDI AT 4WD Luxury,0,2950000
+28637,https://moscow.drom.ru/genesis/gv70/46180895.html,Genesis,GV70,Москва,2021,бензин,2.5,249,АКПП,4WD,,белый,,левый,1 поколение,2.5 T-GDI AT 4WD Elegance,0,6480000
+28638,https://moscow.drom.ru/genesis/gv70/46180885.html,Genesis,GV70,Москва,2021,дизель,2.2,199,АКПП,4WD,,синий,,левый,1 поколение,2.2D VGT AT 4WD Elegance,0,6370000
+28639,https://moscow.drom.ru/genesis/gv70/46180889.html,Genesis,GV70,Москва,2021,бензин,2.5,249,АКПП,4WD,,бордовый,,левый,1 поколение,2.5 T-GDI AT 4WD Elegance,0,6480000
+28640,https://moscow.drom.ru/genesis/gv70/44912031.html,Genesis,GV70,Москва,2021,дизель,2.2,199,АКПП,4WD,,зеленый,,левый,1 поколение,2.2D VGT AT 4WD Elegance,0,6490000
+28641,https://moscow.drom.ru/genesis/gv70/46180878.html,Genesis,GV70,Москва,2021,дизель,2.2,199,АКПП,4WD,,черный,,левый,1 поколение,2.2D VGT AT 4WD Elegance,0,6370000
+28642,https://moscow.drom.ru/genesis/gv70/46180879.html,Genesis,GV70,Москва,2021,дизель,2.2,199,АКПП,4WD,,белый,,левый,1 поколение,2.2D VGT AT 4WD Elegance,0,6430000
+28643,https://moscow.drom.ru/genesis/g80/46180869.html,Genesis,G80,Москва,2021,дизель,2.2,199,АКПП,4WD,,серебристый,,левый,2 поколение,2.2D VGT AT 4WD Advance,0,7725000
+28644,https://moscow.drom.ru/genesis/g80/46180870.html,Genesis,G80,Москва,2022,дизель,2.2,199,АКПП,4WD,,синий,,левый,2 поколение,2.2D VGT AT 4WD Advance,0,7605000
+28645,https://moscow.drom.ru/genesis/g80/46460936.html,Genesis,G80,Москва,2021,дизель,2.2,199,АКПП,4WD,,серебристый,,левый,2 поколение,2.2D VGT AT 4WD Premium,0,8075000
+28646,https://moscow.drom.ru/genesis/gv80/44842986.html,Genesis,GV80,Москва,2021,дизель,3.0,249,АКПП,4WD,,синий,,левый,1 поколение,3.0 VGT AT 4WD Luxury 5 мест,0,10790000
+28647,https://moscow.drom.ru/genesis/gv80/44842996.html,Genesis,GV80,Москва,2021,дизель,3.0,249,АКПП,4WD,,черный,,левый,1 поколение,3.0 VGT AT 4WD Luxury 7 мест,0,10690000
+28648,https://moscow.drom.ru/genesis/gv80/44585513.html,Genesis,GV80,Москва,2021,дизель,3.0,249,АКПП,4WD,,серый,,левый,1 поколение,3.0 VGT AT 4WD Luxury 5 мест,0,10590000
+28649,https://moscow.drom.ru/genesis/gv80/46180843.html,Genesis,GV80,Москва,2021,дизель,3.0,249,АКПП,4WD,,зеленый,,левый,1 поколение,3.0 VGT AT 4WD Luxury 5 мест,0,10660000
+28650,https://moscow.drom.ru/genesis/g80/45251906.html,Genesis,G80,Москва,2021,дизель,2.2,199,АКПП,4WD,,серебристый,,левый,2 поколение,2.2D VGT AT 4WD Premium,0,8075000
+28651,https://moscow.drom.ru/genesis/g70/48165088.html,Genesis,G70,Москва,2021,бензин,2.0,197,АКПП,4WD,седан,красный,,левый,"1 поколение, рестайлинг",2.0 T-GDI AT 4WD Advance,0,5310000
+28653,https://moscow.drom.ru/genesis/g90/48165094.html,Genesis,G90,Москва,2021,бензин,3.3,370,АКПП,4WD,,зеленый,,левый,"1 поколение, рестайлинг",3.3 T-GDI AT 4WD Elite,0,15540000
+28654,https://moscow.drom.ru/genesis/g70/47497936.html,Genesis,G70,Москва,2018,бензин,2.0,197,АКПП,4WD,седан,черный,109933,левый,1 поколение,2.0 T-GDI AT 4WD Advance,0,1925000
+28655,https://moscow.drom.ru/genesis/g70/46831828.html,Genesis,G70,Москва,2018,бензин,2.0,197,АКПП,4WD,седан,белый,91663,левый,1 поколение,2.0 T-GDI AT 4WD Elegance,0,1880000
+28656,https://moscow.drom.ru/genesis/gv70/45100938.html,Genesis,GV70,Москва,2021,дизель,2.2,199,АКПП,4WD,,синий,,левый,1 поколение,2.2D VGT AT 4WD Elegance,0,6370000
+28657,https://spb.drom.ru/genesis/gv70/48237783.html,Genesis,GV70,Санкт-Петербург,2021,дизель,2.2,199,АКПП,4WD,,белый,,левый,1 поколение,2.2D VGT AT 4WD Elegance,0,6430000
+28658,https://spb.drom.ru/genesis/gv70/48237785.html,Genesis,GV70,Санкт-Петербург,2021,дизель,2.2,199,АКПП,4WD,,черный,,левый,1 поколение,2.2D VGT AT 4WD Elegance,0,6370000
+28659,https://spb.drom.ru/genesis/gv70/48237786.html,Genesis,GV70,Санкт-Петербург,2021,дизель,2.2,199,АКПП,4WD,,белый,,левый,1 поколение,2.2D VGT AT 4WD Elegance,0,6430000
+28660,https://spb.drom.ru/genesis/gv70/48237787.html,Genesis,GV70,Санкт-Петербург,2021,дизель,2.2,199,АКПП,4WD,,черный,,левый,1 поколение,2.2D VGT AT 4WD Elegance,0,6370000
+28661,https://spb.drom.ru/genesis/gv70/48237789.html,Genesis,GV70,Санкт-Петербург,2021,дизель,2.2,199,АКПП,4WD,,бордовый,,левый,1 поколение,2.2D VGT AT 4WD Elegance,0,6430000
+28662,https://spb.drom.ru/genesis/gv70/48237792.html,Genesis,GV70,Санкт-Петербург,2021,дизель,2.2,199,АКПП,4WD,,белый,,левый,1 поколение,2.2D VGT AT 4WD Elegance,0,6430000
+28663,https://spb.drom.ru/genesis/gv70/48237794.html,Genesis,GV70,Санкт-Петербург,2021,дизель,2.2,199,АКПП,4WD,,синий,,левый,1 поколение,2.2D VGT AT 4WD Elegance,0,6370000
+28664,https://spb.drom.ru/genesis/gv70/48237795.html,Genesis,GV70,Санкт-Петербург,2021,дизель,2.2,199,АКПП,4WD,,черный,,левый,1 поколение,2.2D VGT AT 4WD Elegance,0,6370000
+28665,https://spb.drom.ru/genesis/gv70/48237796.html,Genesis,GV70,Санкт-Петербург,2021,бензин,2.5,249,АКПП,4WD,,белый,,левый,1 поколение,2.5 T-GDI AT 4WD Advance,0,7130000
+28666,https://spb.drom.ru/genesis/g90/48237754.html,Genesis,G90,Санкт-Петербург,2021,бензин,3.3,370,АКПП,4WD,,синий,,левый,"1 поколение, рестайлинг",3.3 T-GDI AT 4WD Elite,0,15540000
+28667,https://spb.drom.ru/genesis/gv80/48237757.html,Genesis,GV80,Санкт-Петербург,2021,дизель,3.0,249,АКПП,4WD,,серый,,левый,1 поколение,3.0 VGT AT 4WD Luxury 5 мест,0,10590000
+28668,https://spb.drom.ru/genesis/gv80/48237758.html,Genesis,GV80,Санкт-Петербург,2021,дизель,3.0,249,АКПП,4WD,,зеленый,,левый,1 поколение,3.0 VGT AT 4WD Luxury 5 мест,0,10660000
+28669,https://spb.drom.ru/genesis/gv80/48237765.html,Genesis,GV80,Санкт-Петербург,2021,дизель,3.0,249,АКПП,4WD,,черный,,левый,1 поколение,3.0 VGT AT 4WD Luxury 7 мест,0,10690000
+28670,https://spb.drom.ru/genesis/gv80/48237766.html,Genesis,GV80,Санкт-Петербург,2021,дизель,3.0,249,АКПП,4WD,,синий,,левый,1 поколение,3.0 VGT AT 4WD Luxury 5 мест,0,10790000
+28671,https://spb.drom.ru/genesis/gv80/48237767.html,Genesis,GV80,Санкт-Петербург,2021,дизель,3.0,249,АКПП,4WD,,зеленый,,левый,1 поколение,3.0 VGT AT 4WD Luxury 5 мест,0,10660000
+28672,https://spb.drom.ru/genesis/gv80/48237768.html,Genesis,GV80,Санкт-Петербург,2022,бензин,2.5,249,АКПП,4WD,,зеленый,,левый,1 поколение,2.5 T-GDI AT 4WD Executive 5 мест,0,9460000
+28673,https://spb.drom.ru/genesis/gv70/48237769.html,Genesis,GV70,Санкт-Петербург,2021,бензин,2.5,249,АКПП,4WD,,бордовый,,левый,1 поколение,2.5 T-GDI AT 4WD Elegance,0,6480000
+28674,https://spb.drom.ru/genesis/gv70/48237771.html,Genesis,GV70,Санкт-Петербург,2021,бензин,2.5,249,АКПП,4WD,,бордовый,,левый,1 поколение,2.5 T-GDI AT 4WD Elegance,0,6480000
+28675,https://spb.drom.ru/genesis/gv70/48237772.html,Genesis,GV70,Санкт-Петербург,2021,бензин,2.5,249,АКПП,4WD,,белый,,левый,1 поколение,2.5 T-GDI AT 4WD Elegance,0,6480000
+28676,https://spb.drom.ru/genesis/gv70/48237773.html,Genesis,GV70,Санкт-Петербург,2021,бензин,2.5,249,АКПП,4WD,,синий,,левый,1 поколение,2.5 T-GDI AT 4WD Elegance,0,6420000
+28677,https://spb.drom.ru/genesis/gv70/48237774.html,Genesis,GV70,Санкт-Петербург,2021,бензин,2.5,249,АКПП,4WD,,белый,,левый,1 поколение,2.5 T-GDI AT 4WD Elegance,0,6480000
+28678,https://spb.drom.ru/genesis/gv70/48237775.html,Genesis,GV70,Санкт-Петербург,2021,бензин,2.5,249,АКПП,4WD,,черный,,левый,1 поколение,2.5 T-GDI AT 4WD Elegance,0,6420000
+28679,https://spb.drom.ru/genesis/gv70/48237776.html,Genesis,GV70,Санкт-Петербург,2021,бензин,2.5,249,АКПП,4WD,,черный,,левый,1 поколение,2.5 T-GDI AT 4WD Elegance,0,6420000
+28680,https://spb.drom.ru/genesis/gv70/48237777.html,Genesis,GV70,Санкт-Петербург,2021,бензин,2.5,249,АКПП,4WD,,синий,,левый,1 поколение,2.5 T-GDI AT 4WD Elegance,0,6420000
+28681,https://spb.drom.ru/genesis/gv70/48237778.html,Genesis,GV70,Санкт-Петербург,2021,бензин,2.5,249,АКПП,4WD,,черный,,левый,1 поколение,2.5 T-GDI AT 4WD Elegance,0,6420000
+28682,https://spb.drom.ru/genesis/gv70/48237779.html,Genesis,GV70,Санкт-Петербург,2021,бензин,2.5,249,АКПП,4WD,,белый,,левый,1 поколение,2.5 T-GDI AT 4WD Elegance,0,6480000
+28683,https://moscow.drom.ru/genesis/gv80/48237306.html,Genesis,GV80,Москва,2021,дизель,3.0,249,АКПП,4WD,,серый,,левый,1 поколение,,0,9788670
+28684,https://moscow.drom.ru/genesis/gv70/48237313.html,Genesis,GV70,Москва,2021,дизель,2.2,199,АКПП,4WD,,синий,,левый,1 поколение,2.2D VGT AT 4WD Elegance,0,7077975
+28685,https://moscow.drom.ru/genesis/gv70/48237314.html,Genesis,GV70,Москва,2021,дизель,2.2,199,АКПП,4WD,,серый,,левый,1 поколение,2.2D VGT AT 4WD Elegance,0,7077975
+28686,https://moscow.drom.ru/genesis/gv70/48237319.html,Genesis,GV70,Москва,2021,дизель,2.2,199,АКПП,4WD,,синий,,левый,1 поколение,2.2D VGT AT 4WD Elegance,0,7077975
+28688,https://moscow.drom.ru/genesis/gv80/48234656.html,Genesis,GV80,Москва,2022,бензин,2.5,249,АКПП,4WD,,синий,,левый,1 поколение,,0,9005420
+28690,https://moscow.drom.ru/genesis/gv80/48234658.html,,,,,,,,,,,,,,,,0,
+28691,https://moscow.drom.ru/genesis/gv80/47785480.html,Genesis,GV80,Москва,2022,бензин,2.5,249,АКПП,4WD,,зеленый,,левый,1 поколение,,0,9905740
+28692,https://spb.drom.ru/genesis/gv80/47574340.html,Genesis,GV80,Санкт-Петербург,2022,бензин,2.5,249,АКПП,4WD,,зеленый,,левый,1 поколение,2.5 T-GDI AT 4WD Executive 5 мест,0,10000000
+28693,https://moscow.drom.ru/genesis/g80/47562563.html,Genesis,G80,Москва,2022,бензин,2.5,249,АКПП,4WD,,белый,,левый,2 поколение,,0,7990000
+28694,https://moscow.drom.ru/genesis/g80/47558829.html,Genesis,G80,Москва,2021,бензин,2.5,249,АКПП,4WD,,черный,35000,левый,2 поколение,2.5 T-GDI AT 4WD Premium,0,5000000
+28695,https://moscow.drom.ru/genesis/g90/47398156.html,Genesis,G90,Москва,2022,бензин,3.3,370,АКПП,4WD,,синий,,левый,"1 поколение, рестайлинг",3.3 T-GDI AT 4WD Elite,0,15900000
+28696,https://moscow.drom.ru/genesis/gv70/47259256.html,Genesis,GV70,Москва,2022,бензин,2.5,249,АКПП,4WD,,красный,,левый,1 поколение,2.5 T-GDI AT 4WD Elegance,0,6989070
+28697,https://sochi.drom.ru/genesis/g80/47987275.html,Genesis,G80,Сочи,2018,бензин,3.3,370,АКПП,4WD,,черный,81000,левый,1 поколение,3.3 T-GDI AT 4WD Ultimate,1,2700000
+28698,https://moscow.drom.ru/genesis/gv80/47615376.html,Genesis,GV80,Москва,2021,дизель,3.0,249,АКПП,4WD,,синий,40065,левый,1 поколение,,0,6100000
+28699,https://moscow.drom.ru/genesis/g70/45959330.html,Genesis,G70,Москва,2018,бензин,2.0,197,АКПП,4WD,седан,белый,91723,левый,1 поколение,2.0 T-GDI AT 4WD Elegance,0,1705000
+28700,https://spb.drom.ru/genesis/gv70/45838163.html,Genesis,GV70,Санкт-Петербург,2021,дизель,2.2,199,АКПП,4WD,,серый,,левый,1 поколение,2.2D VGT AT 4WD Elegance,0,6370000
+28701,https://spb.drom.ru/genesis/gv70/45623110.html,Genesis,GV70,Санкт-Петербург,2021,бензин,2.5,249,АКПП,4WD,,серебристый,,левый,1 поколение,2.5 T-GDI AT 4WD Elegance,0,6420000
+28702,https://moscow.drom.ru/genesis/gv80/45545501.html,Genesis,GV80,Москва,2021,бензин,2.5,249,АКПП,4WD,,зеленый,,левый,1 поколение,2.5 T-GDI AT 4WD Premium 7 Мест,0,9990000
+28703,https://spb.drom.ru/genesis/gv70/45238305.html,Genesis,GV70,Санкт-Петербург,2021,дизель,2.2,199,АКПП,4WD,,зеленый,,левый,1 поколение,2.2D VGT AT 4WD Elegance,0,6490000
+28704,https://moscow.drom.ru/genesis/gv70/45249093.html,Genesis,GV70,Москва,2021,дизель,2.2,199,АКПП,4WD,,белый,,левый,1 поколение,2.2D VGT AT 4WD Elegance,0,6430000
+28705,https://togliatti.drom.ru/genesis/g80/47606495.html,Genesis,G80,Тольятти,2021,бензин,2.5,249,АКПП,4WD,,черный,25988,левый,2 поколение,,0,7000000
+28706,https://tyumen.drom.ru/genesis/g80/48276903.html,Genesis,G80,Тюмень,2022,бензин,2.5,249,АКПП,4WD,,черный,новый автомобиль,левый,2 поколение,2.5 T-GDI AT 4WD Business,0,5555000
+28707,https://moscow.drom.ru/genesis/gv70/45412317.html,Genesis,GV70,Москва,2021,бензин,2.5,249,АКПП,4WD,,красный,,левый,1 поколение,2.5 T-GDI AT 4WD Elegance,0,7907000
+28708,https://moscow.drom.ru/genesis/gv70/46180888.html,Genesis,GV70,Москва,2021,дизель,2.2,199,АКПП,4WD,,белый,,левый,1 поколение,2.2D VGT AT 4WD Advance,0,7380000
+28709,https://moscow.drom.ru/genesis/g70/48974726.html,Genesis,G70,Москва,2022,бензин,2.0,197,АКПП,4WD,седан,синий,,левый,"1 поколение, рестайлинг",2.0 T-GDI AT 4WD Advance,0,5360000
+28710,https://chelyabinsk.drom.ru/genesis/g80/48635845.html,Genesis,G80,Челябинск,2018,бензин,2.0,245,АКПП,4WD,,синий,162901,левый,1 поколение,,0,2323000
+28711,https://moscow.drom.ru/genesis/gv80/48283871.html,Genesis,GV80,Москва,2021,бензин,2.5,249,АКПП,4WD,,синий,18540,левый,1 поколение,,0,6549000
+28712,https://moscow.drom.ru/genesis/gv80/48973929.html,Genesis,GV80,Москва,2022,бензин,2.5,249,АКПП,4WD,,белый,,левый,1 поколение,,0,8815770
+28713,https://nizhniy-novgorod.drom.ru/genesis/gv80/48594509.html,Genesis,GV80,Нижний Новгород,2021,дизель,3.0,,автомат,4WD,,,44975,,,,0,7500000
+28714,https://chelyabinsk.drom.ru/genesis/g90/48973570.html,Genesis,G90,Челябинск,2019,бензин,5.0,413,АКПП,4WD,,черный,29000,левый,1 поколение,,0,9490000
+28715,https://moscow.drom.ru/genesis/g90/46490747.html,Genesis,G90,Москва,2022,бензин,3.3,370,АКПП,4WD,,черный,,левый,"1 поколение, рестайлинг",3.3 T-GDI AT 4WD Elite,0,17900005
+28716,https://krasnodar.drom.ru/genesis/g70/48969055.html,Genesis,G70,Краснодар,2019,бензин,2.0,247,АКПП,4WD,седан,серый,68000,левый,1 поколение,,0,3550000
+28717,https://moscow.drom.ru/genesis/gv70/45064173.html,Genesis,GV70,Москва,2021,дизель,2.2,199,АКПП,4WD,,зеленый,,левый,1 поколение,2.2D VGT AT 4WD Elegance,0,6490000
+28718,https://moscow.drom.ru/genesis/g70/48844760.html,Genesis,G70,Москва,2020,бензин,2.0,197,АКПП,4WD,седан,красный,48000,левый,1 поколение,2.0 T-GDI AT 4WD Elegance,0,2900000
+28719,https://sochi.drom.ru/genesis/gv80/48568718.html,Genesis,GV80,Сочи,2021,дизель,3.0,249,АКПП,4WD,,синий,11535,левый,1 поколение,3.0 VGT AT 4WD Luxury 5 мест,1,7500000
+28720,https://novosibirsk.drom.ru/genesis/g80/46519132.html,Genesis,G80,Новосибирск,2022,бензин,2.5,249,АКПП,4WD,,черный,,левый,2 поколение,2.5 T-GDI AT 4WD Premium,0,7950000
+28721,https://spb.drom.ru/genesis/gv70/47811503.html,Genesis,GV70,Санкт-Петербург,2022,бензин,2.5,249,АКПП,4WD,,черный,,левый,1 поколение,,0,7319000
+28722,https://novokuznetsk.drom.ru/genesis/gv70/47816114.html,Genesis,GV70,Новокузнецк,2021,бензин,2.5,249,АКПП,4WD,,серый,15000,левый,1 поколение,2.5 T-GDI AT 4WD Elegance,0,6500000
+28723,https://spb.drom.ru/genesis/g70/47815168.html,Genesis,G70,Санкт-Петербург,2022,бензин,2.0,197,АКПП,4WD,седан,,,левый,"1 поколение, рестайлинг",2.0 T-GDI AT 4WD Supreme,0,6180000
+28724,https://spb.drom.ru/genesis/gv80/47815171.html,Genesis,GV80,Санкт-Петербург,2022,бензин,2.5,249,АКПП,4WD,,зеленый,,левый,1 поколение,2.5 T-GDI AT 4WD Executive 5 мест,0,9460000
+28725,https://kazan.drom.ru/genesis/g70/47813810.html,Genesis,G70,Казань,2019,бензин,2.0,197,АКПП,4WD,седан,синий,78000,левый,1 поколение,2.0 T-GDI AT 4WD Premier,0,2800000
+28726,https://moscow.drom.ru/genesis/g90/46493239.html,Genesis,G90,Москва,2022,бензин,3.3,370,АКПП,4WD,,черный,,левый,"1 поколение, рестайлинг",3.3 T-GDI AT 4WD Elite,0,17900005
+28727,https://moscow.drom.ru/genesis/gv70/45545895.html,Genesis,GV70,Москва,2021,бензин,2.5,249,АКПП,4WD,,красный,,левый,1 поколение,2.5 T-GDI AT 4WD Elegance,0,6776590
+28728,https://habarovsk.drom.ru/genesis/g70/48632272.html,Genesis,G70,,2019,бензин,2.0,197,АКПП,4WD,седан,,12000,левый,1 поколение,,0,1895000
+28729,https://habarovsk.drom.ru/genesis/g70/48632312.html,Genesis,G70,,2020,бензин,2.0,197,АКПП,4WD,седан,,57000,левый,1 поколение,,0,2276000
+28730,https://habarovsk.drom.ru/genesis/g70/48632331.html,Genesis,G70,,2020,бензин,2.0,197,АКПП,4WD,седан,,27000,левый,1 поколение,,0,2297000
+28731,https://habarovsk.drom.ru/genesis/gv80/47554187.html,Genesis,GV80,,2020,дизель,3.0,249,АКПП,4WD,,серый,21676,левый,1 поколение,,0,5400000
+28732,https://vladivostok.drom.ru/genesis/gv80/49107892.html,Genesis,GV80,,2022,бензин,3.5,380,АКПП,4WD,,,23000,левый,1 поколение,,0,5600000
+28733,https://moscow.drom.ru/genesis/gv80/47707480.html,Genesis,GV80,Москва,2021,дизель,3.0,249,АКПП,4WD,,черный,18100,левый,1 поколение,3.0 VGT AT 4WD Luxury 5 мест,1,7150000
+28735,https://novosibirsk.drom.ru/genesis/gv70/48829070.html,Genesis,GV70,Новосибирск,2022,бензин,2.5,249,АКПП,4WD,,фиолетовый,1150,левый,1 поколение,2.5 T-GDI AT 4WD Supreme,0,6700000
+28736,https://habarovsk.drom.ru/genesis/gv70/48820005.html,Genesis,GV70,Хабаровск,2021,бензин,2.5,249,АКПП,4WD,,черный,21000,левый,1 поколение,2.5 T-GDI AT 4WD Ultimate,1,5950000
+28737,https://kemerovo.drom.ru/genesis/gv70/48635884.html,Genesis,GV70,Кемерово,2022,бензин,2.5,249,АКПП,4WD,,фиолетовый,,левый,1 поколение,2.5 T-GDI AT 4WD Advance,1,6500000
+28738,https://moscow.drom.ru/genesis/gv80/48549962.html,Genesis,GV80,Москва,2022,бензин,2.5,249,АКПП,4WD,,зеленый,,левый,1 поколение,,0,8160000
+28739,https://moscow.drom.ru/genesis/gv80/47870666.html,Genesis,GV80,Москва,2021,дизель,3.0,249,АКПП,4WD,,синий,61832,левый,1 поколение,,0,5849900
+28740,https://spb.drom.ru/genesis/gv80/47198433.html,Genesis,GV80,Санкт-Петербург,2021,дизель,3.0,249,АКПП,4WD,,серый,,левый,1 поколение,3.0 VGT AT 4WD Luxury 5 мест,0,10590000
+28741,https://moscow.drom.ru/genesis/gv80/48896975.html,Genesis,GV80,Москва,2022,дизель,3.0,249,АКПП,4WD,,белый,новый автомобиль,левый,1 поколение,3.0 VGT AT 4WD Premium 5 мест,0,7400000
+28742,https://krasnoyarsk.drom.ru/genesis/g70/48894657.html,Genesis,G70,Красноярск,2018,бензин,2.0,197,АКПП,4WD,седан,серый,106000,левый,1 поколение,2.0 T-GDI AT 4WD Premier,0,2180000
+28743,https://krasnoyarsk.drom.ru/genesis/gv80/48798295.html,Genesis,GV80,Красноярск,2022,дизель,3.0,273,АКПП,4WD,,черный,13359,левый,1 поколение,,0,7300000
+28744,https://novosibirsk.drom.ru/genesis/gv70/46551765.html,Genesis,GV70,Новосибирск,2021,дизель,2.2,199,АКПП,4WD,,синий,,левый,1 поколение,2.2D VGT AT 4WD Elegance,0,5500000
+28745,https://novosibirsk.drom.ru/genesis/gv80/48888825.html,Genesis,GV80,Новосибирск,2022,бензин,2.5,249,АКПП,4WD,,зеленый,,левый,1 поколение,2.5 T-GDI AT 4WD Executive 5 мест,0,9650000
+28746,https://spb.drom.ru/genesis/gv80/46529174.html,Genesis,GV80,Санкт-Петербург,2022,дизель,3.0,249,АКПП,4WD,,черный,,левый,1 поколение,,0,10000000
+28747,https://spb.drom.ru/genesis/g70/48547505.html,Genesis,G70,Санкт-Петербург,2022,бензин,2.0,197,АКПП,4WD,седан,голубой,,левый,"1 поколение, рестайлинг",,0,5360000
+28748,https://spb.drom.ru/genesis/gv80/48547507.html,Genesis,GV80,Санкт-Петербург,2022,бензин,2.5,249,АКПП,4WD,,черный,,левый,1 поколение,2.5 T-GDI AT 4WD Prestige 5 мест,0,9090000
+28749,https://spb.drom.ru/genesis/gv80/48547509.html,Genesis,GV80,Санкт-Петербург,2022,бензин,2.5,249,АКПП,4WD,,серый,,левый,1 поколение,2.5 T-GDI AT 4WD Executive 5 мест,0,9390000
+28750,https://spb.drom.ru/genesis/gv80/48547510.html,Genesis,GV80,Санкт-Петербург,2022,бензин,2.5,249,АКПП,4WD,,зеленый,,левый,1 поколение,2.5 T-GDI AT 4WD Executive 5 мест,0,9460000
+28751,https://spb.drom.ru/genesis/gv80/48547511.html,Genesis,GV80,Санкт-Петербург,2022,дизель,3.0,249,АКПП,4WD,,зеленый,,левый,1 поколение,3.0 VGT AT 4WD Executive 5 мест,0,9660000
+28752,https://spb.drom.ru/genesis/gv80/48547512.html,Genesis,GV80,Санкт-Петербург,2022,бензин,2.5,249,АКПП,4WD,,синий,,левый,1 поколение,,0,10100000
+28753,https://spb.drom.ru/genesis/gv70/48547514.html,Genesis,GV70,Санкт-Петербург,2022,бензин,2.5,249,АКПП,4WD,,черный,,левый,1 поколение,2.5 T-GDI AT 4WD Elegance,0,6440000
+28755,https://krasnoyarsk.drom.ru/genesis/gv70/48538410.html,Genesis,GV70,Красноярск,2020,бензин,3.5,379,АКПП,4WD,,красный,25000,левый,1 поколение,,0,5900000
+28756,https://sochi.drom.ru/genesis/gv80/47858217.html,Genesis,GV80,Сочи,2021,дизель,3.0,249,АКПП,4WD,,синий,18000,левый,1 поколение,3.0 VGT AT 4WD Premium 5 мест,0,7500000
+28757,https://novorossiysk.drom.ru/genesis/g70/47856247.html,Genesis,G70,Новороссийск,2018,бензин,2.0,197,АКПП,4WD,седан,белый,155404,левый,1 поколение,2.0 T-GDI AT 4WD Advance,0,1850000
+28758,https://spb.drom.ru/genesis/g70/47658161.html,Genesis,G70,Санкт-Петербург,2019,бензин,2.0,197,АКПП,4WD,седан,черный,80282,левый,1 поколение,2.0 T-GDI AT 4WD Elegance,0,2000000
+28759,https://spb.drom.ru/genesis/g70/47658162.html,Genesis,G70,Санкт-Петербург,2019,бензин,2.0,197,АКПП,4WD,седан,черный,87874,левый,1 поколение,2.0 T-GDI AT 4WD Elegance,0,2000000
+28760,https://spb.drom.ru/genesis/g70/47658164.html,Genesis,G70,Санкт-Петербург,2019,бензин,2.0,197,АКПП,4WD,седан,черный,94538,левый,1 поколение,2.0 T-GDI AT 4WD Advance,0,1850000
+28761,https://spb.drom.ru/genesis/g70/47658166.html,Genesis,G70,Санкт-Петербург,2019,бензин,2.0,197,АКПП,4WD,седан,черный,107346,левый,1 поколение,2.0 T-GDI AT 4WD Advance,0,2060000
+28762,https://spb.drom.ru/genesis/g70/47658169.html,Genesis,G70,Санкт-Петербург,2019,бензин,2.0,197,АКПП,4WD,седан,черный,88760,левый,1 поколение,2.0 T-GDI AT 4WD Advance,0,2000000
+28763,https://spb.drom.ru/genesis/g70/47564726.html,Genesis,G70,Санкт-Петербург,2018,бензин,2.0,197,АКПП,4WD,седан,белый,94664,левый,1 поколение,2.0 T-GDI AT 4WD Elegance,0,1605000
+28764,https://spb.drom.ru/genesis/g70/47564739.html,Genesis,G70,Санкт-Петербург,2019,бензин,2.0,197,АКПП,4WD,седан,черный,94880,левый,1 поколение,2.0 T-GDI AT 4WD Elegance,0,2000000
+28765,https://moscow.drom.ru/genesis/g70/46901042.html,Genesis,G70,Москва,2019,бензин,2.0,197,АКПП,4WD,седан,белый,85111,левый,1 поколение,2.0 T-GDI AT 4WD Elegance,0,1945000
+28766,https://moscow.drom.ru/genesis/gv70/45519041.html,Genesis,GV70,Москва,2021,бензин,2.5,249,АКПП,4WD,,черный,,левый,1 поколение,2.5 T-GDI AT 4WD Elegance,0,6420000
+28767,https://moscow.drom.ru/genesis/g70/48482574.html,Genesis,G70,Москва,2022,бензин,2.0,197,АКПП,4WD,седан,синий,,левый,"1 поколение, рестайлинг",,0,4800000
+28768,https://novosibirsk.drom.ru/genesis/g70/47470818.html,Genesis,G70,Новосибирск,2018,бензин,2.0,197,АКПП,4WD,седан,синий,76500,левый,1 поколение,2.0 T-GDI AT 4WD Elegance,0,2000000
+28769,https://tyumen.drom.ru/genesis/gv80/48936432.html,Genesis,GV80,Тюмень,2021,дизель,3.0,249,АКПП,4WD,,черный,13712,левый,1 поколение,,0,8000000
+28770,https://spb.drom.ru/genesis/gv70/48934976.html,Genesis,GV70,Санкт-Петербург,2022,дизель,2.2,199,АКПП,4WD,,черный,,левый,1 поколение,,0,8356000
+28771,https://spb.drom.ru/genesis/g70/48934973.html,Genesis,G70,Санкт-Петербург,2022,бензин,2.0,197,АКПП,4WD,седан,белый,,левый,"1 поколение, рестайлинг",,0,4831000
+28772,https://tyumen.drom.ru/genesis/gv70/48931882.html,Genesis,GV70,Тюмень,2021,дизель,2.2,199,АКПП,4WD,,серый,5000,левый,1 поколение,,0,6800000
+28774,https://moscow.drom.ru/genesis/gv70/48585285.html,,,,,,,,,,,,,,,,0,
+28776,https://moscow.drom.ru/genesis/gv70/48584913.html,,,,,,,,,,,,,,,,0,
+28778,https://tyumen.drom.ru/genesis/g70/48915183.html,,,,,,,,,,,,,,,,0,
+28780,https://vladivostok.drom.ru/genesis/gv80/48471603.html,Genesis,GV80,Владивосток,2020,дизель,3.0,249,АКПП,4WD,,белый,29000,левый,1 поколение,,0,6490000
+28781,https://ufa.drom.ru/genesis/g80/48108457.html,Genesis,G80,Уфа,2022,дизель,2.2,199,АКПП,4WD,,черный,50,левый,2 поколение,2.2D VGT AT 4WD Business,1,5900000
+28782,https://moscow.drom.ru/genesis/g70/46218468.html,Genesis,G70,Москва,2018,бензин,2.0,197,АКПП,4WD,седан,черный,106463,левый,1 поколение,2.0 T-GDI AT 4WD Advance,0,1685000
+28783,https://moscow.drom.ru/genesis/g70/46217194.html,Genesis,G70,Москва,2018,бензин,2.0,197,АКПП,4WD,седан,белый,92276,левый,1 поколение,2.0 T-GDI AT 4WD Elegance,0,1845000
+28785,https://moscow.drom.ru/genesis/g70/45866829.html,Genesis,G70,Москва,2018,бензин,2.0,197,АКПП,4WD,седан,белый,90647,левый,1 поколение,2.0 T-GDI AT 4WD Elegance,0,1685000
+28786,https://spb.drom.ru/genesis/g80/45591344.html,Genesis,G80,Санкт-Петербург,2018,бензин,2.0,245,АКПП,4WD,,коричневый,145000,левый,1 поколение,2.0 T-GDI AT 4WD Luxury,1,2249000
+28787,https://moscow.drom.ru/genesis/gv80/48907873.html,Genesis,GV80,Москва,2022,дизель,3.0,249,АКПП,4WD,,белый,,левый,1 поколение,,0,12978085
+28788,https://moscow.drom.ru/genesis/gv80/48547359.html,Genesis,GV80,Москва,2022,дизель,3.0,249,АКПП,4WD,,синий,,левый,1 поколение,,0,10559325
+28790,https://spb.drom.ru/genesis/gv80/48904069.html,Genesis,GV80,Санкт-Петербург,2022,бензин,2.5,249,АКПП,4WD,,,,левый,1 поколение,,0,9174000
+28791,https://pangody.drom.ru/genesis/g80/47710210.html,Genesis,G80,Пангоды,2018,бензин,2.0,245,АКПП,4WD,,белый,73000,левый,1 поколение,2.0 T-GDI AT 4WD Business,1,2200000
+28792,https://moscow.drom.ru/genesis/g70/48482443.html,Genesis,G70,Москва,2019,бензин,2.0,197,АКПП,4WD,седан,черный,67541,левый,1 поколение,2.0 T-GDI AT 4WD Advance,0,1925000
+28793,https://moscow.drom.ru/genesis/gv80/48557911.html,Genesis,GV80,Москва,2021,дизель,3.0,249,АКПП,4WD,,белый,18300,левый,1 поколение,3.0 VGT AT 4WD Elite 5 мест,0,5890000
+28794,https://moscow.drom.ru/genesis/gv80/48549947.html,Genesis,GV80,Москва,2022,бензин,2.5,249,АКПП,4WD,,зеленый,,левый,1 поколение,,0,8340000
+28795,https://moscow.drom.ru/genesis/gv80/48549948.html,Genesis,GV80,Москва,2022,бензин,2.5,249,АКПП,4WD,,зеленый,,левый,1 поколение,,0,8690000
+28796,https://moscow.drom.ru/genesis/gv80/48549952.html,Genesis,GV80,Москва,2022,бензин,2.5,249,АКПП,4WD,,серый,,левый,1 поколение,,0,8160000
+28797,https://moscow.drom.ru/genesis/gv80/48549959.html,Genesis,GV80,Москва,2022,бензин,2.5,249,АКПП,4WD,,серый,,левый,1 поколение,,0,8340000
+28798,https://moscow.drom.ru/genesis/gv80/48493991.html,Genesis,GV80,Москва,2022,дизель,3.0,249,АКПП,4WD,,черный,,левый,1 поколение,,0,8499000
+28799,https://chelyabinsk.drom.ru/genesis/g80/48869338.html,Genesis,G80,Челябинск,2018,бензин,2.0,197,АКПП,4WD,,черный,52000,левый,1 поколение,2.0 T-GDI AT 4WD Business,0,1590000
+28800,https://moscow.drom.ru/genesis/gv80/48868096.html,Genesis,GV80,Москва,2020,бензин,3.5,379,АКПП,4WD,,синий,9540,левый,1 поколение,3.5 T-GDI AT 4WD Premium 7 мест,0,7500000
+28801,https://tyumen.drom.ru/genesis/g90/48865256.html,Genesis,G90,Тюмень,2017,бензин,3.8,309,АКПП,4WD,,черный,134000,левый,1 поколение,3.8 GDI AT 4WD Premier,0,3990000
+28802,https://moscow.drom.ru/genesis/gv70/48482572.html,Genesis,GV70,Москва,2022,бензин,2.5,249,АКПП,4WD,,черный,,левый,1 поколение,,0,6450000
+28803,https://tyumen.drom.ru/genesis/g70/48520857.html,Genesis,G70,Тюмень,2022,бензин,2.0,247,АКПП,4WD,седан,синий,5,левый,"1 поколение, рестайлинг",2.0 T-GDI AT 4WD Supreme,1,5500000
+28804,https://spb.drom.ru/genesis/g80/45484182.html,Genesis,G80,Санкт-Петербург,2021,дизель,2.2,199,АКПП,4WD,,серебристый,,левый,2 поколение,2.2D VGT AT 4WD Premium,0,8075000
+28805,https://vladivostok.drom.ru/genesis/gv80/48041398.html,Genesis,GV80,Владивосток,2021,дизель,3.0,249,АКПП,4WD,,черный,31000,левый,1 поколение,,0,5500000
+28806,https://vladivostok.drom.ru/genesis/gv80/48007005.html,Genesis,GV80,Владивосток,2020,дизель,3.0,249,АКПП,4WD,,синий,26000,левый,1 поколение,,1,5900000
+28807,https://moscow.drom.ru/genesis/g80/48863053.html,Genesis,G80,Москва,2022,дизель,2.2,199,АКПП,4WD,,серебристый,52,левый,2 поколение,2.2D VGT AT 4WD Premium,0,6485000
+28808,https://pushkino.drom.ru/genesis/g80/48514898.html,Genesis,G80,Пушкино,2021,бензин,2.5,249,АКПП,4WD,,черный,70000,левый,2 поколение,2.5 T-GDI AT 4WD Premium,0,5200000
+28809,https://moscow.drom.ru/genesis/g70/47173124.html,Genesis,G70,Москва,2018,бензин,2.0,197,АКПП,4WD,седан,белый,100252,левый,1 поколение,2.0 T-GDI AT 4WD Elegance,0,1610000
+28810,https://moscow.drom.ru/genesis/g70/47172736.html,Genesis,G70,Москва,2018,бензин,2.0,197,АКПП,4WD,седан,белый,93983,левый,1 поколение,2.0 T-GDI AT 4WD Elegance,0,1855000
+28811,https://spb.drom.ru/genesis/gv70/46834008.html,Genesis,GV70,Санкт-Петербург,2021,дизель,2.2,199,АКПП,4WD,,красный,,левый,1 поколение,2.2D VGT AT 4WD Elegance,0,6370000
+28812,https://simferopol.drom.ru/genesis/g80/46790030.html,Genesis,G80,Симферополь,2017,бензин,3.3,370,АКПП,4WD,,красный,35000,левый,1 поколение,3.3 T-GDI AT 4WD Ultimate,0,3600000
+28813,https://moscow.drom.ru/genesis/gv80/48862402.html,Genesis,GV80,Москва,2021,бензин,2.5,249,АКПП,4WD,,черный,18500,левый,1 поколение,2.5 T-GDI AT 4WD Executive 5 мест,1,5800000
+28814,https://spb.drom.ru/genesis/gv80/48395230.html,Genesis,GV80,Санкт-Петербург,2022,бензин,2.5,249,АКПП,4WD,,,,левый,1 поколение,,0,9542000
+28815,https://tyumen.drom.ru/genesis/g90/48858066.html,Genesis,G90,Тюмень,2017,бензин,3.3,370,АКПП,4WD,,черный,74131,левый,1 поколение,3.3 T-GDI AT 4WD Royal,1,3500000
+28816,https://spb.drom.ru/genesis/gv70/48855435.html,Genesis,GV70,Санкт-Петербург,2022,дизель,2.2,199,АКПП,4WD,,черный,,левый,1 поколение,,0,8446000
+28817,https://moscow.drom.ru/genesis/g90/48851944.html,Genesis,G90,Москва,2016,бензин,3.8,309,АКПП,4WD,,черный,102513,левый,1 поколение,,0,2498000
+28818,https://spb.drom.ru/gmc/jimmy/48609790.html,GMC,Jimmy,Санкт-Петербург,1995,бензин,4.3,190,АКПП,4WD,джип/suv 5 дв.,белый,192346,левый,3 поколение,4.3 AT SL/SLE,0,375000
+28819,https://pavlovskiy-posad.drom.ru/gmc/envoy/48604217.html,GMC,Envoy,Павловский Посад,2001,бензин,4.2,273,АКПП,4WD,,серый,350000,левый,2 поколение,4.2 AT SLT,0,500000
+28820,https://surgut.drom.ru/gmc/savana/44042332.html,GMC,Savana,Сургут,2010,бензин,5.3,314,автомат,4WD,,черный,148000,левый,,,0,2590000
+28821,https://moscow.drom.ru/gmc/acadia/48917676.html,GMC,Acadia,Москва,2021,бензин,3.6,310,АКПП,4WD,,серый,20000,левый,"2 поколение, рестайлинг",,0,4900000
+28822,https://tambov.drom.ru/gmc/terrain/43475760.html,GMC,Terrain,Тамбов,2011,бензин,2.4,182,АКПП,передний,,красный,291100,левый,1 поколение,2.4 AT SLE,0,1300000
+28823,https://ufa.drom.ru/gmc/yukon/46211235.html,GMC,Yukon,Уфа,1999,бензин,5.7,255,АКПП,4WD,джип/suv 5 дв.,черный,300000,левый,1 поколение,5.7 AT SL/SLE,0,380000
+28824,https://chita.drom.ru/gmc/yukon/48868276.html,GMC,Yukon,Чита,2002,бензин,4.8,285,АКПП,4WD,джип/suv 5 дв.,черный,200000,левый,2 поколение,4.8 AT SLE/SLT,1,950000
+28825,https://belgorod.drom.ru/gmc/terrain/45248084.html,GMC,Terrain,Белгород,2011,бензин,2.4,182,АКПП,передний,,белый,150000,левый,1 поколение,2.4 AT SLE,0,1000000
+28826,https://kirov.drom.ru/gmc/savana/47085109.html,GMC,Savana,Киров,2006,бензин,5.3,299,автомат,4WD,,черный,100000,левый,,,0,599000
+28827,https://moscow.drom.ru/gmc/terrain/46527809.html,GMC,Terrain,Москва,2018,бензин,1.5,170,АКПП,4WD,,серебристый,99000,левый,2 поколение,1.5T AT SLE/SLT,1,1700000
+28828,https://tyumen.drom.ru/gmc/jimmy/48885401.html,GMC,Jimmy,Тюмень,1993,бензин,4.3,200,АКПП,4WD,джип/suv 5 дв.,бежевый,156800,левый,2 поколение,,1,320000
+28829,https://tver.drom.ru/gmc/terrain/48194922.html,GMC,Terrain,Тверь,2019,бензин,1.5,170,АКПП,4WD,,серый,15000,левый,2 поколение,1.5T AT SLE/SLT,1,2025000
+28830,https://novorossiysk.drom.ru/gmc/terrain/48853446.html,GMC,Terrain,Новороссийск,2018,бензин,2.0,252,АКПП,передний,,черный,74630,левый,2 поколение,2.0T AT Denali,0,2170000
+28831,https://solnechniy-habarovsk.drom.ru/gmc/sierra/23329343.html,GMC,Sierra,Солнечный,2001,дизель,6.6,305,автомат,4WD,,бежевый,90000,левый,,,0,1100000
+28832,https://vladivostok.drom.ru/gmc/yukon/46738069.html,GMC,Yukon,,2003,бензин,5.3,295,АКПП,4WD,джип/suv 5 дв.,золотистый,103000,левый,2 поколение,5.3 AT 1500 XL SLE/SLT,0,380000
+28833,https://vladivostok.drom.ru/gmc/sierra/47445083.html,GMC,Sierra,,2022,бензин,6.2,420,АКПП,4WD,,черный,новый автомобиль,левый,"5 поколение, рестайлинг",6.2 AT Crew Cab SWB,0,7550000
+28834,https://omsk.drom.ru/gmc/yukon/49105850.html,GMC,Yukon,,2022,бензин,5.3,355,АКПП,4WD,джип/suv 5 дв.,черный,,левый,4 поколение,5.3 AT SLE/SLT,0,6000000
+28835,https://moscow.drom.ru/gmc/acadia/49001213.html,GMC,Acadia,,2020,бензин,3.6,310,АКПП,4WD,,черный,57811,левый,"2 поколение, рестайлинг",3.6 AT AWD SLT,0,1700000
+28836,https://vladivostok.drom.ru/gmc/sierra/48232274.html,GMC,Sierra,,2021,бензин,6.2,420,АКПП,4WD,,черный,3500,левый,"5 поколение, рестайлинг",6.2 AT Regular Cab SWB,0,13000000
+28837,https://ufa.drom.ru/gmc/terrain/48834068.html,GMC,Terrain,Уфа,2018,бензин,1.5,170,АКПП,4WD,,зеленый,41000,левый,2 поколение,1.5T AT SLE/SLT,0,1830000
+28838,https://moscow.drom.ru/gmc/yukon/48826113.html,GMC,Yukon,Москва,2001,бензин,5.3,295,АКПП,4WD,джип/suv 5 дв.,серый,210000,левый,2 поколение,5.3 AT 1500 XL SLE/SLT,1,670000
+28839,https://barnaul.drom.ru/gmc/yukon/48089476.html,GMC,Yukon,Барнаул,1999,бензин,5.7,255,АКПП,4WD,джип/suv 5 дв.,черный,428000,левый,1 поколение,5.7 AT SL/SLE,0,600000
+28840,https://petropavlovsk-kamchatskiy.drom.ru/gmc/yukon/48272542.html,GMC,Yukon,Петропавловск-Камчатский,1996,бензин,5.7,255,АКПП,4WD,джип/suv 5 дв.,зеленый,305958,левый,1 поколение,5.7 AT SL/SLE,0,1000000
+28841,https://anapa.drom.ru/gmc/terrain/45360594.html,GMC,Terrain,Анапа,2019,бензин,1.5,170,АКПП,4WD,,коричневый,12000,левый,2 поколение,1.5T AT Denali,0,2050000
+28842,https://ekaterinburg.drom.ru/gmc/sierra/47361244.html,GMC,Sierra,Екатеринбург,2008,бензин,5.3,315,АКПП,4WD,,черный,230000,левый,4 поколение,5.3 AT Crew Cab Short,0,2000000
+28843,https://moscow.drom.ru/gmc/sierra/48519712.html,GMC,Sierra,Москва,2019,бензин,6.2,420,АКПП,4WD,,черный,58000,левый,,,0,5999999
+28844,https://moscow.drom.ru/gmc/yukon/49157276.html,GMC,Yukon,Москва,2022,бензин,6.2,426,автомат,4WD,джип/suv 5 дв.,черный,1001,левый,,,0,11220000
+28845,https://omsk.drom.ru/gmc/sierra/46195374.html,GMC,Sierra,Омск,2010,бензин,6.0,332,автомат,4WD,,белый,157000,левый,,,0,5000000
+28846,https://novosibirsk.drom.ru/gmc/envoy/48015246.html,GMC,Envoy,Новосибирск,2003,бензин,4.2,273,АКПП,4WD,,черный,350000,левый,2 поколение,4.2 AT SLT,0,780000
+28847,https://krasnodar.drom.ru/gmc/terrain/49149029.html,GMC,Terrain,Краснодар,2018,бензин,1.5,170,АКПП,4WD,,белый,75500,левый,2 поколение,1.5T AT SLE/SLT,0,1850000
+28848,https://novosibirsk.drom.ru/gmc/terrain/48976831.html,GMC,Terrain,Новосибирск,2009,бензин,2.4,182,АКПП,4WD,,коричневый,170000,левый,1 поколение,2.4 AT SLE,0,1300000
+28849,https://novotitarovskaya.drom.ru/gmc/yukon/49148009.html,GMC,Yukon,Новотитаровская,2000,бензин,5.7,255,АКПП,4WD,джип/suv 5 дв.,черный,355000,левый,1 поколение,5.7 AT SL/SLE,0,300000
+28850,https://makhachkala.drom.ru/gmc/canyon/48466691.html,GMC,Canyon,Махачкала,2017,бензин,3.6,308,АКПП,4WD,,белый,38000,левый,2 поколение,"3.6 AT Crew Cab, Short Box",0,2800000
+28851,https://voronezh.drom.ru/gmc/terrain/49134908.html,GMC,Terrain,Воронеж,2019,бензин,1.5,170,АКПП,4WD,,черный,91757,левый,2 поколение,,0,1920000
+28852,https://spb.drom.ru/gmc/terrain/48805441.html,GMC,Terrain,Санкт-Петербург,2017,бензин,1.5,170,АКПП,4WD,,белый,56000,левый,2 поколение,1.5T AT SLE/SLT,0,2150000
+28853,https://tver.drom.ru/gmc/terrain/49131680.html,GMC,Terrain,Тверь,2018,бензин,1.5,170,АКПП,4WD,,синий,79870,левый,2 поколение,,0,2100000
+28854,https://anapa.drom.ru/gmc/yukon/45029364.html,GMC,Yukon,Анапа,2001,бензин,5.3,295,АКПП,4WD,джип/suv 5 дв.,серый,419000,левый,2 поколение,5.3 AT 1500 XL SLE/SLT,0,699000
+28855,https://minvody.drom.ru/gmc/safari/48097719.html,GMC,Safari,Минеральные Воды,1990,бензин,4.3,,автомат,,,красный,350000,,,,0,550000
+28856,https://moscow.drom.ru/gmc/yukon/49118870.html,GMC,Yukon,Москва,2022,бензин,6.2,426,автомат,4WD,джип/suv 5 дв.,белый,15,левый,,,0,8200000
+28857,https://moscow.drom.ru/gmc/terrain/49118868.html,GMC,Terrain,Москва,2022,бензин,1.5,170,АКПП,4WD,,серый,15,левый,2 поколение,,0,3700000
+28858,https://krasnoyarsk.drom.ru/gmc/terrain/48118039.html,GMC,Terrain,Красноярск,2013,бензин,2.4,182,АКПП,4WD,,черный,,левый,1 поколение,2.4 AT SLE,0,1317000
+28859,https://krasnodar.drom.ru/gmc/sierra/48146899.html,GMC,Sierra,Краснодар,2017,бензин,6.2,435,автомат,,,белый,46600,левый,,,0,5850000
+28860,https://dmitrov.drom.ru/gmc/envoy/47394208.html,GMC,Envoy,Дмитров,2002,бензин,4.2,273,АКПП,4WD,,черный,333000,левый,2 поколение,4.2 AT SLT,0,690000
+28861,https://chelyabinsk.drom.ru/gmc/terrain/49098078.html,GMC,Terrain,Челябинск,2018,бензин,1.5,170,АКПП,4WD,,белый,42000,левый,2 поколение,,1,1870000
+28862,https://yaroslavl.drom.ru/gmc/terrain/48759782.html,GMC,Terrain,Ярославль,2017,бензин,1.5,170,АКПП,4WD,,серебристый,107953,левый,2 поколение,1.5T AT SLE/SLT,0,2550000
+28863,https://blagoveshchensk.drom.ru/gmc/yukon/48751274.html,GMC,Yukon,Благовещенск,1995,бензин,5.7,255,АКПП,4WD,джип/suv 5 дв.,белый,160000,левый,1 поколение,5.7 AT SL/SLE,0,150000
+28864,https://ust-ilimsk.drom.ru/gmc/yukon/48407421.html,GMC,Yukon,Усть-Илимск,2000,бензин,5.3,295,АКПП,4WD,джип/suv 5 дв.,черный,200000,левый,2 поколение,5.3 AT 1500 XL SLE/SLT,0,550000
+28865,https://moscow.drom.ru/gmc/hummer_ev/49088379.html,GMC,Hummer EV,Москва,2022,электр,,1014,автомат,4WD,пикап,белый,10,левый,,,0,22500000
+28866,https://novosibirsk.drom.ru/gmc/yukon/48861392.html,GMC,Yukon,Новосибирск,2022,бензин,6.2,420,АКПП,4WD,джип/suv 5 дв.,черный,65,левый,4 поколение,6.2 AT Denali,0,10390000
+28867,https://spb.drom.ru/gmc/acadia/49077881.html,GMC,Acadia,Санкт-Петербург,2016,бензин,2.5,194,автомат,4WD,,серый,92000,левый,,,0,1999990
+28868,https://novosibirsk.drom.ru/gmc/acadia/48027794.html,GMC,Acadia,Новосибирск,2007,бензин,3.6,275,АКПП,4WD,,черный,275500,левый,1 поколение,3.6 AT AWD SLT,0,1500000
+28869,https://krasnodar.drom.ru/gmc/yukon/48718488.html,GMC,Yukon,Краснодар,2009,бензин,6.2,385,автомат,4WD,джип/suv 5 дв.,черный,11500,левый,,,0,9500000
+28870,https://krasnodar.drom.ru/gmc/envoy/48717771.html,GMC,Envoy,Краснодар,2002,бензин,4.2,273,АКПП,4WD,,серый,270000,левый,2 поколение,4.2 AT SLT,0,760000
+28871,https://voronezh.drom.ru/gmc/terrain/48020652.html,GMC,Terrain,Воронеж,2018,бензин,1.5,170,АКПП,передний,,черный,48166,левый,2 поколение,,0,2100000
+28872,https://blagoveshchensk.drom.ru/gmc/jimmy/41155119.html,GMC,Jimmy,Благовещенск,1995,бензин,4.3,190,АКПП,4WD,джип/suv 5 дв.,черный,150000,левый,3 поколение,4.3 AT SL/SLE,0,350000
+28873,https://bodaibo.drom.ru/gmc/yukon/48702725.html,GMC,Yukon,Бодайбо,1997,бензин,5.7,255,АКПП,4WD,джип/suv 5 дв.,зеленый,285000,левый,1 поколение,5.7 AT SL/SLE,0,550000
+28874,https://irkutsk.drom.ru/gmc/jimmy/38926124.html,GMC,Jimmy,Иркутск,1994,бензин,4.3,200,АКПП,4WD,джип/suv 5 дв.,черный,53725,левый,2 поколение,4.3 AT SL/SLE,0,130000
+28875,https://tomsk.drom.ru/gmc/jimmy/46974531.html,GMC,Jimmy,Томск,1994,4.3 ,.3,148,автомат,4WD,джип/suv 5 дв.,бордовый,400000,левый,,,1,150000
+28876,https://moscow.drom.ru/gmc/yukon/49011031.html,GMC,Yukon,Москва,1999,бензин,5.7,255,АКПП,4WD,джип/suv 5 дв.,,250000,левый,1 поколение,5.7 AT SL/SLE,0,499000
+28877,https://krasnoyarsk.drom.ru/gmc/yukon/46368730.html,GMC,Yukon,Красноярск,2011,бензин,6.2,403,АКПП,задний,джип/suv 5 дв.,черный,223000,левый,3 поколение,6.2 AT XL Denali,0,4500000
+28878,https://cheboksary.drom.ru/gmc/safari/48081341.html,GMC,Safari,Чебоксары,1995,бензин,4.3,192,автомат,4WD,,черный,127000,,,,0,600000
+28879,https://chita.drom.ru/gmc/yukon/48975849.html,GMC,Yukon,Чита,2002,бензин,4.8,285,АКПП,4WD,джип/suv 5 дв.,черный,222222,левый,2 поколение,4.8 AT SLE/SLT,0,650000
+28880,https://spb.drom.ru/gmc/acadia/48974177.html,GMC,Acadia,Санкт-Петербург,2016,бензин,2.5,193,АКПП,4WD,,золотистый,90000,левый,2 поколение,2.5 AT AWD SLT,1,2000000
+28881,https://sochi.drom.ru/gmc/yukon/45149188.html,GMC,Yukon,Сочи,1998,бензин,5.7,255,АКПП,задний,джип/suv 5 дв.,черный,250000,левый,1 поколение,5.7 AT SL/SLE,0,400000
+28882,https://moscow.drom.ru/alfa_romeo/giulia/49099071.html,Alfa Romeo,Giulia,Москва,2019,бензин,2.0,280,АКПП,4WD,,белый,46700,левый,2 поколение,2.0 AT Q4,0,2285000
+28883,https://chelyabinsk.drom.ru/alfa_romeo/stelvio/44072731.html,Alfa Romeo,Stelvio,Челябинск,2017,бензин,2.0,280,АКПП,4WD,,серый,42000,левый,1 поколение,2.0 AT,0,2750000
+28884,https://krasnoyarsk.drom.ru/alfa_romeo/156/44245522.html,Alfa Romeo,156,Красноярск,2001,бензин,2.0,150,механика,передний,универсал,серый,70000,левый,1 поколение,2.0 MT T.Spark,0,230000
+28885,https://sevastopol.drom.ru/alfa_romeo/giulia/45926297.html,Alfa Romeo,Giulia,Севастополь,2017,бензин,2.0,200,АКПП,задний,,бордовый,52000,левый,2 поколение,2.0 AT,0,2350000
+28886,https://orenburg.drom.ru/alfa_romeo/159/47721858.html,Alfa Romeo,159,Оренбург,2007,бензин,1.8,140,механика,передний,седан,черный,,левый,,,0,500000
+28887,https://yevpatoriya.drom.ru/alfa_romeo/mi-to/48746897.html,Alfa Romeo,MiTo,Евпатория,2014,бензин,1.4,170,робот,передний,,бежевый,46000,левый,"1 поколение, рестайлинг",1.4 AMT,0,1500000
+28888,https://sochi.drom.ru/alfa_romeo/146/47342133.html,Alfa Romeo,146,Сочи,2000,бензин,1.6,120,механика,передний,,серый,260000,левый,1 поколение,1.6 MT T.Spark,1,140000
+28889,https://spb.drom.ru/alfa_romeo/brera/48050223.html,Alfa Romeo,Brera,Санкт-Петербург,2007,бензин,3.2,260,АКПП,4WD,,красный,149905,левый,1 поколение,3.2 AT,0,1249000
+28890,https://moscow.drom.ru/alfa_romeo/156/49077712.html,Alfa Romeo,156,Москва,2005,бензин,2.0,165,механика,передний,седан,серебристый,260000,левый,"1 поколение, 2 рестайлинг",2.0 MT JTS,0,480000
+28891,https://moscow.drom.ru/alfa_romeo/giulietta/49076722.html,Alfa Romeo,Giulietta,Москва,2014,бензин,1.4,170,робот,передний,хэтчбек 5 дв.,серый,99365,левый,3 поколение,,0,1142000
+28892,https://krasnodar.drom.ru/alfa_romeo/156/49007659.html,Alfa Romeo,156,Краснодар,1998,бензин,1.6,120,механика,передний,седан,зеленый,240000,левый,1 поколение,1.6 MT T.Spark,1,90000
+28893,https://penza.drom.ru/alfa_romeo/stelvio/48727287.html,Alfa Romeo,Stelvio,Пенза,2017,бензин,2.0,280,АКПП,4WD,,белый,39038,левый,1 поколение,2.0 AT,0,2800000
+28894,https://spb.drom.ru/alfa_romeo/147/48727158.html,Alfa Romeo,147,Санкт-Петербург,2008,бензин,1.6,105,механика,передний,хэтчбек 5 дв.,серебристый,182000,левый,"1 поколение, рестайлинг",1.6 MT T.Spark,0,535000
+28895,https://lipetsk.drom.ru/alfa_romeo/stelvio/48031749.html,Alfa Romeo,Stelvio,Липецк,2017,бензин,2.0,280,АКПП,4WD,,серебристый,53000,левый,1 поколение,2.0 AT,0,2599000
+28896,https://slavyansk-na-kubani.drom.ru/alfa_romeo/33/49056263.html,Alfa Romeo,33,Славянск-На-Кубани,1989,бензин,1.5,,механика,4WD,универсал,черный,222222,левый,,,0,130000
+28897,https://vladivostok.drom.ru/alfa_romeo/giulietta/48228773.html,Alfa Romeo,Giulietta,Владивосток,2013,бензин,1.6,160,автомат,передний,хэтчбек 5 дв.,белый,20000,правый,,,1,550000
+28898,https://moscow.drom.ru/alfa_romeo/156/49050069.html,Alfa Romeo,156,Москва,2005,бензин,2.0,165,механика,передний,седан,серый,259600,левый,"1 поколение, 2 рестайлинг",2.0 MT JTS,0,590000
+28899,https://moscow.drom.ru/alfa_romeo/stelvio/49049176.html,Alfa Romeo,Stelvio,Москва,2018,бензин,2.0,280,АКПП,4WD,,белый,34140,левый,1 поколение,2.0 AT,0,2400000
+28900,https://voronezh.drom.ru/alfa_romeo/156/48009940.html,Alfa Romeo,156,Воронеж,1998,бензин,1.7,144,механика,передний,седан,голубой,290000,левый,1 поколение,1.8 MT T.Spark,0,170000
+28901,https://rostov-na-donu.drom.ru/alfa_romeo/giulietta/48525513.html,Alfa Romeo,Giulietta,Ростов-на-Дону,2014,бензин,1.4,170,робот,передний,хэтчбек 5 дв.,черный,178000,левый,3 поколение,,0,1300000
+28902,https://bratsk.drom.ru/alfa_romeo/156/46649384.html,Alfa Romeo,156,Братск,1999,бензин,1.6,120,механика,передний,седан,черный,162000,левый,1 поколение,1.6 MT T.Spark,0,300000
+28903,https://kamensk-uralskiy.drom.ru/alfa_romeo/156/43055933.html,Alfa Romeo,156,Каменск-Уральский,2004,бензин,2.0,147,механика,передний,седан,желтый,156000,левый,,,0,370000
+28904,https://krasnoyarsk.drom.ru/alfa_romeo/gt/44606174.html,Alfa Romeo,GT,Красноярск,2007,бензин,2.0,165,робот,передний,,черный,96600,левый,1 поколение,2.0 AMT,0,850000
+28905,https://ramenskoe.drom.ru/alfa_romeo/155/48210321.html,Alfa Romeo,155,Раменское,1993,бензин,1.8,129,механика,передний,,синий,359000,левый,1 поколение,1.8 MT T.Spark,0,79000
+28906,https://abinsk.drom.ru/alfa_romeo/166/47015131.html,Alfa Romeo,166,Абинск,1999,бензин,2.5,190,АКПП,передний,,фиолетовый,270000,левый,1 поколение,2.5 AT 24V,0,300000
+28907,https://moscow.drom.ru/alfa_romeo/166/48898617.html,Alfa Romeo,166,Москва,1999,бензин,2.5,190,механика,передний,,зеленый,100000,левый,1 поколение,,1,69999
+28908,https://krasnodar.drom.ru/alfa_romeo/159/48895641.html,Alfa Romeo,159,Краснодар,2010,бензин,1.8,140,механика,передний,седан,черный,180000,левый,"1 поколение, рестайлинг",1.8 MT Medium ,1,770000
+28909,https://tyumen.drom.ru/alfa_romeo/156/46533553.html,Alfa Romeo,156,Тюмень,2003,бензин,2.0,165,механика,передний,седан,черный,130000,левый,"1 поколение, рестайлинг",2.0 MT JTS,0,380000
+28910,https://gresovskiy.drom.ru/alfa_romeo/stelvio/48883508.html,Alfa Romeo,Stelvio,Грэсовский,2018,бензин,2.0,280,АКПП,4WD,,красный,61000,левый,1 поколение,2.0 AT,1,2320000
+28911,https://krasnoyarsk.drom.ru/alfa_romeo/156/47144219.html,Alfa Romeo,156,Красноярск,2001,дизель,2.4,140,механика,передний,седан,серебристый,87000,левый,1 поколение,2.4 MT JTD,0,300000
+28912,https://spb.drom.ru/alfa_romeo/156/48880404.html,Alfa Romeo,156,Санкт-Петербург,2003,бензин,2.0,150,АКПП,передний,седан,черный,158000,левый,"1 поколение, 2 рестайлинг",2.0 AT T.Spark Selespeed,0,465000
+28913,https://perm.drom.ru/alfa_romeo/gt/45321192.html,Alfa Romeo,GT,Пермь,2008,бензин,2.0,165,робот,передний,,черный,156000,левый,1 поколение,2.0 AMT,0,470999
+28914,https://surgut.drom.ru/alfa_romeo/147/48854883.html,Alfa Romeo,147,Сургут,2002,бензин,1.6,105,механика,передний,хэтчбек 5 дв.,красный,150000,левый,1 поколение,1.6 MT T.Spark,0,320000
+28915,https://novokuznetsk.drom.ru/alfa_romeo/166/45545641.html,Alfa Romeo,166,Новокузнецк,1999,бензин,3.0,226,механика,передний,,серебристый,150000,левый,1 поколение,,0,150000
+28916,https://neryungri.drom.ru/alfa_romeo/156/40109532.html,Alfa Romeo,156,Нерюнгри,2002,бензин,2.0,150,механика,передний,седан,серебристый,139000,левый,1 поколение,2.0 MT T.Spark,0,160000
+28917,https://moscow.drom.ru/alfa_romeo/giulia/48545778.html,Alfa Romeo,Giulia,Москва,2018,бензин,2.0,280,автомат,задний,,черный,54010,левый,,,0,2390000
+28918,https://moscow.drom.ru/alfa_romeo/spider/47480959.html,Alfa Romeo,Spider,Москва,2008,бензин,3.2,260,АКПП,4WD,,голубой,53700,левый,"3 поколение, рестайлинг",3.2 AT,0,2200000
+28919,https://bryuhovetskaya.drom.ru/alfa_romeo/146/47808518.html,Alfa Romeo,146,Брюховецкая,1997,бензин,1.6,120,механика,передний,,серый,300000,левый,1 поколение,1.6 MT T.Spark,0,210000
+28920,https://krasnodar.drom.ru/alfa_romeo/giulia/49095867.html,Alfa Romeo,Giulia,,2022,бензин,2.0,280,АКПП,4WD,,белый,14175,левый,2 поколение,2.0 AT Q4,0,4700000
+28921,https://novosibirsk.drom.ru/alfa_romeo/giulietta/46131508.html,Alfa Romeo,Giulietta,,2012,бензин,1.4,120,автомат,передний,хэтчбек 5 дв.,,45000,правый,,,0,800000
+28922,https://krasnodar.drom.ru/alfa_romeo/giulia/44910461.html,Alfa Romeo,Giulia,,2019,дизель,2.1,190,АКПП,задний,,черный,86999,левый,2 поколение,2.2 TD AT,0,2200000
+28923,https://novosibirsk.drom.ru/alfa_romeo/giulietta/48166384.html,Alfa Romeo,Giulietta,,2020,бензин,1.4,150,механика,передний,хэтчбек 5 дв.,белый,30,левый,,,0,3800000
+28924,https://spb.drom.ru/alfa_romeo/stelvio/47813664.html,Alfa Romeo,Stelvio,,2019,бензин,2.0,280,АКПП,4WD,,,32000,левый,1 поколение,2.0 AT,0,1700000
+28925,https://sevastopol.drom.ru/alfa_romeo/156/46426407.html,Alfa Romeo,156,Севастополь,2002,2.0 ,.0,150,автомат,передний,седан,красный,206000,левый,,,1,437000
+28926,https://vladivostok.drom.ru/alfa_romeo/giulietta/47189929.html,Alfa Romeo,Giulietta,Владивосток,2013,бензин,1.4,170,автомат,передний,хэтчбек 5 дв.,белый,64000,правый,,,1,845000
+28927,https://zhigulevsk.drom.ru/alfa_romeo/156/48780455.html,Alfa Romeo,156,Жигулёвск,1999,дизель,1.9,105,механика,передний,седан,синий,66666,левый,1 поколение,1.9 MT JTD,0,187000
+28928,https://tyumen.drom.ru/alfa_romeo/giulia/47580128.html,Alfa Romeo,Giulia,Тюмень,2017,бензин,2.0,280,автомат,задний,,серый,62000,левый,,,0,2550000
+28929,https://moscow.drom.ru/alfa_romeo/159/48771354.html,Alfa Romeo,159,Москва,2008,дизель,1.9,150,автомат,передний,седан,серый,296150,левый,,,1,709900
+28930,https://korenovsk.drom.ru/alfa_romeo/147/49163006.html,Alfa Romeo,147,Кореновск,2002,бензин,2.0,150,механика,передний,хэтчбек 5 дв.,серый,99000,левый,1 поколение,2.0 MT T.Spark,0,350000
+28931,https://lipetsk.drom.ru/alfa_romeo/156/49162257.html,Alfa Romeo,156,Липецк,2000,бензин,1.7,144,механика,передний,седан,синий,,левый,1 поколение,1.8 MT T.Spark,0,235000
+28932,https://surgut.drom.ru/alfa_romeo/156/49158145.html,Alfa Romeo,156,Сургут,2003,бензин,2.0,165,механика,передний,седан,синий,180000,левый,"1 поколение, рестайлинг",2.0 MT JTS,1,185000
+28933,https://moscow.drom.ru/alfa_romeo/giulietta/49155174.html,Alfa Romeo,Giulietta,Москва,2011,бензин,1.4,170,робот,передний,хэтчбек 5 дв.,белый,165000,левый,3 поколение,1.4 AMT,0,840000
+28934,https://armavir.drom.ru/alfa_romeo/156/48826834.html,Alfa Romeo,156,Армавир,1999,бензин,2.0,155,автомат,передний,седан,серебристый,260000,левый,,,0,320000
+28935,https://ulyanovsk.drom.ru/alfa_romeo/156/48821848.html,Alfa Romeo,156,Ульяновск,1998,бензин,1.7,144,механика,передний,седан,черный,320000,левый,1 поколение,1.8 MT T.Spark,0,155000
+28936,https://sochi.drom.ru/alfa_romeo/giulia/49148389.html,Alfa Romeo,Giulia,Сочи,2017,бензин,2.0,200,АКПП,задний,,белый,49000,левый,2 поколение,2.0 AT,0,2100000
+28937,https://istra.drom.ru/alfa_romeo/156/48816510.html,Alfa Romeo,156,Истра,1998,бензин,1.7,144,механика,передний,седан,серебристый,291200,левый,1 поколение,1.8 MT T.Spark,0,320000
+28938,https://simferopol.drom.ru/alfa_romeo/147/48815367.html,Alfa Romeo,147,Симферополь,2002,бензин,2.0,150,механика,передний,хэтчбек 5 дв.,черный,190000,левый,1 поколение,2.0 MT T.Spark,0,390000
+28939,https://moscow.drom.ru/alfa_romeo/147/46703700.html,Alfa Romeo,147,Москва,2002,бензин,1.6,105,механика,передний,хэтчбек 5 дв.,коричневый,290000,левый,1 поколение,1.6 MT T.Spark,0,410000
+28940,https://moscow.drom.ru/alfa_romeo/stelvio/48115259.html,Alfa Romeo,Stelvio,Москва,2017,бензин,2.0,280,АКПП,4WD,,синий,42200,левый,1 поколение,2.0 AT,0,3200000
+28941,https://slavyansk-na-kubani.drom.ru/alfa_romeo/33/49128390.html,Alfa Romeo,33,Славянск-На-Кубани,1989,бензин,1.5,114,механика,4WD,универсал,серый,222333,левый,,,0,130000
+28942,https://chelyabinsk.drom.ru/alfa_romeo/156/49125124.html,Alfa Romeo,156,Челябинск,1997,бензин,2.0,155,механика,передний,седан,синий,163000,левый,1 поколение,2.0 MT T.Spark,0,85000
+28943,https://moscow.drom.ru/alfa_romeo/stelvio/48789058.html,Alfa Romeo,Stelvio,Москва,2019,бензин,2.0,280,АКПП,4WD,,черный,19500,левый,1 поколение,2.0 AT,0,3319000
+28944,https://makhachkala.drom.ru/alfa_romeo/156/47762688.html,Alfa Romeo,156,Махачкала,1999,бензин,1.7,144,механика,передний,седан,черный,185000,левый,1 поколение,1.8 MT T.Spark,0,300000
+28945,https://novoaltaysk.drom.ru/alfa_romeo/156/46149244.html,Alfa Romeo,156,Новоалтайск,2001,бензин,2.0,150,механика,передний,седан,красный,231085,левый,1 поколение,2.0 MT T.Spark,0,180000
+28946,https://chelyabinsk.drom.ru/alfa_romeo/159/49118833.html,Alfa Romeo,159,Челябинск,2008,дизель,1.9,150,механика,передний,седан,коричневый,196600,левый,,,0,850000
+28947,https://kolomna.drom.ru/alfa_romeo/156/47024196.html,Alfa Romeo,156,Коломна,2001,бензин,2.0,150,механика,передний,универсал,серебристый,135000,левый,1 поколение,2.0 MT T.Spark,0,105000
+28948,https://kaliningrad.drom.ru/alfa_romeo/146/49111319.html,Alfa Romeo,146,Калининград,1997,бензин,1.7,144,механика,передний,,черный,307700,левый,1 поколение,1.8 MT T.Spark,0,135000
+28949,https://berezniky.drom.ru/alfa_romeo/156/49103010.html,Alfa Romeo,156,Березники,1999,бензин,2.0,155,механика,передний,седан,красный,232000,левый,1 поколение,2.0 MT T.Spark,0,250000
+28951,https://surgut.drom.ru/alfa_romeo/giulietta/48607768.html,Alfa Romeo,Giulietta,Сургут,1985,бензин,1.8,122,механика,задний,седан,коричневый,132000,левый,2 поколение,1.8 MT,0,370000
+28952,https://moscow.drom.ru/alfa_romeo/giulia/48957227.html,Alfa Romeo,Giulia,Москва,2017,бензин,2.9,510,АКПП,задний,,черный,22000,левый,2 поколение,2.9 AT QV,0,5500000
+28953,https://moscow.drom.ru/alfa_romeo/giulia/48957045.html,Alfa Romeo,Giulia,Москва,2017,бензин,2.9,510,АКПП,задний,,красный,45000,левый,2 поколение,2.9 AT QV,0,5500000
+28954,https://tyumen.drom.ru/alfa_romeo/mi-to/44823728.html,Alfa Romeo,MiTo,Тюмень,2009,бензин,1.4,120,механика,передний,,черный,221959,левый,,,0,599000
+28955,https://pskov.drom.ru/alfa_romeo/147/47030906.html,Alfa Romeo,147,Псков,2008,дизель,1.9,115,механика,передний,хэтчбек 3 дв.,черный,110000,левый,,,0,920000
+28956,https://krasnoyarsk.drom.ru/alfa_romeo/159/48943362.html,Alfa Romeo,159,Красноярск,2006,бензин,2.2,185,механика,передний,седан,бордовый,230000,левый,1 поколение,2.2 MT Elegant ,0,550000
+28957,https://grayvoron.drom.ru/alfa_romeo/147/47527397.html,Alfa Romeo,147,Грайворон,2001,бензин,1.6,105,механика,передний,хэтчбек 3 дв.,серебристый,400000,левый,1 поколение,1.6 MT T.Spark,0,300000
+28958,https://spb.drom.ru/alfa_romeo/mi-to/46884175.html,Alfa Romeo,MiTo,Санкт-Петербург,2008,бензин,1.4,155,механика,передний,,красный,113300,левый,,,0,990000
+28959,https://moscow.drom.ru/alfa_romeo/stelvio/46850086.html,Alfa Romeo,Stelvio,Москва,2017,дизель,2.1,210,АКПП,4WD,,черный,34000,левый,1 поколение,2.2 TD AT,0,5000000
+28960,https://krasnodar.drom.ru/alfa_romeo/giulietta/47550783.html,Alfa Romeo,Giulietta,Краснодар,2014,бензин,1.7,240,автомат,передний,хэтчбек 5 дв.,черный,140000,левый,,,0,1350000
+28961,https://abakan.drom.ru/alfa_romeo/giulietta/44323514.html,Alfa Romeo,Giulietta,Абакан,2012,бензин,1.4,170,автомат,передний,хэтчбек 5 дв.,серый,106000,правый,,,0,905000
+28962,https://medyn.drom.ru/alfa_romeo/147/47901604.html,Alfa Romeo,147,Медынь,2003,бензин,2.0,150,механика,передний,хэтчбек 5 дв.,красный,199000,левый,1 поколение,2.0 MT T.Spark,1,320000
+28964,https://moscow.drom.ru/alfa_romeo/147/48926270.html,Alfa Romeo,147,Москва,2007,бензин,2.0,150,робот,передний,хэтчбек 5 дв.,черный,158500,левый,"1 поколение, рестайлинг",2.0 AMT T.Spark Selespeed,0,445000
+28965,https://krasnodar.drom.ru/alfa_romeo/156/48924970.html,Alfa Romeo,156,Краснодар,2002,бензин,1.7,140,механика,передний,седан,серебристый,247000,левый,1 поколение,1.8 MT T.Spark,1,160000
+28966,https://togliatti.drom.ru/alfa_romeo/giulietta/46566198.html,Alfa Romeo,Giulietta,Тольятти,2014,бензин,1.4,170,робот,передний,хэтчбек 5 дв.,красный,106944,левый,3 поколение,,0,1900000
+28967,https://buynaksk.drom.ru/alfa_romeo/164/48584076.html,Alfa Romeo,164,Буйнакск,1990,бензин,3.0,184,механика,передний,,зеленый,484500,левый,1 поколение,3.0 MT V6,0,95000
+28968,https://sevastopol.drom.ru/alfa_romeo/giulietta/45321272.html,Alfa Romeo,Giulietta,Севастополь,2010,бензин,1.4,120,механика,передний,хэтчбек 5 дв.,красный,135000,левый,3 поколение,1.4 MT,0,1350000
+28969,https://zarechniy-sverd.drom.ru/alfa_romeo/giulietta/46415461.html,Alfa Romeo,Giulietta,Заречный,2014,бензин,1.4,170,робот,передний,хэтчбек 5 дв.,черный,80200,левый,3 поколение,1.4T AT Exclusive E5 ,0,1240000
+28970,https://biysk.drom.ru/alfa_romeo/giulietta/46813994.html,Alfa Romeo,Giulietta,Бийск,2012,бензин,1.4,170,автомат,передний,хэтчбек 5 дв.,фиолетовый,78538,правый,,,0,1000000
+28971,https://spb.drom.ru/alfa_romeo/156/47315930.html,Alfa Romeo,156,Санкт-Петербург,1999,бензин,2.0,155,механика,передний,седан,красный,203000,левый,1 поколение,2.0 MT T.Spark,0,800000
+28972,https://spb.drom.ru/alfa_romeo/156/47315738.html,Alfa Romeo,156,Санкт-Петербург,1999,бензин,2.0,155,механика,передний,седан,серебристый,255000,левый,1 поколение,2.0 MT T.Spark,0,780000
+28973,https://tver.drom.ru/alfa_romeo/156/49016482.html,Alfa Romeo,156,Тверь,2001,бензин,2.0,155,механика,передний,седан,зеленый,315000,левый,,,0,230000
+28974,https://izhevsk.drom.ru/alfa_romeo/giulia/49014122.html,Alfa Romeo,Giulia,Ижевск,2017,бензин,2.0,200,АКПП,задний,,бордовый,75800,левый,2 поколение,2.0 AT,0,2540000
+28975,https://simferopol.drom.ru/alfa_romeo/156/49012957.html,Alfa Romeo,156,Симферополь,1999,бензин,1.7,144,механика,передний,седан,черный,293000,левый,1 поколение,1.8 MT T.Spark,0,225000
+28976,https://kazan.drom.ru/alfa_romeo/159/49011375.html,Alfa Romeo,159,Казань,2007,бензин,2.2,185,механика,передний,седан,черный,85500,левый,1 поколение,2.2 MT Elegant ,0,1150000
+28977,https://krasnodar.drom.ru/alfa_romeo/147/46859033.html,Alfa Romeo,147,Краснодар,2006,бензин,1.6,120,механика,передний,хэтчбек 3 дв.,синий,163000,левый,"1 поколение, рестайлинг",1.6 MT T.Spark,0,250000
+28978,https://tyumen.drom.ru/alfa_romeo/156/48378361.html,Alfa Romeo,156,Тюмень,2001,бензин,1.7,140,механика,передний,седан,серебристый,170000,левый,1 поколение,1.8 MT T.Spark,0,180000
+28979,https://moscow.drom.ru/alfa_romeo/giulia/48161013.html,Alfa Romeo,Giulia,Москва,2017,бензин,2.0,280,автомат,задний,,белый,85000,левый,,,0,2150000
+28980,https://moscow.drom.ru/alfa_romeo/gt/48991569.html,Alfa Romeo,GT,Москва,2005,бензин,2.0,165,робот,передний,,синий,200000,левый,1 поколение,2.0 AMT,1,401000
+28981,https://simferopol.drom.ru/alfa_romeo/147/48639701.html,Alfa Romeo,147,Симферополь,2001,бензин,1.6,120,механика,передний,хэтчбек 5 дв.,голубой,193123,левый,1 поколение,1.6 MT T.Spark,1,275000
+28982,https://moscow.drom.ru/alfa_romeo/giulietta/48296732.html,Alfa Romeo,Giulietta,Москва,2012,бензин,1.4,170,робот,передний,хэтчбек 5 дв.,серебристый,141829,левый,3 поколение,,0,639000
+28983,https://nefteyugansk.drom.ru/alfa_romeo/166/43956939.html,Alfa Romeo,166,Нефтеюганск,2000,бензин,2.0,205,механика,передний,,зеленый,180000,левый,,,0,270000
+28984,https://krasnodar.drom.ru/alfa_romeo/giulia/48536099.html,Alfa Romeo,Giulia,Краснодар,2018,бензин,2.0,280,автомат,задний,,белый,94100,левый,,,0,2250000
+28985,https://moscow.drom.ru/alfa_romeo/mi-to/48639641.html,Alfa Romeo,MiTo,Москва,2014,бензин,1.4,140,робот,передний,,красный,61700,левый,"1 поколение, рестайлинг",1.4 AMT,1,777000
+28986,https://chelyabinsk.drom.ru/alfa_romeo/155/47946595.html,Alfa Romeo,155,Челябинск,1992,бензин,1.8,129,механика,передний,,бордовый,285800,левый,1 поколение,1.8 MT T.Spark,0,50000
+28987,https://syzran.drom.ru/alfa_romeo/147/46909165.html,Alfa Romeo,147,Сызрань,2000,бензин,1.6,120,механика,передний,хэтчбек 3 дв.,синий,235000,левый,1 поколение,1.6 MT T.Spark,0,300000
+28988,https://rostov-na-donu.drom.ru/alfa_romeo/147/42908833.html,Alfa Romeo,147,Ростов-на-Дону,2007,бензин,2.0,150,робот,передний,хэтчбек 5 дв.,красный,182442,левый,"1 поколение, рестайлинг",2.0 AMT T.Spark Selespeed,0,540000
+28989,https://vladimir.drom.ru/alfa_romeo/146/48968890.html,Alfa Romeo,146,Владимир,1998,бензин,1.4,103,механика,передний,,черный,300000,левый,1 поколение,1.4 MT T.Spark,1,135000
+28990,https://moscow.drom.ru/aston_martin/dbs/48076578.html,Aston Martin,DBS,Москва,2010,бензин,5.9,517,АКПП,задний,купе,черный,8700,левый,2 поколение,5.9 AT,0,12500000
+28991,https://moscow.drom.ru/aston_martin/vantage/48426147.html,Aston Martin,Vantage,Москва,2007,бензин,4.3,385,автомат,задний,купе,красный,20000,левый,,,0,5000000
+28992,https://spb.drom.ru/aston_martin/rapide/49086882.html,Aston Martin,Rapide,Санкт-Петербург,2016,бензин,5.9,560,АКПП,задний,,коричневый,3800,левый,"1 поколение, рестайлинг",5.9 AT Rapide S,0,19100000
+28993,https://moscow.drom.ru/aston_martin/db9/48260640.html,Aston Martin,DB9,Москва,2013,бензин,5.9,517,автомат,задний,купе,белый,46800,левый,,,0,6350000
+28994,https://simferopol.drom.ru/aston_martin/db9/47909845.html,Aston Martin,DB9,Симферополь,2007,бензин,5.9,477,автомат,задний,купе,синий,24500,левый,,,1,5400000
+28995,https://krasnodar.drom.ru/aston_martin/vantage/46816290.html,Aston Martin,Vantage,,2017,бензин,4.7,436,АКПП,задний,открытый,черный,9600,левый,3 поколение,V8 4.7 AT SP 10,0,7920000
+28996,https://vladivostok.drom.ru/aston_martin/db11/48236072.html,Aston Martin,DB11,,2019,бензин,4.0,510,АКПП,задний,открытый,серебристый,5441,левый,1 поколение,4.0 Volante,0,12800000
+28997,https://vladivostok.drom.ru/aston_martin/vantage/48852659.html,Aston Martin,Vantage,,2022,бензин,4.0,510,АКПП,задний,открытый,серый,новый автомобиль,левый,4 поколение,4.0 АТ Roadster,0,18000000
+28998,https://moscow.drom.ru/aston_martin/ar1/48786088.html,Aston Martin,AR1,Москва,2003,бензин,5.9,420,механика,задний,,черный,1,левый,1 поколение,5.9 MT,0,99999
+28999,https://aramil.drom.ru/aston_martin/vanquish/47229385.html,Aston Martin,Vanquish,Арамиль,2003,бензин,6.0,469,автомат,задний,купе,бордовый,47860,левый,,,0,6499000

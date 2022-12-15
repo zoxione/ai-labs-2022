@@ -1,0 +1,10 @@
+Id,Url,Brand,Model,Region,Year,Engine,EngineVolume,Power,Transmission,Drive,Body,Color,Mileage,Wheel,Generation,Complectation,IsSold,Price
+103500,https://krasnoyarsk.drom.ru/mazda/mazda3/48978531.html,Mazda,Mazda3,Красноярск,2017,бензин,2.0,155,автомат,передний,седан,серый,79000,левый,,,1,1225000
+103501,https://kemerovo.drom.ru/mazda/axela/48978416.html,Mazda,Axela,Кемерово,2017,бензин,1.5,111,АКПП,передний,седан,серебристый,52800,правый,"3 поколение, рестайлинг",1.5 15S,1,1250000
+103502,https://vladivostok.drom.ru/mazda/axela/48188580.html,Mazda,Axela,Владивосток,2016,бензин,1.5,111,АКПП,передний,седан,,безпробегапоРФ,правый,"3 поколение, рестайлинг",1.5 15C,0,1070000
+103503,https://omsk.drom.ru/mazda/cx-5/48977733.html,Mazda,CX-5,Омск,2019,бензин,2.0,150,АКПП,4WD,,синий,23000,левый,2 поколение,2.0 AT Supreme (пакет 2),0,3100000
+103504,https://sochi.drom.ru/mazda/cx-5/48633842.html,Mazda,CX-5,Сочи,2018,бензин,2.5,194,АКПП,4WD,,бордовый,82000,левый,2 поколение,2.5 AT Supreme,0,2500000
+103505,https://togliatti.drom.ru/mazda/cx-5/48636397.html,Mazda,CX-5,Тольятти,2019,дизель,2.2,,автомат,передний,,,82839,левый,,,1,2500000
+103506,https://sevastopol.drom.ru/mazda/cx-5/46443316.html,Mazda,CX-5,Севастополь,2017,бензин,2.0,150,АКПП,4WD,,белый,103000,левый,2 поколение,2.0 AT Supreme,0,2480000
+103507,https://tyumen.drom.ru/mazda/cx-5/46445246.html,Mazda,CX-5,Тюмень,2015,бензин,2.0,150,АКПП,4WD,,белый,190000,левый,"1 поколение, рестайлинг",2.0 AT Active ,1,1700000
+103508,https://tyumen.drom.ru/mazda/cx-9/46548285.html,Mazda,CX-9,Тюмень,2018,бензин,2.5,231,АКПП,4WD,,серый,51000,левый,2 поколение,2.5T AT Active,0,3850000

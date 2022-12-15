@@ -1,0 +1,491 @@
+Id,Url,Brand,Model,Region,Year,Engine,EngineVolume,Power,Transmission,Drive,Body,Color,Mileage,Wheel,Generation,Complectation,IsSold,Price
+12500,https://krasnodar.drom.ru/daihatsu/tanto/48400539.html,Daihatsu,Tanto,Краснодар,2015,бензин,0.7,52,вариатор,передний,,бордовый,104000,правый,"3 поколение, рестайлинг", 660 Custom X Top Edition SAII,0,685000
+12501,https://taganrog.drom.ru/daihatsu/mira/48399549.html,Daihatsu,Mira,Таганрог,2009,бензин,0.7,58,АКПП,передний,хэтчбек 5 дв.,белый,220000,правый,7 поколение,660 X,1,290000
+12502,https://spb.drom.ru/daihatsu/materia/48399260.html,Daihatsu,Materia,Санкт-Петербург,2008,бензин,1.5,102,автомат,передний,,серебристый,150000,левый,,,1,585000
+12503,https://ulan-ude.drom.ru/daihatsu/pyzar/48397361.html,Daihatsu,Pyzar,Улан-Удэ,1996,бензин,1.5,100,АКПП,передний,,серебристый,350000,правый,1 поколение,1.5 CL,0,100000
+12504,https://omsk.drom.ru/daihatsu/pyzar/48395619.html,Daihatsu,Pyzar,Омск,1996,бензин,1.5,100,АКПП,передний,,черный,248930,правый,1 поколение,1.5 CL,1,140000
+12505,https://petropavlovsk-kamchatskiy.drom.ru/daihatsu/terios_kid/48393714.html,Daihatsu,Terios Kid,Петропавловск-Камчатский,2001,бензин,0.7,60,АКПП,4WD,,серый,200000,правый,"1 поколение, рестайлинг",,0,210000
+12506,https://ulan-ude.drom.ru/daihatsu/charade/48053691.html,Daihatsu,Charade,Улан-Удэ,1990,бензин,1.3,82,АКПП,передний,хэтчбек 5 дв.,серый,100000,правый,"3 поколение, рестайлинг",,0,105000
+12507,https://blagoveshchensk.drom.ru/daihatsu/mira_e-s/48050126.html,Daihatsu,Mira e:S,Благовещенск,2014,бензин,0.7,52,вариатор,передний,,белый,89000,правый,"1 поколение, рестайлинг",,0,450000
+12508,https://chita.drom.ru/daihatsu/mira/48050244.html,Daihatsu,Mira,Чита,2017,бензин,0.7,58,вариатор,передний,хэтчбек 3 дв.,белый,94600,правый,7 поколение,660 TX,0,415000
+12509,https://megion.drom.ru/daihatsu/mira/48048484.html,Daihatsu,Mira,Мегион,2009,бензин,0.7,58,АКПП,передний,хэтчбек 5 дв.,серый,191348,правый,7 поколение,,0,390000
+12510,https://ussuriisk.drom.ru/daihatsu/terios_kid/48048494.html,Daihatsu,Terios Kid,Уссурийск,2009,бензин,0.7,64,АКПП,4WD,,черный,159480,правый,"1 поколение, 2 рестайлинг",,0,360000
+12511,https://habarovsk.drom.ru/daihatsu/hijet/47866212.html,Daihatsu,Hijet,Хабаровск,2015,бензин,0.7,53,АКПП,4WD,минивэн,белый,127400,правый,"10 поколение, рестайлинг",,0,430000
+12512,https://tomsk.drom.ru/daihatsu/hijet/47730799.html,Daihatsu,Hijet,Томск,2010,бензин,0.7,53,АКПП,4WD,минивэн,белый,120000,правый,"10 поколение, рестайлинг",,0,350000
+12513,https://irkutsk.drom.ru/daihatsu/terios_kid/47718839.html,Daihatsu,Terios Kid,Иркутск,2007,бензин,0.6,77,автомат,4WD,,серый,121000,правый,,,0,480000
+12514,https://ulan-ude.drom.ru/daihatsu/mira_e-s/47718024.html,Daihatsu,Mira e:S,Улан-Удэ,2016,бензин,0.7,49,вариатор,передний,,белый,61000,правый,"1 поколение, рестайлинг", 660 G 35th Anniversary Gold Edition SA,0,430000
+12515,https://habarovsk.drom.ru/daihatsu/mira/47713419.html,Daihatsu,Mira,Хабаровск,2010,бензин,0.7,58,вариатор,передний,хэтчбек 5 дв.,коричневый,62000,правый,7 поколение,660 custom X,0,360000
+12516,https://yugorsk.drom.ru/daihatsu/move/47387325.html,Daihatsu,Move,Югорск,2013,бензин,0.7,52,вариатор,передний,,,124700,правый,"5 поколение, рестайлинг",,0,550000
+12517,https://habarovsk.drom.ru/daihatsu/be-go/47384936.html,Daihatsu,Be-Go,Хабаровск,2007,бензин,1.5,109,АКПП,4WD,,черный,119000,правый,1 поколение,,0,700000
+12518,https://irkutsk.drom.ru/daihatsu/move/47381431.html,Daihatsu,Move,Иркутск,2013,бензин,0.7,52,вариатор,передний,,белый,85000,правый,"5 поколение, рестайлинг",660 Custom X Limited SA,1,500000
+12519,https://komsomolsk.drom.ru/daihatsu/terios/47378863.html,Daihatsu,Terios,Комсомольск-на-Амуре,1998,бензин,1.3,92,АКПП,4WD,,серый,261000,правый,1 поколение,,0,360000
+12520,https://blagoveshchensk.drom.ru/daihatsu/hijet/47378971.html,Daihatsu,Hijet,Благовещенск,2009,бензин,0.7,53,АКПП,4WD,минивэн,белый,80000,правый,"10 поколение, рестайлинг",,0,280000
+12521,https://blagoveshchensk.drom.ru/daihatsu/boon/46969485.html,Daihatsu,Boon,Благовещенск,2009,бензин,1.0,71,АКПП,передний,,белый,155000,правый,"1 поколение, рестайлинг",1.0 CL,0,349000
+12522,https://vladivostok.drom.ru/daihatsu/copen/46650401.html,Daihatsu,Copen,Владивосток,2003,бензин,0.7,64,АКПП,передний,открытый,серый,123300,правый,1 поколение,660 active top ,0,470000
+12523,https://krasnodar.drom.ru/daihatsu/tanto/46222054.html,Daihatsu,Tanto,Краснодар,2012,бензин,0.7,58,автомат,передний,,белый,92000,правый,,,1,545000
+12524,https://gusinoozersk.drom.ru/daihatsu/terios_kid/45540459.html,Daihatsu,Terios Kid,Гусиноозёрск,2007,бензин,0.7,64,АКПП,задний,,серый,128000,правый,"1 поколение, 2 рестайлинг",,0,440000
+12525,https://odintsovo.drom.ru/daihatsu/mira_e-s/45348166.html,Daihatsu,Mira e:S,Одинцово,2017,бензин,0.7,49,вариатор,передний,,серебристый,18132,правый,2 поколение, 660 L,0,520000
+12526,https://vladivostok.drom.ru/daihatsu/mira_e-s/45051803.html,Daihatsu,Mira e:S,Владивосток,2017,бензин,0.7,49,вариатор,передний,,белый,100000,правый,2 поколение, 660 X SAIII,0,520000
+12527,https://nakhodka.drom.ru/daihatsu/rugger/44769829.html,Daihatsu,Rugger,Находка,1991,дизель,2.8,115,механика,4WD,,черный,200000,правый,"1 поколение, 2 рестайлинг",,0,450000
+12528,https://belogorsk.drom.ru/daihatsu/terios/43669792.html,Daihatsu,Terios,Белогорск,2008,бензин,1.5,105,АКПП,4WD,,красный,147000,левый,2 поколение,,0,670000
+12529,https://novosibirsk.drom.ru/daihatsu/atrai/42184775.html,Daihatsu,Atrai,Новосибирск,2001,бензин,1.3,89,автомат,4WD,минивэн,серый,230000,правый,,,0,180000
+12530,https://vladivostok.drom.ru/daihatsu/move/49096456.html,Daihatsu,Move,Владивосток,2015,бензин,0.7,52,вариатор,передний,,белый,118000,правый,6 поколение,,0,650000
+12531,https://vladivostok.drom.ru/daihatsu/move/48314688.html,Daihatsu,Move,Владивосток,2015,бензин,0.7,64,вариатор,передний,,черный,74000,правый,6 поколение, 660 Custom RS Hyper SAII,0,620000
+12532,https://anapa.drom.ru/daihatsu/terios/49096410.html,Daihatsu,Terios,Анапа,2012,бензин,1.5,105,АКПП,4WD,,серый,96000,левый,"2 поколение, рестайлинг",1.5 AT 4WD SX,1,1049999
+12533,https://usoliye-sibirskoe.drom.ru/daihatsu/move/49096394.html,Daihatsu,Move,Усолье-Сибирское,2014,бензин,0.7,52,вариатор,передний,,серебристый,106000,правый,"5 поколение, рестайлинг",660 Custom X Limited Smart Selection SA,0,505000
+12534,https://vladivostok.drom.ru/daihatsu/thor/48573811.html,Daihatsu,Thor,Владивосток,2018,бензин,1.0,69,вариатор,4WD,,,79000,правый,1 поколение, 1.0 Custom G SAIII 4WD,0,850000
+12535,https://yakutsk.drom.ru/daihatsu/be-go/49096246.html,Daihatsu,Be-Go,Якутск,2006,бензин,1.5,109,АКПП,4WD,,серый,140000,правый,1 поколение,1.5 CX 4WD,0,666000
+12536,https://vladivostok.drom.ru/daihatsu/move/48923844.html,Daihatsu,Move,Владивосток,2009,бензин,0.7,58,вариатор,передний,,черный,166000,правый,"4 поколение, рестайлинг",660 custom X,1,360000
+12537,https://seversk.drom.ru/daihatsu/boon/48374813.html,Daihatsu,Boon,Северск,2009,бензин,1.0,71,АКПП,передний,,серебристый,100000,правый,"1 поколение, рестайлинг",,0,395000
+12538,https://novosibirsk.drom.ru/daihatsu/move/47560248.html,Daihatsu,Move,Новосибирск,2017,бензин,0.7,52,вариатор,передний,,белый,94000,правый,6 поколение, 660 Custom X Special,1,645000
+12539,https://sovetskaya-gavan.drom.ru/daihatsu/move/46744235.html,Daihatsu,Move,Советская Гавань,2007,бензин,0.7,58,АКПП,передний,,серый,112439,правый,4 поколение,660 custom L,0,450000
+12540,https://tomsk.drom.ru/daihatsu/terios/49095401.html,Daihatsu,Terios,Томск,1998,бензин,1.3,92,АКПП,4WD,,серый,198000,правый,1 поколение,1.3 CL,1,345000
+12541,https://habarovsk.drom.ru/daihatsu/boon/49095345.html,Daihatsu,Boon,Хабаровск,2009,бензин,1.0,71,АКПП,передний,,бордовый,230000,правый,"1 поколение, рестайлинг",1.0 CL,0,355000
+12542,https://bratsk.drom.ru/daihatsu/move/47053952.html,Daihatsu,Move,Братск,2012,бензин,0.7,64,вариатор,передний,,фиолетовый,103300,правый,5 поколение,660 custom RS,0,510000
+12543,https://krasnoyarsk.drom.ru/daihatsu/move/48333286.html,Daihatsu,Move,Красноярск,2008,бензин,0.7,58,АКПП,передний,,серый,128000,правый,"4 поколение, рестайлинг",660 L,0,469000
+12544,https://krasnoyarsk.drom.ru/daihatsu/mira/47879088.html,Daihatsu,Mira,Красноярск,2009,бензин,0.7,58,АКПП,передний,хэтчбек 5 дв.,серый,112000,правый,7 поколение,660 X special,0,347000
+12545,https://novoshahtinskiy.drom.ru/daihatsu/charade/49094925.html,Daihatsu,Charade,Новошахтинский,1994,бензин,1.3,91,АКПП,передний,хэтчбек 3 дв.,белый,200000,правый,4 поколение,1.3 TS,1,65000
+12546,https://sharypovo.drom.ru/daihatsu/move/45523928.html,Daihatsu,Move,Шарыпово,2016,бензин,0.7,52,вариатор,передний,,белый,100000,правый,6 поколение, 660 Custom X Hyper,0,625000
+12547,https://kavalerovo.drom.ru/daihatsu/terios_kid/43401636.html,Daihatsu,Terios Kid,Кавалерово,2006,бензин,0.7,64,механика,4WD,,красный,167000,правый,"1 поколение, 2 рестайлинг",660 custom L 4WD,0,360000
+12548,https://ulan-ude.drom.ru/daihatsu/storia/48943173.html,Daihatsu,Storia,Улан-Удэ,2002,бензин,1.3,90,АКПП,передний,,,230000,правый,"1 поколение, 2 рестайлинг",1.3 CX,1,138000
+12549,https://barnaul.drom.ru/daihatsu/mira_e-s/47684038.html,Daihatsu,Mira e:S,Барнаул,2017,бензин,0.7,49,вариатор,передний,,серебристый,54000,правый,"1 поколение, рестайлинг", 660 X Limited SA,0,577000
+12550,https://novorossiysk.drom.ru/daihatsu/move/46749296.html,Daihatsu,Move,Новороссийск,2018,бензин,0.7,52,вариатор,передний,,бордовый,109000,правый,"6 поколение, рестайлинг",,0,690000
+12551,https://novorossiysk.drom.ru/daihatsu/tanto/46631974.html,Daihatsu,Tanto,Новороссийск,2013,бензин,0.7,52,вариатор,передний,,черный,82000,правый,2 поколение,660 custom L,0,575000
+12552,https://novosibirsk.drom.ru/daihatsu/move/49066976.html,Daihatsu,Move,Новосибирск,2013,бензин,0.7,52,вариатор,передний,,,96000,правый,"5 поколение, рестайлинг",660 Custom X Limited,0,550000
+12553,https://natuhaevskaya.drom.ru/daihatsu/caddie/47948811.html,Daihatsu,Hijet Caddie,Натухаевская,2018,бензин,0.7,52,вариатор,4WD,минивэн,белый,29000,правый,1 поколение,,0,855000
+12554,https://novosibirsk.drom.ru/daihatsu/move/48721461.html,Daihatsu,Move,Новосибирск,2007,бензин,0.7,58,вариатор,передний,,серый,160000,правый,4 поколение,660 X limited ,1,300000
+12555,https://blagoveshchensk.drom.ru/daihatsu/pyzar/49065737.html,Daihatsu,Pyzar,Благовещенск,1996,бензин,1.5,100,механика,4WD,,черный,100000,правый,1 поколение,,1,170000
+12556,https://ekaterinburg.drom.ru/daihatsu/yrv/49065622.html,Daihatsu,YRV,Екатеринбург,2002,бензин,1.3,90,механика,передний,,серый,171142,левый,,,0,295000
+12557,https://achinsk.drom.ru/daihatsu/move/46281622.html,Daihatsu,Move,Ачинск,2016,бензин,0.7,52,вариатор,4WD,,серебристый,76000,правый,6 поколение, 660 L 4WD,0,590000
+12558,https://nakhodka.drom.ru/daihatsu/terios_kid/49064768.html,Daihatsu,Terios Kid,Находка,2002,бензин,0.7,60,АКПП,4WD,,серый,124000,правый,"1 поколение, рестайлинг",660 Custom S edition,0,250000
+12559,https://vladivostok.drom.ru/daihatsu/atrai/49064580.html,Daihatsu,Atrai,Владивосток,2012,бензин,0.7,64,АКПП,4WD,минивэн,синий,72500,правый,"6 поколение, рестайлинг",660 custom turbo RS limited 4WD,0,630000
+12560,https://vladivostok.drom.ru/daihatsu/terios_kid/49064537.html,Daihatsu,Terios Kid,Владивосток,2006,бензин,0.7,64,АКПП,4WD,,белый,75000,правый,"1 поколение, рестайлинг",,1,330000
+12561,https://kemerovo.drom.ru/daihatsu/boon/49064529.html,Daihatsu,Boon,Кемерово,2017,бензин,1.0,69,вариатор,4WD,,бежевый,92000,правый,3 поколение, 1.0 X SAII 4WD,0,820000
+12562,https://novosibirsk.drom.ru/daihatsu/move/49064469.html,Daihatsu,Move,Новосибирск,2010,бензин,0.7,52,вариатор,передний,,фиолетовый,104500,правый,5 поколение,660 custom X limited,0,565000
+12563,https://ussuriisk.drom.ru/daihatsu/mira_e-s/49064430.html,Daihatsu,Mira e:S,Уссурийск,2017,бензин,0.7,49,вариатор,передний,,серебристый,75300,правый,2 поколение, 660 X SAIII,0,510000
+12564,https://vladivostok.drom.ru/daihatsu/move/49064421.html,Daihatsu,Move,Владивосток,2015,бензин,0.7,52,вариатор,передний,,голубой,57536,правый,6 поколение,660 L,0,505000
+12565,https://vladivostok.drom.ru/daihatsu/mira_e-s/49064101.html,Daihatsu,Mira e:S,Владивосток,2019,бензин,0.7,49,вариатор,передний,,синий,70000,правый,2 поколение, 660 L SAIII,1,555000
+12566,https://krasnogorsk.drom.ru/daihatsu/wake/46978247.html,Daihatsu,Wake,Красногорск,2017,бензин,0.7,52,вариатор,передний,,зеленый,119000,правый,1 поколение, 660 D SAII,0,785000
+12567,https://sochi.drom.ru/daihatsu/storia/47973976.html,Daihatsu,Storia,Сочи,2002,бензин,1.0,64,АКПП,передний,,белый,345000,правый,"1 поколение, 2 рестайлинг",1.0 CL,0,100000
+12568,https://vladivostok.drom.ru/daihatsu/terios_kid/44270235.html,Daihatsu,Terios Kid,Владивосток,2007,бензин,0.7,64,механика,4WD,,черный,99999,правый,"1 поколение, 2 рестайлинг",660 custom L 4WD,0,430000
+12569,https://habarovsk.drom.ru/daihatsu/mira/49042487.html,Daihatsu,Mira,Хабаровск,2015,бензин,0.7,58,вариатор,передний,хэтчбек 3 дв.,серый,61000,правый,7 поколение,660 TX,1,320000
+12570,https://bogotol.drom.ru/daihatsu/tanto/48118062.html,Daihatsu,Tanto,Боготол,2017,бензин,0.7,52,вариатор,передний,,серый,121000,правый,"3 поколение, рестайлинг", 660 Custom X Top Edition SAIII,0,630000
+12571,https://vladivostok.drom.ru/daihatsu/taft/48832298.html,Daihatsu,Taft,Владивосток,2021,бензин,0.7,52,вариатор,передний,,бежевый,4500,правый,2 поколение,660 G,1,1150000
+12572,https://ussuriisk.drom.ru/daihatsu/move/49070769.html,Daihatsu,Move,Уссурийск,2017,бензин,0.7,52,вариатор,передний,,белый,50000,правый,"6 поколение, рестайлинг", 660 L SAIII,0,480000
+12573,https://vladivostok.drom.ru/daihatsu/tanto/49070618.html,Daihatsu,Tanto,Владивосток,2008,бензин,0.7,47,автомат,передний,,черный,170000,правый,,,0,355000
+12574,https://habarovsk.drom.ru/daihatsu/tanto/49070516.html,Daihatsu,Tanto,Хабаровск,2013,бензин,0.7,52,вариатор,передний,,фиолетовый,94000,правый,2 поколение,660 custom L,0,457000
+12575,https://kansk.drom.ru/daihatsu/mira_e-s/49070527.html,Daihatsu,Mira e:S,Канск,2017,бензин,0.7,49,вариатор,передний,,белый,105000,правый,2 поколение,,0,550000
+12576,https://vladivostok.drom.ru/daihatsu/terios_kid/49070426.html,Daihatsu,Terios Kid,Владивосток,2010,бензин,0.7,64,АКПП,4WD,,белый,120000,правый,"1 поколение, 2 рестайлинг",,0,455000
+12577,https://vladivostok.drom.ru/daihatsu/atrai/49070160.html,Daihatsu,Atrai,Владивосток,2018,бензин,0.7,64,АКПП,задний,минивэн,черный,96000,правый,"6 поколение, 2 рестайлинг",660 Custom Turbo RS Limited SAIII,1,685000
+12578,https://biysk.drom.ru/daihatsu/charade/49070282.html,Daihatsu,Charade,Бийск,1999,бензин,1.3,91,АКПП,передний,хэтчбек 3 дв.,белый,130000,правый,"4 поколение, рестайлинг",1.3 Pose,1,65000
+12579,https://kemerovo.drom.ru/daihatsu/boon/49070158.html,Daihatsu,Boon,Кемерово,2018,бензин,1.0,69,вариатор,передний,,зеленый,85210,правый,3 поколение,,0,830000
+12580,https://novobureyskiy.drom.ru/daihatsu/terios_kid/49070151.html,Daihatsu,Terios Kid,Новобурейский,1999,бензин,0.7,64,АКПП,4WD,,серый,187000,правый,1 поколение,660 Aero down,1,265000
+12581,https://habarovsk.drom.ru/daihatsu/terios/49070018.html,Daihatsu,Terios,Хабаровск,2000,бензин,1.3,90,АКПП,4WD,,серый,250000,правый,"1 поколение, рестайлинг",,1,375000
+12582,https://vladivostok.drom.ru/daihatsu/mira/49070069.html,Daihatsu,Mira,Владивосток,2008,бензин,0.7,58,АКПП,передний,хэтчбек 3 дв.,белый,305700,правый,7 поколение,,0,250000
+12583,https://dalnegorsk.drom.ru/daihatsu/terios_kid/49070037.html,Daihatsu,Terios Kid,Дальнегорск,2000,бензин,0.7,64,АКПП,4WD,,серебристый,210000,правый,1 поколение,660 Aero down,1,250000
+12584,https://voronezhskaya.drom.ru/daihatsu/tanto/46609016.html,Daihatsu,Tanto,Воронежская,2009,бензин,0.7,58,АКПП,передний,,серый,186000,правый,2 поколение,,0,365000
+12585,https://vladivostok.drom.ru/daihatsu/tanto/49069771.html,Daihatsu,Tanto,Владивосток,2007,бензин,0.7,64,автомат,передний,,белый,132386,левый,,,0,349999
+12586,https://vladivostok.drom.ru/daihatsu/terios/49069679.html,Daihatsu,Terios,Владивосток,2005,бензин,1.3,90,АКПП,4WD,,белый,77000,правый,"1 поколение, рестайлинг",,0,430000
+12587,https://vladivostok.drom.ru/daihatsu/move/48531575.html,Daihatsu,Move,Владивосток,2011,бензин,0.7,64,вариатор,передний,,серый,93700,правый,5 поколение,,0,425000
+12588,https://elizovo.drom.ru/daihatsu/terios_kid/49069293.html,Daihatsu,Terios Kid,Елизово,2002,бензин,0.7,60,АКПП,4WD,,черный,179000,правый,"1 поколение, рестайлинг",,0,180000
+12589,https://abakan.drom.ru/daihatsu/move/48644384.html,Daihatsu,Move,Абакан,2012,бензин,0.7,64,вариатор,передний,,серый,122000,правый,"5 поколение, рестайлинг",660 Custom RS,1,475000
+12590,https://birobidzhan.drom.ru/daihatsu/terios/48985799.html,Daihatsu,Terios,Биробиджан,1997,бензин,1.3,92,АКПП,4WD,,синий,150000,правый,1 поколение,1.3 CL,1,198000
+12591,https://belogorsk.drom.ru/daihatsu/terios_kid/49060655.html,Daihatsu,Terios Kid,Белогорск,2000,бензин,0.7,60,АКПП,4WD,,белый,110000,правый,1 поколение,660 S edition,1,270000
+12592,https://ussuriisk.drom.ru/daihatsu/thor/48112787.html,Daihatsu,Thor,Уссурийск,2018,бензин,1.0,69,вариатор,передний,,бордовый,37257,правый,1 поколение, 1.0 X,1,675000
+12593,https://chita.drom.ru/daihatsu/mira_e-s/48506812.html,Daihatsu,Mira e:S,Чита,2013,бензин,0.7,52,вариатор,передний,,красный,85500,правый,"1 поколение, рестайлинг",660 X SA,0,445000
+12594,https://nakhodka.drom.ru/daihatsu/move/49060389.html,Daihatsu,Move,Находка,2018,бензин,0.7,52,вариатор,передний,,белый,80000,правый,"6 поколение, рестайлинг",,0,535000
+12595,https://vladivostok.drom.ru/daihatsu/terios_kid/48448685.html,Daihatsu,Terios Kid,Владивосток,2001,бензин,0.7,64,АКПП,4WD,,серый,244631,правый,"1 поколение, рестайлинг",,1,260000
+12596,https://vladivostok.drom.ru/daihatsu/rocky/49060328.html,Daihatsu,Rocky,Владивосток,2019,бензин,1.0,98,вариатор,4WD,джип/suv 5 дв.,белый,11000,правый,2 поколение,1.0 Premium 4WD,0,1485000
+12597,https://krasnoyarsk.drom.ru/daihatsu/move/48454080.html,Daihatsu,Move,Красноярск,2017,бензин,0.7,64,вариатор,передний,,серебристый,88000,правый,6 поколение, 660 Custom RS,1,690000
+12598,https://krasnoyarsk.drom.ru/daihatsu/mira_e-s/48720092.html,Daihatsu,Mira e:S,Красноярск,2019,бензин,0.7,49,вариатор,передний,,серый,55000,правый,2 поколение, 660 B SAIII,0,595000
+12599,https://nizhneudinsk.drom.ru/daihatsu/rocky/48721852.html,Daihatsu,Rocky,Нижнеудинск,1992,бензин,1.6,105,механика,4WD,джип/suv 3 дв.,черный,215000,правый,1 поколение,,0,330000
+12600,https://krasnoyarsk.drom.ru/daihatsu/mira_e-s/48642401.html,Daihatsu,Mira e:S,Красноярск,2019,бензин,0.7,49,вариатор,передний,,серебристый,43950,правый,2 поколение, 660 L SAIII,0,615000
+12601,https://blagoveshchensk.drom.ru/daihatsu/rocky/48719260.html,Daihatsu,Rocky,Благовещенск,2021,бензин,1.0,98,вариатор,4WD,джип/suv 5 дв.,синий,8000,правый,2 поколение,1.0 Premium 4WD,0,1747000
+12602,https://ussuriisk.drom.ru/daihatsu/move/49059868.html,Daihatsu,Move,Уссурийск,2017,бензин,0.7,52,вариатор,передний,,,135000,правый,"6 поколение, рестайлинг",,0,475000
+12603,https://ussuriisk.drom.ru/daihatsu/tanto/49059853.html,Daihatsu,Tanto,Уссурийск,2018,бензин,0.7,52,вариатор,передний,,,107000,правый,"3 поколение, рестайлинг",,0,565000
+12604,https://chita.drom.ru/daihatsu/terios/49020327.html,Daihatsu,Terios,Чита,2001,бензин,0.7,60,механика,4WD,,розовый,1111,правый,,,1,450000
+12605,https://vladivostok.drom.ru/daihatsu/be-go/48922053.html,Daihatsu,Be-Go,Владивосток,2007,бензин,1.5,109,АКПП,4WD,,черный,145000,правый,1 поколение,1.5 CX 4WD,0,685000
+12606,https://chita.drom.ru/daihatsu/mira_e-s/48721512.html,Daihatsu,Mira e:S,Чита,2017,бензин,0.7,49,вариатор,передний,,бордовый,55676,правый,2 поколение, 660 G SAIII,0,610000
+12607,https://chita.drom.ru/daihatsu/mira/47309641.html,Daihatsu,Mira,Чита,2010,бензин,0.7,58,АКПП,передний,хэтчбек 3 дв.,серый,101993,правый,7 поколение,,0,350000
+12608,https://vladivostok.drom.ru/daihatsu/terios_kid/48652325.html,Daihatsu,Terios Kid,Владивосток,2007,бензин,0.7,64,АКПП,4WD,,фиолетовый,125000,правый,"1 поколение, 2 рестайлинг",,0,450000
+12609,https://bronnitsy.drom.ru/daihatsu/mira/48729826.html,Daihatsu,Mira,Бронницы,2017,бензин,0.7,49,автомат,передний,хэтчбек 5 дв.,серый,68905,правый,,,0,780000
+12610,https://ulan-ude.drom.ru/daihatsu/pyzar/48728112.html,Daihatsu,Pyzar,Улан-Удэ,1997,бензин,1.6,115,АКПП,передний,,белый,200000,правый,"1 поколение, рестайлинг",1.6 Aero custom,0,100000
+12611,https://sarapul.drom.ru/daihatsu/move/48727973.html,Daihatsu,Move,Сарапул,2017,бензин,0.7,52,вариатор,передний,,серый,75000,правый,6 поколение, 660 L SAII,1,670000
+12612,https://yakutsk.drom.ru/daihatsu/terios/48727922.html,Daihatsu,Terios,Якутск,2002,бензин,1.3,90,механика,4WD,,белый,242000,правый,"1 поколение, рестайлинг",1.3 CL limited,0,425000
+12613,https://komsomolsk.drom.ru/daihatsu/terios_kid/48726675.html,Daihatsu,Terios Kid,Комсомольск-на-Амуре,2005,бензин,0.7,60,АКПП,задний,,синий,226000,правый,"1 поколение, рестайлинг",,0,280000
+12614,https://ust-ilimsk.drom.ru/daihatsu/terios_kid/48725911.html,Daihatsu,Terios Kid,Усть-Илимск,2004,бензин,0.7,60,АКПП,4WD,,розовый,130000,правый,"1 поколение, рестайлинг",,0,350000
+12615,https://petropavlovsk-kamchatskiy.drom.ru/daihatsu/be-go/48725112.html,Daihatsu,Be-Go,Петропавловск-Камчатский,2006,бензин,1.5,109,АКПП,4WD,,черный,120000,правый,1 поколение,1.5 CL 4WD,0,680000
+12616,https://zheleznogorsk-krasnoyarsk.drom.ru/daihatsu/yrv/48720418.html,Daihatsu,YRV,Железногорск,2000,бензин,1.3,140,АКПП,передний,,белый,285000,правый,1 поколение,1.3 Turbo,0,260000
+12617,https://ulan-ude.drom.ru/daihatsu/hijet/48719740.html,Daihatsu,Hijet,Улан-Удэ,2016,бензин,0.7,46,механика,4WD,минивэн,белый,78000,правый,"10 поколение, рестайлинг",,0,450000
+12618,https://ussuriisk.drom.ru/daihatsu/boon/48719688.html,Daihatsu,Boon,Уссурийск,2016,бензин,1.0,69,вариатор,передний,,белый,143000,правый,3 поколение, 1.0 X,0,565000
+12619,https://zakamensk.drom.ru/daihatsu/terios_kid/48719716.html,Daihatsu,Terios Kid,Закаменск,2000,бензин,0.7,60,АКПП,4WD,,белый,159480,правый,"1 поколение, рестайлинг",,0,275000
+12620,https://vladivostok.drom.ru/daihatsu/terios/48719300.html,Daihatsu,Terios,Владивосток,1997,бензин,1.3,92,АКПП,4WD,,синий,182570,правый,1 поколение,1.3 CL,1,250000
+12621,https://anapa.drom.ru/daihatsu/tanto/48519060.html,Daihatsu,Tanto,Анапа,2017,бензин,0.7,64,вариатор,передний,,белый,25000,правый,"3 поколение, рестайлинг",,0,690000
+12622,https://krasnodar.drom.ru/daihatsu/grand_move/48379720.html,Daihatsu,Gran Move,Краснодар,1998,бензин,1.6,91,механика,передний,,синий,330000,,,,0,199000
+12623,https://pyatigorsk.drom.ru/daihatsu/atrai/48377289.html,Daihatsu,Atrai,Пятигорск,2015,бензин,0.7,64,АКПП,задний,минивэн,белый,86000,правый,"6 поколение, рестайлинг",660 Custom Turbo RS,1,700000
+12624,https://chelyabinsk.drom.ru/daihatsu/tanto/48373764.html,Daihatsu,Tanto,Челябинск,2012,бензин,0.7,52,вариатор,передний,,черный,160000,правый,2 поколение,660 L,0,530000
+12625,https://gorno-altaysk.drom.ru/daihatsu/terios/48218253.html,Daihatsu,Terios,Горно-Алтайск,2007,бензин,1.5,105,АКПП,4WD,,белый,230000,левый,2 поколение,1.5 AT 4WD SX,0,710000
+12626,https://vladivostok.drom.ru/daihatsu/terios_kid/48034410.html,Daihatsu,Terios Kid,Владивосток,2002,бензин,0.7,60,АКПП,4WD,,белый,150000,правый,"1 поколение, рестайлинг",660 CL,0,190000
+12627,https://neryungri.drom.ru/daihatsu/yrv/48030277.html,Daihatsu,YRV,Нерюнгри,2000,бензин,1.3,140,АКПП,передний,,серый,200000,правый,1 поколение,1.3 Turbo,0,280000
+12628,https://cheboksary.drom.ru/daihatsu/tanto/48028601.html,Daihatsu,Tanto,Чебоксары,2019,бензин,0.7,52,вариатор,передний,,серый,127000,правый,"3 поколение, рестайлинг", 660 X,0,700000
+12629,https://nakhodka.drom.ru/daihatsu/mira_e-s/47697108.html,Daihatsu,Mira e:S,Находка,2014,бензин,0.7,52,вариатор,передний,,розовый,66291,правый,"1 поколение, рестайлинг",,0,430000
+12630,https://komsomolsk.drom.ru/daihatsu/coo/48383612.html,Daihatsu,Coo,Комсомольск-на-Амуре,2006,бензин,1.3,92,АКПП,передний,,белый,217000,правый,1 поколение,1.3 CL,0,380000
+12631,https://omsk.drom.ru/daihatsu/boon/48046866.html,Daihatsu,Boon,Омск,2017,бензин,1.0,69,вариатор,передний,,синий,64000,правый,3 поколение,1.0 X G Package SAII,0,675000
+12632,https://aginskoe.drom.ru/daihatsu/pyzar/48041897.html,Daihatsu,Pyzar,Агинское,1997,бензин,1.6,115,АКПП,4WD,,белый,300000,правый,"1 поколение, рестайлинг",,0,145000
+12633,https://irkutsk.drom.ru/daihatsu/tanto/48041329.html,Daihatsu,Tanto,Иркутск,2018,бензин,0.7,52,вариатор,передний,,серебристый,109000,правый,"3 поколение, рестайлинг", 660 L,0,637000
+12634,https://petropavlovsk-kamchatskiy.drom.ru/daihatsu/yrv/48040341.html,Daihatsu,YRV,Петропавловск-Камчатский,2001,бензин,1.3,90,АКПП,4WD,,белый,120000,правый,1 поколение,,0,170000
+12635,https://ulyanovsk.drom.ru/daihatsu/tanto/47710852.html,Daihatsu,Tanto,Ульяновск,2010,бензин,0.7,58,автомат,передний,,желтый,118000,левый,,,0,490000
+12636,https://habarovsk.drom.ru/daihatsu/mira_e-s/47702903.html,Daihatsu,Mira e:S,Хабаровск,2017,бензин,0.7,49,вариатор,передний,,серебристый,101000,правый,"1 поколение, рестайлинг", 660 X,0,430000
+12637,https://ulan-ude.drom.ru/daihatsu/tanto/47691516.html,Daihatsu,Tanto,Улан-Удэ,2014,бензин,0.7,52,вариатор,передний,,серебристый,81300,правый,3 поколение,,1,500000
+12638,https://ekaterinburg.drom.ru/daihatsu/boon/47461107.html,Daihatsu,Boon,Екатеринбург,2019,бензин,1.0,69,вариатор,передний,,голубой,38000,правый,"3 поколение, рестайлинг", 1.0 X G Package SAIII,0,830000
+12639,https://belovo.drom.ru/daihatsu/mira/47375433.html,Daihatsu,Mira,Белово,2014,бензин,0.7,58,вариатор,передний,хэтчбек 5 дв.,синий,100000,правый,7 поколение,,0,420000
+12640,https://nakhodka.drom.ru/daihatsu/mira/47373953.html,Daihatsu,Mira,Находка,2008,бензин,0.7,58,механика,передний,хэтчбек 3 дв.,серый,53000,правый,7 поколение,660 TX,0,260000
+12641,https://chita.drom.ru/daihatsu/storia/47369203.html,Daihatsu,Storia,Чита,1998,бензин,1.0,60,АКПП,передний,,серый,100000,правый,1 поколение,1.0 CL,1,135000
+12642,https://irkutsk.drom.ru/daihatsu/tanto/46677096.html,Daihatsu,Tanto,Иркутск,2013,бензин,0.7,52,вариатор,передний,,белый,95000,правый,2 поколение,660 L,0,550000
+12643,https://biysk.drom.ru/daihatsu/mira/46603759.html,Daihatsu,Mira,Бийск,2017,бензин,0.7,58,вариатор,передний,хэтчбек 3 дв.,белый,108000,правый,7 поколение,660 TX,0,595000
+12644,https://krasnodar.drom.ru/daihatsu/mira/46478581.html,Daihatsu,Mira,Краснодар,2002,бензин,0.7,58,АКПП,передний,хэтчбек 3 дв.,белый,358000,правый,"5 поколение, рестайлинг",660 TU,0,240000
+12645,https://spassk-dalniy.drom.ru/daihatsu/rocky/39757840.html,Daihatsu,Rocky,Спасск-Дальний,1993,бензин,1.6,105,механика,4WD,джип/suv 3 дв.,зеленый,200000,правый,"1 поколение, рестайлинг",1.6 SE,1,320000
+12646,https://nizhniy-novgorod.drom.ru/daihatsu/sirion/49067698.html,Daihatsu,Sirion,Нижний Новгород,2008,бензин,1.5,103,механика,передний,,серебристый,187577,левый,,,0,490000
+12647,https://tuapse.drom.ru/daihatsu/tanto/49067693.html,Daihatsu,Tanto,Туапсе,2015,бензин,0.7,52,вариатор,передний,,серебристый,72000,правый,"3 поколение, рестайлинг", 660 G,0,659000
+12648,https://vladivostok.drom.ru/daihatsu/tanto/45888620.html,Daihatsu,Tanto,Владивосток,2007,бензин,0.7,64,АКПП,передний,,белый,130000,правый,1 поколение,660 custom VS turbo ,0,386000
+12649,https://novorossiysk.drom.ru/daihatsu/mira_e-s/46894975.html,Daihatsu,Mira e:S,Новороссийск,2011,бензин,0.7,52,вариатор,передний,,белый,140000,правый,1 поколение,660 G,0,425000
+12650,https://ussuriisk.drom.ru/daihatsu/mira/47446095.html,Daihatsu,Mira,Уссурийск,2012,бензин,0.7,58,вариатор,передний,хэтчбек 3 дв.,белый,110000,правый,7 поколение,660 TX,0,300000
+12651,https://kyra.drom.ru/daihatsu/mira/47365364.html,Daihatsu,Mira,Кыра,2010,бензин,0.7,58,вариатор,передний,хэтчбек 5 дв.,белый,81000,правый,7 поколение,660 X limited,0,355000
+12652,https://nakhodka.drom.ru/daihatsu/mira/47293495.html,Daihatsu,Mira,Находка,2016,бензин,0.7,58,механика,передний,хэтчбек 5 дв.,серый,90000,правый,7 поколение,660 X Special,0,440000
+12653,https://habarovsk.drom.ru/daihatsu/mira_e-s/47017573.html,Daihatsu,Mira e:S,Хабаровск,2016,бензин,0.7,49,вариатор,передний,,белый,160000,правый,"1 поколение, рестайлинг", 660 X 35th Anniversary Gold Edition SA,0,420000
+12654,https://vladivostok.drom.ru/daihatsu/hijet/47014390.html,Daihatsu,Hijet,Владивосток,2017,бензин,0.7,53,АКПП,4WD,минивэн,белый,120000,правый,"10 поколение, рестайлинг",,0,520000
+12656,https://anapa.drom.ru/daihatsu/move/48698877.html,Daihatsu,Move,Анапа,2012,бензин,0.7,52,вариатор,передний,,белый,134400,правый,"5 поколение, рестайлинг",660 Custom X,0,455000
+12657,https://kurgan.drom.ru/daihatsu/mira_e-s/46695057.html,Daihatsu,Mira e:S,Курган,2017,бензин,0.7,49,вариатор,передний,,голубой,95000,правый,2 поколение,,0,635000
+12658,https://irkutsk.drom.ru/daihatsu/move/49058861.html,Daihatsu,Move,Иркутск,2014,бензин,0.7,52,вариатор,передний,,серебристый,138000,правый,"5 поколение, рестайлинг",,0,375000
+12660,https://omsk.drom.ru/daihatsu/tanto/48281573.html,Daihatsu,Tanto,Омск,2011,бензин,0.7,52,вариатор,передний,,коричневый,108000,правый,2 поколение,660 L,0,535000
+12662,https://ishim.drom.ru/daihatsu/pyzar/47772428.html,,,,,,,,,,,,,,,,0,
+12664,https://bratsk.drom.ru/daihatsu/hijet/48366951.html,,,,,,,,,,,,,,,,0,
+12666,https://irkutsk.drom.ru/daihatsu/mira/48657376.html,,,,,,,,,,,,,,,,0,
+12668,https://sochi.drom.ru/daihatsu/boon/49056848.html,Daihatsu,Boon,Сочи,2007,бензин,1.0,71,АКПП,передний,,коричневый,143000,правый,"1 поколение, рестайлинг",1.0 CL limited ,1,380000
+12669,https://krasnoyarsk.drom.ru/daihatsu/mira_e-s/48498284.html,Daihatsu,Mira e:S,Красноярск,2019,бензин,0.7,49,вариатор,4WD,,белый,51000,правый,2 поколение, 660 B 4WD,1,615000
+12670,https://barnaul.drom.ru/daihatsu/mira/48905412.html,Daihatsu,Mira,Барнаул,2012,бензин,0.7,58,вариатор,передний,хэтчбек 3 дв.,белый,149000,правый,7 поколение,660 TX,0,319000
+12671,https://cheboksary.drom.ru/daihatsu/terios/49047061.html,Daihatsu,Terios,Чебоксары,2008,бензин,1.5,105,АКПП,4WD,,черный,,левый,2 поколение,,0,748000
+12672,https://krasnoyarsk.drom.ru/daihatsu/mira_e-s/48174566.html,Daihatsu,Mira e:S,Красноярск,2012,бензин,0.7,52,вариатор,передний,,серый,111578,правый,1 поколение,660 G,0,368000
+12673,https://irkutsk.drom.ru/daihatsu/move/47938482.html,Daihatsu,Move,Иркутск,2011,бензин,0.7,64,вариатор,передний,,оранжевый,102000,правый,5 поколение,,0,524999
+12674,https://vladivostok.drom.ru/daihatsu/thor/48619864.html,Daihatsu,Thor,Владивосток,2018,бензин,1.0,69,вариатор,передний,,голубой,102000,правый,1 поколение,,1,660000
+12675,https://vladivostok.drom.ru/daihatsu/terios/48666754.html,Daihatsu,Terios,Владивосток,2000,бензин,1.3,90,АКПП,4WD,,черный,197000,правый,"1 поколение, рестайлинг",1.3 CL,0,410000
+12676,https://habarovsk.drom.ru/daihatsu/move/49046159.html,Daihatsu,Move,Хабаровск,2010,бензин,0.7,64,вариатор,передний,,фиолетовый,109,правый,"4 поколение, рестайлинг",660 custom R,0,350000
+12677,https://kolpashevo.drom.ru/daihatsu/move/48840017.html,Daihatsu,Move,Колпашево,2011,бензин,0.7,52,вариатор,передний,,серебристый,144000,правый,5 поколение,660 custom X,0,495000
+12678,https://krasnokamensk.drom.ru/daihatsu/move/49045356.html,Daihatsu,Move,Краснокаменск,2013,бензин,0.7,52,вариатор,передний,,черный,77000,правый,"5 поколение, рестайлинг",,0,550000
+12679,https://irkutsk.drom.ru/daihatsu/sonica/46195711.html,Daihatsu,Sonica,Иркутск,2007,бензин,0.7,64,вариатор,передний,,синий,169000,правый,1 поколение,660 RS limited ,1,379000
+12680,https://novosibirsk.drom.ru/daihatsu/hijet/49045124.html,Daihatsu,Hijet,Новосибирск,2018,бензин,0.7,53,механика,4WD,минивэн,белый,80000,правый,,,0,685000
+12681,https://irkutsk.drom.ru/daihatsu/move/49045085.html,Daihatsu,Move,Иркутск,2012,бензин,0.7,52,вариатор,передний,,синий,105000,правый,5 поколение,,0,520000
+12682,https://elizovo.drom.ru/daihatsu/rugger/49044992.html,Daihatsu,Rugger,Елизово,1990,дизель,2.8,94,механика,4WD,,серый,250000,правый,"1 поколение, рестайлинг",,0,590000
+12683,https://ussuriisk.drom.ru/daihatsu/move/49044625.html,Daihatsu,Move,Уссурийск,2015,бензин,0.7,52,вариатор,передний,,серый,90000,правый,6 поколение,,0,445000
+12684,https://artem.drom.ru/daihatsu/move_canbus/48607777.html,Daihatsu,Move Canbus,Артём,2019,бензин,0.7,52,вариатор,передний,,черный,33000,правый,1 поколение,660 G SAIII,0,650000
+12685,https://vladivostok.drom.ru/daihatsu/terios_kid/49044380.html,Daihatsu,Terios Kid,Владивосток,2004,бензин,0.7,64,АКПП,4WD,,голубой,130000,правый,"1 поколение, рестайлинг",660 custom X,1,280000
+12686,https://novorossiysk.drom.ru/daihatsu/mira_e-s/48535778.html,Daihatsu,Mira e:S,Новороссийск,2018,бензин,0.7,49,вариатор,передний,,серебристый,37000,правый,2 поколение,,0,645000
+12687,https://novosibirsk.drom.ru/daihatsu/move/47487808.html,Daihatsu,Move,Новосибирск,2013,бензин,0.7,52,вариатор,передний,,белый,120000,правый,"5 поколение, рестайлинг",660 Custom X Limited SA,0,595000
+12688,https://novorossiysk.drom.ru/daihatsu/hijet/46524140.html,Daihatsu,Hijet,Новороссийск,2018,бензин,0.7,53,автомат,задний,минивэн,белый,64000,правый,,,0,795000
+12689,https://kemerovo.drom.ru/daihatsu/move/49043181.html,Daihatsu,Move,Кемерово,2018,бензин,0.7,52,вариатор,передний,,желтый,117500,правый,"6 поколение, рестайлинг", 660 X SAIII,0,740000
+12690,https://ussuriisk.drom.ru/daihatsu/terios_kid/46627063.html,Daihatsu,Terios Kid,Уссурийск,2007,бензин,0.7,64,АКПП,4WD,,серый,137000,правый,"1 поколение, 2 рестайлинг",660 custom memorial edition 4WD,0,455000
+12691,https://tomsk.drom.ru/daihatsu/move/46223554.html,Daihatsu,Move,Томск,2018,бензин,0.7,52,вариатор,передний,,серый,76000,правый,"6 поколение, рестайлинг", 660 L SAIII,1,640000
+12692,https://magnitogorsk.drom.ru/daihatsu/thor/47637505.html,Daihatsu,Thor,Магнитогорск,2018,бензин,1.0,69,вариатор,передний,,черный,65000,правый,1 поколение, 1.0 Custom G SAIII,0,968000
+12693,https://vladivostok.drom.ru/daihatsu/move/49020376.html,Daihatsu,Move,Владивосток,2018,бензин,0.7,52,вариатор,4WD,,,90000,правый,"6 поколение, рестайлинг",,0,535000
+12694,https://irkutsk.drom.ru/daihatsu/feroza/49068941.html,Daihatsu,Feroza,Иркутск,1992,бензин,1.6,95,механика,4WD,,серый,270000,,,,0,499000
+12695,https://chernigovka.drom.ru/daihatsu/terios_kid/48734298.html,Daihatsu,Terios Kid,Черниговка,2005,бензин,0.7,60,АКПП,4WD,,черный,125500,правый,"1 поколение, рестайлинг",,0,245000
+12696,https://vladivostok.drom.ru/daihatsu/mira_e-s/48902227.html,Daihatsu,Mira e:S,Владивосток,2011,бензин,0.7,52,вариатор,передний,,черный,119200,правый,1 поколение,660 D,0,340000
+12697,https://omsk.drom.ru/daihatsu/mira_e-s/48346338.html,Daihatsu,Mira e:S,Омск,2019,бензин,0.7,49,вариатор,4WD,,серебристый,9100,правый,2 поколение, 660 X SAIII 4WD,1,680000
+12698,https://spassk-dalniy.drom.ru/daihatsu/mira/49068577.html,Daihatsu,Mira,Спасск-Дальний,2009,бензин,0.7,58,АКПП,передний,хэтчбек 5 дв.,белый,252855,правый,7 поколение,,1,240000
+12699,https://novosibirsk.drom.ru/daihatsu/move/47025911.html,Daihatsu,Move,Новосибирск,2013,бензин,0.7,52,вариатор,передний,,серый,102500,правый,"5 поколение, рестайлинг",660 Custom X Limited SA,0,550000
+12700,https://abakan.drom.ru/daihatsu/move/48045030.html,Daihatsu,Move,Абакан,2017,бензин,0.7,52,вариатор,передний,,серый,142000,правый,6 поколение, 660 L,0,639000
+12701,https://abakan.drom.ru/daihatsu/move_conte/46292644.html,Daihatsu,Move Conte,Абакан,2013,бензин,0.7,52,вариатор,передний,,белый,154000,правый,"1 поколение, рестайлинг",660 G NAVI,0,589000
+12702,https://novosibirsk.drom.ru/daihatsu/move/48732624.html,Daihatsu,Move,Новосибирск,2017,бензин,0.7,64,вариатор,передний,,синий,85000,правый,"6 поколение, рестайлинг", 660 Custom RS Hyper SAIII,1,950000
+12703,https://chita.drom.ru/daihatsu/move/46284747.html,Daihatsu,Move,Чита,2012,бензин,0.7,52,вариатор,передний,,черный,88000,правый,"5 поколение, рестайлинг",660 Custom X Limited SA,0,465000
+12704,https://abakan.drom.ru/daihatsu/mira_e-s/46369216.html,Daihatsu,Mira e:S,Абакан,2016,бензин,0.7,49,вариатор,передний,,розовый,71000,правый,"1 поколение, рестайлинг", 660 G 35th Anniversary Gold Edition SA,0,579999
+12705,https://irkutsk.drom.ru/daihatsu/mira/47151773.html,Daihatsu,Mira,Иркутск,2016,бензин,0.7,58,вариатор,передний,хэтчбек 3 дв.,серый,90000,правый,7 поколение,660 TX,0,350000
+12706,https://ola.drom.ru/daihatsu/terios_kid/49068388.html,Daihatsu,Terios Kid,Ола,2011,бензин,0.7,64,механика,4WD,,черный,97000,правый,"1 поколение, 2 рестайлинг",660 L 4WD,0,690000
+12707,https://petropavlovsk-kamchatskiy.drom.ru/daihatsu/be-go/48765608.html,Daihatsu,Be-Go,Петропавловск-Камчатский,2011,бензин,1.5,109,АКПП,4WD,,серебристый,88000,правый,"1 поколение, рестайлинг",1.5 CX limited 4WD,1,920000
+12708,https://komsomolsk.drom.ru/daihatsu/terios_kid/48462562.html,Daihatsu,Terios Kid,Комсомольск-на-Амуре,2001,бензин,0.7,60,АКПП,4WD,,серый,155000,правый,"1 поколение, рестайлинг",660 custom memorial edition ,0,195000
+12709,https://aginskoe.drom.ru/daihatsu/mira_e-s/48008040.html,Daihatsu,Mira e:S,Агинское,2015,бензин,0.7,49,вариатор,передний,,серебристый,68700,правый,"1 поколение, рестайлинг", 660 G Smart Selection SA,0,450000
+12710,https://zelenogorsk-krasnoyarsk.drom.ru/daihatsu/terios_kid/42378312.html,Daihatsu,Terios Kid,Зеленогорск,2011,бензин,0.7,64,механика,4WD,,серебристый,138000,правый,"1 поколение, 2 рестайлинг",660 L 4WD,0,629000
+12711,https://abakan.drom.ru/daihatsu/hijet/48985162.html,Daihatsu,Hijet,Абакан,2009,бензин,0.7,53,АКПП,задний,минивэн,белый,138000,правый,"10 поколение, рестайлинг",,0,299999
+12712,https://ekaterinoslavka.drom.ru/daihatsu/move/49051025.html,Daihatsu,Move,Екатеринославка,2018,бензин,0.7,52,вариатор,передний,,белый,122000,правый,"6 поколение, рестайлинг", 660 Custom X,0,620000
+12713,https://bolshoy-kamen.drom.ru/daihatsu/terios_kid/49051026.html,Daihatsu,Terios Kid,Большой Камень,2000,бензин,0.7,64,АКПП,4WD,,черный,190000,правый,"1 поколение, рестайлинг",,0,200000
+12714,https://krasnoyarsk.drom.ru/daihatsu/hijet/47976889.html,Daihatsu,Hijet,Красноярск,2018,бензин,0.7,64,АКПП,4WD,минивэн,белый,144000,правый,"10 поколение, 2 рестайлинг",,0,620000
+12715,https://vladivostok.drom.ru/daihatsu/hijet/48748302.html,Daihatsu,Hijet,Владивосток,2018,бензин,0.7,53,АКПП,задний,минивэн,белый,65000,правый,"10 поколение, 2 рестайлинг",,0,520000
+12716,https://novokuznetsk.drom.ru/daihatsu/yrv/48563339.html,Daihatsu,YRV,Новокузнецк,2001,бензин,1.3,90,АКПП,передний,,серый,303000,правый,1 поколение,,1,270000
+12717,https://ulan-ude.drom.ru/daihatsu/mira/49050830.html,Daihatsu,Mira,Улан-Удэ,2010,бензин,0.7,58,вариатор,передний,хэтчбек 5 дв.,розовый,77000,правый,7 поколение,660 X limited ,0,350000
+12719,https://vladivostok.drom.ru/daihatsu/sonica/49050730.html,Daihatsu,Sonica,Владивосток,2008,бензин,0.7,64,вариатор,передний,,белый,145000,правый,"1 поколение, рестайлинг",660 RS,1,330000
+12720,https://komsomolsk.drom.ru/daihatsu/mira_e-s/44537016.html,Daihatsu,Mira e:S,Комсомольск-на-Амуре,2015,бензин,0.7,49,вариатор,передний,,черный,63000,правый,"1 поколение, рестайлинг", 660 L SA,0,422022
+12721,https://vladivostok.drom.ru/daihatsu/mira_e-s/48533263.html,Daihatsu,Mira e:S,Владивосток,2016,бензин,0.7,49,вариатор,передний,,белый,114000,правый,"1 поколение, рестайлинг",,0,360000
+12722,https://chita.drom.ru/daihatsu/move/48713504.html,Daihatsu,Move,Чита,2016,бензин,0.7,52,вариатор,передний,,серый,102050,правый,6 поколение,,0,550000
+12723,https://vladivostok.drom.ru/daihatsu/atrai/48931461.html,Daihatsu,Atrai,Владивосток,2000,бензин,0.7,64,АКПП,4WD,минивэн,серебристый,125000,правый,5 поколение,660 custom turbo low roof,1,78000
+12724,https://vladivostok.drom.ru/daihatsu/tanto/47738549.html,Daihatsu,Tanto,Владивосток,2012,бензин,0.7,52,вариатор,передний,,коричневый,114000,правый,2 поколение,660 custom X,0,500000
+12725,https://vladivostok.drom.ru/daihatsu/move/48296240.html,Daihatsu,Move,Владивосток,2013,бензин,0.7,52,вариатор,передний,,коричневый,119000,правый,"5 поколение, рестайлинг",,1,398000
+12726,https://vladivostok.drom.ru/daihatsu/hijet/48785238.html,Daihatsu,Hijet,Владивосток,2018,бензин,0.7,53,АКПП,4WD,минивэн,,100000,правый,"10 поколение, 2 рестайлинг",,0,560000
+12727,https://vladivostok.drom.ru/daihatsu/move/48494336.html,Daihatsu,Move,Владивосток,2005,бензин,0.7,58,АКПП,4WD,,серый,173000,правый,"3 поколение, рестайлинг",,0,190000
+12728,https://irkutsk.drom.ru/daihatsu/move/48784912.html,Daihatsu,Move,Иркутск,2017,бензин,0.7,52,вариатор,передний,,белый,118562,правый,6 поколение, 660 L SAII,0,540000
+12729,https://ussuriisk.drom.ru/daihatsu/move/48595547.html,Daihatsu,Move,Уссурийск,2017,бензин,0.7,64,вариатор,передний,,белый,68000,правый,"6 поколение, рестайлинг", 660 X Turbo SAIII,0,675000
+12730,https://armavir.drom.ru/daihatsu/mira/49053019.html,Daihatsu,Mira,Армавир,2007,бензин,0.7,58,АКПП,передний,хэтчбек 3 дв.,серебристый,,правый,7 поколение,,0,305000
+12731,https://novouralsk.drom.ru/daihatsu/thor/47635882.html,Daihatsu,Thor,Новоуральск,2017,бензин,1.0,69,вариатор,передний,,зеленый,94710,правый,1 поколение, 1.0 G SAII,0,790000
+12732,https://novosibirsk.drom.ru/daihatsu/move_conte/44147100.html,Daihatsu,Move Conte,Новосибирск,2013,бензин,0.7,52,вариатор,передний,,черный,149000,правый,"1 поколение, рестайлинг",,0,529000
+12733,https://simferopol.drom.ru/daihatsu/sirion/48454414.html,Daihatsu,Sirion,Симферополь,2006,бензин,1.3,87,автомат,передний,,черный,147000,левый,,,0,465000
+12734,https://krasnodar.drom.ru/daihatsu/mira_e-s/46384704.html,Daihatsu,Mira e:S,Краснодар,2017,бензин,0.7,49,вариатор,передний,,бордовый,84400,правый,2 поколение, 660 L SAIII,0,655000
+12735,https://habarovsk.drom.ru/daihatsu/move/48345497.html,Daihatsu,Move,Хабаровск,2014,бензин,0.7,52,вариатор,передний,,черный,130000,правый,"5 поколение, рестайлинг",660 L VS Smart Selection SN,0,405000
+12736,https://irkutsk.drom.ru/daihatsu/tanto/48420768.html,Daihatsu,Tanto,Иркутск,2013,бензин,0.7,52,вариатор,передний,,белый,140000,правый,2 поколение,660 X limited,0,430000
+12737,https://anzhero-sudzhensk.drom.ru/daihatsu/terios_kid/48821732.html,Daihatsu,Terios Kid,Анжеро-Судженск,2001,бензин,0.7,60,АКПП,4WD,,белый,146000,правый,"1 поколение, рестайлинг",660 Custom S edition,1,259000
+12738,https://mysky.drom.ru/daihatsu/mira_e-s/48406398.html,Daihatsu,Mira e:S,Мыски,2018,бензин,0.7,49,вариатор,4WD,,серебристый,108000,правый,2 поколение, 660 G SAIII 4WD,0,655000
+12739,https://vladivostok.drom.ru/daihatsu/mira_e-s/47821142.html,Daihatsu,Mira e:S,Владивосток,2015,бензин,0.7,49,вариатор,передний,,черный,160000,правый,"1 поколение, рестайлинг", 660 L,0,330000
+12740,https://omsk.drom.ru/daihatsu/mira/45288126.html,Daihatsu,Mira,Омск,2016,бензин,0.7,58,вариатор,передний,хэтчбек 3 дв.,серебристый,94000,правый,7 поколение,660 TX,0,495000
+12741,https://sagan-nur.drom.ru/daihatsu/move/48563247.html,Daihatsu,Move,Саган-Нур,2013,бензин,0.7,52,вариатор,передний,,бордовый,130000,правый,"5 поколение, рестайлинг",660 L SA,0,527000
+12742,https://ulan-ude.drom.ru/daihatsu/move/48808276.html,Daihatsu,Move,Улан-Удэ,2019,бензин,0.7,52,вариатор,передний,,серебристый,110000,правый,"6 поколение, рестайлинг", 660 X Limited SAIII,0,615000
+12743,https://arsenyev.drom.ru/daihatsu/terios_kid/48976801.html,Daihatsu,Terios Kid,Арсеньев,2001,бензин,0.7,60,АКПП,4WD,,серый,133456,правый,"1 поколение, рестайлинг",660 custom memorial edition ,0,230000
+12744,https://habarovsk.drom.ru/daihatsu/terios_kid/48362117.html,Daihatsu,Terios Kid,Хабаровск,2007,бензин,0.7,64,АКПП,4WD,,серебристый,129000,правый,"1 поколение, 2 рестайлинг",660 custom X 4WD,0,515000
+12745,https://habarovsk.drom.ru/daihatsu/terios_kid/49051117.html,Daihatsu,Terios Kid,Хабаровск,2000,бензин,0.7,64,АКПП,4WD,,серебристый,150000,правый,1 поколение,660 CX,1,165000
+12746,https://meget.drom.ru/daihatsu/mira_e-s/46388300.html,Daihatsu,Mira e:S,Мегет,2015,бензин,0.7,49,вариатор,передний,,серебристый,119000,правый,"1 поколение, рестайлинг", 660 L,0,395000
+12747,https://irkutsk.drom.ru/daihatsu/thor/48852337.html,Daihatsu,Thor,Иркутск,2016,бензин,1.0,98,вариатор,передний,,зеленый,58000,правый,1 поколение, 1.0 Custom G Turbo SAII,0,799000
+12748,https://yakutsk.drom.ru/daihatsu/storia/49051293.html,Daihatsu,Storia,Якутск,2003,бензин,1.0,64,АКПП,передний,,серый,190000,правый,"1 поколение, 2 рестайлинг",,1,220000
+12749,https://vladivostok.drom.ru/daihatsu/terios_kid/48970452.html,Daihatsu,Terios Kid,Владивосток,2001,бензин,0.7,64,АКПП,4WD,,черный,131000,правый,"1 поколение, рестайлинг",660 aero down custom X,1,215000
+12750,https://komsomolsk.drom.ru/daihatsu/terios/48976306.html,Daihatsu,Terios,Комсомольск-на-Амуре,1997,бензин,1.3,92,АКПП,4WD,,серый,250000,правый,1 поколение,1.3 CX,0,250000
+12751,https://komsomolsk.drom.ru/daihatsu/mira/48795503.html,Daihatsu,Mira,Комсомольск-на-Амуре,2010,бензин,0.7,58,АКПП,передний,хэтчбек 3 дв.,белый,116000,правый,7 поколение,660 TX,1,235000
+12752,https://chita.drom.ru/daihatsu/mira/48680129.html,Daihatsu,Mira,Чита,2017,бензин,0.7,58,вариатор,4WD,хэтчбек 3 дв.,белый,81000,правый,7 поколение, 660 TX 4WD,0,400000
+12753,https://petropavlovsk-kamchatskiy.drom.ru/daihatsu/yrv/49068146.html,Daihatsu,YRV,Петропавловск-Камчатский,2000,бензин,1.3,140,АКПП,4WD,,серый,150000,правый,1 поколение,1.3 Turbo,0,200000
+12754,https://vladivostok.drom.ru/daihatsu/thor/48867791.html,Daihatsu,Thor,Владивосток,2018,бензин,1.0,69,вариатор,передний,,серый,109000,правый,1 поколение, 1.0 G,0,745000
+12755,https://vladivostok.drom.ru/daihatsu/mira_e-s/46949671.html,Daihatsu,Mira e:S,Владивосток,2017,бензин,0.7,49,вариатор,передний,,серебристый,115000,правый,2 поколение, 660 X SAIII,0,540000
+12756,https://seryshevo.drom.ru/daihatsu/mira/48337000.html,Daihatsu,Mira,Серышево,2015,бензин,0.7,58,вариатор,4WD,хэтчбек 3 дв.,белый,86500,правый,7 поколение, 660 TX 4WD,0,330000
+12757,https://vladivostok.drom.ru/daihatsu/move/48694424.html,Daihatsu,Move,Владивосток,2017,бензин,0.7,52,вариатор,4WD,,белый,105000,правый,6 поколение, 660 L SAII 4WD,0,505000
+12758,https://ussuriisk.drom.ru/daihatsu/mira/48867649.html,Daihatsu,Mira,Уссурийск,2016,бензин,0.7,58,вариатор,передний,хэтчбек 3 дв.,белый,145000,правый,7 поколение,660 TX,0,315000
+12759,https://vladivostok.drom.ru/daihatsu/move/41964446.html,Daihatsu,Move,Владивосток,2014,бензин,0.7,52,вариатор,передний,,синий,60000,правый,6 поколение, 660 Custom X SA,0,510000
+12760,https://krasnokamensk.drom.ru/daihatsu/tanto/47889853.html,Daihatsu,Tanto,Краснокаменск,2013,бензин,0.7,64,вариатор,передний,,серый,130000,правый,2 поколение,660 custom RS,0,500000
+12761,https://novosibirsk.drom.ru/daihatsu/move/48739962.html,Daihatsu,Move,Новосибирск,2014,бензин,0.7,52,вариатор,передний,,коричневый,90000,правый,"5 поколение, рестайлинг",660 Custom X Limited,0,575000
+12762,https://minusinsk.drom.ru/daihatsu/move/48738740.html,Daihatsu,Move,Минусинск,2009,бензин,0.7,58,АКПП,передний,,,215000,правый,"4 поколение, рестайлинг",,0,555000
+12763,https://kiselevsk.drom.ru/daihatsu/yrv/48738205.html,Daihatsu,YRV,Киселёвск,2001,бензин,1.3,90,АКПП,передний,,зеленый,200000,правый,1 поколение,,1,200000
+12764,https://yuzhno-sakhalinsk.drom.ru/daihatsu/be-go/48736987.html,Daihatsu,Be-Go,Южно-Сахалинск,2007,бензин,1.5,109,АКПП,4WD,,черный,117000,правый,1 поколение,1.5 CL 4WD,0,710000
+12765,https://kokuy.drom.ru/daihatsu/terios/48736314.html,Daihatsu,Terios,Кокуй,1997,бензин,1.3,92,АКПП,4WD,,серый,125800,правый,1 поколение,,0,220000
+12766,https://krasnoyarsk.drom.ru/daihatsu/mira_e-s/48600271.html,Daihatsu,Mira e:S,Красноярск,2016,бензин,0.7,49,вариатор,передний,,красный,65000,правый,"1 поколение, рестайлинг",,0,530000
+12767,https://abakan.drom.ru/daihatsu/thor/48391484.html,Daihatsu,Thor,Абакан,2017,бензин,1.0,69,вариатор,передний,,синий,49000,правый,1 поколение, 1.0 G SAII,0,745000
+12768,https://novosibirsk.drom.ru/daihatsu/terios/48386429.html,Daihatsu,Terios,Новосибирск,1998,бензин,1.3,92,АКПП,4WD,,синий,205000,правый,1 поколение,1.3 CL,0,359000
+12769,https://rostov-na-donu.drom.ru/daihatsu/boon/48385841.html,Daihatsu,Boon,Ростов-на-Дону,2009,бензин,1.0,71,АКПП,передний,,белый,186500,правый,"1 поколение, рестайлинг",,1,375000
+12770,https://tomsk.drom.ru/daihatsu/thor/49056724.html,Daihatsu,Thor,Томск,2018,бензин,1.0,69,вариатор,передний,,серый,82000,правый,1 поколение,,0,830000
+12771,https://moscow.drom.ru/daihatsu/move/49056055.html,Daihatsu,Move,Москва,2019,бензин,0.7,52,вариатор,передний,,серебристый,17000,правый,"6 поколение, рестайлинг", 660 L SAIII,0,1100000
+12772,https://kerch.drom.ru/daihatsu/terios/49056053.html,Daihatsu,Terios,Керчь,2000,бензин,1.3,83,механика,4WD,,зеленый,99999,левый,1 поколение,,0,320000
+12773,https://novosibirsk.drom.ru/daihatsu/charade/49055850.html,Daihatsu,Charade,Новосибирск,1995,бензин,1.3,91,механика,передний,хэтчбек 3 дв.,синий,251000,правый,4 поколение,1.3 TD,1,88000
+12774,https://kemerovo.drom.ru/daihatsu/mira/49055828.html,Daihatsu,Mira,Кемерово,2004,бензин,0.7,58,АКПП,передний,хэтчбек 5 дв.,серый,80000,правый,6 поколение,660 X,0,250000
+12775,https://mihaylovka-vl.drom.ru/daihatsu/move/48098680.html,Daihatsu,Move,Михайловка,2018,бензин,0.7,52,вариатор,4WD,,белый,93000,правый,"6 поколение, рестайлинг",,0,550000
+12776,https://vladivostok.drom.ru/daihatsu/hijet/48030821.html,Daihatsu,Hijet,Владивосток,2017,бензин,0.7,53,АКПП,4WD,минивэн,,78000,правый,"10 поколение, рестайлинг",,0,435000
+12777,https://novocherkassk.drom.ru/daihatsu/wake/48359409.html,Daihatsu,Wake,Новочеркасск,2017,бензин,0.7,64,вариатор,передний,,синий,93000,правый,1 поколение,,1,795000
+12778,https://irkutsk.drom.ru/daihatsu/mira_e-s/49032219.html,Daihatsu,Mira e:S,Иркутск,2015,бензин,0.7,49,вариатор,передний,,серый,98000,правый,"1 поколение, рестайлинг", 660 L SA,0,450000
+12779,https://habarovsk.drom.ru/daihatsu/yrv/47528817.html,Daihatsu,YRV,Хабаровск,2002,бензин,1.3,140,АКПП,передний,,красный,200000,правый,1 поколение,1.3 turbo Parco,1,230000
+12780,https://habarovsk.drom.ru/daihatsu/hijet/48741871.html,Daihatsu,Hijet,Хабаровск,2016,бензин,0.7,53,АКПП,4WD,минивэн,белый,102000,правый,"10 поколение, рестайлинг",,0,550000
+12781,https://barnaul.drom.ru/daihatsu/tanto/47904943.html,Daihatsu,Tanto,Барнаул,2013,бензин,0.7,52,вариатор,передний,,бордовый,109000,правый,3 поколение,660 L SA,0,627000
+12782,https://vladivostok.drom.ru/daihatsu/sonica/48689215.html,Daihatsu,Sonica,Владивосток,2009,бензин,0.7,64,вариатор,передний,,белый,177000,правый,"1 поколение, рестайлинг",660 RS limited ,1,385000
+12783,https://belogorsk.drom.ru/daihatsu/move/46357404.html,Daihatsu,Move,Белогорск,2014,бензин,0.7,52,вариатор,передний,,белый,85000,правый,"5 поколение, рестайлинг",660 Custom X,0,510000
+12784,https://slavyansk-na-kubani.drom.ru/daihatsu/terios_kid/49053548.html,Daihatsu,Terios Kid,Славянск-На-Кубани,2008,бензин,0.7,64,АКПП,задний,,черный,,правый,"1 поколение, 2 рестайлинг",,0,490000
+12785,https://habarovsk.drom.ru/daihatsu/terios_kid/49052201.html,Daihatsu,Terios Kid,Хабаровск,2002,бензин,0.7,64,АКПП,4WD,,серый,62000,правый,"1 поколение, рестайлинг",660 aero down custom X,1,238000
+12786,https://irkutsk.drom.ru/daihatsu/terios_kid/46880950.html,Daihatsu,Terios Kid,Иркутск,1999,бензин,0.7,64,АКПП,4WD,,зеленый,235000,правый,1 поколение,660 Aero down,0,235000
+12787,https://habarovsk.drom.ru/daihatsu/terios_kid/48904555.html,Daihatsu,Terios Kid,Хабаровск,2002,бензин,0.7,64,АКПП,4WD,,бежевый,186000,правый,"1 поколение, рестайлинг",660 aero down custom X,1,255000
+12788,https://vladivostok.drom.ru/daihatsu/move/49053032.html,Daihatsu,Move,Владивосток,2018,бензин,0.7,52,вариатор,4WD,,белый,124865,правый,"6 поколение, рестайлинг",,0,510000
+12789,https://irkutsk.drom.ru/daihatsu/mira_e-s/48763870.html,Daihatsu,Mira e:S,Иркутск,2015,бензин,0.7,49,вариатор,4WD,,белый,92984,правый,"1 поколение, рестайлинг",,0,450000
+12790,https://irkutsk.drom.ru/daihatsu/mira/49063214.html,Daihatsu,Mira,Иркутск,2009,бензин,0.7,58,АКПП,передний,хэтчбек 3 дв.,белый,133000,правый,7 поколение,,1,290000
+12791,https://novosibirsk.drom.ru/daihatsu/cuore/49063115.html,Daihatsu,Cuore,Новосибирск,2003,бензин,1.0,58,механика,передний,хэтчбек 5 дв.,серебристый,150000,левый,6 поколение,,1,165000
+12792,https://blagoveshchensk.drom.ru/daihatsu/storia/49063116.html,Daihatsu,Storia,Благовещенск,2003,бензин,1.0,64,АКПП,передний,,серый,50000,правый,"1 поколение, 2 рестайлинг",1.0 CL limited,0,130000
+12793,https://arsenyev.drom.ru/daihatsu/yrv/49063048.html,Daihatsu,YRV,Арсеньев,2000,бензин,1.3,90,АКПП,передний,,белый,200000,правый,1 поколение,1.3 S pack,0,220000
+12794,https://spb.drom.ru/daihatsu/hijet/49062514.html,Daihatsu,Hijet,Санкт-Петербург,2018,бензин,0.7,53,АКПП,задний,минивэн,белый,110000,правый,"10 поколение, 2 рестайлинг",,0,665000
+12795,https://komsomolsk.drom.ru/daihatsu/pyzar/48731215.html,Daihatsu,Pyzar,Комсомольск-на-Амуре,1998,бензин,1.5,100,АКПП,передний,,белый,250000,правый,"1 поколение, рестайлинг",,0,105000
+12796,https://novorossiysk.drom.ru/daihatsu/mira_e-s/46372212.html,Daihatsu,Mira e:S,Новороссийск,2017,бензин,0.7,49,вариатор,передний,,серебристый,59000,правый,2 поколение,,0,615000
+12797,https://novorossiysk.drom.ru/daihatsu/hijet/46856228.html,Daihatsu,Hijet,Новороссийск,2017,бензин,0.7,53,АКПП,задний,минивэн,серебристый,63000,правый,"10 поколение, рестайлинг",,0,665000
+12798,https://krasnodar.drom.ru/daihatsu/hijet/47013055.html,Daihatsu,Hijet,Краснодар,2016,бензин,0.7,53,АКПП,задний,минивэн,белый,73000,правый,"10 поколение, рестайлинг",,0,550000
+12799,https://irkutsk.drom.ru/daihatsu/terios_kid/49062068.html,Daihatsu,Terios Kid,Иркутск,2008,бензин,0.7,64,АКПП,4WD,,красный,123000,правый,"1 поколение, 2 рестайлинг",660 custom memorial edition 4WD,0,579000
+12800,https://vladivostok.drom.ru/daihatsu/boon/49061991.html,Daihatsu,Boon,Владивосток,2005,бензин,1.0,71,АКПП,4WD,,серый,150000,правый,1 поколение,1.0 CL selection 4WD,0,260000
+12801,https://cheboksary.drom.ru/daihatsu/terios/49061910.html,Daihatsu,Terios,Чебоксары,2008,бензин,1.5,105,АКПП,4WD,,черный,170000,левый,2 поколение,,0,730000
+12802,https://belogorsk.drom.ru/daihatsu/move/47522666.html,Daihatsu,Move,Белогорск,2014,бензин,0.7,52,вариатор,передний,,белый,110000,правый,"5 поколение, рестайлинг",660 Custom X SA,0,470000
+12803,https://anapa.drom.ru/daihatsu/move/48728143.html,Daihatsu,Move,Анапа,2013,бензин,0.7,52,вариатор,передний,,золотистый,76000,правый,"5 поколение, рестайлинг",,0,580000
+12804,https://artem.drom.ru/daihatsu/mira_e-s/49061758.html,Daihatsu,Mira e:S,Артём,2017,бензин,0.7,49,вариатор,передний,,белый,73087,правый,"1 поколение, рестайлинг", 660 L,0,425000
+12805,https://ulan-ude.drom.ru/daihatsu/mira_e-s/49061659.html,Daihatsu,Mira e:S,Улан-Удэ,2015,бензин,0.7,49,вариатор,передний,,серебристый,80500,правый,"1 поколение, рестайлинг", 660 D,0,450000
+12806,https://tyumen.drom.ru/daihatsu/tanto/47983167.html,Daihatsu,Tanto,Тюмень,2013,бензин,0.7,52,вариатор,передний,,фиолетовый,87000,правый,2 поколение,,1,640000
+12807,https://nakhodka.drom.ru/daihatsu/tanto/48013305.html,Daihatsu,Tanto,Находка,2013,бензин,0.7,52,вариатор,4WD,,белый,87000,правый,2 поколение,660 G 4WD,0,505000
+12808,https://krasnoyarsk.drom.ru/daihatsu/tanto/48953449.html,Daihatsu,Tanto,Красноярск,2010,бензин,0.7,64,автомат,передний,,синий,145000,левый,,,0,530000
+12809,https://habarovsk.drom.ru/daihatsu/mira/45081841.html,Daihatsu,Mira,Хабаровск,2012,бензин,0.7,58,вариатор,передний,хэтчбек 3 дв.,белый,150000,правый,7 поколение,660 TX,0,195000
+12810,https://magadan.drom.ru/daihatsu/rocky/45850708.html,Daihatsu,Rocky,Магадан,2020,бензин,1.0,98,вариатор,4WD,джип/suv 5 дв.,синий,17000,правый,2 поколение,1.0 Premium 4WD,1,1500000
+12811,https://shilka.drom.ru/daihatsu/move/47676854.html,Daihatsu,Move,Шилка,2012,бензин,0.7,52,вариатор,передний,,серый,130000,правый,5 поколение,,0,450000
+12812,https://nizhnevartovsk.drom.ru/daihatsu/boon/41685211.html,Daihatsu,Boon,Нижневартовск,2017,бензин,1.0,69,вариатор,передний,,серебристый,48000,правый,3 поколение, 1.0 X SAII,0,830000
+12813,https://irkutsk.drom.ru/daihatsu/boon/48829466.html,Daihatsu,Boon,Иркутск,2016,бензин,1.0,69,вариатор,передний,,белый,92000,правый,3 поколение,,0,595000
+12814,https://krasnodar.drom.ru/daihatsu/tanto/48574180.html,Daihatsu,Tanto,Краснодар,2010,бензин,0.7,64,вариатор,передний,,черный,60123,правый,2 поколение,660 custom RS,0,635000
+12815,https://tomsk.drom.ru/daihatsu/mira_e-s/49074716.html,Daihatsu,Mira e:S,Томск,2013,бензин,0.7,52,вариатор,передний,,серый,190000,правый,"1 поколение, рестайлинг",,0,390000
+12816,https://ulan-ude.drom.ru/daihatsu/terios/49074088.html,Daihatsu,Terios,Улан-Удэ,1997,бензин,1.3,92,АКПП,4WD,,синий,226000,правый,1 поколение,1.3 CL,0,370000
+12817,https://blagoveshchensk.drom.ru/daihatsu/terios_kid/48890416.html,Daihatsu,Terios Kid,Благовещенск,1999,бензин,0.7,60,АКПП,4WD,,черный,200000,правый,1 поколение,660 CL,1,300000
+12818,https://tomsk.drom.ru/daihatsu/terios_kid/44624234.html,Daihatsu,Terios Kid,Томск,1999,бензин,0.7,64,АКПП,4WD,,синий,154000,правый,1 поколение,660 Aero down,0,290000
+12819,https://slavyanka.drom.ru/daihatsu/rocky/49073283.html,Daihatsu,Rocky,Славянка,1991,бензин,1.6,105,механика,4WD,джип/suv 3 дв.,красный,10000,правый,1 поколение,1.6 DX,0,210000
+12820,https://ufa.drom.ru/daihatsu/terios/49073419.html,Daihatsu,Terios,Уфа,1998,бензин,1.3,83,АКПП,4WD,,фиолетовый,,левый,1 поколение,,1,310000
+12821,https://novorossiysk.drom.ru/daihatsu/hijet/41445230.html,Daihatsu,Hijet,Новороссийск,2016,бензин,0.7,53,АКПП,задний,минивэн,белый,115000,правый,"10 поколение, рестайлинг",,0,599000
+12822,https://moscow.drom.ru/daihatsu/boon/49073071.html,Daihatsu,Boon,Москва,2018,бензин,1.0,69,вариатор,4WD,,белый,89000,правый,3 поколение,,0,880000
+12823,https://ussuriisk.drom.ru/daihatsu/move/49073186.html,Daihatsu,Move,Уссурийск,2018,бензин,0.7,52,вариатор,4WD,,белый,118,правый,"6 поколение, рестайлинг", 660 X Limited SAIII 4WD,0,518000
+12824,https://krasnoyarsk.drom.ru/daihatsu/terios_kid/49072991.html,Daihatsu,Terios Kid,Красноярск,2000,бензин,0.7,64,АКПП,4WD,,красный,190000,правый,1 поколение,660 Aero down,0,267000
+12825,https://nakhodka.drom.ru/daihatsu/terios_kid/48792758.html,Daihatsu,Terios Kid,Находка,2001,бензин,0.7,64,АКПП,4WD,,серый,170925,правый,"1 поколение, рестайлинг",,0,210000
+12826,https://yablonovskiy.drom.ru/daihatsu/move_conte/49072190.html,Daihatsu,Move Conte,Яблоновский,2012,бензин,0.7,52,вариатор,передний,,черный,146000,правый,"1 поколение, рестайлинг",660 Custom G,0,549000
+12827,https://kemerovo.drom.ru/daihatsu/terios/46202620.html,Daihatsu,Terios,Кемерово,1997,бензин,1.3,83,механика,4WD,,серебристый,,левый,1 поколение,,0,379000
+12828,https://simferopol.drom.ru/daihatsu/sirion/49071612.html,Daihatsu,Sirion,Симферополь,2008,бензин,1.0,69,механика,передний,,серебристый,132000,левый,,,0,520000
+12829,https://blagoveshchensk.drom.ru/daihatsu/terios/47916302.html,Daihatsu,Terios,Благовещенск,1998,бензин,1.3,92,АКПП,4WD,,синий,200000,правый,1 поколение,1.3 CL,1,255000
+12830,https://birobidzhan.drom.ru/daihatsu/move/47346020.html,Daihatsu,Move,Биробиджан,2013,бензин,0.7,64,вариатор,передний,,фиолетовый,160000,правый,"5 поколение, рестайлинг",,0,445000
+12831,https://krasnoyarsk.drom.ru/daihatsu/boon/47314980.html,Daihatsu,Boon,Красноярск,2005,бензин,1.0,71,АКПП,передний,,серый,250000,правый,1 поколение,1.0 CL F package ,0,315000
+12832,https://habarovsk.drom.ru/daihatsu/be-go/47226563.html,Daihatsu,Be-Go,Хабаровск,2006,бензин,1.5,109,АКПП,4WD,,красный,147000,правый,1 поколение,,0,630000
+12834,https://gelendzhik.drom.ru/daihatsu/mira_e-s/47016936.html,,,,,,,,,,,,,,,,0,
+12836,https://novorossiysk.drom.ru/daihatsu/tanto/46951962.html,,,,,,,,,,,,,,,,0,
+12838,https://habarovsk.drom.ru/daihatsu/mira_e-s/46559922.html,,,,,,,,,,,,,,,,0,
+12839,https://novorossiysk.drom.ru/daihatsu/terios/46396254.html,Daihatsu,Terios,Новороссийск,2003,бензин,1.3,90,АКПП,задний,,серебристый,187000,правый,"1 поколение, рестайлинг",,0,499000
+12840,https://gelendzhik.drom.ru/daihatsu/move/44079768.html,Daihatsu,Move,Геленджик,2015,бензин,0.7,64,вариатор,передний,,серый,112000,правый,6 поколение, 660 Custom RS 20th Anniversary Gold Edition  SAII,1,595000
+12841,https://ulan-ude.drom.ru/daihatsu/move/48299676.html,Daihatsu,Move,Улан-Удэ,2011,бензин,0.7,52,вариатор,передний,,белый,41000,правый,5 поколение,660 X limited,1,455000
+12842,https://angarsk.drom.ru/daihatsu/mira/49049251.html,Daihatsu,Mira,Ангарск,2010,бензин,0.7,58,механика,передний,хэтчбек 3 дв.,белый,163000,правый,7 поколение,,1,245000
+12843,https://seversk.drom.ru/daihatsu/move/49048326.html,Daihatsu,Move,Северск,2017,бензин,0.7,52,вариатор,передний,,серый,135000,правый,6 поколение, 660 L,1,600000
+12844,https://birobidzhan.drom.ru/daihatsu/mira_e-s/48970199.html,Daihatsu,Mira e:S,Биробиджан,2012,бензин,0.7,52,вариатор,передний,,белый,98,правый,1 поколение,660 G,1,365000
+12845,https://novosibirsk.drom.ru/daihatsu/tanto_exe/49048499.html,Daihatsu,Tanto Exe,Новосибирск,2013,бензин,0.7,64,вариатор,передний,,фиолетовый,118814,правый,"1 поколение, рестайлинг",660 custom RS,1,560000
+12846,https://ussuriisk.drom.ru/daihatsu/move/48490382.html,Daihatsu,Move,Уссурийск,2014,бензин,0.7,52,вариатор,передний,,белый,1000,правый,"5 поколение, рестайлинг",660 Custom X,1,340000
+12847,https://novorossiysk.drom.ru/daihatsu/hijet/47804464.html,Daihatsu,Hijet,Новороссийск,2018,бензин,0.7,53,АКПП,задний,минивэн,белый,86000,правый,"10 поколение, 2 рестайлинг",,0,720000
+12848,https://vladivostok.drom.ru/daihatsu/move/48629372.html,Daihatsu,Move,Владивосток,2011,бензин,0.7,52,вариатор,передний,,белый,190000,правый,5 поколение,,0,320000
+12849,https://kemerovo.drom.ru/daihatsu/hijet/49047660.html,Daihatsu,Hijet,Кемерово,2016,бензин,0.7,46,автомат,4WD,минивэн,белый,114000,правый,,,1,500000
+12850,https://birobidzhan.drom.ru/daihatsu/move/48363092.html,Daihatsu,Move,Биробиджан,2012,бензин,0.7,52,вариатор,передний,,розовый,60000,правый,5 поколение,,0,380000
+12851,https://vladivostok.drom.ru/daihatsu/be-go/44312930.html,Daihatsu,Be-Go,Владивосток,2010,бензин,1.5,109,АКПП,задний,,бордовый,50000,правый,"1 поколение, рестайлинг",,0,957000
+12852,https://vladivostok.drom.ru/daihatsu/yrv/48708945.html,Daihatsu,YRV,Владивосток,2000,бензин,1.3,90,АКПП,4WD,,серый,218000,правый,1 поколение,1.3,1,140000
+12853,https://kizhinga.drom.ru/daihatsu/terios_kid/48707700.html,Daihatsu,Terios Kid,Кижинга,1999,бензин,0.7,60,АКПП,4WD,,серый,115000,правый,1 поколение,660 CL,0,280000
+12854,https://ulan-ude.drom.ru/daihatsu/move/48500308.html,Daihatsu,Move,Улан-Удэ,2011,бензин,0.7,52,вариатор,передний,,белый,83000,правый,5 поколение,660 X limited,0,470000
+12855,https://bobrov.drom.ru/daihatsu/copen/48370093.html,Daihatsu,Copen,Бобров,2014,бензин,0.7,64,вариатор,передний,открытый,серый,50340,правый,2 поколение,Robe 660,0,1300000
+12856,https://asino.drom.ru/daihatsu/max/48367246.html,Daihatsu,Max,Асино,2001,бензин,0.7,58,АКПП,передний,,черный,195500,правый,1 поколение,,0,309000
+12857,https://irkutsk.drom.ru/daihatsu/boon/48366300.html,Daihatsu,Boon,Иркутск,2005,бензин,1.0,71,АКПП,передний,,серый,260000,правый,1 поколение,,0,300000
+12858,https://krivosheino.drom.ru/daihatsu/max/48365631.html,Daihatsu,Max,Кривошеино,2001,бензин,0.7,58,АКПП,передний,,серый,158000,правый,1 поколение,,0,350000
+12859,https://usk-kut.drom.ru/daihatsu/move/48364738.html,Daihatsu,Move,Усть-Кут,2014,бензин,0.7,52,вариатор,передний,,серый,62185,правый,"5 поколение, рестайлинг",,0,550000
+12860,https://vladivostok.drom.ru/daihatsu/hijet/48364265.html,Daihatsu,Hijet,Владивосток,2015,бензин,0.7,50,АКПП,задний,минивэн,синий,180000,правый,"10 поколение, рестайлинг",,0,360000
+12861,https://blagoveshchensk.drom.ru/daihatsu/tanto/48364216.html,Daihatsu,Tanto,Благовещенск,2013,бензин,0.7,52,вариатор,передний,,белый,85400,правый,3 поколение,,0,450000
+12862,https://vladivostok.drom.ru/daihatsu/terios/48363669.html,Daihatsu,Terios,Владивосток,1997,бензин,1.3,92,АКПП,4WD,,серый,300000,правый,1 поколение,1.3 CL,0,270000
+12863,https://irkutsk.drom.ru/daihatsu/move/48361909.html,Daihatsu,Move,Иркутск,2015,бензин,0.7,52,вариатор,передний,,белый,165486,правый,6 поколение, 660 Custom X Hyper,0,695000
+12864,https://vladivostok.drom.ru/daihatsu/be-go/48013405.html,Daihatsu,Be-Go,Владивосток,2011,бензин,1.5,109,АКПП,4WD,,серый,132500,правый,"1 поколение, рестайлинг",,0,1050000
+12865,https://kurgan.drom.ru/daihatsu/move/47680819.html,Daihatsu,Move,Курган,2016,бензин,0.7,52,вариатор,передний,,белый,28000,правый,6 поколение, 660 L SAII,0,650000
+12866,https://novosibirsk.drom.ru/daihatsu/mira_e-s/47649496.html,Daihatsu,Mira e:S,Новосибирск,2017,бензин,0.7,49,вариатор,4WD,,белый,67000,правый,"1 поколение, рестайлинг", 660 Xf Limited SA 4WD,0,590000
+12867,https://novosibirsk.drom.ru/daihatsu/move/47556781.html,Daihatsu,Move,Новосибирск,2013,бензин,0.7,52,вариатор,передний,,серебристый,140000,правый,"5 поколение, рестайлинг",660 Custom X,0,565000
+12868,https://irkutsk.drom.ru/daihatsu/tanto/47444343.html,Daihatsu,Tanto,Иркутск,2009,бензин,0.7,58,АКПП,передний,,белый,169,правый,2 поколение,,0,490000
+12869,https://nizhniy-ingash.drom.ru/daihatsu/terios_kid/47357208.html,Daihatsu,Terios Kid,Нижний Ингаш,2004,бензин,0.7,64,АКПП,4WD,,белый,132000,правый,"1 поколение, рестайлинг",660 custom X,0,360000
+12870,https://krasnodar.drom.ru/daihatsu/thor/46973713.html,Daihatsu,Thor,Краснодар,2018,бензин,1.0,69,вариатор,передний,,черный,93000,правый,1 поколение, 1.0 G SAII,0,889000
+12871,https://yakutsk.drom.ru/daihatsu/terios_kid/46804336.html,Daihatsu,Terios Kid,Якутск,2003,бензин,0.7,60,АКПП,4WD,,розовый,153000,правый,"1 поколение, рестайлинг",660 Custom L,0,350000
+12872,https://krasnodar.drom.ru/daihatsu/hijet/46774080.html,Daihatsu,Hijet,Краснодар,2017,бензин,0.7,53,АКПП,4WD,минивэн,синий,82000,правый,"10 поколение, рестайлинг",,0,685000
+12873,https://zeya.drom.ru/daihatsu/storia/46667716.html,Daihatsu,Storia,Зея,2000,бензин,1.0,60,АКПП,4WD,,белый,80000,правый,1 поколение,,0,80000
+12874,https://novosibirsk.drom.ru/daihatsu/sirion/46284824.html,Daihatsu,Sirion,Новосибирск,2009,бензин,1.3,91,автомат,передний,,золотистый,144570,левый,,,0,530000
+12875,https://taman.drom.ru/daihatsu/move_latte/45805187.html,Daihatsu,Move Latte,Тамань,2008,бензин,0.7,58,АКПП,передний,,розовый,59000,правый,1 поколение,660 L,0,507000
+12876,https://krasnodar.drom.ru/daihatsu/mira_e-s/49016368.html,Daihatsu,Mira e:S,Краснодар,2017,бензин,0.7,49,вариатор,передний,,белый,78565,правый,,,0,625800
+12877,https://spb.drom.ru/daihatsu/mira/49015752.html,Daihatsu,Mira,Санкт-Петербург,2016,бензин,0.7,58,вариатор,передний,хэтчбек 3 дв.,серебристый,100700,правый,7 поколение,660 TX,1,415000
+12878,https://tyumen.drom.ru/daihatsu/sirion/49015263.html,Daihatsu,Sirion,Тюмень,2002,бензин,1.0,58,автомат,передний,,синий,104000,левый,,,0,290000
+12879,https://blagoveshchensk.drom.ru/daihatsu/terios_kid/49014884.html,Daihatsu,Terios Kid,Благовещенск,2002,бензин,0.7,60,АКПП,4WD,,серый,76000,правый,"1 поколение, рестайлинг",,0,300000
+12880,https://volno-nadezhdinskoe.drom.ru/daihatsu/move/49014041.html,Daihatsu,Move,Вольно-Надеждинское,2008,бензин,0.7,58,вариатор,передний,,серый,170000,правый,"4 поколение, рестайлинг",660 X limited,0,255000
+12881,https://irkutsk.drom.ru/daihatsu/boon/49013766.html,Daihatsu,Boon,Иркутск,2006,бензин,1.0,71,АКПП,передний,,бордовый,220000,правый,,,1,265000
+12882,https://noginsk.drom.ru/daihatsu/cuore/49013748.html,Daihatsu,Cuore,Ногинск,1999,бензин,1.0,56,механика,передний,хэтчбек 3 дв.,синий,250000,левый,5 поколение,1.0 MT,1,88888
+12883,https://chita.drom.ru/daihatsu/pyzar/49011689.html,Daihatsu,Pyzar,Чита,1999,бензин,1.6,115,АКПП,4WD,,черный,150000,правый,"1 поколение, 2 рестайлинг",,1,120000
+12884,https://krasnoyarsk.drom.ru/daihatsu/boon_luminas/48543045.html,Daihatsu,Boon Luminas,Красноярск,2009,бензин,1.5,109,АКПП,передний,,бежевый,157102,правый,1 поколение,1.5 CX aero ,0,700000
+12885,https://chita.drom.ru/daihatsu/terios_kid/49012994.html,Daihatsu,Terios Kid,Чита,2001,бензин,0.7,60,АКПП,4WD,,белый,180000,правый,"1 поколение, рестайлинг",660 CL limited,1,300000
+12886,https://ussuriisk.drom.ru/daihatsu/move/48652667.html,Daihatsu,Move,Уссурийск,2018,бензин,0.7,52,вариатор,передний,,белый,81000,правый,"6 поколение, рестайлинг",660 L,0,600000
+12887,https://ulan-ude.drom.ru/daihatsu/terios_kid/49012951.html,Daihatsu,Terios Kid,Улан-Удэ,2006,бензин,0.7,60,АКПП,4WD,,черный,126,правый,"1 поколение, рестайлинг",,0,430000
+12888,https://barnaul.drom.ru/daihatsu/pyzar/47466310.html,Daihatsu,Pyzar,Барнаул,1996,бензин,1.5,100,АКПП,передний,,синий,200,правый,1 поколение,1.5 CL,1,95000
+12889,https://ussuriisk.drom.ru/daihatsu/move/49012191.html,Daihatsu,Move,Уссурийск,2017,бензин,0.7,52,вариатор,передний,,черный,43940,правый,"6 поколение, рестайлинг",,0,531500
+12890,https://chelyabinsk.drom.ru/daihatsu/move/48686127.html,Daihatsu,Move,Челябинск,2009,бензин,0.7,58,АКПП,передний,,серый,243413,правый,"4 поколение, рестайлинг",,1,380000
+12891,https://novorossiysk.drom.ru/daihatsu/thor/48037398.html,Daihatsu,Thor,Новороссийск,2017,бензин,1.0,98,вариатор,передний,,серебристый,81000,правый,1 поколение, 1.0 G Turbo SAII,0,890000
+12892,https://zelenogorsk-krasnoyarsk.drom.ru/daihatsu/move/49031834.html,Daihatsu,Move,Зеленогорск,2007,бензин,0.7,58,АКПП,передний,,коричневый,52505,правый,4 поколение,,0,510000
+12893,https://vladivostok.drom.ru/daihatsu/mira_e-s/48041328.html,Daihatsu,Mira e:S,Владивосток,2017,бензин,0.7,49,вариатор,передний,,серебристый,19000,правый,2 поколение, 660 G SAIII,0,555000
+12894,https://blagoveshchensk.drom.ru/daihatsu/move/47916213.html,Daihatsu,Move,Благовещенск,2013,бензин,0.7,52,вариатор,передний,,черный,110231,правый,"5 поколение, рестайлинг",660 Custom X SA,0,485000
+12895,https://bolshoy-kamen.drom.ru/daihatsu/terios_kid/49031441.html,Daihatsu,Terios Kid,Большой Камень,2004,бензин,0.7,64,АКПП,4WD,,серый,132900,правый,"1 поколение, рестайлинг",660 X,0,300000
+12896,https://aldan.drom.ru/daihatsu/move/46514420.html,Daihatsu,Move,Алдан,2016,бензин,0.7,52,вариатор,передний,,белый,105000,правый,6 поколение,,0,650000
+12897,https://novosibirsk.drom.ru/daihatsu/thor/48980273.html,Daihatsu,Thor,Новосибирск,2021,бензин,1.0,69,вариатор,передний,,черный,9450,правый,"1 поколение, рестайлинг", 1.0 Custom G ,0,1250000
+12898,https://ulan-ude.drom.ru/daihatsu/mira/49031121.html,Daihatsu,Mira,Улан-Удэ,2010,бензин,0.7,58,механика,передний,хэтчбек 3 дв.,белый,20000,правый,7 поколение,,1,250000
+12899,https://vladivostok.drom.ru/daihatsu/move/46833508.html,Daihatsu,Move,Владивосток,2016,бензин,0.7,52,вариатор,передний,,белый,70000,правый,6 поколение, 660 X SAII,0,490000
+12900,https://chita.drom.ru/daihatsu/terios_kid/48664102.html,Daihatsu,Terios Kid,Чита,2009,бензин,0.7,64,АКПП,4WD,,серебристый,95,правый,"1 поколение, 2 рестайлинг",660 custom X 4WD,0,640000
+12901,https://vladivostok.drom.ru/daihatsu/move/48428753.html,Daihatsu,Move,Владивосток,2018,бензин,0.7,52,вариатор,4WD,,белый,130000,правый,"6 поколение, рестайлинг",660 L SAIII 4WD,1,550000
+12902,https://sosnovoborsk.drom.ru/daihatsu/move/47136162.html,Daihatsu,Move,Сосновоборск,2015,бензин,0.7,52,вариатор,передний,,белый,98000,правый,6 поколение, 660 Custom X,0,735000
+12903,https://ussuriisk.drom.ru/daihatsu/yrv/49030306.html,Daihatsu,YRV,Уссурийск,2000,бензин,1.3,90,механика,4WD,,черный,200000,правый,1 поколение,1.3,1,120000
+12904,https://ufa.drom.ru/daihatsu/sonica/46633776.html,Daihatsu,Sonica,Уфа,2008,бензин,0.7,64,вариатор,передний,,розовый,96000,правый,"1 поколение, рестайлинг",660 RS,0,639000
+12905,https://ufa.drom.ru/daihatsu/move/46620309.html,Daihatsu,Move,Уфа,2011,бензин,0.7,52,вариатор,передний,,черный,69000,правый,5 поколение,660 X limited,0,659000
+12906,https://vladivostok.drom.ru/daihatsu/tanto/46432773.html,Daihatsu,Tanto,Владивосток,2008,бензин,0.7,58,АКПП,передний,,синий,166000,правый,2 поколение,660 custom X,0,435000
+12907,https://vladivostok.drom.ru/daihatsu/tanto/46429791.html,Daihatsu,Tanto,Владивосток,2010,бензин,0.7,58,вариатор,передний,,синий,170000,правый,2 поколение,660 X limited  selection,0,435000
+12908,https://habarovsk.drom.ru/daihatsu/terios_kid/49029823.html,Daihatsu,Terios Kid,Хабаровск,2005,бензин,0.7,60,АКПП,4WD,,черный,203500,правый,"1 поколение, рестайлинг",660 Custom L,0,240000
+12909,https://chita.drom.ru/daihatsu/terios/49008968.html,Daihatsu,Terios,Чита,1998,бензин,1.3,92,АКПП,4WD,,белый,182000,правый,1 поколение,,1,210000
+12910,https://sochi.drom.ru/daihatsu/mira_e-s/48688430.html,Daihatsu,Mira e:S,Сочи,2015,бензин,0.7,49,вариатор,передний,,серебристый,112000,правый,"1 поколение, рестайлинг",,0,500000
+12911,https://kemerovo.drom.ru/daihatsu/hijet/47070207.html,Daihatsu,Hijet,Кемерово,2018,бензин,0.7,53,АКПП,задний,минивэн,серебристый,120000,правый,"10 поколение, 2 рестайлинг",,0,599000
+12912,https://gusinoozersk.drom.ru/daihatsu/terios_kid/48507774.html,Daihatsu,Terios Kid,Гусиноозёрск,2002,бензин,0.7,64,АКПП,задний,,серый,166609,правый,"1 поколение, рестайлинг",660 aero down custom X,0,290000
+12913,https://anzhero-sudzhensk.drom.ru/daihatsu/pyzar/48920105.html,Daihatsu,Pyzar,Анжеро-Судженск,1998,бензин,1.6,115,АКПП,передний,,,200000,правый,"1 поколение, 2 рестайлинг",1.6 Aero custom,0,150000
+12914,https://yuzhno-sakhalinsk.drom.ru/daihatsu/rocky/48687043.html,Daihatsu,Rocky,Южно-Сахалинск,2020,бензин,1.0,98,вариатор,4WD,джип/suv 5 дв.,серебристый,30000,правый,2 поколение,1.0 G 4WD,0,1695000
+12915,https://krasnodar.drom.ru/daihatsu/mira/48462991.html,Daihatsu,Mira,Краснодар,2014,бензин,0.7,32,автомат,4WD,хэтчбек 3 дв.,белый,112367,правый,,,0,415000
+12916,https://astrahan.drom.ru/daihatsu/hijet/48698097.html,Daihatsu,Hijet,Астрахань,2017,бензин,0.7,53,АКПП,задний,минивэн,белый,128459,правый,"10 поколение, 2 рестайлинг",,0,690000
+12917,https://tomsk.drom.ru/daihatsu/yrv/47961894.html,Daihatsu,YRV,Томск,2001,бензин,1.3,90,механика,передний,,бордовый,237030,правый,1 поколение,,0,110000
+12918,https://vladivostok.drom.ru/daihatsu/terios/48855960.html,Daihatsu,Terios,Владивосток,1999,бензин,1.3,92,АКПП,4WD,,серый,238322,правый,1 поколение,,0,315000
+12919,https://ussuriisk.drom.ru/daihatsu/terios/49042531.html,Daihatsu,Terios,Уссурийск,1999,бензин,1.3,92,механика,4WD,,серый,246000,правый,1 поколение,,0,170000
+12920,https://krasnoyarsk.drom.ru/daihatsu/hijet/49042220.html,Daihatsu,Hijet,Красноярск,2018,бензин,0.7,53,АКПП,4WD,минивэн,белый,44000,правый,"10 поколение, 2 рестайлинг",,0,639000
+12921,https://kalinino.drom.ru/daihatsu/max/48355778.html,Daihatsu,Max,Калинино,2002,бензин,0.7,58,механика,передний,,красный,240000,правый,1 поколение,660 L selection ,0,279000
+12922,https://vladivostok.drom.ru/daihatsu/terios_kid/49042047.html,Daihatsu,Terios Kid,Владивосток,2001,бензин,0.7,60,АКПП,4WD,,серый,234000,правый,"1 поколение, рестайлинг",,1,80000
+12923,https://barnaul.drom.ru/daihatsu/boon/48300217.html,Daihatsu,Boon,Барнаул,2016,бензин,1.0,69,вариатор,4WD,,,75000,правый,3 поколение,1.0 CILQ 4WD,0,750000
+12924,https://chelyabinsk.drom.ru/daihatsu/mira/47721801.html,Daihatsu,Mira,Челябинск,2009,бензин,0.7,58,вариатор,передний,хэтчбек 5 дв.,коричневый,68000,правый,7 поколение,,0,550000
+12925,https://yurga.drom.ru/daihatsu/terios_kid/49021015.html,Daihatsu,Terios Kid,Юрга,2000,бензин,0.7,60,АКПП,4WD,,серый,102000,правый,1 поколение,,0,269000
+12926,https://tomsk.drom.ru/daihatsu/atrai/49041552.html,Daihatsu,Atrai,Томск,2001,бензин,1.3,90,автомат,задний,минивэн,серый,188000,правый,,,0,375000
+12927,https://taksimo.drom.ru/daihatsu/move/49041363.html,Daihatsu,Move,Таксимо,2007,бензин,0.7,58,вариатор,передний,,черный,12911,правый,4 поколение,,1,450000
+12928,https://novosibirsk.drom.ru/daihatsu/terios/48703799.html,Daihatsu,Terios,Новосибирск,1998,бензин,1.3,92,АКПП,4WD,,черный,220700,правый,1 поколение,1.3 CL,0,315000
+12929,https://vladivostok.drom.ru/daihatsu/move/49040839.html,Daihatsu,Move,Владивосток,2019,бензин,0.7,52,вариатор,передний,,,40000,правый,"6 поколение, рестайлинг", 660 Custom X Limited SAIII,0,735000
+12930,https://petropavlovsk-kamchatskiy.drom.ru/daihatsu/terios_kid/47990152.html,Daihatsu,Terios Kid,Петропавловск-Камчатский,2005,бензин,0.7,60,механика,4WD,,белый,126025,правый,"1 поколение, рестайлинг",,0,358000
+12931,https://vulkanniy.drom.ru/daihatsu/terios_kid/47828762.html,Daihatsu,Terios Kid,Вулканный,1999,бензин,0.7,60,АКПП,4WD,,белый,220000,правый,1 поколение,660 CL,0,160000
+12932,https://partizansk.drom.ru/daihatsu/be-go/47690888.html,Daihatsu,Be-Go,Партизанск,2006,бензин,1.5,109,АКПП,4WD,,серый,188000,правый,1 поколение,,0,650000
+12933,https://usoliye-sibirskoe.drom.ru/daihatsu/mira/47661230.html,Daihatsu,Mira,Усолье-Сибирское,2017,бензин,0.7,58,вариатор,передний,хэтчбек 3 дв.,белый,78000,правый,7 поколение,660 TX,0,420000
+12934,https://chita.drom.ru/daihatsu/mira_e-s/47330033.html,Daihatsu,Mira e:S,Чита,2013,бензин,0.7,52,вариатор,передний,,белый,100000,правый,1 поколение,660 L,0,430000
+12935,https://spassk-dalniy.drom.ru/daihatsu/terios_kid/47325914.html,Daihatsu,Terios Kid,Спасск-Дальний,1999,бензин,0.7,64,АКПП,4WD,,серебристый,157000,правый,1 поколение,660 Aero down,0,250000
+12936,https://omsk.drom.ru/daihatsu/atrai/47224487.html,Daihatsu,Atrai,Омск,2012,бензин,0.7,64,АКПП,задний,минивэн,черный,180000,правый,"6 поколение, рестайлинг",660 custom turbo RS limited ,0,515000
+12937,https://chita.drom.ru/daihatsu/hijet/46968871.html,Daihatsu,Hijet,Чита,2017,бензин,0.7,64,механика,4WD,минивэн,белый,51000,правый,"10 поколение, рестайлинг",,0,529000
+12938,https://sochi.drom.ru/daihatsu/terios/46662304.html,Daihatsu,Terios,Сочи,1997,бензин,1.3,92,АКПП,4WD,,синий,310000,правый,1 поколение,,0,280000
+12939,https://habarovsk.drom.ru/daihatsu/hijet/46663189.html,Daihatsu,Hijet,Хабаровск,2018,бензин,0.7,53,автомат,4WD,минивэн,серый,116000,правый,,,0,885000
+12940,https://elektrostal.drom.ru/daihatsu/sirion/46549897.html,Daihatsu,Sirion,Электросталь,2005,бензин,1.3,87,автомат,передний,,красный,180000,левый,,,0,300000
+12941,https://novosibirsk.drom.ru/daihatsu/move/45009833.html,Daihatsu,Move,Новосибирск,2015,бензин,0.7,52,вариатор,передний,,белый,1,правый,6 поколение, 660 X SAII,0,599000
+12942,https://stavropol.drom.ru/daihatsu/be-go/44077875.html,Daihatsu,Be-Go,Ставрополь,2013,бензин,1.5,109,АКПП,4WD,,черный,145000,правый,"1 поколение, рестайлинг",,0,1230000
+12943,https://ulan-ude.drom.ru/daihatsu/mira_e-s/38116730.html,Daihatsu,Mira e:S,Улан-Удэ,2016,бензин,0.7,49,вариатор,передний,,серый,70000,правый,"1 поколение, рестайлинг",,0,520000
+12944,https://krasnodar.drom.ru/daihatsu/storia/49005690.html,Daihatsu,Storia,Краснодар,1998,бензин,1.0,60,АКПП,4WD,,белый,232000,правый,1 поколение,,0,170000
+12945,https://krasnodar.drom.ru/daihatsu/mira/49005237.html,Daihatsu,Mira,Краснодар,2013,бензин,0.7,58,вариатор,передний,хэтчбек 3 дв.,,140000,правый,7 поколение,660 TX,0,320000
+12946,https://krasnogorsk.drom.ru/daihatsu/atrai/48665632.html,Daihatsu,Atrai,Красногорск,2015,бензин,0.7,64,АКПП,4WD,минивэн,серебристый,145000,правый,"6 поколение, рестайлинг",,0,805000
+12947,https://vladikavkaz.drom.ru/daihatsu/atrai/49027848.html,Daihatsu,Atrai,Владикавказ,2013,бензин,0.7,64,АКПП,задний,минивэн,серый,83000,правый,"6 поколение, рестайлинг",,0,650000
+12948,https://izhevsk.drom.ru/daihatsu/terios/46644162.html,Daihatsu,Terios,Ижевск,1998,бензин,1.3,83,механика,4WD,,синий,191200,левый,1 поколение,1.3 MT CXS,0,180000
+12949,https://togliatti.drom.ru/daihatsu/hijet/49026372.html,Daihatsu,Hijet,Тольятти,2018,бензин,0.7,53,АКПП,4WD,минивэн,,73800,правый,"10 поколение, 2 рестайлинг",,0,750000
+12950,https://ussuriisk.drom.ru/daihatsu/move/48934445.html,Daihatsu,Move,Уссурийск,2016,бензин,0.7,52,вариатор,передний,,серый,124000,правый,6 поколение,,1,430000
+12951,https://novosibirsk.drom.ru/daihatsu/max/48999862.html,Daihatsu,Max,Новосибирск,2002,бензин,0.7,58,АКПП,4WD,,,205000,правый,1 поколение,,1,220000
+12952,https://novosibirsk.drom.ru/daihatsu/move/46600017.html,Daihatsu,Move,Новосибирск,2016,бензин,0.7,52,вариатор,передний,,белый,154000,правый,6 поколение,,0,635000
+12953,https://ulan-ude.drom.ru/daihatsu/mira/47282160.html,Daihatsu,Mira,Улан-Удэ,2008,бензин,0.7,58,механика,передний,хэтчбек 3 дв.,белый,95000,правый,7 поколение,,0,240000
+12954,https://habarovsk.drom.ru/daihatsu/terios_kid/49017552.html,Daihatsu,Terios Kid,Хабаровск,2001,бензин,0.7,64,АКПП,4WD,,розовый,149400,правый,"1 поколение, рестайлинг",,0,300000
+12955,https://novosibirsk.drom.ru/daihatsu/hijet/45848739.html,Daihatsu,Hijet,Новосибирск,2017,бензин,0.7,53,АКПП,4WD,минивэн,серый,67000,правый,"10 поколение, рестайлинг",,0,680000
+12956,https://vladivostok.drom.ru/daihatsu/mira_gino/47752397.html,Daihatsu,Mira Gino,Владивосток,2008,бензин,0.7,58,АКПП,передний,хэтчбек 5 дв.,бордовый,116000,правый,2 поколение,660 premium X,0,365000
+12957,https://vladivostok.drom.ru/daihatsu/terios/48472443.html,Daihatsu,Terios,Владивосток,2008,бензин,0.7,64,автомат,задний,,белый,140000,правый,,,1,285000
+12958,https://artem.drom.ru/daihatsu/terios/48823706.html,Daihatsu,Terios,Артём,1998,бензин,1.3,92,АКПП,4WD,,серый,146000,правый,1 поколение,1.3 CX,1,275000
+12959,https://vladivostok.drom.ru/daihatsu/hijet/49016996.html,Daihatsu,Hijet,Владивосток,2019,бензин,0.7,53,АКПП,4WD,минивэн,серебристый,150000,правый,"10 поколение, 2 рестайлинг",,1,595000
+12960,https://nakhodka.drom.ru/daihatsu/move_conte/47649468.html,Daihatsu,Move Conte,Находка,2014,бензин,0.7,64,вариатор,передний,,белый,86,правый,"1 поколение, рестайлинг",660 Custom RS,0,469000
+12961,https://usoliye-sibirskoe.drom.ru/daihatsu/mira_e-s/48652987.html,Daihatsu,Mira e:S,Усолье-Сибирское,2016,бензин,0.7,49,вариатор,передний,,фиолетовый,107000,правый,"1 поколение, рестайлинг",,0,440000
+12962,https://vladivostok.drom.ru/daihatsu/mira_e-s/48149903.html,Daihatsu,Mira e:S,Владивосток,2018,бензин,0.7,49,вариатор,4WD,,серебристый,83000,правый,2 поколение, 660 X SAIII 4WD,1,565000
+12963,https://vladivostok.drom.ru/daihatsu/cast/48677790.html,Daihatsu,Cast,Владивосток,2017,бензин,0.7,52,вариатор,передний,,,100000,правый,1 поколение, Style 660 X SAIII,0,555000
+12964,https://vladivostok.drom.ru/daihatsu/mira/48361345.html,Daihatsu,Mira,Владивосток,2017,бензин,0.7,58,вариатор,4WD,хэтчбек 3 дв.,серый,128000,правый,7 поколение, 660 TX 4WD,1,399000
+12965,https://novosibirsk.drom.ru/daihatsu/move/48682204.html,Daihatsu,Move,Новосибирск,2013,бензин,0.7,52,вариатор,передний,,серый,117000,правый,"5 поколение, рестайлинг",660 X SA,0,495000
+12966,https://barnaul.drom.ru/daihatsu/yrv/48681741.html,Daihatsu,YRV,Барнаул,2001,бензин,1.3,90,механика,передний,,черный,327000,правый,1 поколение,,0,185000
+12967,https://shelehov.drom.ru/daihatsu/hijet/48680000.html,Daihatsu,Hijet,Шелехов,2013,бензин,0.7,53,АКПП,4WD,минивэн,белый,188636,правый,"10 поколение, рестайлинг",,0,545000
+12968,https://barnaul.drom.ru/daihatsu/mira/48676286.html,Daihatsu,Mira,Барнаул,2009,бензин,0.7,58,механика,передний,хэтчбек 3 дв.,белый,212028,правый,7 поколение,,0,220000
+12969,https://dunay.drom.ru/daihatsu/mira_e-s/48675624.html,Daihatsu,Mira e:S,Дунай,2015,бензин,0.7,49,вариатор,передний,,белый,142000,правый,"1 поколение, рестайлинг", 660 D,0,370000
+12970,https://irkutsk.drom.ru/daihatsu/mira/48397584.html,Daihatsu,Mira,Иркутск,2010,бензин,0.7,58,АКПП,передний,хэтчбек 3 дв.,серый,170000,правый,7 поколение,660 TX,1,320000
+12971,https://chita.drom.ru/daihatsu/move/48336386.html,Daihatsu,Move,Чита,2009,бензин,0.7,58,АКПП,4WD,,золотистый,88000,правый,"4 поколение, рестайлинг",660 L 4WD,0,400000
+12972,https://habarovsk.drom.ru/daihatsu/terios_kid/48335067.html,Daihatsu,Terios Kid,Хабаровск,1999,бензин,0.7,64,АКПП,4WD,,серый,175000,правый,1 поколение,660 Aero down,1,255000
+12973,https://yurga.drom.ru/daihatsu/mira/48334882.html,Daihatsu,Mira,Юрга,2000,бензин,0.7,58,АКПП,передний,хэтчбек 5 дв.,серый,330690,правый,"5 поколение, рестайлинг",660 CX,0,170000
+12974,https://ussuriisk.drom.ru/daihatsu/mira/48332574.html,Daihatsu,Mira,Уссурийск,2011,бензин,0.7,58,АКПП,передний,хэтчбек 3 дв.,белый,165000,правый,7 поколение,660 TX special,0,150000
+12975,https://novosibirsk.drom.ru/daihatsu/mira/48330792.html,Daihatsu,Mira,Новосибирск,2009,бензин,0.7,58,АКПП,передний,хэтчбек 5 дв.,белый,140000,правый,7 поколение,660 X special,1,360000
+12976,https://elizovo.drom.ru/daihatsu/be-go/48329045.html,Daihatsu,Be-Go,Елизово,2006,бензин,1.5,109,АКПП,4WD,,красный,118000,правый,1 поколение,1.5 CL 4WD,0,520000
+12977,https://arsenyev.drom.ru/daihatsu/terios_kid/48328945.html,Daihatsu,Terios Kid,Арсеньев,2005,бензин,0.7,64,АКПП,4WD,,серый,159000,правый,"1 поколение, рестайлинг",,0,265000
+12978,https://novokuznetsk.drom.ru/daihatsu/mira_e-s/48171220.html,Daihatsu,Mira e:S,Новокузнецк,2017,бензин,0.7,49,вариатор,передний,,серебристый,1,правый,2 поколение, 660 X SAIII,0,605000
+12979,https://petrozavodsk.drom.ru/daihatsu/move/47988783.html,Daihatsu,Move,Петрозаводск,2015,бензин,0.7,52,вариатор,передний,,бордовый,78000,правый,6 поколение, 660 Custom X SA,0,755000
+12980,https://ussuriisk.drom.ru/daihatsu/terios_kid/47982226.html,Daihatsu,Terios Kid,Уссурийск,1998,бензин,0.7,64,АКПП,4WD,,черный,112000,правый,1 поколение,660 Aero down,1,220000
+12981,https://vladivostok.drom.ru/daihatsu/yrv/47979239.html,Daihatsu,YRV,Владивосток,2000,бензин,1.3,90,АКПП,передний,,синий,205650,правый,1 поколение,1.3,0,100000
+12982,https://vladivostok.drom.ru/daihatsu/move/47979280.html,Daihatsu,Move,Владивосток,2013,бензин,0.7,52,вариатор,передний,,коричневый,150000,правый,"5 поколение, рестайлинг",660 L,0,480000
+12983,https://nikolaevsk-na-amure.drom.ru/daihatsu/mira_e-s/47819951.html,Daihatsu,Mira e:S,Николаевск-На-Амуре,2014,бензин,0.7,49,вариатор,4WD,,,105699,правый,"1 поколение, рестайлинг",,0,500000
+12985,https://novokuznetsk.drom.ru/daihatsu/storia/47602963.html,Daihatsu,Storia,Новокузнецк,1998,бензин,1.0,60,АКПП,передний,,серый,270,правый,1 поколение,1.0 CX,0,150000
+12986,https://habarovsk.drom.ru/daihatsu/mira/47606735.html,Daihatsu,Mira,Хабаровск,2004,бензин,0.7,48,АКПП,передний,хэтчбек 3 дв.,серый,50000,правый,6 поколение,,0,145000
+12987,https://vladivostok.drom.ru/daihatsu/mira_e-s/47282256.html,Daihatsu,Mira e:S,Владивосток,2016,бензин,0.7,49,вариатор,передний,,белый,120485,правый,"1 поколение, рестайлинг", 660 D,0,480000
+12988,https://petropavlovsk-kamchatskiy.drom.ru/daihatsu/yrv/47218555.html,Daihatsu,YRV,Петропавловск-Камчатский,2001,бензин,1.3,140,АКПП,4WD,,красный,280000,правый,1 поколение,1.3 turbo Parco,0,290000
+12989,https://moscow.drom.ru/daihatsu/wake/47014154.html,Daihatsu,Wake,Москва,2016,бензин,0.7,64,вариатор,передний,,зеленый,145000,правый,1 поколение, 660 G Turbo Leisure Edition SAII,0,850000
+12990,https://irkutsk.drom.ru/daihatsu/storia/49037296.html,Daihatsu,Storia,Иркутск,1998,бензин,1.0,60,АКПП,4WD,,синий,250000,правый,1 поколение,,0,150000
+12991,https://blagoveshchensk.drom.ru/daihatsu/terios_kid/49036725.html,Daihatsu,Terios Kid,Благовещенск,2002,бензин,0.7,60,АКПП,задний,,серый,179000,правый,"1 поколение, рестайлинг",,0,310000
+12992,https://komsomolsk.drom.ru/daihatsu/terios_kid/48837688.html,Daihatsu,Terios Kid,Комсомольск-на-Амуре,2002,бензин,0.7,60,АКПП,4WD,,серый,180000,правый,"1 поколение, рестайлинг",,0,200000
+12993,https://chita.drom.ru/daihatsu/mira_e-s/44823010.html,Daihatsu,Mira e:S,Чита,2017,бензин,0.7,49,вариатор,передний,,белый,58903,правый,2 поколение,,0,530000
+12994,https://chelyabinsk.drom.ru/daihatsu/storia/46234039.html,Daihatsu,Storia,Челябинск,1998,бензин,1.0,60,механика,передний,,зеленый,200000,правый,1 поколение,1.0 CX,0,135000
+12995,https://vladivostok.drom.ru/daihatsu/tanto/48673481.html,Daihatsu,Tanto,Владивосток,2015,бензин,0.7,52,вариатор,передний,,зеленый,70000,правый,3 поколение,,1,430000
+12996,https://vladivostok.drom.ru/daihatsu/move/49035454.html,Daihatsu,Move,Владивосток,2012,бензин,0.7,52,вариатор,4WD,,белый,89000,правый,5 поколение,660 custom X 4WD,0,359999
+12997,https://ussuriisk.drom.ru/daihatsu/mira_e-s/49035436.html,Daihatsu,Mira e:S,Уссурийск,2019,бензин,0.7,49,вариатор,передний,,серебристый,88000,правый,2 поколение, 660 X SAIII,0,565000
+12998,https://meget.drom.ru/daihatsu/mira_e-s/45978155.html,Daihatsu,Mira e:S,Мегет,2016,бензин,0.7,49,вариатор,передний,,белый,13000,правый,"1 поколение, рестайлинг", 660 L,0,481000
+12999,https://meget.drom.ru/daihatsu/hijet/45940404.html,Daihatsu,Hijet,Мегет,2016,бензин,0.7,46,механика,4WD,минивэн,белый,83000,правый,"10 поколение, рестайлинг",,0,591000
+13000,https://angarsk.drom.ru/daihatsu/yrv/49035060.html,Daihatsu,YRV,Ангарск,2001,бензин,1.3,90,механика,передний,,синий,2099,правый,1 поколение,,0,140000

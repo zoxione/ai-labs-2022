@@ -1,0 +1,472 @@
+Id,Url,Brand,Model,Region,Year,Engine,EngineVolume,Power,Transmission,Drive,Body,Color,Mileage,Wheel,Generation,Complectation,IsSold,Price
+9000,https://ufa.drom.ru/citroen/c4/47509750.html,Citroen,C4,Уфа,2011,бензин,1.6,120,механика,передний,хэтчбек 5 дв.,серый,20200,левый,2 поколение,1.6 MT Dynamique ,0,593000
+9001,https://moscow.drom.ru/citroen/berlingo/48627469.html,Citroen,Berlingo,Москва,2021,дизель,1.6,90,механика,передний,,белый,50022,левый,"2 поколение, рестайлинг",1.6 HDi MT Multispace,0,1750000
+9002,https://barnaul.drom.ru/citroen/c-crosser/46956148.html,Citroen,C-Crosser,Барнаул,2012,бензин,2.4,170,вариатор,4WD,,черный,137000,левый,1 поколение,2.4 CVT 4WD Exclusive ,1,1070000
+9003,https://ekaterinburg.drom.ru/citroen/c1/48281161.html,Citroen,C1,Екатеринбург,2011,бензин,1.0,68,робот,передний,хэтчбек 5 дв.,синий,218000,левый,"1 поколение, рестайлинг",1.0i SAT Tendance 5dr,0,375000
+9004,https://tver.drom.ru/citroen/c4/48964052.html,Citroen,C4,Тверь,2006,бензин,1.6,109,АКПП,передний,хэтчбек 5 дв.,фиолетовый,180000,левый,1 поколение,1.6 AT Confort,1,280000
+9005,https://kushchevskaya.drom.ru/citroen/c4_aircross/48627901.html,Citroen,C4 Aircross,Кущевская,2012,бензин,1.6,117,механика,передний,,белый,178000,левый,1 поколение,1.6 MT 2WD Dynamique ,1,750000
+9006,https://kolomna.drom.ru/citroen/c3/48627423.html,Citroen,C3,Коломна,2005,бензин,1.4,75,механика,передний,хэтчбек 5 дв.,черный,330000,левый,1 поколение,1.4i MT SX,0,170000
+9007,https://spb.drom.ru/citroen/c4/48627265.html,Citroen,C4,Санкт-Петербург,2010,бензин,1.6,120,АКПП,передний,хэтчбек 5 дв.,черный,189000,левый,"1 поколение, рестайлинг",,0,330000
+9008,https://krasnodar.drom.ru/citroen/c4/48627049.html,Citroen,C4,Краснодар,2013,бензин,1.6,120,механика,передний,хэтчбек 5 дв.,белый,200000,левый,2 поколение,1.6 MT Dynamique ,0,550000
+9009,https://nizhniy-tagil.drom.ru/citroen/c4/48277636.html,Citroen,C4,Нижний Тагил,2015,бензин,1.6,150,АКПП,передний,седан,коричневый,152000,левый,2 поколение,1.6 THP AT Exclusive,0,800000
+9010,https://belgorod.drom.ru/citroen/c-elysee/48973306.html,Citroen,C-Elysee,Белгород,2014,бензин,1.6,115,механика,передний,,серебристый,98600,левый,1 поколение,,0,595000
+9011,https://lesosibirsk.drom.ru/citroen/c4/48521383.html,Citroen,C4,Лесосибирск,2010,бензин,1.6,120,АКПП,передний,хэтчбек 5 дв.,красный,100000,левый,"1 поколение, рестайлинг",,1,390000
+9012,https://kaluga.drom.ru/citroen/c4/48972365.html,Citroen,C4,Калуга,2014,бензин,1.6,150,АКПП,передний,седан,черный,156000,левый,2 поколение,1.6 THP AT Exclusive,1,620000
+9013,https://kemerovo.drom.ru/citroen/c4/48972200.html,Citroen,C4,Кемерово,2013,бензин,1.6,120,АКПП,передний,хэтчбек 5 дв.,черный,30000,левый,2 поколение,,1,750000
+9014,https://omsk.drom.ru/citroen/c4_picasso/47387657.html,Citroen,C4 Picasso,Омск,2010,бензин,1.6,155,робот,передний,,черный,107000,левый,1 поколение,,0,497000
+9015,https://krasnodar.drom.ru/citroen/c4/48972117.html,Citroen,C4,Краснодар,2010,бензин,1.6,120,механика,передний,хэтчбек 5 дв.,черный,274400,левый,"1 поколение, рестайлинг",1.6 VTi MT Tonic,0,399000
+9016,https://barnaul.drom.ru/citroen/c4/48919329.html,Citroen,C4,Барнаул,2010,бензин,1.6,120,АКПП,передний,хэтчбек 5 дв.,серебристый,74389,левый,"1 поколение, рестайлинг",1.6i AT Confort,1,480000
+9017,https://stavropol.drom.ru/citroen/c4/48263018.html,Citroen,C4,Ставрополь,2012,бензин,1.6,120,механика,передний,хэтчбек 5 дв.,белый,120000,левый,2 поколение,,0,639000
+9018,https://rostov-na-donu.drom.ru/citroen/spacetourer/48971878.html,Citroen,Spacetourer,Ростов-на-Дону,2017,дизель,2.0,177,автомат,передний,,,90000,левый,,,0,2470000
+9019,https://stavropol.drom.ru/citroen/c3/48247274.html,Citroen,C3,Ставрополь,2012,бензин,1.6,120,АКПП,передний,хэтчбек 5 дв.,,140000,левый,2 поколение,,0,525000
+9020,https://yalta.drom.ru/citroen/berlingo/48971685.html,Citroen,Berlingo,Ялта,2008,дизель,1.6,75,механика,передний,,серебристый,240000,левый,,,0,480000
+9021,https://volgograd.drom.ru/citroen/c4/48970738.html,Citroen,C4,Волгоград,2010,бензин,1.6,120,АКПП,передний,хэтчбек 5 дв.,серый,108000,левый,"1 поколение, рестайлинг",1.6i AT Confort,1,300000
+9022,https://mytishchi.drom.ru/citroen/c4/48970737.html,Citroen,C4,Мытищи,2011,бензин,1.6,120,АКПП,передний,хэтчбек 5 дв.,белый,163000,левый,2 поколение,1.6 AT Tendance ,1,500000
+9023,https://kemerovo.drom.ru/citroen/c-crosser/47482011.html,Citroen,C-Crosser,Кемерово,2007,дизель,2.2,156,механика,4WD,,черный,203000,левый,,,1,850000
+9024,https://bratsk.drom.ru/citroen/c4/48970124.html,Citroen,C4,Братск,2010,бензин,1.6,120,АКПП,передний,хэтчбек 5 дв.,черный,156085,левый,"1 поколение, рестайлинг",1.6 VTi AT Tendance,1,330000
+9025,https://simferopol.drom.ru/citroen/c4_picasso/48970152.html,Citroen,C4 Picasso,Симферополь,2008,бензин,2.0,140,робот,передний,,синий,94000,левый,1 поколение,2.0 AMT Confort,0,660000
+9026,https://ekaterinburg.drom.ru/citroen/c4/48970142.html,Citroen,C4,Екатеринбург,2011,бензин,1.6,120,АКПП,передний,хэтчбек 5 дв.,коричневый,128700,левый,2 поколение,1.6 AT Tendance ,1,600000
+9027,https://moscow.drom.ru/citroen/berlingo/48024677.html,Citroen,Berlingo,Москва,2011,бензин,1.6,90,механика,передний,,черный,103000,левый,2 поколение,,0,649000
+9028,https://moscow.drom.ru/citroen/c4/46454853.html,Citroen,C4,Москва,2010,бензин,1.6,120,механика,передний,хэтчбек 5 дв.,,121000,левый,"1 поколение, рестайлинг",1.6 VTi MT Tonic,0,449000
+9029,https://feodosiya.drom.ru/citroen/jumpy/48988982.html,Citroen,Jumpy,Феодосия,1998,дизель,1.9,71,механика,передний,,белый,460000,левый,1 поколение,1.9 D MT Combi,0,350000
+9030,https://ekaterinburg.drom.ru/citroen/c-crosser/48988913.html,Citroen,C-Crosser,Екатеринбург,2008,бензин,2.4,170,вариатор,4WD,,серебристый,212000,левый,1 поколение,2.4 CVT 4WD Exclusive ,0,600000
+9031,https://kamensk-uralskiy.drom.ru/citroen/c4/48988541.html,Citroen,C4,Каменск-Уральский,2010,бензин,1.6,110,механика,передний,хэтчбек 5 дв.,серый,167900,левый,"1 поколение, рестайлинг",,0,419000
+9032,https://khanty-mansiysk.drom.ru/citroen/berlingo/48295109.html,Citroen,Berlingo,Ханты-Мансийск,2021,бензин,1.6,114,механика,передний,,белый,33000,левый,,,0,1850000
+9033,https://krasnoyarsk.drom.ru/citroen/c-crosser/48987939.html,Citroen,C-Crosser,Красноярск,2011,бензин,2.4,170,вариатор,4WD,,черный,90000,левый,1 поколение,,1,957000
+9034,https://korenovsk.drom.ru/citroen/berlingo/48987421.html,Citroen,Berlingo,Кореновск,2011,бензин,1.4,75,механика,передний,,белый,290000,левый,"1 поколение, рестайлинг",1.4 MT MSP,0,320000
+9035,https://moscow.drom.ru/citroen/c3/48377356.html,Citroen,C3,Москва,2012,бензин,1.4,95,робот,передний,хэтчбек 5 дв.,бордовый,81000,левый,2 поколение,1.4 AMT Exclusive ,1,560000
+9036,https://kogalym.drom.ru/citroen/c3_picasso/48766040.html,Citroen,C3 Picasso,Когалым,2010,бензин,1.6,115,механика,передний,,серый,175000,,1 поколение,1.6 MT Vitamin,1,500000
+9037,https://novosibirsk.drom.ru/citroen/berlingo/48968398.html,Citroen,Berlingo,Новосибирск,2012,бензин,1.4,75,механика,передний,,синий,190000,левый,"1 поколение, рестайлинг",1.4 MT MSP,1,305000
+9038,https://moscow.drom.ru/citroen/xsara_picasso/48986742.html,Citroen,Xsara Picasso,Москва,2003,бензин,1.7,116,механика,передний,,синий,250000,левый,,,0,269000
+9039,https://moscow.drom.ru/citroen/c4_picasso/42266763.html,Citroen,C4 Picasso,Москва,2016,дизель,1.6,115,автомат,передний,,серый,71800,левый,,,0,1270000
+9040,https://zuya.drom.ru/citroen/berlingo/46839928.html,Citroen,Berlingo,Зуя,2010,бензин,1.6,110,механика,передний,,бежевый,280000,левый,2 поколение,,0,670000
+9041,https://magnitogorsk.drom.ru/citroen/c4/48570032.html,Citroen,C4,Магнитогорск,2007,бензин,1.6,110,АКПП,передний,хэтчбек 5 дв.,красный,262000,левый,1 поколение,1.6i AT Base,0,319000
+9042,https://krasnoyarsk.drom.ru/citroen/c3_picasso/48985876.html,Citroen,C3 Picasso,Красноярск,2012,бензин,1.4,95,механика,передний,,серый,140000,,1 поколение,1.4 MT Vitamin ,1,440000
+9043,https://zarinsk.drom.ru/citroen/c-crosser/48882045.html,Citroen,C-Crosser,Заринск,2008,бензин,2.4,170,вариатор,4WD,,серый,169000,левый,1 поколение,2.4 CVT 4WD Confort ,1,850000
+9044,https://chelyabinsk.drom.ru/citroen/c4/48647189.html,Citroen,C4,Челябинск,2014,бензин,1.6,120,АКПП,передний,седан,коричневый,19400,левый,2 поколение,1.6 AT Exclusive,0,980000
+9045,https://krasnoyarsk.drom.ru/citroen/c4/47615932.html,Citroen,C4,Красноярск,2012,бензин,1.6,120,АКПП,передний,хэтчбек 5 дв.,красный,161575,левый,2 поколение,1.6 AT Dynamique ,0,599000
+9046,https://nizhniy-novgorod.drom.ru/citroen/c4_picasso/43762076.html,Citroen,C4 Picasso,Нижний Новгород,2014,бензин,1.6,120,механика,передний,,голубой,49000,левый,2 поколение,,0,1138000
+9047,https://blagoveshchensk.drom.ru/citroen/c3/47214187.html,Citroen,C3,Благовещенск,2014,бензин,1.2,82,автомат,передний,хэтчбек 5 дв.,белый,95000,правый,,,0,590000
+9048,https://vladimir.drom.ru/citroen/c4_aircross/45949019.html,Citroen,C4 Aircross,Владимир,2012,бензин,2.0,,автомат,,,коричневый,184991,левый,,,0,777000
+9049,https://kazan.drom.ru/citroen/c5/48627002.html,Citroen,C5,Казань,2008,бензин,2.0,140,АКПП,передний,седан,синий,291000,левый,2 поколение,2.0 AT Confort,0,800000
+9050,https://chelyabinsk.drom.ru/citroen/c-crosser/48624853.html,Citroen,C-Crosser,Челябинск,2008,бензин,2.4,170,вариатор,4WD,,синий,206500,левый,1 поколение,2.4 CVT 4WD Exclusive ,0,530000
+9051,https://olenegorsk.drom.ru/citroen/c3/48624880.html,Citroen,C3,Оленегорск,2008,бензин,1.4,88,робот,передний,хэтчбек 5 дв.,красный,142000,левый,"1 поколение, рестайлинг",1.4i AMT SX,0,60000
+9052,https://sterlitamak.drom.ru/citroen/c4/48623518.html,Citroen,C4,Стерлитамак,2011,бензин,1.6,120,механика,передний,хэтчбек 5 дв.,красный,101215,левый,,,0,448600
+9053,https://sevastopol.drom.ru/citroen/xsara/48622167.html,Citroen,Xsara,Севастополь,2008,бензин,1.6,109,механика,передний,универсал,черный,185000,левый,,,1,380000
+9054,https://ulyanovsk.drom.ru/citroen/c4_aircross/48619347.html,Citroen,C4 Aircross,Ульяновск,2012,бензин,2.0,150,вариатор,4WD,,белый,125000,левый,1 поколение,2.0 CVT 4WD Exclusive ,0,970000
+9055,https://irkutsk.drom.ru/citroen/berlingo/48617700.html,Citroen,Berlingo,Иркутск,2012,бензин,1.6,120,механика,передний,,серебристый,219000,левый,2 поколение,1.6 MT Multispace,0,520000
+9056,https://tver.drom.ru/citroen/c3_picasso/48281939.html,Citroen,C3 Picasso,Тверь,2010,бензин,1.6,115,механика,передний,,серый,142000,,1 поколение,,0,489000
+9057,https://shuya.drom.ru/citroen/c4/48277220.html,Citroen,C4,Шуя,2012,бензин,1.6,120,АКПП,передний,хэтчбек 5 дв.,коричневый,200000,левый,2 поколение,1.6 AT Dynamique ,0,470000
+9058,https://irkutsk.drom.ru/citroen/c4/48273579.html,Citroen,C4,Иркутск,2014,бензин,1.6,150,АКПП,передний,седан,серый,100000,левый,2 поколение,1.6 THP AT Exclusive +,0,700000
+9059,https://krasnoperekopsk.drom.ru/citroen/berlingo/47938338.html,Citroen,Berlingo,Красноперекопск,2009,дизель,1.6,90,механика,передний,,черный,247000,левый,2 поколение,,0,810000
+9060,https://simferopol.drom.ru/citroen/berlingo/47938045.html,Citroen,Berlingo,Симферополь,2009,дизель,1.6,90,механика,передний,,белый,260000,левый,2 поколение,,1,425000
+9062,https://krasnoyarsk.drom.ru/citroen/berlingo/47931494.html,Citroen,Berlingo,Красноярск,2012,бензин,1.6,110,механика,передний,,белый,356468,левый,2 поколение,,0,501000
+9063,https://smolensk.drom.ru/citroen/c5/47931174.html,Citroen,C5,Смоленск,2008,бензин,2.0,143,АКПП,передний,седан,зеленый,200000,левый,2 поколение,2.0 AT Confort ,0,500000
+9064,https://ufa.drom.ru/citroen/c4/47931188.html,Citroen,C4,Уфа,2011,бензин,1.6,120,АКПП,передний,хэтчбек 5 дв.,серебристый,174000,левый,2 поколение,,0,370000
+9065,https://yevpatoriya.drom.ru/citroen/c3_picasso/47598119.html,Citroen,C3 Picasso,Евпатория,2010,бензин,1.4,95,механика,передний,,серый,195000,,1 поколение,1.4 MT Confort ,0,450000
+9066,https://barnaul.drom.ru/citroen/c5/47596741.html,Citroen,C5,Барнаул,2010,бензин,1.7,125,механика,передний,седан,белый,220000,левый,2 поколение,1.8 MT Style,0,450000
+9067,https://simferopol.drom.ru/citroen/c3/47551710.html,Citroen,C3,Симферополь,2009,бензин,1.4,88,робот,передний,хэтчбек 5 дв.,красный,123405,левый,"1 поколение, рестайлинг",,0,330000
+9068,https://taman.drom.ru/citroen/jumpy/47448227.html,Citroen,Jumpy,Тамань,2009,дизель,2.0,120,механика,передний,,черный,205580,левый,2 поколение,,0,900000
+9069,https://kerch.drom.ru/citroen/c1/47288180.html,Citroen,C1,Керчь,2013,бензин,1.0,68,робот,передний,хэтчбек 5 дв.,белый,150000,левый,"1 поколение, 2 рестайлинг",1.0 AMT Exclusive 5dr,0,450000
+9070,https://irkutsk.drom.ru/citroen/c2/47244622.html,Citroen,C2,Иркутск,2005,бензин,1.6,109,робот,передний,,черный,265000,левый,1 поколение,1.6 SAT VTR,0,160000
+9071,https://mezhdurechensk.drom.ru/citroen/c4/47190836.html,Citroen,C4,Междуреченск,2013,бензин,1.6,120,АКПП,передний,седан,серебристый,156044,левый,2 поколение,1.6 AT Exclusive,1,420000
+9072,https://krasnoyarsk.drom.ru/citroen/c5/47105266.html,Citroen,C5,Красноярск,2008,бензин,2.0,140,АКПП,передний,седан,бежевый,180000,левый,2 поколение,2.0 AT Confort,0,475000
+9073,https://chelyabinsk.drom.ru/citroen/c4/47075302.html,Citroen,C4,Челябинск,2010,бензин,1.6,120,механика,передний,хэтчбек 5 дв.,красный,142000,левый,"1 поколение, рестайлинг",,0,360000
+9074,https://usoliye-sibirskoe.drom.ru/citroen/ds4/46902694.html,Citroen,DS4,Усолье-Сибирское,2012,бензин,1.6,150,АКПП,передний,,белый,156700,левый,1 поколение,1.6 THP AT Sport Chic ,0,777000
+9075,https://ulyanovsk.drom.ru/citroen/c-crosser/46634237.html,Citroen,C-Crosser,Ульяновск,2009,бензин,2.4,170,вариатор,4WD,,синий,133138,левый,1 поколение,2.4 CVT 4WD Confort ,0,900000
+9076,https://taganrog.drom.ru/citroen/c3_picasso/46300065.html,Citroen,C3 Picasso,Таганрог,2010,бензин,1.4,95,механика,передний,,черный,138000,,1 поколение,,0,599000
+9077,https://tver.drom.ru/citroen/spacetourer/46290246.html,Citroen,Spacetourer,Тверь,2022,дизель,2.0,150,АКПП,передний,,серый,,левый,1 поколение,2.0 HDi AT Feel M,0,4779900
+9078,https://volgograd.drom.ru/citroen/c5/45852092.html,Citroen,C5,Волгоград,2013,бензин,1.6,150,АКПП,передний,седан,черный,69000,левый,2 поколение,1.6 THP AT Exclusive ,0,949000
+9079,https://rostov-na-donu.drom.ru/citroen/c4_aircross/45051339.html,Citroen,C4 Aircross,Ростов-на-Дону,2012,бензин,2.0,150,вариатор,передний,,белый,150000,левый,1 поколение,2.0 CVT 2WD Tendance ,0,950000
+9080,https://troytsk-chelabinsk.drom.ru/citroen/c-crosser/44858556.html,Citroen,C-Crosser,Троицк,2008,бензин,2.4,170,вариатор,4WD,,черный,105000,левый,1 поколение,,0,675000
+9081,https://gulkevichi.drom.ru/citroen/c5/43533463.html,Citroen,C5,Гулькевичи,2009,бензин,1.7,125,механика,передний,седан,белый,260000,левый,2 поколение,1.8 MT Confort,0,570000
+9082,https://krasnoyarsk.drom.ru/citroen/c5/42965573.html,Citroen,C5,Красноярск,2007,бензин,2.0,140,механика,передний,лифтбек,коричневый,208000,левый,"1 поколение, рестайлинг",2.0 MT Exclusive,0,395000
+9083,https://yurga.drom.ru/citroen/c3_picasso/48984019.html,Citroen,C3 Picasso,Юрга,2011,бензин,1.4,95,механика,передний,,серый,112000,,1 поколение,1.4 MT Classique,0,410000
+9084,https://krasnodar.drom.ru/citroen/c4/48983338.html,Citroen,C4,Краснодар,2016,бензин,1.6,116,механика,передний,седан,серый,110000,левый,"2 поколение, рестайлинг",,0,620000
+9085,https://penza.drom.ru/citroen/berlingo/47591904.html,Citroen,Berlingo,Пенза,2011,бензин,1.4,75,механика,передний,,белый,141000,левый,"1 поколение, рестайлинг",1.4 MT MSP,0,538000
+9086,https://spb.drom.ru/citroen/c3/48983272.html,Citroen,C3,Санкт-Петербург,2011,бензин,1.4,75,механика,передний,хэтчбек 5 дв.,черный,186993,левый,,,0,359000
+9087,https://nizhniy-novgorod.drom.ru/citroen/c5/48981657.html,Citroen,C5,Нижний Новгород,2010,бензин,1.6,150,АКПП,передний,седан,красный,178000,левый,2 поколение,,0,560000
+9088,https://vladimir.drom.ru/citroen/c4/48981573.html,Citroen,C4,Владимир,2013,дизель,1.6,114,робот,передний,хэтчбек 5 дв.,белый,160000,левый,2 поколение,1.6 e-HDi EGS Exclusive,1,770000
+9089,https://irkutsk.drom.ru/citroen/c4/47523412.html,Citroen,C4,Иркутск,2014,бензин,1.6,150,АКПП,передний,седан,белый,105896,левый,2 поколение,1.6 THP AT Tendance,0,750000
+9090,https://spb.drom.ru/citroen/xsara_picasso/48976437.html,Citroen,Xsara Picasso,Санкт-Петербург,2002,бензин,1.7,116,механика,передний,,серебристый,335156,левый,,,0,199700
+9091,https://tyumen.drom.ru/citroen/c4_picasso/48810553.html,Citroen,C4 Picasso,Тюмень,2012,бензин,1.6,150,автомат,передний,,коричневый,125000,левый,,,0,749900
+9092,https://ufa.drom.ru/citroen/c4/47945148.html,Citroen,C4,Уфа,2016,бензин,1.6,116,механика,передний,седан,белый,40110,левый,"2 поколение, рестайлинг",1.6 MT Feel Edition,0,685000
+9093,https://nizhniy-novgorod.drom.ru/citroen/berlingo/47174628.html,Citroen,Berlingo,Нижний Новгород,2021,дизель,1.6,90,механика,передний,,черный,,левый,"2 поколение, рестайлинг",1.6 HDi MT Multispace,0,2652000
+9094,https://nizhniy-novgorod.drom.ru/citroen/spacetourer/47174627.html,Citroen,Spacetourer,Нижний Новгород,2022,дизель,2.0,150,АКПП,передний,,коричневый,,левый,1 поколение,2.0 HDi AT Feel XL,0,4949900
+9096,https://nizhniy-novgorod.drom.ru/citroen/berlingo/46607893.html,Citroen,Berlingo,Нижний Новгород,2022,бензин,1.6,115,механика,передний,,серебристый,,левый,"2 поколение, рестайлинг",1.6 VTi MT Multispace,0,2499000
+9097,https://nizhniy-novgorod.drom.ru/citroen/spacetourer/46516717.html,Citroen,Spacetourer,Нижний Новгород,2022,дизель,2.0,150,АКПП,передний,,черный,,левый,1 поколение,2.0 HDi AT Business Lounge XL,0,6169900
+9098,https://moscow.drom.ru/citroen/spacetourer/47008337.html,Citroen,Spacetourer,Москва,2022,дизель,2.0,150,АКПП,передний,,белый,,левый,1 поколение,2.0 HDi AT Feel XL,0,6890000
+9099,https://moscow.drom.ru/citroen/jumpy/48974783.html,Citroen,Jumpy,Москва,2014,дизель,1.6,90,механика,передний,,черный,254000,левый,"2 поколение, рестайлинг",1.6 HDI MT Dynamique L2H1 ,0,400000
+9100,https://astrahan.drom.ru/citroen/berlingo/47955799.html,Citroen,Berlingo,Астрахань,2022,бензин,1.6,114,автомат,передний,,белый,7453,левый,,,0,1929900
+9101,https://moscow.drom.ru/citroen/c5/48974703.html,Citroen,C5,Москва,2009,бензин,2.0,143,АКПП,передний,седан,серый,144000,левый,2 поколение,,0,499000
+9102,https://partenit.drom.ru/citroen/c4/48639894.html,Citroen,C4,Партенит,2009,бензин,1.6,110,механика,передний,хэтчбек 5 дв.,синий,160000,левый,"1 поколение, рестайлинг",1.6i MT Classique,0,460000
+9103,https://moscow.drom.ru/citroen/c4_picasso/48639873.html,Citroen,C4 Picasso,Москва,2018,бензин,1.6,150,робот,передний,,серебристый,82000,левый,"2 поколение, рестайлинг",,0,1480000
+9104,https://chernomorskiy.drom.ru/citroen/c2/48639718.html,Citroen,C2,Черноморский,2006,бензин,1.6,109,робот,передний,,зеленый,178000,левый,1 поколение,1.6 SAT VTR,0,299000
+9105,https://krasnoyarsk.drom.ru/citroen/c-crosser/48639473.html,Citroen,C-Crosser,Красноярск,2011,бензин,2.4,170,вариатор,4WD,,черный,138700,левый,1 поколение,2.4 CVT 4WD Confort ,0,1050000
+9106,https://rostov-na-donu.drom.ru/citroen/c4/48639218.html,Citroen,C4,Ростов-на-Дону,2014,бензин,1.6,120,АКПП,передний,седан,белый,150000,левый,2 поколение,,0,735000
+9107,https://moscow.drom.ru/citroen/berlingo/48639179.html,Citroen,Berlingo,Москва,2006,бензин,1.4,75,механика,передний,,голубой,350000,левый,"1 поколение, рестайлинг",1.4 MT MSP,0,250000
+9108,https://rostov-na-donu.drom.ru/citroen/ds4/48638902.html,Citroen,DS4,Ростов-на-Дону,2012,бензин,1.6,120,механика,передний,,коричневый,169000,левый,1 поколение,,0,749000
+9109,https://spb.drom.ru/citroen/c3/48993284.html,Citroen,C3,Санкт-Петербург,2011,бензин,1.6,120,АКПП,передний,хэтчбек 5 дв.,белый,125268,левый,2 поколение,,0,398000
+9110,https://stavropol.drom.ru/citroen/c5/48993023.html,Citroen,C5,Ставрополь,2006,бензин,2.0,140,АКПП,передний,лифтбек,серебристый,227944,левый,"1 поколение, рестайлинг",,0,350000
+9111,https://grozniy.drom.ru/citroen/c4/48650498.html,Citroen,C4,Грозный,2010,бензин,1.6,120,механика,передний,хэтчбек 5 дв.,серебристый,149700,левый,"1 поколение, рестайлинг",,0,410000
+9112,https://spb.drom.ru/citroen/c4/46580068.html,Citroen,C4,Санкт-Петербург,2018,бензин,1.6,150,АКПП,передний,седан,серый,76300,левый,"2 поколение, рестайлинг",1.6 THP AT Feel Edition,0,1250000
+9113,https://tyumen.drom.ru/citroen/berlingo/48617119.html,Citroen,Berlingo,Тюмень,2012,бензин,1.6,90,механика,передний,,белый,186198,левый,,,0,580000
+9114,https://spb.drom.ru/citroen/berlingo/48992681.html,Citroen,Berlingo,Санкт-Петербург,2011,бензин,1.6,120,механика,передний,,серый,187571,левый,,,0,435000
+9115,https://tver.drom.ru/citroen/c4/48991818.html,Citroen,C4,Тверь,2008,бензин,1.6,150,механика,передний,хэтчбек 3 дв.,синий,188000,левый,"1 поколение, рестайлинг",1.6 THP MT VTS,1,445000
+9116,https://moscow.drom.ru/citroen/c4/48991781.html,Citroen,C4,Москва,2019,бензин,1.6,150,АКПП,передний,седан,синий,27800,левый,"2 поколение, рестайлинг",,0,1196000
+9117,https://borovsk.drom.ru/citroen/berlingo/48991759.html,Citroen,Berlingo,Боровск,2010,бензин,1.6,90,механика,передний,,серебристый,196000,левый,2 поколение,,0,200000
+9118,https://shahty.drom.ru/citroen/c4/48991528.html,Citroen,C4,Шахты,2010,бензин,1.6,120,механика,передний,хэтчбек 5 дв.,красный,,левый,"1 поколение, рестайлинг",,0,430000
+9120,https://kamensk-uralskiy.drom.ru/citroen/c4/48990831.html,Citroen,C4,Каменск-Уральский,2012,бензин,1.6,109,механика,передний,хэтчбек 5 дв.,синий,180000,левый,2 поколение,,0,550000
+9121,https://chelyabinsk.drom.ru/citroen/c4/48245276.html,Citroen,C4,Челябинск,2015,бензин,1.6,120,АКПП,передний,седан,серебристый,84000,левый,2 поколение,,0,549000
+9122,https://krasnodar.drom.ru/citroen/berlingo/48990114.html,Citroen,Berlingo,Краснодар,2000,бензин,1.8,90,механика,передний,,синий,300000,левый,,,0,150000
+9123,https://barnaul.drom.ru/citroen/c4_picasso/48989964.html,Citroen,C4 Picasso,Барнаул,2015,бензин,1.6,150,АКПП,передний,,серебристый,118000,левый,2 поколение,,0,1549000
+9124,https://spb.drom.ru/citroen/c4_picasso/48989707.html,Citroen,C4 Picasso,Санкт-Петербург,2009,бензин,1.6,150,автомат,передний,,серый,92819,левый,,,0,636650
+9125,https://ulyanovsk.drom.ru/citroen/c4_aircross/48651395.html,Citroen,C4 Aircross,Ульяновск,2012,бензин,2.0,150,вариатор,передний,,серый,140000,левый,1 поколение,,0,589000
+9126,https://simferopol.drom.ru/citroen/berlingo/46635790.html,Citroen,Berlingo,Симферополь,2006,дизель,1.9,71,механика,передний,,зеленый,200000,левый,"1 поколение, рестайлинг",1.9D MT MSP,0,450000
+9127,https://anapa.drom.ru/citroen/berlingo/47657081.html,Citroen,Berlingo,Анапа,2004,бензин,1.4,75,механика,передний,,серебристый,308540,левый,"1 поколение, рестайлинг",1.4 MT MSP,0,245000
+9128,https://nizhniy-novgorod.drom.ru/citroen/c5/48989256.html,Citroen,C5,Нижний Новгород,2013,бензин,1.6,150,АКПП,передний,универсал,белый,174000,левый,2 поколение,1.6 THP AT Tourer Confort ,0,799000
+9129,https://krasnodar.drom.ru/citroen/c5/47939685.html,Citroen,C5,Краснодар,2006,бензин,2.0,140,АКПП,передний,лифтбек,серебристый,310000,левый,"1 поколение, рестайлинг",2.0 AT Exclusive,0,333000
+9130,https://moscow.drom.ru/citroen/c4/47614351.html,Citroen,C4,Москва,2013,бензин,1.6,120,АКПП,передний,хэтчбек 5 дв.,белый,200000,левый,2 поколение,,0,600000
+9131,https://arzamas.drom.ru/citroen/berlingo/47613635.html,Citroen,Berlingo,Арзамас,2008,бензин,1.4,75,механика,передний,,серебристый,257221,левый,"1 поколение, рестайлинг",1.4 MT MSP,0,350000
+9132,https://krasnodar.drom.ru/citroen/c4_picasso/47608711.html,Citroen,C4 Picasso,Краснодар,2008,дизель,1.6,109,автомат,,,черный,168000,левый,,,1,390000
+9133,https://irkutsk.drom.ru/citroen/c5/47606197.html,Citroen,C5,Иркутск,2008,бензин,2.0,140,АКПП,передний,седан,серый,220000,левый,2 поколение,2.0 AT Confort,0,350000
+9134,https://ekaterinburg.drom.ru/citroen/c3_picasso/47020196.html,Citroen,C3 Picasso,Екатеринбург,2011,бензин,1.4,95,механика,передний,,белый,111850,,1 поколение,1.4 MT Confort ,0,470000
+9135,https://irkutsk.drom.ru/citroen/c-crosser/46968531.html,Citroen,C-Crosser,Иркутск,2008,бензин,2.4,170,вариатор,4WD,,зеленый,153000,левый,1 поколение,,0,820000
+9136,https://pavlovo.drom.ru/citroen/c4/46943092.html,Citroen,C4,Павлово,2014,бензин,1.6,116,механика,передний,седан,желтый,145000,левый,2 поколение,1.6 MT Dynamique Taxi,0,580000
+9137,https://novosibirsk.drom.ru/citroen/berlingo/46820856.html,Citroen,Berlingo,Новосибирск,2012,дизель,1.6,90,механика,передний,,белый,300000,левый,,,0,500000
+9138,https://sochi.drom.ru/citroen/c3_picasso/46671021.html,Citroen,C3 Picasso,Сочи,2014,бензин,1.6,115,робот,передний,,синий,85500,,"1 поколение, рестайлинг",1.6 AMT Tendance ,0,685000
+9139,https://yalta.drom.ru/citroen/c4_picasso/46432380.html,Citroen,C4 Picasso,Ялта,2012,бензин,1.6,120,автомат,передний,,фиолетовый,140000,левый,,,0,750000
+9140,https://volgograd.drom.ru/citroen/c3/45948366.html,Citroen,C3,Волгоград,2009,бензин,1.4,75,механика,передний,хэтчбек 5 дв.,красный,133300,левый,"1 поколение, рестайлинг",1.4i MT Classique,0,265000
+9141,https://irkutsk.drom.ru/citroen/c4/45293649.html,Citroen,C4,Иркутск,2016,бензин,1.6,116,АКПП,передний,седан,коричневый,195000,левый,"2 поколение, рестайлинг",1.6 AT Feel,0,790000
+9142,https://yalutorovsk.drom.ru/citroen/c5/45175556.html,Citroen,C5,Ялуторовск,2010,бензин,1.7,125,механика,передний,седан,белый,300000,левый,2 поколение,1.8 MT Style,0,500000
+9143,https://biysk.drom.ru/citroen/berlingo/44572413.html,Citroen,Berlingo,Бийск,2011,бензин,1.6,120,механика,передний,,серебристый,13000,левый,2 поколение,,0,675000
+9144,https://odintsovo.drom.ru/citroen/c8/48974299.html,Citroen,C8,Одинцово,2004,дизель,2.0,109,механика,передний,,серый,180000,левый,,,0,335000
+9145,https://voronezh.drom.ru/citroen/c4_picasso/48974031.html,Citroen,C4 Picasso,Воронеж,2018,дизель,1.6,120,робот,передний,,черный,97505,левый,"2 поколение, рестайлинг",,0,1489000
+9147,https://yaroslavl.drom.ru/citroen/c4/48973531.html,Citroen,C4,Ярославль,2013,бензин,1.6,150,АКПП,передний,седан,серый,126500,левый,2 поколение,,1,648000
+9149,https://ekaterinburg.drom.ru/citroen/c4/48915762.html,Citroen,C4,Екатеринбург,2013,бензин,1.6,109,механика,передний,хэтчбек 5 дв.,белый,174000,левый,2 поколение,1.6 MT Dynamique ,0,600000
+9153,https://krasnodar.drom.ru/citroen/c4/48914465.html,,,,,,,,,,,,,,,,0,
+9157,https://nazarovo.drom.ru/citroen/ds5/48521467.html,Citroen,DS5,Назарово,2012,бензин,1.6,150,АКПП,передний,,серый,84560,левый,1 поколение, 1.6 THP AT So Chic,0,877000
+9158,https://belorechensk.drom.ru/citroen/c5/48913658.html,Citroen,C5,Белореченск,2009,бензин,2.0,140,АКПП,передний,седан,золотистый,260000,левый,2 поколение,2.0 AT Exclusive,1,150000
+9159,https://mozhaisk.drom.ru/citroen/c5/48912902.html,Citroen,C5,Можайск,2008,бензин,3.0,215,автомат,передний,седан,синий,159000,левый,,,1,690000
+9160,https://novorossiysk.drom.ru/citroen/c4/47719178.html,Citroen,C4,Новороссийск,2013,бензин,1.6,120,АКПП,передний,седан,белый,143000,левый,2 поколение,,1,575000
+9161,https://glazov.drom.ru/citroen/c5/48911973.html,Citroen,C5,Глазов,2003,бензин,2.0,136,АКПП,передний,лифтбек,серый,244000,левый,1 поколение,2.0 AT Exclusive,0,249000
+9162,https://tver.drom.ru/citroen/c3_picasso/48911590.html,Citroen,C3 Picasso,Тверь,2012,бензин,1.6,115,робот,передний,,бордовый,138000,,1 поколение,,1,550000
+9163,https://barnaul.drom.ru/citroen/c4/48911420.html,Citroen,C4,Барнаул,2010,бензин,1.6,120,АКПП,передний,хэтчбек 5 дв.,черный,171000,левый,"1 поколение, рестайлинг",,0,600000
+9164,https://sevastopol.drom.ru/citroen/c3/48558914.html,Citroen,C3,Севастополь,2004,дизель,1.4,92,механика,передний,хэтчбек 5 дв.,серебристый,325000,левый,,,0,390000
+9165,https://omsk.drom.ru/citroen/c4/48911039.html,Citroen,C4,Омск,2011,бензин,1.6,120,механика,передний,хэтчбек 5 дв.,черный,160000,левый,2 поколение,,0,450000
+9166,https://petrozavodsk.drom.ru/citroen/berlingo/47878531.html,Citroen,Berlingo,Петрозаводск,2012,бензин,1.6,120,механика,передний,,серебристый,169560,левый,2 поколение,,0,699999
+9167,https://nizhniy-novgorod.drom.ru/citroen/c4/47881793.html,Citroen,C4,Нижний Новгород,2008,бензин,1.6,110,АКПП,передний,хэтчбек 5 дв.,красный,146000,левый,1 поколение,1.6i AT Base,1,449000
+9168,https://perm.drom.ru/citroen/c5/48910361.html,Citroen,C5,Пермь,2010,бензин,1.6,150,АКПП,передний,седан,белый,157000,левый,2 поколение,1.6 THP AT Confort ,0,350000
+9169,https://moscow.drom.ru/citroen/c4/46599701.html,Citroen,C4,Москва,2011,бензин,1.6,120,АКПП,передний,хэтчбек 5 дв.,белый,128000,левый,,,0,649900
+9170,https://simferopol.drom.ru/citroen/spacetourer/46586696.html,Citroen,Spacetourer,Симферополь,2018,дизель,2.0,150,АКПП,передний,,белый,230000,левый,1 поколение,2.0 HDi AT Feel Long,0,2500000
+9171,https://moscow.drom.ru/citroen/jumpy/46594142.html,Citroen,Jumpy,Москва,2013,дизель,2.0,120,механика,передний,,белый,234000,левый,,,1,849999
+9172,https://moscow.drom.ru/citroen/c4/46549693.html,Citroen,C4,Москва,2010,бензин,1.6,120,АКПП,передний,хэтчбек 5 дв.,серебристый,81000,левый,"1 поколение, рестайлинг",,0,580000
+9173,https://simferopol.drom.ru/citroen/grand_c4_picasso/45777114.html,Citroen,Grand C4 Picasso,Симферополь,2011,бензин,1.6,155,робот,передний,,фиолетовый,150000,левый,1 поколение,1.6 THP AMT Dynamique ,0,750000
+9174,https://irkutsk.drom.ru/citroen/c4_aircross/48441647.html,Citroen,C4 Aircross,Иркутск,2014,бензин,2.0,150,вариатор,передний,,белый,140000,левый,1 поколение,,1,1028000
+9175,https://ekaterinburg.drom.ru/citroen/c-elysee/48740129.html,Citroen,C-Elysee,Екатеринбург,2013,бензин,1.6,115,механика,передний,,серебристый,140787,левый,1 поколение,1.6 MT Exclusive ,1,365000
+9176,https://spb.drom.ru/citroen/xsara_picasso/48951751.html,Citroen,Xsara Picasso,Санкт-Петербург,2006,бензин,1.6,110,механика,передний,,золотистый,154500,левый,"1 поколение, рестайлинг",1.6i MT SX,0,310000
+9177,https://simferopol.drom.ru/citroen/ds5/48951131.html,Citroen,DS5,Симферополь,2012,дизель,2.0,163,АКПП,передний,,белый,142000,левый,1 поколение,,0,1399999
+9178,https://krasnodar.drom.ru/citroen/ds5/48951057.html,Citroen,DS5,Краснодар,2012,бензин,1.6,150,АКПП,передний,,черный,153000,левый,1 поколение,,0,740000
+9179,https://simferopol.drom.ru/citroen/c4/48950779.html,Citroen,C4,Симферополь,2011,бензин,1.6,120,АКПП,передний,хэтчбек 5 дв.,черный,150000,левый,2 поколение,1.6 AT Exclusive ,1,450000
+9180,https://moscow.drom.ru/citroen/c5/48950634.html,Citroen,C5,Москва,2005,бензин,2.0,140,АКПП,передний,лифтбек,коричневый,305000,левый,"1 поколение, рестайлинг",,0,249900
+9181,https://togliatti.drom.ru/citroen/c5/48950506.html,Citroen,C5,Тольятти,2010,бензин,1.6,150,АКПП,передний,седан,золотистый,189000,левый,2 поколение,1.6 THP AT Confort ,0,510000
+9182,https://penza.drom.ru/citroen/c4_picasso/48950360.html,Citroen,C4 Picasso,Пенза,2008,дизель,1.6,109,,,,белый,260000,левый,,,1,350000
+9183,https://sevastopol.drom.ru/citroen/c5/48950100.html,Citroen,C5,Севастополь,2005,дизель,1.6,109,механика,передний,лифтбек,белый,269000,левый,"1 поколение, рестайлинг",1.6 HDi MT Tendance,0,350000
+9184,https://saky.drom.ru/citroen/c4_picasso/48759394.html,Citroen,C4 Picasso,Саки,2011,бензин,1.6,150,автомат,передний,,коричневый,136000,левый,,,1,680000
+9185,https://bryansk.drom.ru/citroen/berlingo/46764435.html,Citroen,Berlingo,Брянск,2007,бензин,1.4,75,механика,передний,,голубой,106000,левый,"1 поколение, рестайлинг",1.4 MT MSP,0,539000
+9186,https://pskov.drom.ru/citroen/c3_picasso/47030754.html,Citroen,C3 Picasso,Псков,2013,бензин,1.6,115,робот,передний,,бежевый,86500,,"1 поколение, рестайлинг",1.6 AMT Tendance ,0,765000
+9187,https://losino-petrovskiy.drom.ru/citroen/c3_picasso/48947634.html,Citroen,C3 Picasso,Лосино-Петровский,2009,бензин,1.4,95,механика,передний,,золотистый,225000,,1 поколение,,0,350000
+9188,https://novokuznetsk.drom.ru/citroen/c3/47754772.html,Citroen,C3,Новокузнецк,2005,бензин,1.4,75,механика,передний,открытый,бежевый,147000,левый,1 поколение,1.4i MT,0,375000
+9189,https://yevpatoriya.drom.ru/citroen/c-elysee/48937661.html,Citroen,C-Elysee,Евпатория,2013,бензин,1.2,72,механика,передний,,белый,192000,левый,1 поколение,,0,500000
+9190,https://saratov.drom.ru/citroen/ds4/48937580.html,Citroen,DS4,Саратов,2013,бензин,1.6,150,АКПП,передний,,коричневый,133634,левый,1 поколение,,0,650000
+9191,https://yaroslavl.drom.ru/citroen/c-elysee/48937414.html,Citroen,C-Elysee,Ярославль,2014,бензин,1.6,115,АКПП,передний,,серебристый,123293,левый,1 поколение,,0,599000
+9192,https://moscow.drom.ru/citroen/spacetourer/48936955.html,Citroen,Spacetourer,Москва,2021,дизель,2.0,150,АКПП,передний,,черный,59320,левый,1 поколение,2.0 HDi AT Feel XL,0,2943000
+9193,https://simferopol.drom.ru/citroen/c4_picasso/48936823.html,Citroen,C4 Picasso,Симферополь,2012,бензин,1.6,150,автомат,передний,,черный,170000,левый,,,1,700000
+9194,https://krasnoyarsk.drom.ru/citroen/c4/46751952.html,Citroen,C4,Красноярск,2011,бензин,1.6,120,АКПП,передний,хэтчбек 5 дв.,черный,265000,левый,2 поколение,1.6 AT Optimum ,0,500000
+9195,https://salsk.drom.ru/citroen/c3/48934121.html,Citroen,C3,Сальск,2005,бензин,1.4,75,АКПП,передний,хэтчбек 5 дв.,красный,158000,левый,1 поколение,1.4i AT SX,0,399900
+9196,https://ufa.drom.ru/citroen/c3/47530056.html,Citroen,C3,Уфа,2006,бензин,1.4,75,АКПП,передний,хэтчбек 5 дв.,голубой,104000,левый,"1 поколение, рестайлинг",1.4i AT SX,0,280000
+9197,https://moscow.drom.ru/citroen/grand_c4_picasso/48933531.html,Citroen,Grand C4 Picasso,Москва,2018,дизель,1.6,120,механика,передний,,белый,220265,левый,"2 поколение, рестайлинг",1.6 BlueHDi MT,0,1050000
+9198,https://rostov-na-donu.drom.ru/citroen/c3/48932987.html,Citroen,C3,Ростов-на-Дону,2008,бензин,1.4,88,робот,передний,хэтчбек 5 дв.,серый,111000,левый,"1 поколение, рестайлинг",1.4i AMT Confort,0,455000
+9200,https://ekaterinburg.drom.ru/citroen/c4/48931918.html,Citroen,C4,Екатеринбург,2016,бензин,1.6,116,механика,передний,седан,белый,57176,левый,2 поколение,,0,789990
+9201,https://kemerovo.drom.ru/citroen/c3/48556575.html,Citroen,C3,Кемерово,2010,бензин,1.6,120,АКПП,передний,хэтчбек 5 дв.,красный,119000,левый,2 поколение,,0,440000
+9202,https://moscow.drom.ru/citroen/c5/47564104.html,Citroen,C5,Москва,2011,бензин,1.6,150,АКПП,передний,универсал,белый,231316,левый,2 поколение,,0,521000
+9203,https://ekaterinburg.drom.ru/citroen/grand_c4_picasso/48594572.html,Citroen,Grand C4 Picasso,Екатеринбург,2010,бензин,1.6,150,автомат,передний,,золотистый,159800,левый,,,0,590000
+9204,https://moscow.drom.ru/citroen/c3/48536928.html,Citroen,C3,Москва,2005,бензин,1.6,110,робот,передний,хэтчбек 5 дв.,серый,131000,левый,"1 поколение, рестайлинг",1.6i AMT SX,1,180000
+9205,https://velsk.drom.ru/citroen/c4/48593190.html,Citroen,C4,Вельск,2008,бензин,1.6,120,АКПП,передний,хэтчбек 3 дв.,серый,196000,левый,"1 поколение, рестайлинг",,0,330000
+9206,https://velsk.drom.ru/citroen/c4/48592749.html,Citroen,C4,Вельск,2008,бензин,1.6,120,АКПП,передний,хэтчбек 3 дв.,серый,196000,левый,"1 поколение, рестайлинг",,0,290000
+9207,https://moscow.drom.ru/citroen/c4/48929151.html,Citroen,C4,Москва,2013,бензин,1.6,120,АКПП,передний,седан,коричневый,175885,левый,2 поколение,,0,545000
+9208,https://moscow.drom.ru/citroen/berlingo/48590495.html,Citroen,Berlingo,Москва,2013,бензин,1.6,120,механика,передний,,голубой,162000,левый,2 поколение,,0,749900
+9209,https://aleysk.drom.ru/citroen/c4/48925331.html,Citroen,C4,Алейск,2013,бензин,1.6,116,механика,передний,седан,серый,150000,левый,2 поколение,,0,320000
+9210,https://naberezhnye-chelny.drom.ru/citroen/c4_picasso/48925369.html,Citroen,C4 Picasso,Набережные Челны,2008,дизель,1.6,109,механика,передний,,синий,328000,левый,,,0,360000
+9212,https://kolomna.drom.ru/citroen/c4/48924985.html,Citroen,C4,Коломна,2011,бензин,1.6,120,АКПП,передний,хэтчбек 5 дв.,серебристый,160212,левый,,,0,539000
+9213,https://kamensk-shahtinskiy.drom.ru/citroen/c5/48922865.html,Citroen,C5,Каменск-Шахтинский,2010,бензин,1.6,150,механика,передний,седан,черный,178000,левый,2 поколение,1.6 THP MT Dynamique,0,650000
+9214,https://ufa.drom.ru/citroen/c3/48924090.html,Citroen,C3,Уфа,2011,бензин,1.6,120,АКПП,передний,хэтчбек 5 дв.,белый,82000,левый,2 поколение,1.6 AT Exclusive ,1,519000
+9215,https://chelyabinsk.drom.ru/citroen/c4/48923495.html,Citroen,C4,Челябинск,2012,бензин,1.6,120,АКПП,передний,хэтчбек 5 дв.,серый,175000,левый,2 поколение,1.6 AT Collection ,0,670000
+9216,https://krasnodar.drom.ru/citroen/berlingo/48923355.html,Citroen,Berlingo,Краснодар,2012,бензин,1.6,120,механика,передний,,белый,210000,левый,2 поколение,,0,630000
+9217,https://surgut.drom.ru/citroen/c4/48923025.html,Citroen,C4,Сургут,2010,бензин,1.6,120,механика,передний,хэтчбек 5 дв.,серебристый,142000,левый,,,0,260000
+9219,https://simferopol.drom.ru/citroen/c4/48922541.html,,,,,,,,,,,,,,,,0,
+9221,https://tyumen.drom.ru/citroen/c3/47826302.html,,,,,,,,,,,,,,,,0,
+9223,https://moscow.drom.ru/citroen/berlingo/48921817.html,Citroen,Berlingo,Москва,2013,дизель,1.6,92,механика,передний,,белый,163000,левый,,,0,620000
+9224,https://tyumen.drom.ru/citroen/berlingo/48921805.html,Citroen,Berlingo,Тюмень,2012,бензин,1.6,120,механика,передний,,бежевый,236000,левый,2 поколение,,0,589000
+9225,https://ivanteevka.drom.ru/citroen/c4/47293657.html,Citroen,C4,Ивантеевка,2010,бензин,1.6,120,АКПП,передний,хэтчбек 5 дв.,серебристый,187000,левый,"1 поколение, рестайлинг",1.6 VTi AT Tendance,0,360000
+9226,https://krasnoyarsk.drom.ru/citroen/c4/48920830.html,Citroen,C4,Красноярск,2012,бензин,1.6,120,АКПП,передний,хэтчбек 5 дв.,бежевый,86720,левый,2 поколение,1.6 VTi AT Tendance,0,720000
+9227,https://irkutsk.drom.ru/citroen/spacetourer/48920732.html,Citroen,Spacetourer,Иркутск,2018,дизель,2.0,150,АКПП,передний,,черный,123045,левый,1 поколение,2.0 HDi AT Business Lounge Long,0,2500000
+9228,https://nevinnomissk.drom.ru/citroen/c5/48920555.html,Citroen,C5,Невинномысск,2008,бензин,2.0,140,АКПП,передний,седан,синий,165000,левый,2 поколение,2.0 AT Exclusive,0,520000
+9229,https://tver.drom.ru/citroen/c4/48270204.html,Citroen,C4,Тверь,2010,бензин,1.6,110,автомат,передний,хэтчбек 5 дв.,серый,106068,левый,,,0,525000
+9230,https://borisoglebsk.drom.ru/citroen/c4/48269703.html,Citroen,C4,Борисоглебск,2007,бензин,2.0,177,механика,передний,седан,черный,220000,левый,,,0,420000
+9231,https://balashiha.drom.ru/citroen/c4/47922302.html,Citroen,C4,Балашиха,2006,бензин,1.6,110,АКПП,передний,хэтчбек 5 дв.,синий,260000,левый,1 поколение,1.6i AT Base,0,270000
+9232,https://borodino.drom.ru/citroen/c-crosser/47921313.html,Citroen,C-Crosser,Бородино,2008,бензин,2.4,170,вариатор,4WD,,серебристый,250000,левый,1 поколение,2.4 CVT 4WD Confort ,0,900000
+9233,https://vologda.drom.ru/citroen/berlingo/47919512.html,Citroen,Berlingo,Вологда,2012,бензин,1.6,90,механика,передний,,белый,343000,левый,,,0,400000
+9234,https://ekaterinburg.drom.ru/citroen/c4/47917234.html,Citroen,C4,Екатеринбург,2009,бензин,1.6,110,механика,передний,хэтчбек 5 дв.,красный,135000,левый,"1 поколение, рестайлинг",1.6i MT Classique,0,349000
+9235,https://omsk.drom.ru/citroen/c3/47768057.html,Citroen,C3,Омск,2007,бензин,1.4,88,робот,передний,хэтчбек 5 дв.,зеленый,120000,левый,"1 поколение, рестайлинг",1.4i AMT SX,0,275000
+9236,https://spb.drom.ru/citroen/saxo/47593819.html,Citroen,Saxo,Санкт-Петербург,1999,бензин,1.4,75,АКПП,передний,хэтчбек 5 дв.,серый,177000,левый,"1 поколение, рестайлинг",1.4 AT SX,0,144990
+9237,https://rostov-na-donu.drom.ru/citroen/c4/47591077.html,Citroen,C4,Ростов-на-Дону,2016,дизель,1.6,114,механика,передний,седан,синий,35928,левый,"2 поколение, рестайлинг",,0,1125000
+9238,https://chelyabinsk.drom.ru/citroen/c5/47588423.html,Citroen,C5,Челябинск,2009,бензин,1.7,127,механика,передний,седан,золотистый,315000,левый,2 поколение,1.8 MT Confort ,0,570000
+9239,https://omsk.drom.ru/citroen/grand_c4_picasso/47432293.html,Citroen,Grand C4 Picasso,Омск,2008,дизель,2.0,136,автомат,передний,,черный,277000,левый,,,1,650000
+9240,https://moscow.drom.ru/citroen/ds4/47258267.html,Citroen,DS4,Москва,2012,бензин,1.6,120,механика,передний,,белый,104000,левый,1 поколение,1.6 VTi MT Chic ,0,725000
+9241,https://yurga.drom.ru/citroen/c4/47257136.html,Citroen,C4,Юрга,2011,бензин,1.6,120,АКПП,передний,хэтчбек 5 дв.,черный,183500,левый,2 поколение,1.6 AT Tendance ,0,535000
+9243,https://zernograd.drom.ru/citroen/c5/47251479.html,Citroen,C5,Зерноград,2010,бензин,1.6,150,механика,передний,седан,серый,198000,левый,2 поколение,,1,400000
+9244,https://dmitrov.drom.ru/citroen/ds5/47212891.html,Citroen,DS5,Дмитров,2012,дизель,2.0,163,АКПП,передний,,белый,210000,левый,1 поколение,,0,1150000
+9245,https://tver.drom.ru/citroen/berlingo/47207202.html,Citroen,Berlingo,Тверь,2010,бензин,1.6,90,механика,передний,,белый,185000,левый,2 поколение,,0,450000
+9246,https://krasnodar.drom.ru/citroen/jumpy/47202815.html,Citroen,Jumpy,Краснодар,2014,дизель,1.6,90,механика,передний,,белый,254000,левый,"2 поколение, рестайлинг",1.6 HDI MT Dynamique L2H1 ,0,1160000
+9247,https://izhevsk.drom.ru/citroen/c4/47190758.html,Citroen,C4,Ижевск,2012,бензин,1.6,109,механика,передний,хэтчбек 5 дв.,серебристый,162642,левый,2 поколение,,0,420000
+9248,https://ekaterinburg.drom.ru/citroen/c3/46910721.html,Citroen,C3,Екатеринбург,2004,бензин,1.4,75,механика,передний,хэтчбек 5 дв.,зеленый,200000,левый,1 поколение,1.4i MT SX,0,200000
+9249,https://yalutorovsk.drom.ru/citroen/c4/47593563.html,Citroen,C4,Ялуторовск,2016,бензин,1.6,116,механика,передний,седан,серебристый,57000,левый,"2 поколение, рестайлинг",1.6 MT Feel,0,880000
+9250,https://spb.drom.ru/citroen/berlingo/47232844.html,Citroen,Berlingo,Санкт-Петербург,2011,бензин,1.6,90,механика,передний,,зеленый,190000,левый,2 поколение,,0,240000
+9251,https://krasnodar.drom.ru/citroen/berlingo/47224432.html,Citroen,Berlingo,Краснодар,2007,бензин,1.4,75,механика,передний,,белый,200000,левый,"1 поколение, рестайлинг",1.4 MT MSP,0,330000
+9252,https://ulyanovsk.drom.ru/citroen/c5/46877018.html,Citroen,C5,Ульяновск,2012,дизель,2.0,138,АКПП,передний,седан,серый,223380,левый,2 поколение,2.0 Hdi AT Exclusive ,0,990000
+9253,https://segezha.drom.ru/citroen/berlingo/46845630.html,Citroen,Berlingo,Сегежа,2010,бензин,1.4,75,механика,передний,,белый,270000,левый,"1 поколение, рестайлинг",1.4 MT MSP,0,370000
+9254,https://shahty.drom.ru/citroen/c4/46799598.html,Citroen,C4,Шахты,2008,бензин,1.6,120,механика,передний,хэтчбек 3 дв.,серебристый,236139,левый,"1 поколение, рестайлинг",,0,265000
+9255,https://kolomna.drom.ru/citroen/c4/46578669.html,Citroen,C4,Коломна,2011,бензин,1.6,120,АКПП,передний,хэтчбек 5 дв.,серый,164176,левый,,,0,329000
+9256,https://magistralniy.drom.ru/citroen/c4/46571815.html,Citroen,C4,Магистральный,2012,бензин,1.6,109,механика,передний,хэтчбек 5 дв.,белый,119150,левый,2 поколение,1.6 MT Tendance ,1,500000
+9257,https://irkutsk.drom.ru/citroen/c4/45240939.html,Citroen,C4,Иркутск,2014,бензин,1.6,120,АКПП,передний,седан,синий,170000,левый,2 поколение,1.6 AT Dynamique,1,600000
+9258,https://nefteyugansk.drom.ru/citroen/c4/42110185.html,Citroen,C4,Нефтеюганск,2013,бензин,1.6,150,АКПП,передний,седан,белый,185000,левый,2 поколение,1.6 THP AT Exclusive +,0,555000
+9259,https://bratsk.drom.ru/citroen/c4/39964159.html,Citroen,C4,Братск,2013,бензин,1.6,150,АКПП,передний,седан,черный,143600,левый,2 поколение,1.6 THP AT Exclusive,0,730000
+9260,https://spb.drom.ru/citroen/c4/48928647.html,Citroen,C4,Санкт-Петербург,2012,бензин,1.6,120,механика,передний,хэтчбек 5 дв.,черный,121000,левый,2 поколение,,0,459000
+9261,https://temryuk.drom.ru/citroen/c4/48928296.html,Citroen,C4,Темрюк,2012,бензин,1.6,120,АКПП,передний,хэтчбек 5 дв.,синий,83000,левый,2 поколение,,0,620000
+9262,https://kaskara.drom.ru/citroen/c3/48927467.html,Citroen,C3,Каскара,2005,бензин,1.4,75,АКПП,передний,хэтчбек 5 дв.,бордовый,181500,левый,1 поколение,1.4i AT SX,0,250000
+9263,https://orenburg.drom.ru/citroen/c3_picasso/46765233.html,Citroen,C3 Picasso,Оренбург,2013,бензин,1.4,95,механика,передний,,красный,122000,,"1 поколение, рестайлинг",,1,665000
+9264,https://omsk.drom.ru/citroen/c3/48926934.html,Citroen,C3,Омск,2003,бензин,1.4,75,АКПП,передний,хэтчбек 5 дв.,желтый,80000,левый,1 поколение,1.4i AT SX,0,215000
+9265,https://moscow.drom.ru/citroen/c4/48926683.html,Citroen,C4,Москва,2011,бензин,1.6,120,АКПП,передний,хэтчбек 5 дв.,серебристый,178000,левый,2 поколение,,0,598000
+9266,https://cherkessk.drom.ru/citroen/c5/48926438.html,Citroen,C5,Черкесск,2007,бензин,2.0,143,механика,передний,лифтбек,серый,270000,левый,"1 поколение, рестайлинг",2.0 MT,0,340000
+9267,https://moscow.drom.ru/citroen/c5/48906021.html,Citroen,C5,Москва,2003,бензин,1.7,116,механика,передний,лифтбек,серебристый,208593,левый,1 поколение,1.8 MT SX,0,165000
+9268,https://chelyabinsk.drom.ru/citroen/c4/48925818.html,Citroen,C4,Челябинск,2008,бензин,1.6,109,механика,передний,хэтчбек 3 дв.,серый,240349,левый,1 поколение,,1,298000
+9269,https://moscow.drom.ru/citroen/c4/46595134.html,Citroen,C4,Москва,2022,бензин,1.6,116,АКПП,передний,седан,синий,,левый,"2 поколение, рестайлинг",1.6 AT Shine,0,2516000
+9270,https://tula.drom.ru/citroen/jumpy/47919110.html,Citroen,Jumpy,Тула,2020,дизель,2.0,150,механика,передний,,серый,53828,левый,3 поколение,,0,2279000
+9271,https://spb.drom.ru/citroen/c5/48952491.html,Citroen,C5,Санкт-Петербург,2012,бензин,1.6,150,АКПП,передний,седан,серый,171000,левый,2 поколение,,0,569000
+9272,https://troitsk-moscow.drom.ru/citroen/c4/48952423.html,Citroen,C4,Троицк,2008,бензин,1.6,120,АКПП,передний,хэтчбек 5 дв.,серый,176000,левый,"1 поколение, рестайлинг",1.6i AT Confort,0,240000
+9273,https://moscow.drom.ru/citroen/spacetourer/47914980.html,Citroen,Spacetourer,Москва,2021,дизель,2.0,150,АКПП,передний,,черный,65032,левый,1 поколение,,0,3474000
+9274,https://moscow.drom.ru/citroen/c4/48952186.html,Citroen,C4,Москва,2013,бензин,1.6,150,АКПП,передний,седан,белый,127000,левый,2 поколение,,0,559000
+9275,https://moscow.drom.ru/citroen/c4/48952100.html,Citroen,C4,Москва,2012,бензин,1.6,120,АКПП,передний,хэтчбек 5 дв.,красный,32000,левый,2 поколение,,0,750000
+9276,https://velikiy-novgorod.drom.ru/citroen/c4/48616214.html,Citroen,C4,Великий Новгород,2009,бензин,1.6,120,АКПП,передний,хэтчбек 5 дв.,красный,157000,левый,"1 поколение, рестайлинг",1.6i AT Confort,0,330000
+9277,https://omsk.drom.ru/citroen/spacetourer/48614529.html,Citroen,Spacetourer,Омск,2022,дизель,2.0,150,АКПП,передний,,белый,49000,левый,1 поколение,2.0 HDi AT Feel XL,1,3500000
+9278,https://tomsk.drom.ru/citroen/c4_picasso/48614505.html,Citroen,C4 Picasso,Томск,2014,дизель,1.6,115,робот,передний,,белый,91700,левый,2 поколение,1.6 e-HDI AMT 2WD Tendance,0,1499000
+9279,https://novopokrovskaya.drom.ru/citroen/c3_picasso/48613878.html,Citroen,C3 Picasso,Новопокровская,2012,бензин,1.6,115,робот,передний,,золотистый,232191,,1 поколение,,0,460000
+9280,https://irkutsk.drom.ru/citroen/c4/48612046.html,Citroen,C4,Иркутск,2006,бензин,1.6,109,АКПП,передний,хэтчбек 3 дв.,синий,192000,левый,1 поколение,1.6 AT VTR Plus,0,240000
+9282,https://kaliningrad.drom.ru/citroen/ds4/48609844.html,Citroen,DS4,Калининград,2012,бензин,1.6,150,АКПП,передний,,коричневый,148000,левый,1 поколение,1.6 THP AT Sport Chic ,0,795000
+9283,https://ekaterinburg.drom.ru/citroen/c4/48609620.html,Citroen,C4,Екатеринбург,2022,бензин,1.6,116,АКПП,передний,седан,серый,,левый,"2 поколение, рестайлинг",1.6 AT Feel Edition,0,1799200
+9284,https://krasnodar.drom.ru/citroen/c4/48609537.html,Citroen,C4,Краснодар,2010,бензин,1.6,120,АКПП,передний,хэтчбек 5 дв.,серый,165000,левый,"1 поколение, рестайлинг",1.6i AT Confort,1,390000
+9285,https://barnaul.drom.ru/citroen/c4_picasso/48608420.html,Citroen,C4 Picasso,Барнаул,2015,бензин,1.6,150,АКПП,передний,,серебристый,116000,левый,2 поколение,1.6 THP AT 2WD Tendance,1,1580000
+9286,https://spb.drom.ru/citroen/c3/48607130.html,Citroen,C3,Санкт-Петербург,2005,бензин,1.4,75,АКПП,передний,хэтчбек 5 дв.,синий,221756,левый,1 поколение,,0,220000
+9287,https://nizhniy-novgorod.drom.ru/citroen/c4/48271093.html,Citroen,C4,Нижний Новгород,2015,бензин,1.6,,автомат,передний,седан,серый,81848,,,,0,860000
+9288,https://orenburg.drom.ru/citroen/c4/48270749.html,Citroen,C4,Оренбург,2014,бензин,1.6,120,АКПП,передний,седан,синий,124585,левый,2 поколение,1.6 AT Lounge,0,650000
+9289,https://krasnoyarsk.drom.ru/citroen/c4/48589340.html,Citroen,C4,Красноярск,2012,бензин,1.6,120,АКПП,передний,хэтчбек 5 дв.,,200000,левый,2 поколение,,1,360000
+9290,https://penza.drom.ru/citroen/c4/48589265.html,Citroen,C4,Пенза,2013,бензин,1.6,116,механика,передний,седан,белый,245085,левый,2 поколение,,0,485000
+9291,https://simferopol.drom.ru/citroen/c4/48589239.html,Citroen,C4,Симферополь,2013,бензин,1.6,150,АКПП,передний,седан,белый,180000,левый,2 поколение,1.6 THP AT Exclusive,0,650000
+9292,https://tver.drom.ru/citroen/berlingo/48585069.html,Citroen,Berlingo,Тверь,2021,бензин,1.6,115,АКПП,передний,,серый,35000,левый,"2 поколение, рестайлинг",1.6 VTi AT Multispace,0,2322000
+9293,https://tver.drom.ru/citroen/spacetourer/48585072.html,Citroen,Spacetourer,Тверь,2021,дизель,2.0,150,АКПП,передний,,серый,23833,левый,1 поколение,,0,4054000
+9294,https://spb.drom.ru/citroen/c4/48584486.html,Citroen,C4,Санкт-Петербург,2019,бензин,1.6,150,АКПП,передний,седан,белый,109052,левый,"2 поколение, рестайлинг",,0,989789
+9295,https://yalutorovsk.drom.ru/citroen/berlingo/48516930.html,Citroen,Berlingo,Ялуторовск,2010,бензин,1.6,90,механика,передний,,серый,120000,левый,2 поколение,,1,560000
+9296,https://kansk.drom.ru/citroen/c5/48247499.html,Citroen,C5,Канск,2002,бензин,2.0,140,механика,передний,лифтбек,черный,200000,левый,1 поколение,2.0 HPi MT Exclusive,0,200000
+9297,https://moscow.drom.ru/citroen/c4_picasso/48247527.html,Citroen,C4 Picasso,Москва,2017,дизель,1.6,120,робот,передний,,черный,62575,левый,"2 поколение, рестайлинг",,0,1599000
+9298,https://samara.drom.ru/citroen/c4_aircross/48247087.html,Citroen,C4 Aircross,Самара,2012,бензин,1.6,117,механика,передний,,,92000,левый,1 поколение,1.6 MT 2WD Dynamique ,0,850000
+9299,https://krasnodar.drom.ru/citroen/c3/48246407.html,Citroen,C3,Краснодар,2004,бензин,1.4,75,АКПП,передний,хэтчбек 5 дв.,серый,80000,левый,1 поколение,1.4i AT SX,0,260000
+9300,https://samara.drom.ru/citroen/c-elysee/48241229.html,Citroen,C-Elysee,Самара,2013,бензин,1.6,115,механика,передний,,серый,104900,левый,1 поколение,,0,520000
+9301,https://krasnaya-yaruga.drom.ru/citroen/c4/48240493.html,Citroen,C4,Красная Яруга,2012,бензин,1.6,109,механика,передний,хэтчбек 5 дв.,коричневый,164000,левый,2 поколение,,0,730000
+9303,https://moscow.drom.ru/citroen/ds5/48234048.html,Citroen,DS5,Москва,2012,бензин,1.6,150,АКПП,передний,,серый,206068,левый,1 поколение,,0,677000
+9304,https://spb.drom.ru/citroen/c5/48233358.html,Citroen,C5,Санкт-Петербург,2014,бензин,1.6,150,АКПП,передний,универсал,белый,139649,левый,2 поколение,,0,778000
+9305,https://sevastopol.drom.ru/citroen/ds5/47903244.html,Citroen,DS5,Севастополь,2012,бензин,1.6,150,АКПП,передний,,белый,130000,левый,1 поколение,,0,1250000
+9306,https://orsk.drom.ru/citroen/c4/47903079.html,Citroen,C4,Орск,2012,бензин,1.6,120,АКПП,передний,хэтчбек 5 дв.,серебристый,130000,левый,2 поколение,1.6 AT Exclusive ,1,490000
+9307,https://simferopol.drom.ru/citroen/c3_picasso/47896261.html,Citroen,C3 Picasso,Симферополь,2010,бензин,1.6,115,механика,передний,,серый,220000,,1 поколение,1.6 MT Exclusive ,0,460000
+9309,https://spb.drom.ru/citroen/c5_aircross/46146984.html,Citroen,C5 Aircross,Санкт-Петербург,2022,бензин,1.6,150,АКПП,передний,,серый,,левый,1 поколение,,0,4150000
+9310,https://spb.drom.ru/citroen/c4/45815837.html,Citroen,C4,Санкт-Петербург,2022,бензин,1.6,115,автомат,передний,седан,черный,,левый,,,0,2290000
+9311,https://spb.drom.ru/citroen/c4/45815840.html,Citroen,C4,Санкт-Петербург,2022,бензин,1.6,115,автомат,передний,седан,синий,,левый,,,0,2290000
+9312,https://spb.drom.ru/citroen/c3_aircross/44977382.html,Citroen,C3 Aircross,Санкт-Петербург,2021,бензин,1.2,110,АКПП,передний,,серый,,левый,1 поколение,,0,2860000
+9313,https://sayanogorsk.drom.ru/citroen/c4_aircross/44403032.html,Citroen,C4 Aircross,Саяногорск,2013,бензин,2.0,150,вариатор,4WD,,серый,156000,левый,1 поколение,2.0 CVT 4WD Exclusive ,0,990000
+9314,https://sochi.drom.ru/citroen/c5/48940556.html,Citroen,C5,Сочи,2007,бензин,2.0,140,АКПП,передний,лифтбек,,188000,левый,"1 поколение, рестайлинг",2.0 AT Exclusive,1,320000
+9315,https://novoshahtinsk.drom.ru/citroen/c-crosser/48940205.html,Citroen,C-Crosser,Новошахтинск,2008,бензин,2.4,170,вариатор,4WD,,зеленый,199041,левый,1 поколение,2.4 CVT 4WD Exclusive ,1,880000
+9316,https://chelyabinsk.drom.ru/citroen/c-crosser/48939788.html,Citroen,C-Crosser,Челябинск,2010,бензин,2.4,170,вариатор,4WD,,,239000,левый,1 поколение,,0,850000
+9317,https://segezha.drom.ru/citroen/berlingo/48939737.html,Citroen,Berlingo,Сегежа,2011,бензин,1.6,90,механика,передний,,бежевый,90000,левый,2 поколение,,1,700000
+9318,https://sochi.drom.ru/citroen/c4/48939615.html,Citroen,C4,Сочи,2010,бензин,1.6,120,АКПП,передний,хэтчбек 5 дв.,серебристый,148,левый,"1 поколение, рестайлинг",1.6i AT Exclusive,0,450000
+9319,https://tyumen.drom.ru/citroen/c5/46841970.html,Citroen,C5,Тюмень,2010,бензин,1.6,150,механика,передний,седан,серый,203000,левый,2 поколение,1.6 THP MT Dynamique,0,430000
+9320,https://krasnoyarsk.drom.ru/citroen/c4/47789651.html,Citroen,C4,Красноярск,2013,бензин,1.6,120,АКПП,передний,седан,синий,160000,левый,2 поколение,1.6 AT Exclusive,0,450000
+9321,https://krasnodar.drom.ru/citroen/c5/48938893.html,Citroen,C5,Краснодар,2009,бензин,2.0,143,АКПП,передний,седан,золотистый,197000,левый,2 поколение,,1,550000
+9322,https://nizhniy-novgorod.drom.ru/citroen/c4/48938857.html,Citroen,C4,Нижний Новгород,2014,бензин,1.6,116,механика,передний,седан,золотистый,226000,левый,2 поколение,,0,390000
+9323,https://simferopol.drom.ru/citroen/berlingo/48938855.html,Citroen,Berlingo,Симферополь,2011,бензин,1.4,75,механика,передний,,серебристый,420000,левый,"1 поколение, рестайлинг",1.4 MT MSP,1,375000
+9324,https://orenburg.drom.ru/citroen/c4/48593750.html,Citroen,C4,Оренбург,2006,бензин,1.6,110,механика,передний,хэтчбек 5 дв.,серебристый,,левый,1 поколение,1.6i MT Base,0,280000
+9325,https://sevastopol.drom.ru/citroen/c4/48938610.html,Citroen,C4,Севастополь,2013,дизель,1.6,112,автомат,передний,хэтчбек 5 дв.,серый,107000,левый,,,1,850000
+9326,https://kirov.drom.ru/citroen/berlingo/48938603.html,Citroen,Berlingo,Киров,2006,бензин,1.4,75,механика,передний,,серебристый,,левый,"1 поколение, рестайлинг",1.4 MT MSP,0,292000
+9327,https://samara.drom.ru/citroen/c1/48938480.html,Citroen,C1,Самара,2010,бензин,1.0,68,робот,передний,хэтчбек 5 дв.,синий,89035,левый,"1 поколение, рестайлинг",1.0i SAT Tendance 5dr,0,410378
+9328,https://yalta.drom.ru/citroen/c1/48938138.html,Citroen,C1,Ялта,2014,бензин,1.0,68,робот,передний,хэтчбек 5 дв.,голубой,112500,левый,"1 поколение, 2 рестайлинг",1.0 AMT Tendance 5dr,1,500000
+9329,https://moscow.drom.ru/citroen/grand_c4_picasso/48603978.html,Citroen,Grand C4 Picasso,Москва,2017,бензин,1.6,150,АКПП,передний,,черный,186200,левый,"2 поколение, рестайлинг",1.6 THP AT 2WD Shine,0,1650000
+9330,https://chelyabinsk.drom.ru/citroen/jumpy/48602960.html,Citroen,Jumpy,Челябинск,2014,дизель,1.6,90,механика,передний,,белый,191600,левый,"2 поколение, рестайлинг",1.6 HDI MT Dynamique L2H1 ,1,790000
+9331,https://moscow.drom.ru/citroen/c5/48597141.html,Citroen,C5,Москва,2010,бензин,1.6,150,АКПП,передний,седан,синий,215000,левый,2 поколение,1.6 THP AT Exclusive ,1,555000
+9332,https://kirovgrad.drom.ru/citroen/c4/48259605.html,Citroen,C4,Кировград,2010,бензин,1.6,120,механика,передний,хэтчбек 5 дв.,серый,200000,левый,"1 поколение, рестайлинг",,0,380000
+9334,https://moscow.drom.ru/citroen/c5/48252886.html,Citroen,C5,Москва,2010,дизель,2.0,138,АКПП,передний,седан,черный,95463,левый,2 поколение,2.0 Hdi AT Confort ,1,657000
+9335,https://azovskoe.drom.ru/citroen/c5/48251763.html,Citroen,C5,Азовское,2011,бензин,1.6,150,АКПП,передний,седан,белый,130000,левый,2 поколение,1.6 THP AT Confort ,1,580000
+9336,https://zavodoukovsk.drom.ru/citroen/c5/47914279.html,Citroen,C5,Заводоуковск,2010,бензин,1.6,150,механика,передний,седан,серебристый,124000,левый,2 поколение,1.6 THP MT Confort ,0,580000
+9337,https://zelenogorsk-krasnoyarsk.drom.ru/citroen/c4/47912340.html,Citroen,C4,Зеленогорск,2012,бензин,1.6,120,АКПП,передний,хэтчбек 5 дв.,красный,91000,левый,2 поколение,1.6 VTi AT Tendance,0,600000
+9338,https://petrovsk-zabaykalskiy.drom.ru/citroen/c5/47911237.html,Citroen,C5,Петровск-Забайкальский,2010,бензин,1.6,150,АКПП,передний,седан,черный,149000,левый,2 поколение,1.6 THP AT Exclusive ,0,649000
+9339,https://nizhneudinsk.drom.ru/citroen/c3_picasso/47908676.html,Citroen,C3 Picasso,Нижнеудинск,2013,бензин,1.6,115,робот,передний,,серый,84300,,"1 поколение, рестайлинг",1.6 AMT Tendance ,1,625000
+9340,https://irkutsk.drom.ru/citroen/c4/47547132.html,Citroen,C4,Иркутск,2008,бензин,1.6,109,АКПП,передний,хэтчбек 5 дв.,красный,178000,левый,1 поколение,1.6 AT Confort,0,295000
+9341,https://temryuk.drom.ru/citroen/c5/47526252.html,Citroen,C5,Темрюк,2011,бензин,1.6,120,робот,передний,седан,белый,253000,левый,2 поколение,1.6 AMT Confort ,0,485000
+9342,https://novosibirsk.drom.ru/citroen/ds5/46934967.html,Citroen,DS5,Новосибирск,2012,бензин,1.6,150,АКПП,передний,,серый,100000,левый,1 поколение,,0,950000
+9343,https://barnaul.drom.ru/citroen/c3_picasso/46873322.html,Citroen,C3 Picasso,Барнаул,2012,бензин,1.6,115,робот,передний,,черный,259,,1 поколение,1.6 AMT Confort ,0,610000
+9344,https://moscow.drom.ru/citroen/c3_picasso/46875838.html,Citroen,C3 Picasso,Москва,2011,бензин,1.4,95,механика,передний,,черный,40000,,1 поколение,1.4 MT Classique,0,690000
+9345,https://moscow.drom.ru/citroen/berlingo/46540983.html,Citroen,Berlingo,Москва,2022,дизель,1.6,90,механика,передний,,серебристый,,левый,"2 поколение, рестайлинг",1.6 HDi MT Multispace,0,2500000
+9346,https://moscow.drom.ru/citroen/c4/46528449.html,Citroen,C4,Москва,2022,бензин,1.6,116,АКПП,передний,седан,серебристый,,левый,"2 поколение, рестайлинг",1.6 AT Shine,0,2355000
+9348,https://moscow.drom.ru/citroen/berlingo/46518211.html,Citroen,Berlingo,Москва,2022,дизель,1.6,90,механика,передний,,белый,,левый,"2 поколение, рестайлинг",1.6 HDi MT Multispace,0,2450000
+9349,https://barnaul.drom.ru/citroen/berlingo/48947192.html,Citroen,Berlingo,Барнаул,2011,бензин,1.6,90,механика,передний,,белый,161000,левый,2 поколение,,0,530000
+9350,https://kaluga.drom.ru/citroen/c4/48946321.html,Citroen,C4,Калуга,2011,бензин,1.6,120,механика,передний,хэтчбек 5 дв.,черный,101000,левый,2 поколение,,0,475000
+9351,https://moscow.drom.ru/citroen/c4/48946274.html,Citroen,C4,Москва,2011,бензин,1.6,120,АКПП,передний,хэтчбек 5 дв.,красный,75600,левый,2 поколение,,1,560000
+9352,https://moscow.drom.ru/citroen/c4/48945714.html,Citroen,C4,Москва,2010,бензин,1.6,110,механика,передний,хэтчбек 5 дв.,бордовый,76000,левый,"1 поколение, рестайлинг",1.6i MT Classique,0,465000
+9353,https://elektrostal.drom.ru/citroen/spacetourer/48945641.html,Citroen,Spacetourer,Электросталь,2021,дизель,2.0,150,АКПП,передний,,серый,49600,левый,1 поколение,2.0 HDi AT Feel M,1,2999999
+9354,https://biysk.drom.ru/citroen/c4/48944848.html,Citroen,C4,Бийск,2013,бензин,1.6,150,АКПП,передний,седан,белый,135000,левый,2 поколение,1.6 THP AT Exclusive +,0,500000
+9355,https://zlatoust.drom.ru/citroen/c4/48945157.html,Citroen,C4,Златоуст,2009,бензин,1.6,120,АКПП,передний,хэтчбек 5 дв.,,,левый,"1 поколение, рестайлинг",,1,388000
+9356,https://moscow.drom.ru/citroen/c6/48944469.html,Citroen,C6,Москва,2007,бензин,2.9,215,автомат,передний,,коричневый,204427,левый,,,1,475000
+9357,https://moscow.drom.ru/citroen/c-crosser/48597879.html,Citroen,C-Crosser,Москва,2011,бензин,2.4,170,вариатор,4WD,,серебристый,182456,левый,1 поколение,,0,952000
+9358,https://kemerovo.drom.ru/citroen/c4/46662031.html,Citroen,C4,Кемерово,2010,бензин,1.6,120,механика,передний,хэтчбек 5 дв.,красный,120233,левый,"1 поколение, рестайлинг",,1,345000
+9359,https://tyumen.drom.ru/citroen/c4/48943914.html,Citroen,C4,Тюмень,2011,бензин,1.6,120,АКПП,передний,хэтчбек 5 дв.,синий,182632,левый,,,0,419000
+9360,https://perm.drom.ru/citroen/c4/48245679.html,Citroen,C4,Пермь,2012,бензин,1.6,120,механика,передний,хэтчбек 5 дв.,коричневый,197000,левый,2 поколение,1.6 MT Collection ,0,475000
+9361,https://biysk.drom.ru/citroen/c4/47514142.html,Citroen,C4,Бийск,2013,бензин,1.6,120,АКПП,передний,седан,серый,165350,левый,2 поколение,,0,580000
+9362,https://tyumen.drom.ru/citroen/c4/46493957.html,Citroen,C4,Тюмень,2009,бензин,1.6,109,механика,передний,хэтчбек 5 дв.,серебристый,218979,левый,,,0,370000
+9363,https://prokopyevsk.drom.ru/citroen/c4/48566705.html,Citroen,C4,Прокопьевск,2012,бензин,1.6,120,механика,передний,хэтчбек 5 дв.,черный,240000,левый,2 поколение,1.6 MT Optimum ,0,430000
+9364,https://spb.drom.ru/citroen/c4_picasso/47580822.html,Citroen,C4 Picasso,Санкт-Петербург,2008,бензин,2.0,140,автомат,передний,,серый,329000,левый,,,0,470000
+9365,https://volchiha.drom.ru/citroen/xsara_picasso/47684704.html,Citroen,Xsara Picasso,Волчиха,2000,бензин,1.8,115,механика,передний,,голубой,360000,левый,,,0,170000
+9366,https://ekaterinburg.drom.ru/citroen/c4/47241813.html,Citroen,C4,Екатеринбург,2011,бензин,1.6,120,механика,передний,хэтчбек 5 дв.,белый,127267,левый,,,0,475000
+9367,https://novorossiysk.drom.ru/citroen/c4/48605247.html,Citroen,C4,Новороссийск,2009,бензин,1.6,110,механика,передний,хэтчбек 5 дв.,белый,63000,левый,"1 поколение, рестайлинг",1.6i MT Classique,0,350000
+9368,https://spb.drom.ru/citroen/c4/48604954.html,Citroen,C4,Санкт-Петербург,2005,бензин,1.6,109,механика,передний,хэтчбек 3 дв.,черный,208750,левый,1 поколение,,1,205000
+9369,https://moscow.drom.ru/citroen/c4/48226119.html,Citroen,C4,Москва,2016,бензин,1.6,150,АКПП,передний,седан,серый,115000,левый,2 поколение,1.6 THP AT Exclusive +,0,899000
+9370,https://volgograd.drom.ru/citroen/c4/48222856.html,Citroen,C4,Волгоград,2012,бензин,2.0,,автомат,передний,седан,белый,169001,левый,,,0,890000
+9371,https://chelyabinsk.drom.ru/citroen/c4_aircross/47889957.html,Citroen,C4 Aircross,Челябинск,2012,бензин,2.0,150,механика,передний,,белый,102000,левый,1 поколение,2.0 MT 2WD Dynamique ,1,925000
+9372,https://simferopol.drom.ru/citroen/c4/47563082.html,Citroen,C4,Симферополь,2014,бензин,1.6,150,АКПП,передний,седан,белый,136817,левый,2 поколение,1.6 THP AT Exclusive,0,900000
+9373,https://nizhnevartovsk.drom.ru/citroen/jumpy/47562988.html,Citroen,Jumpy,Нижневартовск,2014,дизель,2.0,120,механика,передний,,черный,90000,левый,"2 поколение, рестайлинг",,0,1590000
+9374,https://spb.drom.ru/citroen/c-elysee/47559290.html,Citroen,C-Elysee,Санкт-Петербург,2013,бензин,1.6,115,механика,передний,,голубой,189035,левый,1 поколение,1.6 MT Exclusive ,0,380000
+9375,https://bezhetsk.drom.ru/citroen/c4/47268892.html,Citroen,C4,Бежецк,2006,бензин,1.6,110,механика,передний,хэтчбек 3 дв.,черный,217000,левый,1 поколение,1.6i MT Base,0,350000
+9376,https://angarsk.drom.ru/citroen/c-crosser/47223427.html,Citroen,C-Crosser,Ангарск,2011,бензин,2.4,170,вариатор,4WD,,серый,134000,левый,1 поколение,2.4 CVT 4WD Exclusive ,1,1100000
+9377,https://kungur.drom.ru/citroen/c3/47222298.html,Citroen,C3,Кунгур,2007,бензин,1.1,61,механика,передний,хэтчбек 5 дв.,бордовый,218000,левый,"1 поколение, рестайлинг",1.1i MT X,0,240000
+9378,https://omsk.drom.ru/citroen/c4_picasso/47219267.html,Citroen,C4 Picasso,Омск,2011,бензин,1.5,150,автомат,передний,,коричневый,156000,левый,,,0,720000
+9379,https://tyumen.drom.ru/citroen/c4/44528204.html,Citroen,C4,Тюмень,2013,бензин,1.6,150,АКПП,передний,седан,коричневый,87000,левый,2 поколение,1.6 THP AT Exclusive,1,750000
+9380,https://novosibirsk.drom.ru/citroen/grand_c4_picasso/39863027.html,Citroen,Grand C4 Picasso,Новосибирск,2009,дизель,1.6,109,автомат,передний,,серебристый,230000,левый,,,0,600000
+9381,https://barnaul.drom.ru/citroen/c5/37795630.html,Citroen,C5,Барнаул,2007,бензин,1.8,125,механика,передний,седан,бежевый,104000,левый,,,1,270000
+9382,https://nizhnevartovsk.drom.ru/citroen/c4/48817413.html,Citroen,C4,Нижневартовск,2006,бензин,1.6,110,АКПП,передний,хэтчбек 3 дв.,черный,300000,левый,1 поколение,1.6i AT Base,1,310000
+9383,https://spb.drom.ru/citroen/c3/48917410.html,Citroen,C3,Санкт-Петербург,2003,бензин,1.1,61,механика,передний,хэтчбек 5 дв.,синий,292000,левый,1 поколение,1.1i MT X,1,127000
+9384,https://shahty.drom.ru/citroen/c4/48917012.html,Citroen,C4,Шахты,2010,бензин,1.6,120,механика,передний,хэтчбек 5 дв.,красный,,левый,"1 поколение, рестайлинг",,0,435000
+9385,https://surgut.drom.ru/citroen/c4/48916926.html,Citroen,C4,Сургут,2012,бензин,1.6,109,механика,передний,хэтчбек 5 дв.,черный,153520,левый,2 поколение,,1,560000
+9386,https://spb.drom.ru/citroen/xsara_picasso/48916899.html,Citroen,Xsara Picasso,Санкт-Петербург,2001,бензин,1.7,116,механика,передний,,зеленый,238364,левый,,,0,219900
+9387,https://kropotkin.drom.ru/citroen/berlingo/48120424.html,Citroen,Berlingo,Кропоткин,2008,бензин,1.9,69,механика,передний,,белый,180000,левый,,,1,359000
+9388,https://novosibirsk.drom.ru/citroen/jumpy/48916040.html,Citroen,Jumpy,Новосибирск,2007,дизель,2.2,120,механика,передний,,красный,300000,левый,,,1,650000
+9389,https://irkutsk.drom.ru/citroen/ds4/47377026.html,Citroen,DS4,Иркутск,2012,бензин,1.6,150,АКПП,передний,,серый,149000,левый,1 поколение,1.6 THP AT Sport Chic ,0,748000
+9390,https://tver.drom.ru/citroen/c3/47267436.html,Citroen,C3,Тверь,2010,бензин,1.6,120,АКПП,передний,хэтчбек 5 дв.,красный,151976,левый,2 поколение,,0,535000
+9391,https://voronezh.drom.ru/citroen/c4_picasso/47265704.html,Citroen,C4 Picasso,Воронеж,2008,бензин,2.0,143,автомат,передний,,черный,235757,левый,,,0,315000
+9392,https://moscow.drom.ru/citroen/c-crosser/46271454.html,Citroen,C-Crosser,Москва,2012,бензин,2.4,170,вариатор,4WD,,серый,156216,левый,1 поколение,2.4 CVT 4WD Confort ,0,995000
+9393,https://moscow.drom.ru/citroen/berlingo/46268830.html,Citroen,Berlingo,Москва,2022,дизель,1.6,90,механика,передний,,белый,,левый,"2 поколение, рестайлинг",1.6 HDi MT Multispace,0,2570000
+9394,https://tver.drom.ru/citroen/berlingo/45721269.html,Citroen,Berlingo,Тверь,2022,бензин,1.6,115,АКПП,передний,,коричневый,,левый,"2 поколение, рестайлинг",1.6 VTi AT Multispace,0,2482000
+9395,https://kaliningrad.drom.ru/citroen/ds5/38816148.html,Citroen,DS5,Калининград,2016,дизель,2.0,181,автомат,передний,,белый,83000,левый,,,0,1800000
+9396,https://stavropol.drom.ru/citroen/ds4/48963712.html,Citroen,DS4,Ставрополь,2012,бензин,1.6,150,АКПП,передний,,коричневый,147000,левый,1 поколение,,0,800000
+9397,https://irkutsk.drom.ru/citroen/c4/46886168.html,Citroen,C4,Иркутск,2012,бензин,1.6,120,АКПП,передний,хэтчбек 5 дв.,белый,115000,левый,2 поколение,,0,648000
+9398,https://spb.drom.ru/citroen/c4/48963637.html,Citroen,C4,Санкт-Петербург,2009,бензин,1.6,120,АКПП,передний,хэтчбек 5 дв.,синий,172000,левый,"1 поколение, рестайлинг",,0,329990
+9399,https://moscow.drom.ru/citroen/berlingo/48963616.html,Citroen,Berlingo,Москва,2010,бензин,1.6,90,механика,передний,,черный,130000,левый,2 поколение,,1,670000
+9400,https://nevinnomissk.drom.ru/citroen/c3/48962220.html,Citroen,C3,Невинномысск,2006,бензин,1.4,90,автомат,передний,хэтчбек 5 дв.,белый,135000,левый,,,0,292000
+9401,https://chelyabinsk.drom.ru/citroen/c4/48962179.html,Citroen,C4,Челябинск,2006,бензин,1.6,110,АКПП,передний,хэтчбек 5 дв.,красный,270000,левый,1 поколение,1.6i AT Base,1,300000
+9402,https://moscow.drom.ru/citroen/c4_cactus/48961879.html,Citroen,C4 Cactus,Москва,2019,дизель,1.5,120,АКПП,передний,,черный,127000,левый,"1 поколение, рестайлинг",1.5 BlueHDi AT,1,1240000
+9404,https://ekaterinburg.drom.ru/citroen/c4/48961828.html,Citroen,C4,Екатеринбург,2012,бензин,1.6,109,механика,передний,хэтчбек 5 дв.,белый,164000,левый,2 поколение,,1,450000
+9405,https://novokuznetsk.drom.ru/citroen/jumpy/46494950.html,Citroen,Jumpy,Новокузнецк,2014,дизель,1.6,90,механика,передний,,белый,175000,левый,"2 поколение, рестайлинг",1.6 HDI MT Dynamique L2H1 ,0,700000
+9406,https://krasnodar.drom.ru/citroen/c3/48961167.html,Citroen,C3,Краснодар,2011,бензин,1.4,95,робот,передний,хэтчбек 5 дв.,голубой,110000,левый,2 поколение,,1,420000
+9407,https://krasnodar.drom.ru/citroen/c5/48960960.html,Citroen,C5,Краснодар,2009,дизель,2.0,136,АКПП,передний,универсал,белый,300000,левый,2 поколение,2.0 HDi AT Confort,1,510000
+9409,https://chelyabinsk.drom.ru/citroen/c5/47560627.html,,,,,,,,,,,,,,,,0,
+9411,https://minusinsk.drom.ru/citroen/berlingo/47693436.html,,,,,,,,,,,,,,,,0,
+9413,https://irkutsk.drom.ru/citroen/c3/48919746.html,,,,,,,,,,,,,,,,0,
+9415,https://moscow.drom.ru/citroen/c4/48918006.html,Citroen,C4,Москва,2016,бензин,1.6,116,механика,передний,седан,серебристый,148000,левый,2 поколение,,1,645000
+9416,https://spb.drom.ru/citroen/berlingo/48917868.html,Citroen,Berlingo,Санкт-Петербург,2021,бензин,1.6,115,механика,передний,,белый,10,левый,"2 поколение, рестайлинг",1.6 VTi MT Multispace,0,1990000
+9417,https://novonukutskiy.drom.ru/citroen/c4/48582040.html,Citroen,C4,Новонукутский,2014,бензин,1.6,150,АКПП,передний,седан,белый,120000,левый,2 поколение,1.6 THP AT Exclusive,0,850000
+9418,https://balashiha.drom.ru/citroen/c3/48580275.html,Citroen,C3,Балашиха,2008,бензин,1.4,88,робот,передний,хэтчбек 5 дв.,красный,120000,левый,"1 поколение, рестайлинг",,0,300000
+9419,https://togliatti.drom.ru/citroen/c4/48577846.html,Citroen,C4,Тольятти,2013,бензин,1.6,150,АКПП,передний,седан,черный,193000,левый,2 поколение,,0,614437
+9420,https://togliatti.drom.ru/citroen/berlingo/48577736.html,Citroen,Berlingo,Тольятти,2011,бензин,1.4,75,механика,передний,,белый,204800,левый,"1 поколение, рестайлинг",1.4 MT MSP,0,389120
+9421,https://moscow.drom.ru/citroen/berlingo/48233117.html,Citroen,Berlingo,Москва,2006,бензин,1.4,75,механика,передний,,красный,293000,левый,"1 поколение, рестайлинг",1.4 MT MSP,0,260000
+9422,https://ufa.drom.ru/citroen/c3_picasso/48232333.html,Citroen,C3 Picasso,Уфа,2011,бензин,1.4,95,механика,передний,,серый,187934,,1 поколение,,0,448000
+9423,https://borisoglebskiy.drom.ru/citroen/c5/48231993.html,Citroen,C5,Борисоглебский,2007,бензин,2.0,140,АКПП,передний,лифтбек,синий,167999,левый,"1 поколение, рестайлинг",2.0 AT Tendance,1,120000
+9424,https://yevpatoriya.drom.ru/citroen/c4/48231925.html,Citroen,C4,Евпатория,2013,бензин,1.6,116,механика,передний,седан,синий,112000,левый,2 поколение,,0,710000
+9425,https://yaroslavl.drom.ru/citroen/spacetourer/48229228.html,Citroen,Spacetourer,Ярославль,2018,дизель,2.0,150,механика,передний,,белый,103470,левый,1 поколение,,0,2299000
+9426,https://barnaul.drom.ru/citroen/c4/48228140.html,Citroen,C4,Барнаул,2013,бензин,1.6,120,АКПП,передний,седан,черный,183000,левый,2 поколение,1.6 AT Exclusive,0,550000
+9427,https://moscow.drom.ru/citroen/spacetourer/48227146.html,Citroen,Spacetourer,Москва,2021,дизель,2.0,150,АКПП,передний,,серебристый,40000,левый,1 поколение,2.0 HDi AT Business Lounge XL,0,3325000
+9428,https://moscow.drom.ru/citroen/berlingo/48226920.html,Citroen,Berlingo,Москва,2012,дизель,1.6,75,механика,передний,,белый,213000,левый,,,0,535000
+9429,https://usoliye-sibirskoe.drom.ru/citroen/c4/48844258.html,Citroen,C4,Усолье-Сибирское,2008,бензин,1.6,109,АКПП,передний,хэтчбек 3 дв.,бордовый,225000,левый,1 поколение,1.6 AT VTR Plus,1,310000
+9430,https://belorechensk.drom.ru/citroen/c3/48908491.html,Citroen,C3,Белореченск,2004,бензин,1.6,110,механика,передний,хэтчбек 5 дв.,голубой,178000,левый,1 поколение,1.6i MT SX Pack,0,290000
+9431,https://nizhniy-novgorod.drom.ru/citroen/c4/48572982.html,Citroen,C4,Нижний Новгород,2009,бензин,1.6,,механика,передний,хэтчбек 5 дв.,красный,173020,,,,0,495000
+9432,https://tver.drom.ru/citroen/c4/48572961.html,Citroen,C4,Тверь,2006,бензин,1.6,109,механика,передний,хэтчбек 5 дв.,красный,249648,левый,1 поколение,,0,250000
+9434,https://spb.drom.ru/citroen/ds4/48571867.html,Citroen,DS4,Санкт-Петербург,2014,бензин,1.6,200,механика,передний,,белый,171000,левый,1 поколение, 1.6 THP MT Sport Chic,0,729000
+9435,https://ufa.drom.ru/citroen/c4/48571360.html,Citroen,C4,Уфа,2015,бензин,1.6,116,механика,передний,седан,белый,133968,левый,2 поколение,,0,678033
+9436,https://spb.drom.ru/citroen/c4_picasso/48569905.html,Citroen,C4 Picasso,Санкт-Петербург,2014,бензин,1.6,150,АКПП,передний,,коричневый,166000,левый,2 поколение,,0,785000
+9437,https://tomsk.drom.ru/citroen/c3/48569226.html,Citroen,C3,Томск,2012,бензин,1.4,95,робот,передний,хэтчбек 5 дв.,белый,60000,левый,2 поколение,1.4 AMT Tendance ,0,465000
+9438,https://tyumen.drom.ru/citroen/c3_picasso/48568290.html,Citroen,C3 Picasso,Тюмень,2011,бензин,1.6,115,механика,передний,,черный,248000,,1 поколение,1.6 MT Exclusive ,0,490000
+9439,https://moscow.drom.ru/citroen/c4_aircross/48565971.html,Citroen,C4 Aircross,Москва,2012,бензин,1.6,117,механика,передний,,серый,125000,левый,1 поколение,1.6 MT 2WD Dynamique ,1,599000
+9440,https://magnitogorsk.drom.ru/citroen/c5/48214247.html,Citroen,C5,Магнитогорск,2004,бензин,1.7,125,механика,передний,лифтбек,бежевый,270000,левый,"1 поколение, рестайлинг",,0,280000
+9442,https://moscow.drom.ru/citroen/c4_picasso/47884910.html,Citroen,C4 Picasso,Москва,2009,дизель,1.6,109,автомат,передний,,бежевый,254100,левый,,,0,430000
+9443,https://gai.drom.ru/citroen/c4/47883431.html,Citroen,C4,Гай,2008,бензин,1.6,109,автомат,передний,хэтчбек 5 дв.,голубой,186000,левый,,,0,265000
+9444,https://spb.drom.ru/citroen/c4/47882868.html,Citroen,C4,Санкт-Петербург,2016,бензин,1.6,150,АКПП,передний,седан,серый,65000,левый,2 поколение,,0,850000
+9445,https://nizhniy-novgorod.drom.ru/citroen/c4/47878235.html,Citroen,C4,Нижний Новгород,2011,бензин,1.6,120,механика,передний,хэтчбек 5 дв.,коричневый,197000,левый,2 поколение,1.6 MT Tendance ,0,499999
+9446,https://balashiha.drom.ru/citroen/c4/47874242.html,Citroen,C4,Балашиха,2011,бензин,1.6,120,АКПП,передний,хэтчбек 5 дв.,черный,185000,левый,2 поколение,1.6 AT Optimum ,0,570000
+9447,https://penza.drom.ru/citroen/ds4/47551592.html,Citroen,DS4,Пенза,2012,бензин,1.6,150,АКПП,передний,,серый,232858,левый,1 поколение,1.6 THP AT Chic ,0,750000
+9449,https://moscow.drom.ru/citroen/spacetourer/48960175.html,Citroen,Spacetourer,Москва,2021,дизель,2.0,150,АКПП,передний,,белый,28200,левый,1 поколение,2.0 HDi AT Feel M,0,3194000
+9450,https://bogorodsk.drom.ru/citroen/c2/48960144.html,Citroen,C2,Богородск,2004,бензин,1.6,109,робот,передний,,черный,171000,левый,1 поколение,1.6 SAT VTR,0,160000
+9451,https://ussuriisk.drom.ru/citroen/ds3/47383309.html,Citroen,DS3,Уссурийск,2014,бензин,1.2,82,автомат,передний,хэтчбек 3 дв.,,55000,правый,,,0,767000
+9452,https://tomsk.drom.ru/citroen/c3/48844739.html,Citroen,C3,Томск,2005,бензин,1.4,75,механика,передний,хэтчбек 5 дв.,красный,186532,левый,1 поколение,1.4i MT SX,0,260000
+9453,https://chelyabinsk.drom.ru/citroen/xsara/44562517.html,Citroen,Xsara,Челябинск,2003,бензин,1.6,110,АКПП,передний,хэтчбек 5 дв.,серебристый,168000,левый,"2 поколение, 2 рестайлинг",1.6i 16V AT,0,285000
+9454,https://nyagan.drom.ru/citroen/c4/48955872.html,Citroen,C4,Нягань,2006,бензин,1.6,109,АКПП,передний,хэтчбек 5 дв.,красный,107645,левый,1 поколение,1.6 AT Confort,1,220000
+9455,https://balashiha.drom.ru/citroen/c4_picasso/48955869.html,Citroen,C4 Picasso,Балашиха,2011,бензин,1.6,150,автомат,передний,,серый,157780,левый,,,0,460000
+9456,https://chelyabinsk.drom.ru/citroen/c4_picasso/48285396.html,Citroen,C4 Picasso,Челябинск,2010,бензин,1.6,155,робот,передний,,коричневый,105000,левый,1 поколение,1.6 THP AMT Exclusive,1,595000
+9457,https://moscow.drom.ru/citroen/spacetourer/48263333.html,Citroen,Spacetourer,Москва,2021,дизель,2.0,150,АКПП,передний,,белый,11000,левый,1 поколение,,0,3749000
+9458,https://moscow.drom.ru/citroen/c4/46563051.html,Citroen,C4,Москва,2022,бензин,1.6,116,АКПП,передний,седан,серебристый,,левый,"2 поколение, рестайлинг",1.6 AT Shine,0,1990000
+9459,https://moscow.drom.ru/citroen/c4/46563047.html,Citroen,C4,Москва,2022,бензин,1.6,116,АКПП,передний,седан,серый,,левый,"2 поколение, рестайлинг",1.6 AT Shine,0,1990000
+9460,https://rostov-na-donu.drom.ru/citroen/c4/48955411.html,Citroen,C4,Ростов-на-Дону,2014,бензин,1.6,116,механика,передний,седан,белый,98000,левый,2 поколение,1.6 MT Exclusive,1,785000
+9461,https://ekaterinburg.drom.ru/citroen/c3_picasso/48613474.html,Citroen,C3 Picasso,Екатеринбург,2009,бензин,1.4,95,механика,передний,,черный,142000,,1 поколение,1.4 MT Vitamin ,0,425000
+9462,https://tyumen.drom.ru/citroen/c4/48955041.html,Citroen,C4,Тюмень,2010,бензин,1.6,120,АКПП,передний,хэтчбек 5 дв.,белый,158000,левый,"1 поколение, рестайлинг",1.6i AT Exclusive,0,430000
+9463,https://abakan.drom.ru/citroen/c-elysee/48955198.html,Citroen,C-Elysee,Абакан,2013,бензин,1.6,115,АКПП,передний,,белый,133740,левый,1 поколение,1.6 AT Exclusive ,0,550000
+9464,https://kirov.drom.ru/citroen/c3_picasso/48264345.html,Citroen,C3 Picasso,Киров,2012,бензин,1.4,95,механика,передний,,черный,92000,,1 поколение,1.4 MT Confort ,0,629000
+9465,https://ekaterinburg.drom.ru/citroen/c4/48954935.html,Citroen,C4,Екатеринбург,2006,бензин,1.6,110,АКПП,передний,хэтчбек 3 дв.,красный,258900,левый,1 поколение,1.6i AT Base,1,280000
+9466,https://tyumen.drom.ru/citroen/c4/48557245.html,Citroen,C4,Тюмень,2015,бензин,1.6,120,АКПП,передний,седан,серебристый,86000,левый,2 поколение,,0,820000
+9467,https://tver.drom.ru/citroen/berlingo/48954512.html,Citroen,Berlingo,Тверь,2011,бензин,1.6,120,механика,передний,,голубой,141929,левый,,,0,715000
+9468,https://irkutsk.drom.ru/citroen/c-crosser/48621885.html,Citroen,C-Crosser,Иркутск,2011,бензин,2.4,170,вариатор,4WD,,коричневый,129800,левый,1 поколение,,0,1148000
+9469,https://novorossiysk.drom.ru/citroen/c3_picasso/48898087.html,Citroen,C3 Picasso,Новороссийск,2013,бензин,1.6,115,робот,передний,,белый,135000,,"1 поколение, рестайлинг",1.6 AMT Exclusive,0,650000
+9470,https://orsk.drom.ru/citroen/c5/46179291.html,Citroen,C5,Орск,2001,бензин,2.9,207,АКПП,передний,лифтбек,синий,,левый,1 поколение,,0,180000
+9471,https://orsk.drom.ru/citroen/c5/47161062.html,Citroen,C5,Орск,2002,бензин,2.0,136,АКПП,передний,лифтбек,серый,,левый,1 поколение,2.0 AT Exclusive,0,150000
+9472,https://moscow.drom.ru/citroen/c4/48897989.html,Citroen,C4,Москва,2015,бензин,1.6,150,АКПП,передний,седан,белый,68614,левый,2 поколение,,0,790000
+9473,https://chelyabinsk.drom.ru/citroen/c5/48897817.html,Citroen,C5,Челябинск,2004,бензин,2.0,143,АКПП,передний,лифтбек,серебристый,240000,левый,"1 поколение, рестайлинг",2.0 AT,0,395000
+9474,https://moscow.drom.ru/citroen/c4/48897715.html,Citroen,C4,Москва,2011,бензин,1.6,120,АКПП,передний,хэтчбек 5 дв.,черный,109730,левый,,,0,579000
+9475,https://chelyabinsk.drom.ru/citroen/c3_picasso/48897622.html,Citroen,C3 Picasso,Челябинск,2011,бензин,1.4,95,механика,передний,,красный,130000,,1 поколение,1.4 MT Confort ,1,200000
+9476,https://orenburg.drom.ru/citroen/c4/46781438.html,Citroen,C4,Оренбург,2008,бензин,1.6,120,АКПП,передний,хэтчбек 3 дв.,черный,,левый,"1 поколение, рестайлинг",,0,375000
+9477,https://orenburg.drom.ru/citroen/c5/47138737.html,Citroen,C5,Оренбург,2009,бензин,1.8,125,механика,передний,седан,серебристый,166961,левый,,,0,530000
+9478,https://volgograd.drom.ru/citroen/berlingo/48896114.html,Citroen,Berlingo,Волгоград,2011,бензин,1.6,90,механика,передний,,голубой,123700,левый,2 поколение,,1,638000
+9479,https://omsk.drom.ru/citroen/c4/47403429.html,Citroen,C4,Омск,2014,бензин,1.6,115,механика,передний,седан,серебристый,200000,левый,,,0,514000
+9480,https://samara.drom.ru/citroen/c4/48895967.html,Citroen,C4,Самара,2012,бензин,1.6,120,АКПП,передний,хэтчбек 5 дв.,белый,113000,левый,2 поколение,,0,580000
+9481,https://lipetsk.drom.ru/citroen/berlingo/48895719.html,Citroen,Berlingo,Липецк,2011,бензин,1.6,90,механика,передний,,черный,117475,левый,,,0,530000
+9482,https://tyumen.drom.ru/citroen/c-elysee/48538382.html,Citroen,C-Elysee,Тюмень,2013,бензин,1.2,72,механика,передний,,серый,131294,левый,1 поколение,,0,240500
+9483,https://kazan.drom.ru/citroen/c5/48531472.html,Citroen,C5,Казань,2003,бензин,2.0,136,механика,передний,лифтбек,красный,187000,левый,1 поколение,2.0 MT VSX,0,250000
+9484,https://novokuznetsk.drom.ru/citroen/c3/48895338.html,Citroen,C3,Новокузнецк,2007,бензин,1.4,88,робот,передний,хэтчбек 5 дв.,,130000,левый,"1 поколение, рестайлинг",1.4i AMT SX,0,270000
+9485,https://bakhchysaray.drom.ru/citroen/c5/45909493.html,Citroen,C5,Бахчисарай,2004,бензин,2.0,140,механика,передний,лифтбек,бежевый,298000,левый,"1 поколение, рестайлинг",2.0 MT Exclusive,0,370000
+9486,https://ekaterinburg.drom.ru/citroen/c4/48894823.html,Citroen,C4,Екатеринбург,2008,бензин,1.6,110,АКПП,передний,хэтчбек 3 дв.,черный,148928,левый,1 поколение,1.6i AT Base,1,320000
+9487,https://irkutsk.drom.ru/citroen/c5/48894572.html,Citroen,C5,Иркутск,2009,бензин,2.0,140,АКПП,передний,седан,красный,135000,левый,2 поколение,2.0 AT Confort,1,495000
+9488,https://syzran.drom.ru/citroen/c5/48894212.html,Citroen,C5,Сызрань,2010,бензин,1.6,150,АКПП,передний,седан,черный,98000,левый,2 поколение,1.6 THP AT Confort ,1,570000
+9489,https://ekaterinburg.drom.ru/citroen/c4/47120500.html,Citroen,C4,Екатеринбург,2008,бензин,1.6,120,АКПП,передний,хэтчбек 3 дв.,красный,174000,левый,"1 поколение, рестайлинг",1.6i AT VTR,0,310000
+9490,https://kaliningrad.drom.ru/citroen/ds5/46874872.html,Citroen,DS5,Калининград,2012,бензин,1.6,150,АКПП,передний,,серый,190000,левый,1 поколение,,0,689000
+9491,https://ulyanovsk.drom.ru/citroen/c-crosser/46557658.html,Citroen,C-Crosser,Ульяновск,2010,бензин,2.4,170,вариатор,4WD,,синий,151815,левый,1 поколение,,0,998000
+9492,https://spb.drom.ru/citroen/c4/46549950.html,Citroen,C4,Санкт-Петербург,2011,бензин,1.6,120,механика,передний,хэтчбек 5 дв.,черный,123000,левый,,,0,519000
+9493,https://perm.drom.ru/citroen/c4_picasso/46225494.html,Citroen,C4 Picasso,Пермь,2018,дизель,1.6,120,робот,передний,,белый,78158,левый,"2 поколение, рестайлинг",,0,1398541
+9494,https://moscow.drom.ru/citroen/grand_c4_picasso/46217445.html,Citroen,Grand C4 Picasso,Москва,2017,бензин,1.6,165,АКПП,передний,,серый,118000,левый,"2 поколение, рестайлинг",1.6 THP AT,0,1500000
+9495,https://prokopyevsk.drom.ru/citroen/c5/46011853.html,Citroen,C5,Прокопьевск,2002,бензин,1.7,116,механика,передний,лифтбек,черный,200000,левый,1 поколение,1.8 MT Crystal,0,300000
+9496,https://krasnoperekopsk.drom.ru/citroen/berlingo/45970688.html,Citroen,Berlingo,Красноперекопск,2011,бензин,1.6,120,механика,передний,,белый,342000,левый,2 поколение,,0,645000
+9497,https://astrahan.drom.ru/citroen/berlingo/43168704.html,Citroen,Berlingo,Астрахань,2012,бензин,1.6,90,механика,передний,,серый,207229,,,,0,600000
+9498,https://balashiha.drom.ru/citroen/c4/48908336.html,Citroen,C4,Балашиха,2006,бензин,1.6,109,механика,передний,хэтчбек 5 дв.,бежевый,120000,левый,1 поколение,1.6 MT Confort,0,400000
+9499,https://moscow.drom.ru/citroen/berlingo/46468450.html,Citroen,Berlingo,Москва,2012,бензин,1.6,120,механика,передний,,серебристый,133000,левый,2 поколение,1.6 MT Tendance Trek ,0,535000
+9500,https://kaluga.drom.ru/citroen/c5/46795901.html,Citroen,C5,Калуга,2012,бензин,1.6,150,АКПП,передний,седан,черный,155102,левый,2 поколение,1.6 THP AT Exclusive ,1,800000

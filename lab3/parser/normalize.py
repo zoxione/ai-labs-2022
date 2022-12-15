@@ -80,7 +80,6 @@ if __name__ == '__main__':
         print('Всего итераций: ' + str(len(inputFiles) - 1) + '\n')
 
         dfInput1 = pd.read_csv(args.input + '/' + inputFiles[0])
-        dfOutput = dfInput1
 
         for i in range(1, len(inputFiles)):
             dfInput2 = pd.read_csv(args.input + '/' + inputFiles[i])

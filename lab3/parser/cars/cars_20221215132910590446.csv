@@ -1,0 +1,465 @@
+Id,Url,Brand,Model,Region,Year,Engine,EngineVolume,Power,Transmission,Drive,Body,Color,Mileage,Wheel,Generation,Complectation,IsSold,Price
+13500,https://vladivostok.drom.ru/daihatsu/boon/46409892.html,Daihatsu,Boon,Владивосток,2011,бензин,1.0,69,вариатор,4WD,,белый,121000,правый,2 поколение,1.0 CL 4WD,1,370000
+13501,https://mihaylovka-vl.drom.ru/daihatsu/move/48629706.html,Daihatsu,Move,Михайловка,2007,бензин,0.7,64,вариатор,передний,,белый,136000,правый,4 поколение,660 custom RS,0,420000
+13502,https://yakutsk.drom.ru/daihatsu/mira_e-s/48967518.html,Daihatsu,Mira e:S,Якутск,2014,бензин,0.7,52,вариатор,передний,,белый,75000,правый,"1 поколение, рестайлинг",660 D,0,415000
+13503,https://barnaul.drom.ru/daihatsu/move/48967381.html,Daihatsu,Move,Барнаул,2009,бензин,0.7,64,вариатор,передний,,серый,140000,правый,"4 поколение, рестайлинг",660 custom RS,1,455000
+13504,https://novosibirsk.drom.ru/daihatsu/move/48202670.html,Daihatsu,Move,Новосибирск,2016,бензин,0.7,52,вариатор,передний,,белый,117180,правый,6 поколение, 660 Custom X Hyper SAII,0,525000
+13505,https://novosibirsk.drom.ru/daihatsu/terios/48873683.html,Daihatsu,Terios,Новосибирск,1997,бензин,1.3,92,АКПП,4WD,,синий,170000,правый,1 поколение,1.3 CX,1,265000
+13506,https://irkutsk.drom.ru/daihatsu/mira_e-s/48414181.html,Daihatsu,Mira e:S,Иркутск,2017,бензин,0.7,49,вариатор,передний,,серый,70000,правый,2 поколение, 660 L,1,500000
+13507,https://novokuznetsk.drom.ru/daihatsu/storia/48322447.html,Daihatsu,Storia,Новокузнецк,2002,бензин,1.0,64,АКПП,передний,,белый,24460,правый,"1 поколение, 2 рестайлинг",1.0 CL limited,0,229000
+13508,https://himki.drom.ru/daihatsu/wake/46612699.html,Daihatsu,Wake,Химки,2018,бензин,0.7,52,вариатор,передний,,,32000,правый,1 поколение, 660 L Special Limited SAIII,1,949999
+13509,https://vladivostok.drom.ru/daihatsu/thor/48966844.html,Daihatsu,Thor,Владивосток,2018,бензин,1.0,69,вариатор,передний,,черный,38000,правый,1 поколение, 1.0 X SAII,0,655000
+13510,https://blagoveshchensk.drom.ru/daihatsu/rugger/48265868.html,Daihatsu,Rugger,Благовещенск,1987,дизель,2.8,94,механика,4WD,,синий,300000,правый,"1 поколение, рестайлинг",,0,650000
+13511,https://yakovlevka.drom.ru/daihatsu/terios/48261297.html,Daihatsu,Terios,Яковлевка,2001,бензин,1.3,90,АКПП,4WD,,черный,120000,правый,"1 поколение, рестайлинг",,0,180000
+13512,https://irkutsk.drom.ru/daihatsu/boon/48218224.html,Daihatsu,Boon,Иркутск,2009,бензин,1.0,71,АКПП,передний,,желтый,200200,правый,"1 поколение, рестайлинг",,0,320000
+13513,https://irkutsk.drom.ru/daihatsu/mira_e-s/47922682.html,Daihatsu,Mira e:S,Иркутск,2015,бензин,0.7,49,вариатор,передний,,серебристый,158040,правый,"1 поколение, рестайлинг",,1,370000
+13514,https://vladivostok.drom.ru/daihatsu/terios_kid/47920727.html,Daihatsu,Terios Kid,Владивосток,2006,бензин,0.7,64,АКПП,4WD,,розовый,155000,правый,"1 поколение, 2 рестайлинг",,0,390000
+13515,https://ulan-ude.drom.ru/daihatsu/atrai/47919766.html,Daihatsu,Atrai,Улан-Удэ,2001,бензин,0.7,64,АКПП,4WD,минивэн,серебристый,156000,правый,5 поколение,,0,305000
+13516,https://rossosh.drom.ru/daihatsu/move/47919800.html,Daihatsu,Move,Россошь,2012,бензин,0.7,52,вариатор,4WD,,синий,163500,правый,"5 поколение, рестайлинг",660 Custom X Limited 4WD,0,650000
+13517,https://habarovsk.drom.ru/daihatsu/sonica/47917362.html,Daihatsu,Sonica,Хабаровск,2006,бензин,0.7,64,вариатор,передний,,белый,180000,правый,1 поколение,660 RS,0,375000
+13518,https://magadan.drom.ru/daihatsu/move/47915179.html,Daihatsu,Move,Магадан,2016,бензин,0.7,52,вариатор,4WD,,белый,123000,правый,6 поколение,,0,740000
+13519,https://vladivostok.drom.ru/daihatsu/terios_kid/47591556.html,Daihatsu,Terios Kid,Владивосток,2001,бензин,0.7,60,АКПП,4WD,,серебристый,150000,правый,"1 поколение, рестайлинг",660 CL limited,0,260000
+13520,https://habarovsk.drom.ru/daihatsu/mira/47590068.html,Daihatsu,Mira,Хабаровск,2016,бензин,0.7,58,вариатор,передний,хэтчбек 3 дв.,белый,85000,правый,7 поколение,660 TX,0,450000
+13521,https://rubtsovsk.drom.ru/daihatsu/terios/47586293.html,Daihatsu,Terios,Рубцовск,1997,бензин,1.3,92,АКПП,4WD,,синий,175000,правый,1 поколение,1.3 CL,0,380000
+13522,https://novosibirsk.drom.ru/daihatsu/hijet/47558477.html,Daihatsu,Hijet,Новосибирск,2010,бензин,0.7,50,механика,4WD,минивэн,серебристый,180000,правый,"10 поколение, рестайлинг",,0,500000
+13523,https://krasnoyarsk.drom.ru/daihatsu/terios/47252616.html,Daihatsu,Terios,Красноярск,1998,бензин,1.3,92,АКПП,4WD,,синий,270000,правый,1 поколение,1.3 CX,0,390000
+13524,https://blagoveshchensk.drom.ru/daihatsu/move/47251333.html,Daihatsu,Move,Благовещенск,2014,бензин,0.7,52,вариатор,передний,,белый,129000,правый,"5 поколение, рестайлинг",660 Custom X,0,495000
+13525,https://vladivostok.drom.ru/daihatsu/mira/47247298.html,Daihatsu,Mira,Владивосток,1990,бензин,0.7,64,механика,передний,хэтчбек 5 дв.,белый,10800,правый,3 поколение,660 J turbo,0,85000
+13526,https://prokopyevsk.drom.ru/daihatsu/mira_e-s/47239843.html,Daihatsu,Mira e:S,Прокопьевск,2017,бензин,0.7,49,вариатор,передний,,,60000,правый,2 поколение, 660 G SAIII,0,650000
+13527,https://krasnodar.drom.ru/daihatsu/sirion/47197821.html,Daihatsu,Sirion,Краснодар,1999,бензин,1.0,56,механика,передний,,зеленый,300000,левый,,,1,88000
+13528,https://achinsk.drom.ru/daihatsu/tanto/47127351.html,Daihatsu,Tanto,Ачинск,2013,бензин,0.7,52,вариатор,передний,,черный,142000,правый,3 поколение,660 Custom X SA,0,535000
+13529,https://lensk.drom.ru/daihatsu/hijet/47114625.html,Daihatsu,Hijet,Ленск,2017,бензин,0.7,53,АКПП,4WD,минивэн,белый,129600,правый,"10 поколение, рестайлинг",,0,635000
+13530,https://novosibirsk.drom.ru/daihatsu/wake/46297398.html,Daihatsu,Wake,Новосибирск,2016,бензин,0.7,64,вариатор,передний,,белый,31000,правый,1 поколение, 660 G Turbo Leisure Edition SAII,0,760000
+13531,https://volno-nadezhdinskoe.drom.ru/daihatsu/mira_e-s/48954810.html,Daihatsu,Mira e:S,Вольно-Надеждинское,2015,бензин,0.7,49,вариатор,передний,,голубой,84000,правый,"1 поколение, рестайлинг",,0,285000
+13532,https://habarovsk.drom.ru/daihatsu/sonica/48954568.html,Daihatsu,Sonica,Хабаровск,2008,бензин,0.7,64,вариатор,передний,,синий,200000,правый,"1 поколение, рестайлинг",660 RS limited ,0,265000
+13533,https://vladivostok.drom.ru/daihatsu/mira_e-s/48954560.html,Daihatsu,Mira e:S,Владивосток,2019,бензин,0.7,49,вариатор,4WD,,,71000,правый,2 поколение, 660 L SAIII 4WD,0,515000
+13534,https://krasnoyarsk.drom.ru/daihatsu/mira/48953851.html,Daihatsu,Mira,Красноярск,2010,бензин,0.7,58,АКПП,передний,хэтчбек 3 дв.,белый,160000,правый,7 поколение,,0,290000
+13535,https://lesosibirsk.drom.ru/daihatsu/tanto/48437607.html,Daihatsu,Tanto,Лесосибирск,2013,бензин,0.7,52,вариатор,передний,,черный,110000,правый,2 поколение,,0,550000
+13536,https://ussuriisk.drom.ru/daihatsu/wake/48280823.html,Daihatsu,Wake,Уссурийск,2018,бензин,0.7,64,вариатор,передний,,черный,97000,правый,1 поколение, 660 G Turbo Limited SAIII,0,660000
+13537,https://ussuriisk.drom.ru/daihatsu/tanto/47915601.html,Daihatsu,Tanto,Уссурийск,2015,бензин,0.7,52,вариатор,передний,,черный,136000,правый,3 поколение,,0,499000
+13538,https://chita.drom.ru/daihatsu/yrv/48953740.html,Daihatsu,YRV,Чита,2001,бензин,1.0,64,АКПП,передний,,серый,250000,правый,1 поколение,,1,140000
+13539,https://vladivostok.drom.ru/daihatsu/pyzar/48953804.html,Daihatsu,Pyzar,Владивосток,1999,бензин,1.6,115,АКПП,4WD,,серебристый,168059,правый,"1 поколение, 2 рестайлинг",1.6 CL aero version,1,85000
+13540,https://tashtagol.drom.ru/daihatsu/terios/48953746.html,Daihatsu,Terios,Таштагол,1997,бензин,1.3,92,АКПП,4WD,,красный,315229,правый,1 поколение,,0,400000
+13541,https://novosibirsk.drom.ru/daihatsu/pyzar/48953651.html,Daihatsu,Pyzar,Новосибирск,2002,бензин,1.6,115,АКПП,4WD,,серый,210000,правый,"1 поколение, 2 рестайлинг",,0,180000
+13542,https://vladivostok.drom.ru/daihatsu/hijet/48809767.html,Daihatsu,Hijet,Владивосток,2018,бензин,0.7,53,АКПП,4WD,минивэн,серебристый,72000,правый,"10 поколение, 2 рестайлинг",,1,635000
+13543,https://abakan.drom.ru/daihatsu/mira/48256402.html,Daihatsu,Mira,Абакан,2014,бензин,0.7,58,вариатор,передний,хэтчбек 3 дв.,серебристый,115000,правый,7 поколение,660 TX,0,379000
+13544,https://petropavlovsk-kamchatskiy.drom.ru/daihatsu/charade/48953343.html,Daihatsu,Charade,Петропавловск-Камчатский,1989,бензин,1.0,60,автомат,передний,хэтчбек 3 дв.,белый,89471,правый,,,1,75000
+13545,https://vladivostok.drom.ru/daihatsu/terios_kid/48575517.html,Daihatsu,Terios Kid,Владивосток,2006,бензин,0.7,60,АКПП,4WD,,белый,109000,правый,"1 поколение, рестайлинг",660 KissMark L ,1,270000
+13546,https://belogorsk.drom.ru/daihatsu/mira_e-s/48952782.html,Daihatsu,Mira e:S,Белогорск,2018,бензин,0.7,49,вариатор,передний,,белый,108000,правый,2 поколение, 660 X SAIII,0,600000
+13547,https://artem.drom.ru/daihatsu/mira_e-s/48821630.html,Daihatsu,Mira e:S,Артём,2015,бензин,0.7,49,вариатор,передний,,желтый,145000,правый,"1 поколение, рестайлинг",,0,355000
+13548,https://ussuriisk.drom.ru/daihatsu/move/47963159.html,Daihatsu,Move,Уссурийск,2019,бензин,0.7,64,вариатор,передний,,белый,49000,правый,"6 поколение, рестайлинг", 660 Custom RS Hyper Limited II SAIII,0,855000
+13549,https://ussuriisk.drom.ru/daihatsu/move/48644687.html,Daihatsu,Move,Уссурийск,2015,бензин,0.7,64,вариатор,4WD,,бордовый,87000,правый,6 поколение, 660 Custom RS SAII 4WD,0,749000
+13550,https://barnaul.drom.ru/daihatsu/boon/48961595.html,Daihatsu,Boon,Барнаул,2005,бензин,1.0,71,АКПП,передний,,серый,201000,правый,1 поколение,,1,225000
+13551,https://zheleznogorsk-krasnoyarsk.drom.ru/daihatsu/tanto_exe/48961497.html,Daihatsu,Tanto Exe,Железногорск,2013,бензин,0.7,52,вариатор,передний,,серый,81000,правый,"1 поколение, рестайлинг",,0,515000
+13552,https://irkutsk.drom.ru/daihatsu/thor/46073518.html,Daihatsu,Thor,Иркутск,2018,бензин,1.0,69,вариатор,передний,,черный,51000,правый,1 поколение, 1.0 X SAII,0,730000
+13553,https://krasnoyarsk.drom.ru/daihatsu/mira/48748964.html,Daihatsu,Mira,Красноярск,2011,бензин,0.7,58,вариатор,передний,хэтчбек 5 дв.,серый,104000,правый,7 поколение,,0,299000
+13554,https://novosibirsk.drom.ru/daihatsu/move/48811960.html,Daihatsu,Move,Новосибирск,2011,бензин,0.7,52,вариатор,передний,,серый,97000,правый,5 поколение,660 custom X limited,0,505000
+13555,https://bolshoy-kamen.drom.ru/daihatsu/terios_kid/48960322.html,Daihatsu,Terios Kid,Большой Камень,2001,бензин,0.7,60,АКПП,4WD,,белый,160000,правый,"1 поколение, рестайлинг",660 CL,0,250000
+13556,https://yakutsk.drom.ru/daihatsu/terios_kid/48960490.html,Daihatsu,Terios Kid,Якутск,2005,бензин,0.7,60,АКПП,4WD,,белый,34266,правый,"1 поколение, рестайлинг",660 KissMark L ,1,290000
+13557,https://irkutsk.drom.ru/daihatsu/mira/48959976.html,Daihatsu,Mira,Иркутск,2014,бензин,0.7,58,вариатор,передний,хэтчбек 3 дв.,белый,88600,правый,7 поколение,660 TX,0,380000
+13558,https://irkutsk.drom.ru/daihatsu/terios_kid/46640455.html,Daihatsu,Terios Kid,Иркутск,2012,бензин,0.7,64,АКПП,4WD,,серебристый,90000,правый,"1 поколение, 2 рестайлинг",660 custom memorial edition 4WD,0,588000
+13559,https://ussuriisk.drom.ru/daihatsu/move/48959410.html,Daihatsu,Move,Уссурийск,2010,бензин,0.7,52,вариатор,передний,,,94000,правый,5 поколение,,0,449999
+13560,https://ussuriisk.drom.ru/daihatsu/move/48959293.html,Daihatsu,Move,Уссурийск,2012,бензин,0.7,52,вариатор,передний,,,144000,правый,5 поколение,660 X limited,0,449999
+13561,https://biysk.drom.ru/daihatsu/terios_kid/46265802.html,Daihatsu,Terios Kid,Бийск,1999,бензин,0.7,64,механика,4WD,,белый,240000,правый,1 поколение,660 Aero down,1,300000
+13562,https://vladivostok.drom.ru/daihatsu/wake/48240229.html,Daihatsu,Wake,Владивосток,2017,бензин,0.7,52,вариатор,4WD,,белый,100000,правый,1 поколение, 660 L SAII 4WD,0,650000
+13563,https://irkutsk.drom.ru/daihatsu/yrv/48957975.html,Daihatsu,YRV,Иркутск,2000,бензин,1.3,90,АКПП,передний,,серый,260000,правый,1 поколение,,1,120000
+13564,https://chita.drom.ru/daihatsu/hijet/47055759.html,Daihatsu,Hijet,Чита,2009,бензин,0.7,53,АКПП,4WD,минивэн,белый,150000,правый,"10 поколение, рестайлинг",,0,380000
+13565,https://petropavlovsk-kamchatskiy.drom.ru/daihatsu/terios_kid/48957762.html,Daihatsu,Terios Kid,Петропавловск-Камчатский,2006,бензин,0.7,60,АКПП,4WD,,серебристый,142000,правый,"1 поколение, рестайлинг",,0,400000
+13566,https://vladivostok.drom.ru/daihatsu/mira_e-s/48957497.html,Daihatsu,Mira e:S,Владивосток,2018,бензин,0.7,49,вариатор,передний,,белый,68000,правый,2 поколение, 660 X SAIII,0,500000
+13568,https://vladivostok.drom.ru/daihatsu/hijet/48956598.html,Daihatsu,Hijet,Владивосток,2018,бензин,0.7,53,АКПП,4WD,минивэн,,144000,правый,"10 поколение, 2 рестайлинг",,0,545000
+13569,https://novorossiysk.drom.ru/daihatsu/move/48854430.html,Daihatsu,Move,Новороссийск,2017,бензин,0.7,64,вариатор,передний,,белый,92000,правый,6 поколение,,1,625000
+13570,https://ulan-ude.drom.ru/daihatsu/pyzar/48952563.html,Daihatsu,Pyzar,Улан-Удэ,1996,бензин,1.5,100,АКПП,передний,,золотистый,200000,правый,1 поколение,,1,100000
+13571,https://vladivostok.drom.ru/daihatsu/terios_kid/48564789.html,Daihatsu,Terios Kid,Владивосток,2001,бензин,0.7,64,АКПП,4WD,,серебристый,80000,правый,"1 поколение, рестайлинг",,1,205000
+13572,https://abakan.drom.ru/daihatsu/move/47304083.html,Daihatsu,Move,Абакан,2014,бензин,0.7,52,вариатор,передний,,серый,98000,правый,"5 поколение, рестайлинг",660 Custom X,1,545000
+13573,https://volno-nadezhdinskoe.drom.ru/daihatsu/tanto/46336384.html,Daihatsu,Tanto,Вольно-Надеждинское,2012,бензин,0.7,64,вариатор,4WD,,коричневый,99000,правый,2 поколение,,0,480000
+13574,https://moscow.drom.ru/daihatsu/move/48136091.html,Daihatsu,Move,Москва,2017,бензин,0.7,52,вариатор,4WD,,черный,59000,правый,6 поколение, 660 X SAII 4WD,0,835000
+13575,https://obninsk.drom.ru/daihatsu/move/48588754.html,Daihatsu,Move,Обнинск,2015,бензин,0.7,64,вариатор,передний,,серый,100000,правый,6 поколение, 660 X Turbo SAII,0,865000
+13576,https://habarovsk.drom.ru/daihatsu/terios/48614906.html,Daihatsu,Terios,Хабаровск,2002,бензин,1.3,90,АКПП,4WD,,серый,176000,правый,"1 поколение, рестайлинг",1.3 CL,1,360000
+13577,https://ussuriisk.drom.ru/daihatsu/boon/48612712.html,Daihatsu,Boon,Уссурийск,2008,бензин,1.0,71,АКПП,передний,,бордовый,152000,правый,"1 поколение, рестайлинг",1.0 CL limited ,1,330000
+13578,https://blagoveshchensk.drom.ru/daihatsu/move/48610012.html,Daihatsu,Move,Благовещенск,2015,бензин,0.7,52,вариатор,передний,,белый,60000,правый,6 поколение, 660 Custom X SAII,1,480000
+13579,https://suhobuzimskoe.drom.ru/daihatsu/boon/48608866.html,Daihatsu,Boon,Сухобузимское,2009,бензин,1.0,71,АКПП,передний,,черный,141971,правый,"1 поколение, рестайлинг",,0,405000
+13580,https://yakutsk.drom.ru/daihatsu/terios/48607988.html,Daihatsu,Terios,Якутск,2004,бензин,1.3,90,АКПП,задний,,серебристый,75000,правый,"1 поколение, рестайлинг",,0,110000
+13581,https://zmeinogorsk.drom.ru/daihatsu/storia/48607963.html,Daihatsu,Storia,Змеиногорск,2001,бензин,1.0,64,АКПП,передний,,серый,162000,правый,"1 поколение, 2 рестайлинг",,0,185000
+13582,https://irkutsk.drom.ru/daihatsu/mira/48607877.html,Daihatsu,Mira,Иркутск,2015,бензин,0.7,58,вариатор,передний,хэтчбек 3 дв.,белый,118000,правый,7 поколение,660 TX,1,320000
+13583,https://artem.drom.ru/daihatsu/terios_kid/48373455.html,Daihatsu,Terios Kid,Артём,1999,бензин,0.7,60,АКПП,4WD,,синий,160000,правый,1 поколение,660 CL,1,185000
+13584,https://krasnokamensk.drom.ru/daihatsu/tanto/48607046.html,Daihatsu,Tanto,Краснокаменск,2018,бензин,0.7,52,вариатор,передний,,серый,92000,правый,"3 поколение, рестайлинг", 660 L SAIII,0,777000
+13585,https://vladivostok.drom.ru/daihatsu/move/48606653.html,Daihatsu,Move,Владивосток,2017,бензин,0.7,52,вариатор,4WD,,серебристый,103700,правый,6 поколение,,1,505000
+13586,https://habarovsk.drom.ru/daihatsu/terios_kid/48606530.html,Daihatsu,Terios Kid,Хабаровск,2007,бензин,0.7,64,АКПП,4WD,,белый,61000,правый,"1 поколение, 2 рестайлинг",660 L 4WD,0,420000
+13587,https://chelyabinsk.drom.ru/daihatsu/move/48548397.html,Daihatsu,Move,Челябинск,2015,бензин,0.7,64,автомат,передний,,черный,58000,левый,,,0,800000
+13588,https://kyra.drom.ru/daihatsu/be-go/48267641.html,Daihatsu,Be-Go,Кыра,2011,бензин,1.5,109,механика,4WD,,белый,102000,правый,"1 поколение, рестайлинг",1.5 CX 4WD,0,1150000
+13589,https://churapcha.drom.ru/daihatsu/terios/48266377.html,Daihatsu,Terios,Чурапча,1997,бензин,1.3,92,АКПП,4WD,,зеленый,195000,правый,1 поколение,1.3 CL,0,220000
+13591,https://moscow.drom.ru/datsun/on-do/48407916.html,Datsun,on-DO,Москва,2015,бензин,1.6,87,механика,передний,,коричневый,338980,левый,1 поколение,,0,244000
+13592,https://krasnodar.drom.ru/datsun/on-do/49119437.html,Datsun,on-DO,Краснодар,2020,бензин,1.6,87,АКПП,передний,,коричневый,114065,левый,"1 поколение, рестайлинг",,0,899000
+13593,https://krasnoyarsk.drom.ru/datsun/on-do/48342580.html,Datsun,on-DO,Красноярск,2015,бензин,1.6,87,механика,передний,,коричневый,135200,левый,1 поколение,1.6 MT Dream III,0,375000
+13594,https://volgograd.drom.ru/datsun/on-do/49119001.html,Datsun,on-DO,Волгоград,2020,бензин,1.6,87,механика,передний,,коричневый,69049,левый,"1 поколение, рестайлинг",,0,550000
+13595,https://omsk.drom.ru/datsun/on-do/49118225.html,Datsun,on-DO,Омск,2018,бензин,1.6,106,механика,передний,,серый,25000,левый,1 поколение,1.6 MT Dream II,0,730000
+13596,https://ryazan.drom.ru/datsun/on-do/49116670.html,Datsun,on-DO,Рязань,2020,бензин,1.6,87,механика,передний,,белый,45951,левый,"1 поколение, рестайлинг",1.6 MT Access,0,610000
+13597,https://salsk.drom.ru/datsun/on-do/48779079.html,Datsun,on-DO,Сальск,2019,бензин,1.6,87,АКПП,передний,,серый,12747,левый,1 поколение,,0,799900
+13598,https://barnaul.drom.ru/datsun/on-do/49116323.html,Datsun,on-DO,Барнаул,2018,бензин,1.6,106,механика,передний,,серый,20000,левый,1 поколение,,0,629000
+13599,https://kazan.drom.ru/datsun/on-do/49116267.html,Datsun,on-DO,Казань,2015,бензин,1.6,82,механика,передний,,белый,94562,левый,1 поколение,1.6 MT Access,0,323000
+13600,https://krasnoyarsk.drom.ru/datsun/on-do/48000432.html,Datsun,on-DO,Красноярск,2017,бензин,1.6,87,АКПП,передний,,серебристый,90000,левый,1 поколение,,0,577000
+13601,https://novosibirsk.drom.ru/datsun/on-do/49035956.html,Datsun,on-DO,Новосибирск,2018,бензин,1.6,87,АКПП,передний,,черный,169000,левый,1 поколение,,0,485000
+13602,https://varenikovskaya.drom.ru/datsun/on-do/48080519.html,Datsun,on-DO,Варениковская,2018,бензин,1.6,87,АКПП,передний,,серый,60000,левый,1 поколение,,0,610000
+13603,https://spb.drom.ru/datsun/mi-do/49114488.html,Datsun,mi-Do,Санкт-Петербург,2020,бензин,1.6,87,АКПП,передний,,черный,39001,левый,1 поколение,1.6 AT Trust II,0,599999
+13604,https://abakan.drom.ru/datsun/on-do/48507394.html,Datsun,on-DO,Абакан,2018,бензин,1.6,106,механика,передний,,серебристый,70000,левый,1 поколение,,0,548000
+13605,https://omsk.drom.ru/datsun/on-do/49074190.html,Datsun,on-DO,Омск,2019,бензин,1.6,87,механика,передний,,белый,101574,левый,1 поколение,,0,499990
+13606,https://buguruslan.drom.ru/datsun/on-do/49113426.html,Datsun,on-DO,Бугуруслан,2019,бензин,1.6,87,механика,передний,,белый,77000,левый,1 поколение,1.6 MT Access,0,575000
+13607,https://kemerovo.drom.ru/datsun/on-do/46412068.html,Datsun,on-DO,Кемерово,2018,бензин,1.6,87,механика,передний,,белый,39000,левый,1 поколение,,0,449000
+13608,https://buguruslan.drom.ru/datsun/on-do/49113253.html,Datsun,on-DO,Бугуруслан,2014,бензин,1.6,82,механика,передний,,голубой,78000,левый,1 поколение,1.6 MT Access,0,375000
+13609,https://barnaul.drom.ru/datsun/mi-do/49113068.html,Datsun,mi-Do,Барнаул,2016,бензин,1.6,87,АКПП,передний,,белый,34846,левый,1 поколение,1.6 AT Dream II,0,697000
+13610,https://barnaul.drom.ru/datsun/on-do/45228746.html,Datsun,on-DO,Барнаул,2018,бензин,1.6,87,механика,передний,,бордовый,45050,левый,1 поколение,1.6 MT Access,0,585000
+13612,https://nizhniy-novgorod.drom.ru/datsun/on-do/49142236.html,,,,,,,,,,,,,,,,0,
+13614,https://irkutsk.drom.ru/datsun/on-do/48913591.html,,,,,,,,,,,,,,,,0,
+13615,https://chervlennaya.drom.ru/datsun/on-do/49141312.html,Datsun,on-DO,Червленная,2015,бензин,1.6,87,механика,передний,,серый,214000,левый,1 поколение,,0,535000
+13617,https://samara.drom.ru/datsun/mi-do/48815770.html,,,,,,,,,,,,,,,,0,
+13619,https://angarsk.drom.ru/datsun/on-do/48808835.html,Datsun,on-DO,Ангарск,2015,бензин,1.6,87,механика,передний,,белый,180000,левый,1 поколение,,0,170000
+13620,https://yaroslavl.drom.ru/datsun/on-do/48466474.html,Datsun,on-DO,Ярославль,2017,бензин,1.6,87,АКПП,передний,,серый,79580,левый,1 поколение,,0,485000
+13621,https://naberezhnye-chelny.drom.ru/datsun/mi-do/48464603.html,Datsun,mi-Do,Набережные Челны,2018,бензин,1.6,87,механика,передний,,коричневый,17200,левый,1 поколение,,0,597000
+13622,https://volgograd.drom.ru/datsun/mi-do/48464521.html,Datsun,mi-Do,Волгоград,2019,бензин,1.6,87,механика,передний,,белый,41000,левый,1 поколение,1.6 MT Dream II,0,580000
+13623,https://krasnoyarsk.drom.ru/datsun/mi-do/48124359.html,Datsun,mi-Do,Красноярск,2015,бензин,1.6,87,АКПП,передний,,бордовый,66000,левый,1 поколение,1.6 AT Trust III,0,535000
+13624,https://omsk.drom.ru/datsun/on-do/48121666.html,Datsun,on-DO,Омск,2018,бензин,1.6,87,механика,передний,,черный,138449,левый,1 поколение,1.6 MT Dream II,0,455555
+13625,https://penza.drom.ru/datsun/on-do/47784870.html,Datsun,on-DO,Пенза,2017,бензин,1.6,87,механика,передний,,коричневый,51000,левый,1 поколение,,0,450000
+13626,https://habary.drom.ru/datsun/on-do/47782256.html,Datsun,on-DO,Хабары,2018,бензин,1.6,87,механика,передний,,черный,62,левый,1 поколение,,0,450000
+13627,https://omsk.drom.ru/datsun/on-do/47778040.html,Datsun,on-DO,Омск,2017,бензин,1.6,87,механика,передний,,голубой,127000,левый,1 поколение,1.6 MT Access,0,410000
+13628,https://omsk.drom.ru/datsun/on-do/47778128.html,Datsun,on-DO,Омск,2017,бензин,1.6,87,механика,передний,,,48000,левый,1 поколение,,0,500000
+13629,https://krasnoyarsk.drom.ru/datsun/on-do/46657502.html,Datsun,on-DO,Красноярск,2019,бензин,1.6,87,механика,передний,,серый,131500,левый,1 поколение,1.6 MT Access,0,425000
+13630,https://omsk.drom.ru/datsun/on-do/49106108.html,Datsun,on-DO,Омск,2018,бензин,1.6,87,механика,передний,,коричневый,210000,левый,1 поколение,1.6 MT Access,0,345000
+13631,https://tula.drom.ru/datsun/on-do/49105530.html,Datsun,on-DO,Тула,2019,бензин,1.6,87,механика,передний,,белый,45893,левый,1 поколение,,0,569000
+13632,https://tula.drom.ru/datsun/mi-do/49105526.html,Datsun,mi-Do,Тула,2015,бензин,1.6,87,АКПП,передний,,оранжевый,152320,левый,1 поколение,,0,509000
+13633,https://alapaevsk.drom.ru/datsun/on-do/49105079.html,Datsun,on-DO,Алапаевск,2014,бензин,1.6,82,механика,передний,,серый,88000,левый,1 поколение,1.6 MT Access,1,347000
+13634,https://kizilyurt.drom.ru/datsun/on-do/49104919.html,Datsun,on-DO,Кизилюрт,2017,бензин,1.6,87,АКПП,передний,,белый,,левый,1 поколение,,0,615000
+13635,https://barnaul.drom.ru/datsun/on-do/48061311.html,Datsun,on-DO,Барнаул,2014,бензин,1.6,87,механика,передний,,белый,133000,левый,1 поколение,,0,319000
+13636,https://kirov.drom.ru/datsun/on-do/48423935.html,Datsun,on-DO,Киров,2015,бензин,1.6,82,механика,передний,,серебристый,172000,левый,1 поколение,1.6 MT Access,0,379000
+13637,https://penza.drom.ru/datsun/on-do/46332227.html,Datsun,on-DO,Пенза,2019,бензин,1.6,87,механика,передний,,белый,112814,левый,1 поколение,,0,438702
+13638,https://tyumen.drom.ru/datsun/mi-do/47642284.html,Datsun,mi-Do,Тюмень,2019,бензин,1.6,87,механика,передний,,серебристый,23000,левый,1 поколение,1.6 MT Dream II,0,550000
+13639,https://omsk.drom.ru/datsun/on-do/49104138.html,Datsun,on-DO,Омск,2015,бензин,1.6,87,механика,передний,,голубой,204904,левый,1 поколение,,0,279999
+13640,https://kemerovo.drom.ru/datsun/on-do/46885201.html,Datsun,on-DO,Кемерово,2017,бензин,1.6,106,механика,передний,,серый,154000,левый,1 поколение,1.6 MT Dream II,1,395000
+13641,https://ulan-ude.drom.ru/datsun/on-do/49103935.html,Datsun,on-DO,Улан-Удэ,2019,бензин,1.6,87,АКПП,передний,,серебристый,73000,левый,1 поколение,,0,360000
+13642,https://moscow.drom.ru/datsun/mi-do/49103695.html,Datsun,mi-Do,Москва,2015,бензин,1.6,87,АКПП,передний,,черный,107603,левый,1 поколение,,0,547000
+13643,https://irkutsk.drom.ru/datsun/on-do/49103308.html,Datsun,on-DO,Иркутск,2017,бензин,1.6,87,АКПП,передний,,серый,68000,левый,1 поколение,,0,475000
+13644,https://omsk.drom.ru/datsun/on-do/48958494.html,Datsun,on-DO,Омск,2019,бензин,1.6,87,механика,передний,,белый,88001,левый,1 поколение,,0,494900
+13645,https://krymsk.drom.ru/datsun/on-do/45826442.html,Datsun,on-DO,Крымск,2014,бензин,1.6,82,механика,передний,,коричневый,250000,левый,1 поколение,1.6 MT Access,0,350000
+13646,https://kemerovo.drom.ru/datsun/on-do/49061292.html,Datsun,on-DO,Кемерово,2018,бензин,1.6,87,АКПП,передний,,серый,91000,левый,1 поколение,,1,485000
+13647,https://novosibirsk.drom.ru/datsun/mi-do/49103060.html,Datsun,mi-Do,Новосибирск,2018,бензин,1.6,106,механика,передний,,серебристый,96000,левый,1 поколение,,1,600000
+13648,https://omsk.drom.ru/datsun/on-do/49003885.html,Datsun,on-DO,Омск,2018,бензин,1.6,87,механика,передний,,серый,58000,левый,1 поколение,,0,479000
+13649,https://omsk.drom.ru/datsun/on-do/48309733.html,Datsun,on-DO,Омск,2017,бензин,1.6,87,механика,передний,,черный,83450,левый,1 поколение,1.6 MT Dream II,0,425000
+13651,https://nizhniy-novgorod.drom.ru/datsun/mi-do/49152926.html,,,,,,,,,,,,,,,,0,
+13652,https://trudarmeyskiy.drom.ru/datsun/mi-do/48814225.html,Datsun,mi-Do,Трудармейский,2018,бензин,1.6,87,механика,передний,,серебристый,147000,левый,1 поколение,,0,550000
+13653,https://krasnoyarsk.drom.ru/datsun/mi-do/48825533.html,Datsun,mi-Do,Красноярск,2018,бензин,1.6,87,механика,передний,,серебристый,14000,левый,1 поколение,,0,550000
+13654,https://chelyabinsk.drom.ru/datsun/on-do/49151958.html,Datsun,on-DO,Челябинск,2015,бензин,1.6,87,механика,передний,,черный,112000,левый,1 поколение,,0,450000
+13655,https://moscow.drom.ru/datsun/on-do/48825996.html,Datsun,on-DO,Москва,2018,бензин,1.6,87,механика,передний,,серый,3590,левый,1 поколение,,0,690000
+13656,https://noviy-urengoy.drom.ru/datsun/on-do/48825633.html,Datsun,on-DO,Новый Уренгой,2015,бензин,1.6,87,механика,передний,,,190000,левый,1 поколение,,0,320000
+13657,https://ekaterinburg.drom.ru/datsun/on-do/48825517.html,Datsun,on-DO,Екатеринбург,2020,бензин,1.6,87,механика,передний,,серый,8000,левый,"1 поколение, рестайлинг",1.6 MT Dream II,0,700000
+13658,https://chelyabinsk.drom.ru/datsun/on-do/48823895.html,Datsun,on-DO,Челябинск,2015,бензин,1.6,87,механика,передний,,черный,301000,левый,1 поколение,1.6 MT Dream I,0,310000
+13659,https://ufa.drom.ru/datsun/on-do/48822848.html,Datsun,on-DO,Уфа,2016,бензин,1.6,87,механика,передний,,голубой,102412,левый,1 поколение,,0,384705
+13660,https://voronezh.drom.ru/datsun/on-do/48822005.html,Datsun,on-DO,Воронеж,2016,бензин,1.6,87,механика,передний,,черный,170389,левый,1 поколение,,0,429000
+13661,https://tobolsk.drom.ru/datsun/on-do/48821845.html,Datsun,on-DO,Тобольск,2014,бензин,1.6,82,механика,передний,,коричневый,88000,левый,1 поколение,1.6 MT Access,0,380000
+13662,https://yaroslavl.drom.ru/datsun/on-do/48817439.html,Datsun,on-DO,Ярославль,2017,бензин,1.6,87,АКПП,передний,,черный,216128,левый,1 поколение,,0,485000
+13663,https://oktyabrsk.drom.ru/datsun/on-do/48480076.html,Datsun,on-DO,Октябрьский,2020,бензин,1.6,87,механика,передний,,коричневый,32350,левый,"1 поколение, рестайлинг",,0,610000
+13664,https://tula.drom.ru/datsun/mi-do/48476675.html,Datsun,mi-Do,Тула,2015,бензин,1.6,87,механика,передний,,белый,86000,левый,1 поколение,,0,440000
+13666,https://miass.drom.ru/datsun/on-do/48133156.html,Datsun,on-DO,Миасс,2015,бензин,1.6,82,механика,передний,,черный,57890,левый,1 поколение,1.6 MT Access,0,480000
+13667,https://stavropol.drom.ru/datsun/mi-do/48126724.html,Datsun,mi-Do,Ставрополь,2018,бензин,1.6,87,АКПП,передний,,белый,27000,левый,1 поколение,1.6 AT Dream II,0,850000
+13669,https://angarsk.drom.ru/datsun/on-do/47464166.html,Datsun,on-DO,Ангарск,2019,бензин,1.6,87,механика,передний,,серебристый,46450,левый,1 поколение,1.6 MT Trust I,0,615000
+13670,https://omsk.drom.ru/datsun/on-do/45885180.html,Datsun,on-DO,Омск,2017,бензин,1.6,87,механика,передний,,серебристый,138000,левый,1 поколение,,0,369000
+13672,https://omsk.drom.ru/datsun/on-do/48802080.html,Datsun,on-DO,Омск,2015,бензин,1.6,87,механика,передний,,белый,138000,левый,1 поколение,,1,300000
+13673,https://leninsk-kuznetskiy.drom.ru/datsun/on-do/43473352.html,Datsun,on-DO,Ленинск-Кузнецкий,2020,бензин,1.6,87,механика,передний,,коричневый,31000,левый,"1 поколение, рестайлинг",1.6 MT Trust I,0,649000
+13674,https://vologda.drom.ru/datsun/mi-do/49111623.html,Datsun,mi-Do,Вологда,2018,бензин,1.6,87,АКПП,передний,,серый,89137,левый,1 поколение,,0,429000
+13675,https://langepas.drom.ru/datsun/on-do/48782940.html,Datsun,on-DO,Лангепас,2015,бензин,1.6,82,механика,передний,,черный,50000,левый,1 поколение,1.6 MT Access,0,350000
+13676,https://syktyvkar.drom.ru/datsun/on-do/48782119.html,Datsun,on-DO,Сыктывкар,2014,бензин,1.6,87,механика,передний,,коричневый,85000,левый,1 поколение,,0,365000
+13677,https://krasnodar.drom.ru/datsun/on-do/48781841.html,Datsun,on-DO,Краснодар,2017,бензин,1.6,87,механика,передний,,черный,90000,левый,1 поколение,,0,365000
+13679,https://surgut.drom.ru/datsun/on-do/47748776.html,Datsun,on-DO,Сургут,2018,бензин,1.6,87,механика,передний,,черный,115000,левый,1 поколение,,0,440000
+13680,https://surgut.drom.ru/datsun/on-do/47061316.html,Datsun,on-DO,Сургут,2018,бензин,1.6,87,механика,передний,,черный,65000,левый,1 поколение,,0,510000
+13681,https://omsk.drom.ru/datsun/on-do/46769109.html,Datsun,on-DO,Омск,2017,бензин,1.6,87,механика,передний,,белый,103000,левый,1 поколение,1.6 MT Dream I,0,470000
+13682,https://chelyabinsk.drom.ru/datsun/on-do/49111120.html,Datsun,on-DO,Челябинск,2014,бензин,1.6,87,механика,передний,,коричневый,,левый,1 поколение,1.6 MT Trust III,0,149000
+13683,https://omsk.drom.ru/datsun/on-do/48801730.html,Datsun,on-DO,Омск,2017,бензин,1.6,87,механика,передний,,серебристый,110000,левый,1 поколение,1.6 MT Dream II,1,295000
+13684,https://vologda.drom.ru/datsun/on-do/49109960.html,Datsun,on-DO,Вологда,2019,бензин,1.6,87,механика,передний,,белый,125619,левый,1 поколение,,0,525000
+13686,https://novosibirsk.drom.ru/datsun/on-do/49109560.html,Datsun,on-DO,Новосибирск,2015,бензин,1.6,87,механика,передний,,белый,106000,левый,1 поколение,,0,390000
+13687,https://simferopol.drom.ru/datsun/on-do/47167305.html,Datsun,on-DO,Симферополь,2019,бензин,1.6,87,АКПП,передний,,белый,65000,левый,1 поколение,1.6 AT Trust II,0,650000
+13688,https://ulyanovsk.drom.ru/datsun/mi-do/49107244.html,Datsun,mi-Do,Ульяновск,2015,бензин,1.6,87,механика,передний,,белый,73000,левый,1 поколение,,0,445000
+13689,https://berezniky.drom.ru/datsun/on-do/48764930.html,Datsun,on-DO,Березники,2018,бензин,1.6,106,механика,передний,,черный,74900,левый,1 поколение,1.6 MT Trust II,0,401000
+13691,https://yaroslavl.drom.ru/datsun/on-do/49088729.html,Datsun,on-DO,Ярославль,2015,бензин,1.6,87,механика,передний,,серый,91330,левый,1 поколение,,0,445000
+13692,https://kimry.drom.ru/datsun/on-do/48759442.html,Datsun,on-DO,Кимры,2016,бензин,1.6,87,механика,передний,,серебристый,176000,левый,1 поколение,,0,350000
+13693,https://zmeinogorsk.drom.ru/datsun/on-do/48756922.html,Datsun,on-DO,Змеиногорск,2014,бензин,1.6,82,механика,передний,,коричневый,140000,левый,1 поколение,1.6 MT Access,1,280000
+13694,https://ufa.drom.ru/datsun/on-do/48410837.html,Datsun,on-DO,Уфа,2019,бензин,1.6,87,механика,передний,,серый,98000,левый,1 поколение,,0,575000
+13695,https://samara.drom.ru/datsun/on-do/48409047.html,Datsun,on-DO,Самара,2016,бензин,1.6,87,механика,передний,,коричневый,163000,левый,1 поколение,1.6 MT Trust III,1,380000
+13696,https://ufa.drom.ru/datsun/on-do/48069949.html,Datsun,on-DO,Уфа,2016,бензин,1.6,87,АКПП,передний,,черный,27712,левый,1 поколение,1.6 AT Trust II,0,605000
+13697,https://chelyabinsk.drom.ru/datsun/on-do/48060511.html,Datsun,on-DO,Челябинск,2014,бензин,1.6,87,механика,передний,,серебристый,127000,левый,1 поколение,1.6 MT Dream II,1,389000
+13698,https://tver.drom.ru/datsun/on-do/47055528.html,Datsun,on-DO,Тверь,2019,бензин,1.6,87,механика,передний,,коричневый,76500,левый,1 поколение,,0,449000
+13699,https://kursk.drom.ru/datsun/on-do/46914838.html,Datsun,on-DO,Курск,2016,бензин,1.6,87,механика,передний,,голубой,114000,левый,1 поколение,1.6 MT Dream II,0,380000
+13700,https://barnaul.drom.ru/datsun/mi-do/46610100.html,Datsun,mi-Do,Барнаул,2019,бензин,1.6,87,механика,передний,,белый,72000,левый,1 поколение,1.6 MT Dream II,0,580000
+13701,https://iskitim.drom.ru/datsun/on-do/46337100.html,Datsun,on-DO,Искитим,2020,бензин,1.6,87,АКПП,передний,,белый,18000,левый,"1 поколение, рестайлинг",1.6 AT Comfort,0,680000
+13702,https://simeiz.drom.ru/datsun/on-do/45080459.html,Datsun,on-DO,Симеиз,2019,бензин,1.6,106,механика,передний,,серебристый,107400,левый,1 поколение,1.6 MT Dream II,0,460000
+13703,https://ufa.drom.ru/datsun/mi-do/49088312.html,Datsun,mi-Do,Уфа,2017,бензин,1.6,87,механика,передний,,белый,70491,левый,1 поколение,,0,550000
+13704,https://omsk.drom.ru/datsun/on-do/48500846.html,Datsun,on-DO,Омск,2018,бензин,1.6,87,АКПП,передний,,голубой,90000,левый,1 поколение,1.6 AT Dream I,0,190000
+13705,https://spb.drom.ru/datsun/on-do/49086522.html,Datsun,on-DO,Санкт-Петербург,2018,бензин,1.6,87,механика,передний,,коричневый,63000,левый,1 поколение,,0,380000
+13706,https://omsk.drom.ru/datsun/on-do/46474644.html,Datsun,on-DO,Омск,2019,бензин,1.6,87,АКПП,передний,,белый,100000,левый,1 поколение,1.6 AT Trust III,0,595000
+13708,https://ulan-ude.drom.ru/datsun/on-do/48017975.html,Datsun,on-DO,Улан-Удэ,2018,бензин,1.6,87,механика,передний,,коричневый,60000,левый,1 поколение,1.6 MT Trust II,0,450000
+13709,https://orenburg.drom.ru/datsun/on-do/44478061.html,Datsun,on-DO,Оренбург,2014,бензин,1.6,87,механика,передний,,черный,,левый,1 поколение,,0,418000
+13710,https://krasnoyarsk.drom.ru/datsun/on-do/49085006.html,Datsun,on-DO,Красноярск,2018,бензин,1.6,87,АКПП,передний,,коричневый,78800,левый,1 поколение,1.6 AT Dream I,1,570000
+13711,https://omsk.drom.ru/datsun/on-do/49084741.html,Datsun,on-DO,Омск,2018,бензин,1.6,87,механика,передний,,белый,205000,левый,1 поколение,,0,390000
+13712,https://sol-iletsk.drom.ru/datsun/on-do/48057051.html,Datsun,on-DO,Соль-Илецк,2015,бензин,1.6,87,механика,передний,,коричневый,,левый,1 поколение,,0,415000
+13713,https://irbit.drom.ru/datsun/on-do/48902886.html,Datsun,on-DO,Ирбит,2018,бензин,1.6,87,механика,передний,,белый,1,левый,1 поколение,,0,399000
+13714,https://barnaul.drom.ru/datsun/on-do/48868543.html,Datsun,on-DO,Барнаул,2019,бензин,1.6,87,механика,передний,,серебристый,38000,левый,1 поколение,1.6 MT Dream I,0,649000
+13715,https://volgodonsk.drom.ru/datsun/on-do/48400822.html,Datsun,on-DO,Волгодонск,2017,бензин,1.6,106,механика,передний,,голубой,65000,левый,1 поколение,1.6 MT Dream I,1,699900
+13716,https://novokuznetsk.drom.ru/datsun/mi-do/49083271.html,Datsun,mi-Do,Новокузнецк,2015,бензин,1.6,87,АКПП,передний,,белый,112000,левый,1 поколение,,1,425000
+13717,https://makhachkala.drom.ru/datsun/on-do/47134142.html,Datsun,on-DO,Махачкала,2019,бензин,1.6,87,механика,передний,,белый,242000,левый,1 поколение,1.6 MT Trust II,0,390000
+13718,https://manaskent.drom.ru/datsun/on-do/47513789.html,Datsun,on-DO,Манаскент,2017,бензин,1.6,87,АКПП,передний,,коричневый,,левый,1 поколение,1.6 AT Trust II,0,500000
+13719,https://surgut.drom.ru/datsun/mi-do/49080912.html,Datsun,mi-Do,Сургут,2018,бензин,1.6,87,механика,передний,,белый,73001,левый,1 поколение,,0,569990
+13720,https://irkutsk.drom.ru/datsun/on-do/49061122.html,Datsun,on-DO,Иркутск,2018,бензин,1.6,87,механика,передний,,коричневый,48000,левый,1 поколение,1.6 MT Dream I,1,430000
+13721,https://omsk.drom.ru/datsun/mi-do/49080330.html,Datsun,mi-Do,Омск,2019,бензин,1.6,87,АКПП,передний,,белый,59000,левый,1 поколение,1.6 AT Dream II,1,615000
+13722,https://omsk.drom.ru/datsun/mi-do/46927083.html,Datsun,mi-Do,Омск,2015,бензин,1.6,87,механика,передний,,белый,89800,левый,1 поколение,,0,499000
+13723,https://omsk.drom.ru/datsun/on-do/48253774.html,Datsun,on-DO,Омск,2019,бензин,1.6,87,механика,передний,,белый,56000,левый,1 поколение,1.6 MT Dream I,1,500000
+13724,https://omsk.drom.ru/datsun/on-do/48954167.html,Datsun,on-DO,Омск,2020,бензин,1.6,87,механика,передний,,белый,96000,левый,"1 поколение, рестайлинг",1.6 MT Comfort,0,585000
+13725,https://nizhniy-novgorod.drom.ru/datsun/on-do/49079541.html,Datsun,on-DO,Нижний Новгород,2018,бензин,1.6,87,АКПП,передний,,коричневый,5000,левый,1 поколение,,0,760000
+13726,https://tevriz.drom.ru/datsun/on-do/48830383.html,Datsun,on-DO,Тевриз,2016,бензин,1.6,87,механика,передний,,серебристый,110000,левый,1 поколение,,0,75000
+13727,https://tynda.drom.ru/datsun/on-do/48017170.html,Datsun,on-DO,Тында,2014,бензин,1.6,87,механика,передний,,коричневый,260000,левый,1 поколение,1.6 MT Dream I,0,300000
+13728,https://nizhniy-novgorod.drom.ru/datsun/mi-do/49078950.html,Datsun,mi-Do,Нижний Новгород,2016,бензин,1.6,87,механика,передний,,оранжевый,69696,левый,1 поколение,,0,512000
+13729,https://omsk.drom.ru/datsun/on-do/48389654.html,Datsun,on-DO,Омск,2016,бензин,1.6,87,механика,передний,,коричневый,134000,левый,1 поколение,1.6 MT Trust II,0,450000
+13730,https://krasnoyarsk.drom.ru/datsun/on-do/48949896.html,Datsun,on-DO,Красноярск,2018,бензин,1.6,87,механика,передний,,серебристый,60000,левый,1 поколение,,0,537000
+13731,https://ufa.drom.ru/datsun/mi-do/49160648.html,Datsun,mi-Do,Уфа,2018,бензин,1.6,87,механика,передний,,серебристый,77007,левый,1 поколение,,0,579000
+13732,https://ekaterinburg.drom.ru/datsun/on-do/49160601.html,Datsun,on-DO,Екатеринбург,2014,бензин,1.6,87,механика,передний,,голубой,122000,левый,1 поколение,,0,379000
+13733,https://nizhniy-novgorod.drom.ru/datsun/on-do/49160246.html,Datsun,on-DO,Нижний Новгород,2019,бензин,1.6,87,механика,передний,,белый,53400,левый,1 поколение,,1,530000
+13734,https://krymsk.drom.ru/datsun/on-do/49136325.html,Datsun,on-DO,Крымск,2019,бензин,1.6,87,механика,передний,,белый,98000,левый,1 поколение,1.6 MT Trust II,1,550000
+13735,https://samara.drom.ru/datsun/on-do/49159141.html,Datsun,on-DO,Самара,2018,бензин,1.6,87,механика,передний,,коричневый,200000,левый,1 поколение,,0,300000
+13736,https://kurgan.drom.ru/datsun/on-do/49158621.html,Datsun,on-DO,Курган,2016,бензин,1.6,87,механика,передний,,голубой,66000,левый,1 поколение,1.6 MT Trust I,0,465000
+13737,https://omsk.drom.ru/datsun/on-do/49157884.html,Datsun,on-DO,Омск,2014,бензин,1.6,87,механика,передний,,белый,187510,левый,1 поколение,,0,360000
+13739,https://novosibirsk.drom.ru/datsun/on-do/48421789.html,,,,,,,,,,,,,,,,0,
+13741,https://novosibirsk.drom.ru/datsun/on-do/47156796.html,,,,,,,,,,,,,,,,0,
+13743,https://astrahan.drom.ru/datsun/on-do/49154677.html,,,,,,,,,,,,,,,,0,
+13745,https://irkutsk.drom.ru/datsun/mi-do/49153661.html,Datsun,mi-Do,Иркутск,2015,бензин,1.6,87,АКПП,передний,,белый,148000,левый,1 поколение,1.6 AT Dream II,1,420000
+13746,https://nizhniy-novgorod.drom.ru/datsun/on-do/49153510.html,Datsun,on-DO,Нижний Новгород,2015,бензин,1.6,,механика,передний,,коричневый,220001,левый,,,0,399000
+13747,https://novosibirsk.drom.ru/datsun/mi-do/49072679.html,Datsun,mi-Do,Новосибирск,2015,бензин,1.6,87,механика,передний,,оранжевый,53160,левый,1 поколение,,0,455000
+13748,https://novosibirsk.drom.ru/datsun/on-do/48829901.html,Datsun,on-DO,Новосибирск,2020,бензин,1.6,87,механика,передний,,серый,38667,левый,"1 поколение, рестайлинг",,0,680000
+13749,https://novokuznetsk.drom.ru/datsun/on-do/49034150.html,Datsun,on-DO,Новокузнецк,2015,бензин,1.6,87,механика,передний,,белый,88542,левый,1 поколение,1.6 MT Dream III,0,380000
+13750,https://ekaterinburg.drom.ru/datsun/on-do/49098584.html,Datsun,on-DO,Екатеринбург,2016,бензин,1.6,87,механика,передний,,белый,135655,левый,1 поколение,,0,490000
+13751,https://nazran.drom.ru/datsun/on-do/49098438.html,Datsun,on-DO,Назрань,2018,бензин,1.6,87,АКПП,передний,,белый,135000,левый,1 поколение,,0,545000
+13752,https://cheboksary.drom.ru/datsun/on-do/49098209.html,Datsun,on-DO,Чебоксары,2017,бензин,1.6,87,механика,передний,,голубой,53000,левый,1 поколение,,0,524000
+13753,https://kurgan.drom.ru/datsun/mi-do/47652360.html,Datsun,mi-Do,Курган,2020,бензин,1.6,87,АКПП,передний,,белый,36000,левый,1 поколение,,0,730000
+13754,https://novokuznetsk.drom.ru/datsun/mi-do/48087367.html,Datsun,mi-Do,Новокузнецк,2020,бензин,1.6,87,АКПП,передний,,серый,271,левый,1 поколение,,1,780000
+13755,https://krasnodar.drom.ru/datsun/on-do/49095548.html,Datsun,on-DO,Краснодар,2019,бензин,1.6,87,АКПП,передний,,серебристый,51200,левый,1 поколение,1.6 AT Trust III,0,735000
+13757,https://rostov-na-donu.drom.ru/datsun/on-do/47069696.html,Datsun,on-DO,Ростов-на-Дону,2019,бензин,1.6,87,механика,передний,,серебристый,63000,левый,1 поколение,1.6 MT Trust III,0,605000
+13758,https://nazran.drom.ru/datsun/on-do/48759266.html,Datsun,on-DO,Назрань,2018,бензин,1.6,87,АКПП,передний,,белый,120000,левый,1 поколение,,1,535000
+13759,https://slavyansk-na-kubani.drom.ru/datsun/on-do/48042692.html,Datsun,on-DO,Славянск-На-Кубани,2020,бензин,1.6,87,механика,передний,,белый,,левый,"1 поколение, рестайлинг",,0,470000
+13760,https://slavyansk-na-kubani.drom.ru/datsun/on-do/48042701.html,Datsun,on-DO,Славянск-На-Кубани,2020,бензин,1.6,87,механика,передний,,белый,,левый,"1 поколение, рестайлинг",1.6 MT Trust III,0,470000
+13761,https://barnaul.drom.ru/datsun/on-do/49093222.html,Datsun,on-DO,Барнаул,2015,бензин,1.6,87,механика,передний,,голубой,94000,левый,1 поколение,,1,310000
+13762,https://kemerovo.drom.ru/datsun/on-do/48866344.html,Datsun,on-DO,Кемерово,2020,бензин,1.6,87,механика,передний,,серый,31661,левый,"1 поколение, рестайлинг",,0,655999
+13763,https://moscow.drom.ru/datsun/on-do/49092684.html,Datsun,on-DO,Москва,2017,бензин,1.6,87,механика,передний,,серый,77564,левый,1 поколение,,0,564000
+13765,https://krasnoyarsk.drom.ru/datsun/mi-do/48150803.html,Datsun,mi-Do,Красноярск,2017,бензин,1.6,87,АКПП,передний,,черный,111000,левый,1 поколение,,1,600000
+13766,https://iskitim.drom.ru/datsun/on-do/48937730.html,Datsun,on-DO,Искитим,2017,бензин,1.6,87,механика,передний,,серый,95800,левый,1 поколение,1.6 MT Dream II,0,515000
+13767,https://moscow.drom.ru/datsun/on-do/49089463.html,Datsun,on-DO,Москва,2014,бензин,1.6,87,механика,передний,,черный,68740,левый,1 поколение,,0,375000
+13768,https://barnaul.drom.ru/datsun/on-do/46712161.html,Datsun,on-DO,Барнаул,2015,бензин,1.6,87,механика,передний,,белый,144000,левый,1 поколение,1.6 MT Trust III,1,327000
+13769,https://irkutsk.drom.ru/datsun/on-do/49089085.html,Datsun,on-DO,Иркутск,2017,бензин,1.6,87,механика,передний,,черный,131000,левый,1 поколение,,0,320000
+13771,https://barnaul.drom.ru/datsun/mi-do/47427808.html,Datsun,mi-Do,Барнаул,2015,бензин,1.6,87,АКПП,передний,,черный,99186,левый,1 поколение,,0,499000
+13772,https://tyumen.drom.ru/datsun/on-do/48276786.html,Datsun,on-DO,Тюмень,2015,бензин,1.6,87,механика,передний,,голубой,120000,левый,1 поколение,,1,300000
+13773,https://novosibirsk.drom.ru/datsun/mi-do/48611228.html,Datsun,mi-Do,Новосибирск,2019,бензин,1.6,87,АКПП,передний,,серебристый,38000,левый,1 поколение,,1,697000
+13774,https://tyumen.drom.ru/datsun/on-do/49122747.html,Datsun,on-DO,Тюмень,2014,бензин,1.6,87,механика,передний,,белый,198000,левый,1 поколение,,0,290000
+13775,https://krasnodar.drom.ru/datsun/on-do/47483955.html,Datsun,on-DO,Краснодар,2020,бензин,1.6,87,механика,передний,,,47000,левый,"1 поколение, рестайлинг",,0,900000
+13776,https://krasnodar.drom.ru/datsun/on-do/47488727.html,Datsun,on-DO,Краснодар,2019,бензин,1.6,87,механика,передний,,,64000,левый,1 поколение,,0,830000
+13777,https://naberezhnye-chelny.drom.ru/datsun/on-do/48794108.html,Datsun,on-DO,Набережные Челны,2017,бензин,1.6,87,механика,передний,,белый,53833,левый,1 поколение,,0,531833
+13778,https://muromtsevo.drom.ru/datsun/on-do/48788650.html,Datsun,on-DO,Муромцево,2015,бензин,1.6,87,механика,передний,,голубой,55555,левый,1 поколение,1.6 MT Dream III,0,390000
+13779,https://yoshkar-ola.drom.ru/datsun/on-do/48445499.html,Datsun,on-DO,Йошкар-Ола,2019,бензин,1.6,106,механика,передний,,черный,14147,левый,1 поколение,,0,680000
+13780,https://krasnoyarsk.drom.ru/datsun/on-do/48443925.html,Datsun,on-DO,Красноярск,2019,бензин,1.6,87,АКПП,передний,,коричневый,58000,левый,"1 поколение, рестайлинг",,0,650000
+13781,https://yaroslavl.drom.ru/datsun/mi-do/48443848.html,Datsun,mi-Do,Ярославль,2018,бензин,1.6,87,механика,передний,,серый,33280,левый,1 поколение,,0,599000
+13782,https://kemerovo.drom.ru/datsun/on-do/47761032.html,Datsun,on-DO,Кемерово,2018,бензин,1.6,106,механика,передний,,серебристый,43000,левый,1 поколение,1.6 MT Dream II,0,550000
+13783,https://krasnoyarsk.drom.ru/datsun/mi-do/47759672.html,Datsun,mi-Do,Красноярск,2016,бензин,1.6,87,АКПП,передний,,серый,78000,левый,1 поколение,,0,550000
+13784,https://nizhniy-novgorod.drom.ru/datsun/on-do/47431846.html,Datsun,on-DO,Нижний Новгород,2019,бензин,1.6,,механика,передний,,коричневый,50001,,,,0,620000
+13785,https://samara.drom.ru/datsun/on-do/46383966.html,Datsun,on-DO,Самара,2017,бензин,1.6,87,механика,передний,,черный,59810,левый,1 поколение,,0,699000
+13786,https://ivanovo.drom.ru/datsun/on-do/46109856.html,Datsun,on-DO,Иваново,2019,бензин,1.6,87,механика,передний,,черный,18579,левый,1 поколение,,0,540000
+13787,https://irkutsk.drom.ru/datsun/on-do/36330974.html,Datsun,on-DO,Иркутск,2014,бензин,1.6,82,механика,передний,,серый,200000,левый,1 поколение,1.6 MT Access,0,285000
+13788,https://tyumen.drom.ru/datsun/mi-do/48801111.html,Datsun,mi-Do,Тюмень,2015,бензин,1.6,87,механика,передний,,голубой,107000,левый,1 поколение,,0,440000
+13789,https://tatarsk.drom.ru/datsun/on-do/48978082.html,Datsun,on-DO,Татарск,2017,бензин,1.6,87,механика,передний,,черный,220000,левый,1 поколение,1.6 MT Access,1,380000
+13790,https://leninsk-kuznetskiy.drom.ru/datsun/on-do/47991445.html,Datsun,on-DO,Ленинск-Кузнецкий,2017,бензин,1.6,87,механика,передний,,коричневый,184000,левый,1 поколение,1.6 MT Dream II,0,485000
+13791,https://tyumentsevo.drom.ru/datsun/on-do/48946074.html,Datsun,on-DO,Тюменцево,2014,бензин,1.6,87,механика,передний,,серый,81,левый,1 поколение,1.6 MT Trust III,0,420000
+13792,https://krasnoyarsk.drom.ru/datsun/on-do/48542582.html,Datsun,on-DO,Красноярск,2017,бензин,1.6,87,АКПП,передний,,черный,79000,левый,1 поколение,1.6 AT Dream III,0,578000
+13793,https://kirensk.drom.ru/datsun/on-do/48843195.html,Datsun,on-DO,Киренск,2019,бензин,1.6,87,механика,передний,,серый,87158,левый,1 поколение,1.6 MT Trust I,0,370000
+13794,https://krasnoyarsk.drom.ru/datsun/on-do/47778589.html,Datsun,on-DO,Красноярск,2019,бензин,1.6,87,механика,передний,,серый,47000,левый,1 поколение,1.6 MT Trust III,0,597000
+13795,https://ekaterinburg.drom.ru/datsun/on-do/48804231.html,Datsun,on-DO,Екатеринбург,2019,бензин,1.6,87,механика,передний,,коричневый,60884,левый,1 поколение,,0,538130
+13796,https://omsk.drom.ru/datsun/on-do/48801796.html,Datsun,on-DO,Омск,2014,бензин,1.6,87,механика,передний,,голубой,127000,левый,1 поколение,,0,495000
+13797,https://kurgan.drom.ru/datsun/on-do/48800956.html,Datsun,on-DO,Курган,2014,бензин,1.6,87,механика,передний,,белый,138000,левый,1 поколение,,0,400000
+13798,https://krasnodar.drom.ru/datsun/on-do/48458283.html,Datsun,on-DO,Краснодар,2018,бензин,1.6,87,механика,передний,,белый,223000,левый,1 поколение,,1,480000
+13799,https://yoshkar-ola.drom.ru/datsun/on-do/48452392.html,Datsun,on-DO,Йошкар-Ола,2016,бензин,1.6,87,механика,передний,,черный,113334,левый,1 поколение,,0,558000
+13800,https://orsk.drom.ru/datsun/on-do/48449387.html,Datsun,on-DO,Орск,2019,бензин,1.6,87,механика,передний,,серый,69000,левый,1 поколение,,0,529000
+13801,https://astrahan.drom.ru/datsun/on-do/48112138.html,Datsun,on-DO,Астрахань,2020,бензин,1.6,87,механика,передний,,белый,54592,левый,"1 поколение, рестайлинг",,0,615000
+13802,https://barnaul.drom.ru/datsun/mi-do/48111600.html,Datsun,mi-Do,Барнаул,2015,бензин,1.6,87,АКПП,передний,,голубой,65000,левый,1 поколение,,0,560000
+13803,https://ufa.drom.ru/datsun/mi-do/48111443.html,Datsun,mi-Do,Уфа,2017,бензин,1.6,87,механика,передний,,белый,44950,левый,1 поколение,,0,540000
+13804,https://pokrovka.drom.ru/datsun/on-do/48107090.html,Datsun,on-DO,Покровка,2016,бензин,1.6,87,механика,передний,,белый,80000,левый,1 поколение,1.6 MT Dream I,0,450000
+13805,https://nizhniy-novgorod.drom.ru/datsun/on-do/47771232.html,Datsun,on-DO,Нижний Новгород,2018,бензин,1.6,106,механика,передний,,серый,65500,левый,1 поколение,1.6 MT Dream II,0,580000
+13806,https://saransk.drom.ru/datsun/on-do/47766891.html,Datsun,on-DO,Саранск,2019,бензин,1.6,,механика,передний,,белый,116002,,,,0,639000
+13807,https://usk-kut.drom.ru/datsun/mi-do/47726838.html,Datsun,mi-Do,Усть-Кут,2015,бензин,1.6,87,АКПП,передний,,серебристый,100000,левый,1 поколение,,1,350000
+13808,https://ufa.drom.ru/datsun/on-do/47441008.html,Datsun,on-DO,Уфа,2018,бензин,1.6,87,механика,передний,,коричневый,64000,левый,1 поколение,,0,549000
+13809,https://pospeliha.drom.ru/datsun/on-do/47092519.html,Datsun,on-DO,Поспелиха,2018,бензин,1.6,87,механика,передний,,коричневый,22000,левый,1 поколение,,0,750000
+13810,https://anapa.drom.ru/datsun/on-do/45433527.html,Datsun,on-DO,Анапа,2018,бензин,1.6,87,механика,передний,,белый,83000,левый,1 поколение,,0,495000
+13811,https://omsk.drom.ru/datsun/on-do/44243469.html,Datsun,on-DO,Омск,2018,бензин,1.6,87,АКПП,передний,,серый,64000,левый,1 поколение,1.6 AT Trust III,0,700000
+13812,https://novosibirsk.drom.ru/datsun/on-do/34974259.html,Datsun,on-DO,Новосибирск,2015,бензин,1.6,82,механика,передний,,черный,87000,левый,1 поколение,1.6 MT Access,0,510000
+13813,https://irkutsk.drom.ru/datsun/on-do/33018250.html,Datsun,on-DO,Иркутск,2014,бензин,1.6,87,механика,передний,,голубой,131000,левый,1 поколение,1.6 MT Trust II,0,299999
+13814,https://kurgan.drom.ru/datsun/on-do/49140479.html,Datsun,on-DO,Курган,2015,бензин,1.6,87,механика,передний,,серебристый,80000,левый,1 поколение,,0,320000
+13815,https://omsk.drom.ru/datsun/on-do/49139903.html,Datsun,on-DO,Омск,2018,бензин,1.6,87,механика,передний,,серый,110000,левый,1 поколение,,0,499000
+13816,https://shahty.drom.ru/datsun/on-do/48446136.html,Datsun,on-DO,Шахты,2014,бензин,1.6,87,механика,передний,,черный,,левый,1 поколение,,0,448000
+13817,https://simferopol.drom.ru/datsun/on-do/49139279.html,Datsun,on-DO,Симферополь,2019,бензин,1.6,87,АКПП,передний,,серебристый,64000,левый,1 поколение,1.6 AT Trust II,0,645000
+13818,https://omsk.drom.ru/datsun/on-do/48337320.html,Datsun,on-DO,Омск,2019,бензин,1.6,87,механика,передний,,белый,148000,левый,1 поколение,,0,434990
+13819,https://meleuz.drom.ru/datsun/mi-do/49138638.html,Datsun,mi-Do,Мелеуз,2020,бензин,1.6,87,механика,передний,,черный,32000,левый,1 поколение,1.6 MT Trust III,0,730000
+13820,https://surgut.drom.ru/datsun/mi-do/49138355.html,Datsun,mi-Do,Сургут,2015,бензин,1.6,87,механика,передний,,голубой,69500,левый,1 поколение,1.6 MT Dream II,0,530000
+13822,https://yaroslavl.drom.ru/datsun/on-do/49116735.html,Datsun,on-DO,Ярославль,2017,бензин,1.6,87,механика,передний,,белый,156000,левый,1 поколение,1.6 MT Dream I,0,369000
+13823,https://ekaterinburg.drom.ru/datsun/on-do/49137403.html,Datsun,on-DO,Екатеринбург,2016,бензин,1.6,87,АКПП,передний,,белый,49422,левый,1 поколение,1.6 AT Trust III,1,560000
+13824,https://togliatti.drom.ru/datsun/on-do/49136995.html,Datsun,on-DO,Тольятти,2015,бензин,1.6,87,механика,передний,,черный,,левый,1 поколение,,0,437000
+13825,https://omsk.drom.ru/datsun/on-do/49103371.html,Datsun,on-DO,Омск,2018,бензин,1.6,87,механика,передний,,белый,106000,левый,1 поколение,1.6 MT Trust III,1,300000
+13826,https://ishim.drom.ru/datsun/on-do/49136645.html,Datsun,on-DO,Ишим,2015,бензин,1.6,87,механика,передний,,коричневый,147000,левый,1 поколение,1.6 MT Dream III,0,395000
+13827,https://kropotkin.drom.ru/datsun/on-do/48978789.html,Datsun,on-DO,Кропоткин,2016,бензин,1.6,87,механика,передний,,серебристый,130000,левый,1 поколение,,0,410000
+13828,https://kurgan.drom.ru/datsun/on-do/45554155.html,Datsun,on-DO,Курган,2018,бензин,1.6,87,механика,передний,,серебристый,47000,левый,1 поколение,1.6 MT Dream II,0,645000
+13829,https://novosibirsk.drom.ru/datsun/on-do/48018645.html,Datsun,on-DO,Новосибирск,2019,бензин,1.6,87,механика,передний,,белый,173042,левый,1 поколение,,0,530000
+13830,https://yoshkar-ola.drom.ru/datsun/mi-do/46449202.html,Datsun,mi-Do,Йошкар-Ола,2015,бензин,1.6,87,механика,передний,,серебристый,149003,левый,1 поколение,,0,380000
+13831,https://temryuk.drom.ru/datsun/on-do/46442519.html,Datsun,on-DO,Темрюк,2014,бензин,1.6,87,механика,передний,,черный,116000,левый,1 поколение,1.6 MT Dream III,0,480000
+13832,https://ekaterinburg.drom.ru/datsun/on-do/45970336.html,Datsun,on-DO,Екатеринбург,2014,бензин,1.6,87,механика,передний,,черный,73000,левый,1 поколение,1.6 MT Trust II,0,439000
+13833,https://volzhskiy.drom.ru/datsun/on-do/49131514.html,Datsun,on-DO,Волжский,2017,бензин,1.6,87,механика,передний,,серебристый,360000,левый,1 поколение,1.6 MT Access,0,260000
+13834,https://spb.drom.ru/datsun/on-do/47286274.html,Datsun,on-DO,Санкт-Петербург,2018,бензин,1.6,87,механика,передний,,серебристый,29500,левый,1 поколение,,0,560000
+13835,https://shahty.drom.ru/datsun/on-do/49130430.html,Datsun,on-DO,Шахты,2019,бензин,1.6,87,механика,передний,,коричневый,352,левый,1 поколение,1.6 MT Dream II,0,799000
+13836,https://nizhniy-novgorod.drom.ru/datsun/on-do/49130116.html,Datsun,on-DO,Нижний Новгород,2019,бензин,1.6,87,механика,передний,,черный,48710,левый,1 поколение,,0,700000
+13837,https://nizhnevartovsk.drom.ru/datsun/on-do/48591102.html,Datsun,on-DO,Нижневартовск,2019,бензин,1.6,87,механика,передний,,,98000,левый,1 поколение,1.6 MT Dream I,1,525000
+13838,https://yaroslavl.drom.ru/datsun/on-do/49129036.html,Datsun,on-DO,Ярославль,2016,бензин,1.6,87,механика,передний,,коричневый,184000,левый,1 поколение,1.6 MT Dream II,1,335000
+13839,https://kurgan.drom.ru/datsun/on-do/49064411.html,Datsun,on-DO,Курган,2020,бензин,1.6,87,механика,передний,,коричневый,15000,левый,"1 поколение, рестайлинг",,0,750000
+13840,https://omsk.drom.ru/datsun/on-do/49127027.html,Datsun,on-DO,Омск,2018,бензин,1.6,87,АКПП,передний,,белый,110000,левый,1 поколение,,0,320000
+13841,https://omsk.drom.ru/datsun/on-do/49126109.html,Datsun,on-DO,Омск,2019,бензин,1.6,87,механика,передний,,белый,19781,левый,1 поколение,,0,590000
+13842,https://kemerovo.drom.ru/datsun/mi-do/48649319.html,Datsun,mi-Do,Кемерово,2015,бензин,1.6,87,АКПП,передний,,серебристый,79000,левый,1 поколение,1.6 AT Trust I,0,549000
+13843,https://irkutsk.drom.ru/datsun/on-do/49125621.html,Datsun,on-DO,Иркутск,2019,бензин,1.6,87,механика,передний,,белый,68000,левый,1 поколение,1.6 MT Access,0,460000
+13844,https://rostov-na-donu.drom.ru/datsun/on-do/49125002.html,Datsun,on-DO,Ростов-на-Дону,2018,бензин,1.6,106,механика,передний,,белый,156000,левый,1 поколение,1.6 MT Dream I,0,680000
+13845,https://zmeinogorsk.drom.ru/datsun/on-do/48640964.html,Datsun,on-DO,Змеиногорск,2015,бензин,1.6,82,механика,передний,,коричневый,115000,левый,1 поколение,1.6 MT Access,0,425000
+13846,https://simferopol.drom.ru/datsun/on-do/48976154.html,Datsun,on-DO,Симферополь,2020,бензин,1.6,87,АКПП,передний,,серый,43000,левый,"1 поколение, рестайлинг",1.6 AT Trust III,0,700000
+13847,https://kemerovo.drom.ru/datsun/on-do/48790419.html,Datsun,on-DO,Кемерово,2015,бензин,1.6,87,механика,передний,,серебристый,139150,левый,1 поколение,1.6 MT Trust II,0,429000
+13848,https://omsk.drom.ru/datsun/mi-do/48680689.html,Datsun,mi-Do,Омск,2019,бензин,1.6,87,механика,передний,,коричневый,82000,левый,1 поколение,1.6 MT Trust III,0,539000
+13849,https://minusinsk.drom.ru/datsun/mi-do/48636130.html,Datsun,mi-Do,Минусинск,2016,бензин,1.6,87,АКПП,передний,,оранжевый,7000,левый,1 поколение,1.6 AT Dream I,0,557000
+13850,https://kurgan.drom.ru/datsun/on-do/48764196.html,Datsun,on-DO,Курган,2019,бензин,1.6,87,механика,передний,,коричневый,48000,левый,1 поколение,1.6 MT Access,0,575000
+13851,https://omsk.drom.ru/datsun/on-do/49101162.html,Datsun,on-DO,Омск,2019,бензин,1.6,87,механика,передний,,белый,95000,левый,1 поколение,1.6 MT Dream II,0,500000
+13852,https://kemerovo.drom.ru/datsun/on-do/48748315.html,Datsun,on-DO,Кемерово,2015,бензин,1.6,87,механика,передний,,коричневый,86000,левый,1 поколение,1.6 MT Dream I,0,440000
+13854,https://nizhniy-novgorod.drom.ru/datsun/on-do/48771679.html,Datsun,on-DO,Нижний Новгород,2018,бензин,1.6,,механика,передний,,черный,92141,левый,,,0,550000
+13856,https://krasnodar.drom.ru/datsun/on-do/48767404.html,Datsun,on-DO,Краснодар,2020,бензин,1.6,87,механика,передний,,белый,17649,левый,"1 поколение, рестайлинг",1.6 MT Access,0,750000
+13857,https://mysky.drom.ru/datsun/on-do/48424359.html,Datsun,on-DO,Мыски,2018,бензин,1.6,87,механика,передний,,серебристый,70000,левый,1 поколение,1.6 MT Dream II,0,555000
+13858,https://bryansk.drom.ru/datsun/on-do/47742205.html,Datsun,on-DO,Брянск,2016,бензин,1.6,87,механика,передний,,,199000,левый,1 поколение,,0,140000
+13860,https://saratov.drom.ru/datsun/on-do/46751370.html,Datsun,on-DO,Саратов,2017,бензин,1.6,,механика,передний,,коричневый,84232,,,,0,670000
+13862,https://nizhniy-novgorod.drom.ru/datsun/on-do/46362257.html,,,,,,,,,,,,,,,,0,
+13863,https://samara.drom.ru/datsun/on-do/45334022.html,Datsun,on-DO,Самара,2020,бензин,1.6,87,механика,передний,,коричневый,25127,левый,"1 поколение, рестайлинг",,0,600000
+13864,https://ryazan.drom.ru/datsun/on-do/49100355.html,Datsun,on-DO,Рязань,2014,бензин,1.6,87,механика,передний,,серый,79800,левый,1 поколение,1.6 MT Dream III,1,395000
+13866,https://kazan.drom.ru/datsun/mi-do/49099340.html,,,,,,,,,,,,,,,,0,
+13868,https://novokuznetsk.drom.ru/datsun/on-do/49044201.html,,,,,,,,,,,,,,,,0,
+13869,https://ekaterinburg.drom.ru/datsun/on-do/49098586.html,Datsun,on-DO,Екатеринбург,2017,бензин,1.6,82,механика,передний,,коричневый,65444,левый,1 поколение,1.6 MT Access,0,470000
+13870,https://isilkul.drom.ru/datsun/mi-do/48837186.html,Datsun,mi-Do,Исилькуль,2019,бензин,1.6,87,механика,передний,,белый,21800,левый,1 поколение,,0,599999
+13871,https://stavropol.drom.ru/datsun/on-do/48827828.html,Datsun,on-DO,Ставрополь,2019,бензин,1.6,87,механика,передний,,белый,53068,левый,1 поколение,,0,664000
+13873,https://voronezh.drom.ru/datsun/on-do/48487090.html,Datsun,on-DO,Воронеж,2017,бензин,1.6,87,механика,передний,,белый,84794,левый,1 поколение,,0,359000
+13874,https://krasnoyarsk.drom.ru/datsun/on-do/47132085.html,Datsun,on-DO,Красноярск,2020,бензин,1.6,87,механика,передний,,коричневый,4000,левый,"1 поколение, рестайлинг",1.6 MT Comfort,0,740000
+13875,https://barnaul.drom.ru/datsun/on-do/46806033.html,Datsun,on-DO,Барнаул,2018,бензин,1.6,87,механика,передний,,белый,13000,левый,1 поколение,,0,650000
+13876,https://omsk.drom.ru/datsun/mi-do/46107083.html,Datsun,mi-Do,Омск,2015,бензин,1.6,87,АКПП,передний,,оранжевый,43600,левый,1 поколение,1.6 AT Trust II,1,500000
+13877,https://taganrog.drom.ru/datsun/on-do/45435436.html,Datsun,on-DO,Таганрог,2017,бензин,1.6,87,АКПП,передний,,белый,80250,левый,1 поколение,,0,599000
+13878,https://obninsk.drom.ru/datsun/on-do/48794153.html,Datsun,on-DO,Обнинск,2017,бензин,1.6,87,механика,передний,,черный,74000,левый,1 поколение,1.6 MT Access,0,380000
+13880,https://velikiy-novgorod.drom.ru/datsun/mi-do/49163008.html,Datsun,mi-Do,Великий Новгород,2017,бензин,1.6,87,механика,передний,,серый,65000,левый,1 поколение,,0,399888
+13881,https://tobolsk.drom.ru/datsun/on-do/49162673.html,Datsun,on-DO,Тобольск,2015,бензин,1.6,87,механика,передний,,белый,71000,левый,1 поколение,,0,470000
+13882,https://saratov.drom.ru/datsun/on-do/48822313.html,Datsun,on-DO,Саратов,2019,бензин,1.6,87,механика,передний,,,42000,левый,1 поколение,,0,485000
+13883,https://volgograd.drom.ru/datsun/on-do/49162419.html,Datsun,on-DO,Волгоград,2017,бензин,1.6,87,АКПП,передний,,голубой,52000,левый,1 поколение,,1,648000
+13885,https://tyumen.drom.ru/datsun/mi-do/48280407.html,Datsun,mi-Do,Тюмень,2015,бензин,1.6,87,АКПП,передний,,голубой,58000,левый,1 поколение,,0,549900
+13887,https://barnaul.drom.ru/datsun/on-do/49161233.html,Datsun,on-DO,Барнаул,2017,бензин,1.6,87,АКПП,передний,,серый,59000,левый,1 поколение,,0,499000
+13888,https://omsk.drom.ru/datsun/on-do/49161231.html,Datsun,on-DO,Омск,2015,бензин,1.6,87,механика,передний,,белый,320001,левый,1 поколение,,0,290000
+13889,https://chelyabinsk.drom.ru/datsun/mi-do/49161148.html,Datsun,mi-Do,Челябинск,2015,бензин,1.6,87,механика,передний,,голубой,80000,левый,1 поколение,1.6 MT Trust II,1,240000
+13890,https://tyumen.drom.ru/datsun/on-do/47128484.html,Datsun,on-DO,Тюмень,2020,бензин,1.6,87,механика,передний,,коричневый,70000,левый,"1 поколение, рестайлинг",1.6 MT Trust II,0,510000
+13891,https://novocherkassk.drom.ru/datsun/on-do/49151201.html,Datsun,on-DO,Новочеркасск,2019,бензин,1.6,87,АКПП,передний,,белый,50252,левый,1 поколение,,0,699000
+13893,https://elista.drom.ru/datsun/on-do/48113377.html,Datsun,on-DO,Элиста,2019,бензин,1.6,87,механика,передний,,серый,50000,левый,1 поколение,,1,610000
+13894,https://borovichi.drom.ru/datsun/on-do/49150268.html,Datsun,on-DO,Боровичи,2014,бензин,1.6,87,механика,передний,,белый,133252,левый,1 поколение,,0,229000
+13895,https://perm.drom.ru/datsun/mi-do/49150068.html,Datsun,mi-Do,Пермь,2017,бензин,1.6,87,механика,передний,,серый,126000,левый,1 поколение,,0,519990
+13896,https://severskaya.drom.ru/datsun/mi-do/48627785.html,Datsun,mi-Do,Северская,2019,бензин,1.6,87,механика,передний,,белый,21000,левый,1 поколение,1.6 MT Trust III,0,685000
+13897,https://krasnodar.drom.ru/datsun/on-do/49032896.html,Datsun,on-DO,Краснодар,2019,бензин,1.6,87,АКПП,передний,,белый,60788,левый,1 поколение,,0,618000
+13898,https://tyumen.drom.ru/datsun/on-do/48628319.html,Datsun,on-DO,Тюмень,2018,бензин,1.6,87,механика,передний,,белый,193000,левый,1 поколение,1.6 MT Trust III,0,448000
+13899,https://omsk.drom.ru/datsun/on-do/48815999.html,Datsun,on-DO,Омск,2014,бензин,1.6,87,механика,передний,,черный,125000,левый,1 поколение,,1,300000
+13900,https://stavropol.drom.ru/datsun/on-do/45664073.html,Datsun,on-DO,Ставрополь,2018,бензин,1.6,87,механика,передний,,белый,115000,левый,1 поколение,1.6 MT Trust II,0,550000
+13901,https://ufa.drom.ru/datsun/on-do/49145452.html,Datsun,on-DO,Уфа,2019,бензин,1.6,87,механика,передний,,белый,116000,левый,1 поколение,,0,610000
+13903,https://ulyanovsk.drom.ru/datsun/mi-do/49144096.html,Datsun,mi-Do,Ульяновск,2015,бензин,1.6,87,механика,передний,,серый,173000,левый,1 поколение,1.6 MT Trust III,1,400000
+13904,https://omsk.drom.ru/datsun/on-do/39990473.html,Datsun,on-DO,Омск,2018,бензин,1.6,87,механика,передний,,серебристый,107000,левый,1 поколение,1.6 MT Dream I,1,540000
+13905,https://miass.drom.ru/datsun/on-do/49052511.html,Datsun,on-DO,Миасс,2019,бензин,1.6,87,механика,передний,,черный,43453,левый,"1 поколение, рестайлинг",,0,585000
+13906,https://surgut.drom.ru/datsun/on-do/45530274.html,Datsun,on-DO,Сургут,2018,бензин,1.6,87,механика,передний,,черный,154500,левый,1 поколение,,0,439000
+13907,https://miass.drom.ru/datsun/on-do/49142430.html,Datsun,on-DO,Миасс,2018,бензин,1.6,87,механика,передний,,белый,177000,левый,1 поколение,,1,290000
+13908,https://irkutsk.drom.ru/datsun/on-do/48282835.html,Datsun,on-DO,Иркутск,2019,бензин,1.6,87,АКПП,передний,,белый,153000,левый,1 поколение,,0,395000
+13909,https://omsk.drom.ru/datsun/on-do/48360042.html,Datsun,on-DO,Омск,2016,бензин,1.6,87,механика,передний,,серебристый,92000,левый,1 поколение,1.6 MT Trust I,0,310000
+13910,https://novokuznetsk.drom.ru/datsun/on-do/49007908.html,Datsun,on-DO,Новокузнецк,2017,бензин,1.6,87,механика,передний,,черный,124600,левый,1 поколение,1.6 MT Access,1,400000
+13911,https://barnaul.drom.ru/datsun/on-do/49066095.html,Datsun,on-DO,Барнаул,2018,бензин,1.6,87,механика,передний,,серый,25000,левый,1 поколение,1.6 MT Access,0,480000
+13912,https://omsk.drom.ru/datsun/on-do/48589960.html,Datsun,on-DO,Омск,2018,бензин,1.6,87,механика,передний,,черный,76000,левый,1 поколение,1.6 MT Trust II,1,470000
+13913,https://moscow.drom.ru/datsun/on-do/49065441.html,Datsun,on-DO,Москва,2016,бензин,1.6,82,механика,передний,,черный,89000,левый,1 поколение,1.6 MT Access,0,449000
+13914,https://ekaterinburg.drom.ru/datsun/on-do/48601515.html,Datsun,on-DO,Екатеринбург,2014,бензин,1.6,87,механика,передний,,коричневый,90000,левый,1 поколение,,0,379999
+13915,https://moscow.drom.ru/datsun/mi-do/49064753.html,Datsun,mi-Do,Москва,2015,бензин,1.6,87,механика,передний,,оранжевый,104,левый,1 поколение,1.6 MT Dream I,0,450000
+13916,https://voronezh.drom.ru/datsun/on-do/49063068.html,Datsun,on-DO,Воронеж,2016,бензин,1.6,82,механика,передний,,голубой,131030,левый,1 поколение,1.6 MT Access,0,459000
+13917,https://ufa.drom.ru/datsun/on-do/49062912.html,Datsun,on-DO,Уфа,2020,бензин,1.6,87,механика,передний,,коричневый,81000,левый,"1 поколение, рестайлинг",1.6 MT Trust II,0,530000
+13918,https://anapa.drom.ru/datsun/on-do/49062214.html,Datsun,on-DO,Анапа,2020,бензин,1.6,87,механика,передний,,белый,97000,левый,"1 поколение, рестайлинг",,0,600000
+13919,https://simferopol.drom.ru/datsun/on-do/47406119.html,Datsun,on-DO,Симферополь,2020,бензин,1.6,87,АКПП,передний,,серебристый,36000,левый,"1 поколение, рестайлинг",1.6 AT Trust III,0,715000
+13920,https://kurgan.drom.ru/datsun/on-do/48809461.html,Datsun,on-DO,Курган,2020,бензин,1.6,87,механика,передний,,коричневый,10000,левый,"1 поколение, рестайлинг",1.6 MT Comfort,0,669000
+13921,https://krasnodar.drom.ru/datsun/on-do/49061305.html,Datsun,on-DO,Краснодар,2018,,,,,,,белый,262000,левый,,,0,450000
+13922,https://ekaterinburg.drom.ru/datsun/on-do/48822821.html,Datsun,on-DO,Екатеринбург,2019,бензин,1.6,87,механика,передний,,коричневый,78000,левый,1 поколение,,0,580000
+13923,https://barnaul.drom.ru/datsun/on-do/48235805.html,Datsun,on-DO,Барнаул,2017,бензин,1.6,87,механика,передний,,коричневый,40000,левый,1 поколение,,0,559000
+13924,https://krasnoyarsk.drom.ru/datsun/on-do/48641219.html,Datsun,on-DO,Красноярск,2017,бензин,1.6,87,механика,передний,,голубой,90000,левый,1 поколение,1.6 MT Dream I,0,370000
+13925,https://chelyabinsk.drom.ru/datsun/on-do/48727967.html,Datsun,on-DO,Челябинск,2015,бензин,1.6,87,механика,передний,,черный,59000,левый,1 поколение,,0,397000
+13926,https://tambov.drom.ru/datsun/on-do/48729160.html,Datsun,on-DO,Тамбов,2016,бензин,1.6,87,механика,передний,,серебристый,5499,левый,1 поколение,,0,650000
+13927,https://kursk.drom.ru/datsun/on-do/48722030.html,Datsun,on-DO,Курск,2019,бензин,1.6,87,механика,передний,,коричневый,37000,левый,1 поколение,,0,615000
+13928,https://kolomna.drom.ru/datsun/mi-do/48378328.html,Datsun,mi-Do,Коломна,2015,бензин,1.6,87,механика,передний,,белый,50961,левый,1 поколение,,0,439000
+13929,https://sedelnikovo.drom.ru/datsun/on-do/48377838.html,Datsun,on-DO,Седельниково,2018,бензин,1.6,87,механика,передний,,коричневый,97000,левый,1 поколение,,1,550000
+13930,https://petrozavodsk.drom.ru/datsun/on-do/47660558.html,Datsun,on-DO,Петрозаводск,2016,бензин,1.6,87,механика,передний,,бежевый,60000,левый,1 поколение,,0,480000
+13931,https://tulun.drom.ru/datsun/on-do/47293908.html,Datsun,on-DO,Тулун,2019,бензин,1.6,87,механика,передний,,белый,17000,левый,1 поколение,1.6 MT Access,0,530000
+13932,https://tyumen.drom.ru/datsun/on-do/46669385.html,Datsun,on-DO,Тюмень,2018,бензин,1.6,87,механика,передний,,черный,400000,левый,1 поколение,,0,310000
+13933,https://oktyabrsk-samara.drom.ru/datsun/on-do/46628396.html,Datsun,on-DO,Октябрьск,2019,бензин,1.6,106,механика,передний,,белый,100000,левый,"1 поколение, рестайлинг",1.6 MT Trust III,0,550000
+13934,https://orenburg.drom.ru/datsun/on-do/46333892.html,Datsun,on-DO,Оренбург,2019,бензин,1.6,87,АКПП,передний,,серый,69591,левый,1 поколение,,0,629000
+13935,https://ishim.drom.ru/datsun/on-do/45979455.html,Datsun,on-DO,Ишим,2018,бензин,1.6,87,механика,передний,,белый,95000,левый,1 поколение,,0,465000
+13936,https://barnaul.drom.ru/datsun/on-do/41117491.html,Datsun,on-DO,Барнаул,2020,бензин,1.6,87,АКПП,передний,,серый,20000,левый,"1 поколение, рестайлинг",1.6 AT Dream I,0,700000
+13937,https://nizhniy-novgorod.drom.ru/datsun/on-do/49028370.html,Datsun,on-DO,Нижний Новгород,2019,бензин,1.6,87,механика,передний,,коричневый,35000,левый,1 поколение,1.6 MT Dream II,1,160000
+13938,https://novosibirsk.drom.ru/datsun/on-do/48833056.html,Datsun,on-DO,Новосибирск,2015,бензин,1.6,87,механика,передний,,серебристый,39000,левый,1 поколение,,1,460000
+13939,https://sochi.drom.ru/datsun/on-do/49025731.html,Datsun,on-DO,Сочи,2016,бензин,1.6,87,механика,передний,,белый,370000,левый,1 поколение,1.6 MT Trust II,0,340000
+13940,https://tambov.drom.ru/datsun/on-do/47639547.html,Datsun,on-DO,Тамбов,2019,бензин,1.6,87,механика,передний,,коричневый,34000,левый,"1 поколение, рестайлинг",1.6 MT Trust II,0,589000
+13941,https://kemerovo.drom.ru/datsun/mi-do/49021103.html,Datsun,mi-Do,Кемерово,2015,бензин,1.6,87,механика,передний,,голубой,101610,левый,1 поколение,,0,458000
+13942,https://podolsk.drom.ru/datsun/on-do/48466410.html,Datsun,on-DO,Подольск,2015,бензин,1.6,87,механика,передний,,коричневый,33000,левый,1 поколение,1.6 MT Dream III,0,458000
+13943,https://rostov-na-donu.drom.ru/datsun/on-do/49020272.html,Datsun,on-DO,Ростов-на-Дону,2019,бензин,1.6,87,механика,передний,,белый,34738,левый,1 поколение,1.6 MT Trust III,0,650000
+13944,https://kazan.drom.ru/datsun/on-do/47975497.html,Datsun,on-DO,Казань,2017,бензин,1.6,82,механика,передний,,серебристый,85000,левый,1 поколение,1.6 MT Access,0,479000
+13945,https://simferopol.drom.ru/datsun/on-do/47571806.html,Datsun,on-DO,Симферополь,2020,бензин,1.6,87,механика,передний,,белый,41000,левый,"1 поколение, рестайлинг",1.6 MT Trust III,0,625000
+13946,https://novomoskovsk.drom.ru/datsun/on-do/45323498.html,Datsun,on-DO,Новомосковск,2019,бензин,1.6,106,механика,передний,,коричневый,51000,левый,"1 поколение, рестайлинг",1.6 MT Trust II,0,659000
+13947,https://nizhnevartovsk.drom.ru/datsun/mi-do/48658597.html,Datsun,mi-Do,Нижневартовск,2016,бензин,1.6,87,АКПП,передний,,серый,80000,левый,1 поколение,,0,600000
+13948,https://omsk.drom.ru/datsun/on-do/48682543.html,Datsun,on-DO,Омск,2015,бензин,1.6,82,механика,передний,,белый,190000,левый,1 поколение,1.6 MT Access,0,270000
+13949,https://chelyabinsk.drom.ru/datsun/on-do/48677730.html,Datsun,on-DO,Челябинск,2015,бензин,1.6,87,механика,передний,,коричневый,164000,левый,1 поколение,1.6 MT Trust III,1,345000
+13950,https://cherepovets.drom.ru/datsun/on-do/47709328.html,Datsun,on-DO,Череповец,2019,бензин,1.6,87,механика,передний,,коричневый,40000,левый,1 поколение,,0,599999
+13951,https://nizhniy-novgorod.drom.ru/datsun/mi-do/49071185.html,Datsun,mi-Do,Нижний Новгород,2015,бензин,1.6,87,АКПП,передний,,белый,7500,левый,1 поколение,,0,800000
+13952,https://simferopol.drom.ru/datsun/on-do/48951705.html,Datsun,on-DO,Симферополь,2020,бензин,1.6,87,механика,передний,,белый,43500,левый,"1 поколение, рестайлинг",1.6 MT Trust III,0,640000
+13953,https://togliatti.drom.ru/datsun/on-do/48386574.html,Datsun,on-DO,Тольятти,2017,бензин,1.6,87,механика,передний,,,,левый,1 поколение,,0,281000
+13955,https://stavropol.drom.ru/datsun/on-do/49068572.html,Datsun,on-DO,Ставрополь,2019,бензин,1.6,87,механика,передний,,серый,12000,левый,1 поколение,,0,595000
+13956,https://surgut.drom.ru/datsun/on-do/48740799.html,Datsun,on-DO,Сургут,2014,бензин,1.6,87,механика,передний,,серый,228000,левый,1 поколение,1.6 MT Dream I,0,345000
+13957,https://rostov-na-donu.drom.ru/datsun/on-do/48739348.html,Datsun,on-DO,Ростов-на-Дону,2016,бензин,1.6,87,АКПП,передний,,коричневый,140000,левый,1 поколение,1.6 AT Trust III,0,500000
+13958,https://krasnoyarsk.drom.ru/datsun/on-do/48732958.html,Datsun,on-DO,Красноярск,2017,бензин,1.6,87,механика,передний,,коричневый,1,левый,1 поколение,,0,460000
+13959,https://saratov.drom.ru/datsun/on-do/48730278.html,Datsun,on-DO,Саратов,2017,бензин,1.6,87,механика,передний,,белый,113714,левый,1 поколение,,0,380000
+13960,https://togliatti.drom.ru/datsun/on-do/48392375.html,Datsun,on-DO,Тольятти,2018,бензин,1.6,87,механика,передний,,черный,125000,левый,1 поколение,,1,190000
+13961,https://samara.drom.ru/datsun/on-do/48390420.html,Datsun,on-DO,Самара,2019,бензин,1.6,87,механика,передний,,белый,76100,левый,1 поколение,,0,585000
+13962,https://tyumen.drom.ru/datsun/on-do/48389382.html,Datsun,on-DO,Тюмень,2017,бензин,1.6,87,механика,передний,,коричневый,200000,левый,1 поколение,1.6 MT Dream I,0,340000
+13963,https://ekaterinburg.drom.ru/datsun/on-do/48047234.html,Datsun,on-DO,Екатеринбург,2014,бензин,1.6,87,механика,передний,,белый,108000,левый,1 поколение,,0,330900
+13964,https://moscow.drom.ru/datsun/on-do/48046519.html,Datsun,on-DO,Москва,2020,бензин,1.6,87,механика,передний,,белый,44000,левый,"1 поколение, рестайлинг",1.6 MT Comfort,1,640000
+13965,https://sol-iletsk.drom.ru/datsun/on-do/48043663.html,Datsun,on-DO,Соль-Илецк,2015,бензин,1.6,87,механика,передний,,коричневый,185763,левый,1 поколение,,0,415000
+13966,https://chelyabinsk.drom.ru/datsun/on-do/48042446.html,Datsun,on-DO,Челябинск,2018,бензин,1.6,87,механика,передний,,черный,66000,левый,1 поколение,,0,340000
+13967,https://nizhniy-novgorod.drom.ru/datsun/on-do/47700773.html,Datsun,on-DO,Нижний Новгород,2019,бензин,1.6,87,АКПП,передний,,белый,80112,левый,1 поколение,,0,609990
+13968,https://novosibirsk.drom.ru/datsun/on-do/46971422.html,Datsun,on-DO,Новосибирск,2018,бензин,1.6,87,механика,передний,,серебристый,143000,левый,1 поколение,1.6 MT Dream II,1,325000
+13969,https://novorossiysk.drom.ru/datsun/mi-do/48227003.html,Datsun,mi-Do,Новороссийск,2015,бензин,1.6,87,АКПП,передний,,серый,100000,левый,1 поколение,,0,535000
+13970,https://irkutsk.drom.ru/datsun/on-do/48375811.html,Datsun,on-DO,Иркутск,2015,бензин,1.6,87,механика,передний,,коричневый,95000,левый,1 поколение,1.6 MT Trust III,0,500000
+13971,https://togliatti.drom.ru/datsun/on-do/47699833.html,Datsun,on-DO,Тольятти,2017,бензин,1.6,87,механика,передний,,коричневый,88000,левый,1 поколение,,0,410000
+13972,https://ozersk-chelyabinsk.drom.ru/datsun/mi-do/47698434.html,Datsun,mi-Do,Озёрск,2015,бензин,1.6,87,механика,передний,,серый,112000,левый,1 поколение,,0,460000
+13973,https://irkutsk.drom.ru/datsun/mi-do/47678167.html,Datsun,mi-Do,Иркутск,2015,бензин,1.6,87,АКПП,передний,,,119000,левый,1 поколение,,0,460000
+13974,https://omsk.drom.ru/datsun/on-do/47083208.html,Datsun,on-DO,Омск,2016,бензин,1.6,87,механика,передний,,белый,118000,левый,1 поколение,1.6 MT Trust I,0,485000
+13975,https://kirov.drom.ru/datsun/mi-do/47031360.html,Datsun,mi-Do,Киров,2019,бензин,1.6,87,механика,передний,,серый,52614,левый,1 поколение,,0,648000
+13976,https://yoshkar-ola.drom.ru/datsun/on-do/47031195.html,Datsun,on-DO,Йошкар-Ола,2019,бензин,1.6,87,механика,передний,,коричневый,19719,левый,1 поколение,1.6 MT Dream I,0,659000
+13977,https://kirov.drom.ru/datsun/on-do/47031314.html,Datsun,on-DO,Киров,2016,бензин,1.6,87,механика,передний,,коричневый,117676,левый,1 поколение,,0,478000
+13978,https://kirov.drom.ru/datsun/on-do/47031178.html,Datsun,on-DO,Киров,2017,бензин,1.6,87,механика,передний,,черный,27530,левый,1 поколение,,0,535000
+13979,https://novosibirsk.drom.ru/datsun/on-do/46320799.html,Datsun,on-DO,Новосибирск,2015,бензин,1.6,87,механика,передний,,серый,170000,левый,1 поколение,1.6 MT Dream I,0,350000
+13980,https://irbit.drom.ru/datsun/on-do/48721047.html,Datsun,on-DO,Ирбит,2014,бензин,1.6,87,механика,передний,,черный,174000,левый,1 поколение,,1,317000
+13981,https://shebekino.drom.ru/datsun/on-do/48713617.html,Datsun,on-DO,Шебекино,2020,бензин,1.6,106,механика,передний,,коричневый,,левый,"1 поколение, рестайлинг",1.6 MT Trust II,0,595000
+13982,https://sochi.drom.ru/datsun/mi-do/49058508.html,Datsun,mi-Do,Сочи,2017,бензин,1.6,106,механика,передний,,серебристый,85000,левый,1 поколение,1.6 MT Dream II,0,650000
+13983,https://yessentuki.drom.ru/datsun/on-do/49058184.html,Datsun,on-DO,Ессентуки,2019,бензин,1.6,87,механика,передний,,серый,80000,левый,1 поколение,1.6 MT Trust II,0,630000
+13984,https://isilkul.drom.ru/datsun/on-do/49057866.html,Datsun,on-DO,Исилькуль,2015,бензин,1.6,87,механика,передний,,черный,130000,левый,1 поколение,,0,280000
+13985,https://chelyabinsk.drom.ru/datsun/on-do/49057813.html,Datsun,on-DO,Челябинск,2018,бензин,1.6,87,механика,передний,,серый,118000,левый,1 поколение,,0,359000
+13986,https://armavir.drom.ru/datsun/on-do/49057707.html,Datsun,on-DO,Армавир,2019,бензин,1.6,87,АКПП,передний,,серебристый,89000,левый,1 поколение,1.6 AT Dream I,0,415000
+13988,https://kolomna.drom.ru/datsun/on-do/49056821.html,Datsun,on-DO,Коломна,2015,бензин,1.6,87,механика,передний,,белый,54257,левый,1 поколение,,0,464000
+13989,https://irkutsk.drom.ru/datsun/on-do/49034641.html,Datsun,on-DO,Иркутск,2017,бензин,1.6,87,механика,передний,,белый,1,левый,1 поколение,1.6 MT Access,0,545000
+13990,https://armavir.drom.ru/datsun/mi-do/47081573.html,Datsun,mi-Do,Армавир,2017,бензин,1.6,87,механика,передний,,серебристый,,левый,1 поколение,,0,539000
+13991,https://karabash.drom.ru/datsun/on-do/49004542.html,Datsun,on-DO,Карабаш,2017,бензин,1.6,87,механика,передний,,серебристый,,левый,1 поколение,1.6 MT Dream II,1,230000
+13992,https://neftekamsk-bash.drom.ru/datsun/on-do/49003809.html,Datsun,on-DO,Нефтекамск,2018,бензин,1.6,87,механика,передний,,серебристый,19000,левый,1 поколение,,0,699000
+13993,https://novorossiysk.drom.ru/datsun/on-do/49003663.html,Datsun,on-DO,Новороссийск,2017,бензин,1.6,87,АКПП,передний,,голубой,87000,левый,1 поколение,1.6 AT Dream I,0,610000
+13994,https://novokuznetsk.drom.ru/datsun/on-do/48814764.html,Datsun,on-DO,Новокузнецк,2015,бензин,1.6,87,механика,передний,,коричневый,90000,левый,1 поколение,1.6 MT Dream III,0,420000
+13995,https://surgut.drom.ru/datsun/on-do/49003324.html,Datsun,on-DO,Сургут,2017,бензин,1.6,87,механика,передний,,белый,100513,левый,1 поколение,,1,390000
+13996,https://krasnodar.drom.ru/datsun/on-do/49003079.html,Datsun,on-DO,Краснодар,2019,бензин,1.6,87,механика,передний,,черный,113000,левый,1 поколение,,0,250000
+13998,https://rostov-na-donu.drom.ru/datsun/on-do/49002363.html,Datsun,on-DO,Ростов-на-Дону,2019,бензин,1.6,106,механика,передний,,серый,64364,левый,1 поколение,,0,620000
+13999,https://naberezhnye-chelny.drom.ru/datsun/on-do/49001515.html,Datsun,on-DO,Набережные Челны,2017,бензин,1.6,87,механика,передний,,черный,94432,левый,1 поколение,,0,423000
+14000,https://karabash.drom.ru/datsun/on-do/49001182.html,Datsun,on-DO,Карабаш,2017,бензин,1.6,87,механика,передний,,серебристый,160,левый,1 поколение,1.6 MT Dream II,1,200000

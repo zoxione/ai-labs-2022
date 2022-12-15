@@ -1,0 +1,462 @@
+Id,Url,Brand,Model,Region,Year,Engine,EngineVolume,Power,Transmission,Drive,Body,Color,Mileage,Wheel,Generation,Complectation,IsSold,Price
+6500,https://omsk.drom.ru/chevrolet/equinox/48197605.html,Chevrolet,Equinox,Омск,2021,бензин,2.0,240,автомат,4WD,,белый,13000,левый,,,0,3200000
+6501,https://omsk.drom.ru/chevrolet/captiva/48607599.html,Chevrolet,Captiva,Омск,2022,бензин,1.5,147,автомат,передний,,серый,20,левый,,,0,1899679
+6502,https://omsk.drom.ru/chevrolet/captiva/48552204.html,Chevrolet,Captiva,Омск,2022,бензин,1.5,147,автомат,передний,,серый,20,левый,,,0,2488679
+6503,https://engels.drom.ru/chevrolet/spark/49161638.html,Chevrolet,Spark,Энгельс,2022,бензин,1.3,85,автомат,передний,,белый,20,левый,,,0,999000
+6504,https://omsk.drom.ru/chevrolet/spark/48803707.html,Chevrolet,Spark,Омск,2022,бензин,1.2,85,АКПП,передний,,красный,20,левый,"3 поколение, рестайлинг",1.25 AT LT,0,799000
+6505,https://moscow.drom.ru/chevrolet/tahoe/49160821.html,Chevrolet,Tahoe,Москва,2021,бензин,5.3,343,АКПП,4WD,джип/suv 5 дв.,черный,37010,левый,5 поколение,,0,8890000
+6506,https://ekaterinburg.drom.ru/chevrolet/trailblazer/49160592.html,Chevrolet,TrailBlazer,Екатеринбург,2021,бензин,1.3,150,АКПП,4WD,,белый,5000,левый,3 поколение,,0,2549000
+6507,https://novokuznetsk.drom.ru/chevrolet/niva/47515252.html,Chevrolet,Niva,Новокузнецк,2020,бензин,1.7,80,механика,4WD,,зеленый,29900,левый,"1 поколение, рестайлинг",1.7 MT GLC,0,999000
+6508,https://tikhoretsk.drom.ru/chevrolet/spark/49099461.html,Chevrolet,Spark,Тихорецк,2022,бензин,1.2,85,АКПП,передний,,серебристый,28,левый,"3 поколение, рестайлинг",1.25 AT LS,1,959000
+6509,https://nyagan.drom.ru/chevrolet/tracker/48533496.html,Chevrolet,Tracker,Нягань,2022,бензин,1.0,125,автомат,передний,джип/suv 5 дв.,серый,,левый,,,0,1899000
+6510,https://kemerovo.drom.ru/chevrolet/cobalt/49106659.html,Chevrolet,Cobalt,Кемерово,2021,бензин,1.5,106,механика,передний,седан,серебристый,16000,левый,2 поколение,1.5 MT LT,0,1049999
+6512,https://spb.drom.ru/chevrolet/cobalt/49149429.html,Chevrolet,Cobalt,Санкт-Петербург,2022,бензин,1.5,106,АКПП,передний,седан,серый,38,левый,2 поколение,1.5 AT LTZ,0,1400000
+6513,https://spb.drom.ru/chevrolet/tahoe/49148176.html,Chevrolet,Tahoe,Санкт-Петербург,2022,бензин,5.3,360,автомат,4WD,джип/suv 5 дв.,черный,20,левый,,,0,10720000
+6514,https://chelyabinsk.drom.ru/chevrolet/spark/49147637.html,Chevrolet,Spark,Челябинск,2022,бензин,1.2,85,АКПП,передний,,серый,380,левый,"3 поколение, рестайлинг",1.25 AT LS,1,983000
+6515,https://biysk.drom.ru/chevrolet/niva/49147318.html,Chevrolet,Niva,Бийск,2020,бензин,1.7,80,механика,4WD,,коричневый,58500,левый,"1 поколение, рестайлинг",,0,960000
+6516,https://khanty-mansiysk.drom.ru/chevrolet/niva/49145904.html,Chevrolet,Niva,Ханты-Мансийск,2020,бензин,1.7,80,механика,4WD,,черный,29142,левый,"1 поколение, рестайлинг",,0,900000
+6517,https://kemerovo.drom.ru/chevrolet/cobalt/49144813.html,Chevrolet,Cobalt,Кемерово,2022,бензин,1.5,106,АКПП,передний,седан,серый,25,левый,2 поколение,1.5 AT LTZ,0,1349999
+6518,https://kemerovo.drom.ru/chevrolet/cobalt/49144806.html,Chevrolet,Cobalt,Кемерово,2022,бензин,1.5,106,АКПП,передний,седан,серый,25,левый,2 поколение,1.5 AT LTZ,0,1599999
+6519,https://kemerovo.drom.ru/chevrolet/cobalt/49144801.html,Chevrolet,Cobalt,Кемерово,2022,бензин,1.5,106,АКПП,передний,седан,серый,25,левый,2 поколение,1.5 AT LTZ,0,1349999
+6520,https://novokuznetsk.drom.ru/chevrolet/cobalt/49144764.html,Chevrolet,Cobalt,Новокузнецк,2021,бензин,1.5,106,АКПП,передний,седан,серый,18329,левый,2 поколение,,0,1050000
+6521,https://moscow.drom.ru/chevrolet/trailblazer/43829700.html,Chevrolet,TrailBlazer,Москва,2021,бензин,1.3,150,вариатор,передний,,черный,,левый,3 поколение,1.3 CVT LT,0,2510000
+6522,https://oktyabrsk.drom.ru/chevrolet/nexia/43842620.html,Chevrolet,Nexia,Октябрьский,2021,бензин,1.5,106,АКПП,передний,,серебристый,,левый,1 поколение,1.5 AT LT,0,1299900
+6523,https://omsk.drom.ru/chevrolet/cobalt/48580616.html,Chevrolet,Cobalt,Омск,2022,бензин,1.5,106,АКПП,передний,седан,серебристый,,левый,2 поколение,1.5 AT LTZ,0,1169000
+6524,https://novosibirsk.drom.ru/chevrolet/nexia/48664326.html,Chevrolet,Nexia,Новосибирск,2022,бензин,1.5,106,механика,передний,,серый,1077,левый,1 поколение,,0,905000
+6525,https://nizhnevartovsk.drom.ru/chevrolet/cobalt/47554606.html,Chevrolet,Cobalt,Нижневартовск,2022,бензин,1.5,106,АКПП,передний,седан,белый,1,левый,2 поколение,1.5 AT LTZ,0,1250000
+6526,https://novosibirsk.drom.ru/chevrolet/niva/49142844.html,Chevrolet,Niva,Новосибирск,2020,бензин,1.7,80,механика,4WD,,зеленый,30000,левый,"1 поколение, рестайлинг",,0,855000
+6527,https://novosibirsk.drom.ru/chevrolet/captiva/48005321.html,Chevrolet,Captiva,Новосибирск,2021,бензин,1.5,145,вариатор,передний,,белый,20,левый,"2 поколение, рестайлинг",1.5T CVT Premier,0,2100000
+6528,https://krasnoyarsk.drom.ru/chevrolet/nexia/47446667.html,Chevrolet,Nexia,Красноярск,2021,бензин,1.5,106,АКПП,передний,,красный,1400,левый,1 поколение,,0,953000
+6529,https://novosibirsk.drom.ru/chevrolet/equinox/48809682.html,Chevrolet,Equinox,Новосибирск,2022,бензин,2.0,237,автомат,4WD,,серый,1045,левый,,,0,3399000
+6530,https://rostov-na-donu.drom.ru/chevrolet/cobalt/49141500.html,Chevrolet,Cobalt,Ростов-на-Дону,2021,бензин,1.5,106,АКПП,передний,седан,серый,3100,левый,2 поколение,,0,1199900
+6531,https://spb.drom.ru/chevrolet/trailblazer/43813249.html,Chevrolet,TrailBlazer,Санкт-Петербург,2021,бензин,1.3,150,вариатор,передний,,белый,,левый,3 поколение,1.3 CVT LT,0,2560000
+6532,https://spb.drom.ru/chevrolet/trailblazer/43813250.html,Chevrolet,TrailBlazer,Санкт-Петербург,2021,бензин,1.3,150,вариатор,передний,,черный,,левый,3 поколение,1.3 CVT LT,0,2510000
+6533,https://spb.drom.ru/chevrolet/trailblazer/43813222.html,Chevrolet,TrailBlazer,Санкт-Петербург,2021,бензин,1.3,150,вариатор,передний,,белый,,левый,3 поколение,1.3 CVT LT,0,2490000
+6534,https://spb.drom.ru/chevrolet/trailblazer/43813236.html,Chevrolet,TrailBlazer,Санкт-Петербург,2021,бензин,1.3,150,вариатор,передний,,белый,,левый,3 поколение,1.3 CVT LT,0,2510000
+6535,https://spb.drom.ru/chevrolet/trailblazer/43813237.html,Chevrolet,TrailBlazer,Санкт-Петербург,2021,бензин,1.3,150,вариатор,передний,,белый,,левый,3 поколение,1.3 CVT LT,0,2510000
+6536,https://spb.drom.ru/chevrolet/trailblazer/43813244.html,Chevrolet,TrailBlazer,Санкт-Петербург,2021,бензин,1.3,150,вариатор,передний,,черный,,левый,3 поколение,1.3 CVT LT,0,2560000
+6537,https://spb.drom.ru/chevrolet/trailblazer/43813210.html,Chevrolet,TrailBlazer,Санкт-Петербург,2021,бензин,1.3,150,вариатор,передний,,белый,,левый,3 поколение,1.3 CVT LS,0,2324000
+6538,https://orsk.drom.ru/chevrolet/captiva/48794424.html,Chevrolet,Captiva,Орск,2022,бензин,1.5,147,автомат,передний,,белый,34,левый,,,0,2495000
+6539,https://sochi.drom.ru/chevrolet/cobalt/48794119.html,Chevrolet,Cobalt,Сочи,2021,бензин,1.5,106,АКПП,передний,седан,черный,780,левый,2 поколение,,0,1350000
+6540,https://shahty.drom.ru/chevrolet/malibu/48793167.html,Chevrolet,Malibu,Шахты,2020,бензин,1.5,163,вариатор,передний,седан,черный,87000,левый,"9 поколение, рестайлинг",1.5T CVT RS,0,1800000
+6541,https://nizhniy-novgorod.drom.ru/chevrolet/nexia/48791829.html,Chevrolet,Nexia,Нижний Новгород,2022,бензин,1.5,105,автомат,передний,,белый,1703,левый,,,0,1139990
+6542,https://naberezhnye-chelny.drom.ru/chevrolet/cobalt/48787465.html,Chevrolet,Cobalt,Набережные Челны,2021,бензин,1.5,106,механика,передний,седан,серый,24600,левый,2 поколение,1.5 MT LS,0,1035000
+6543,https://mezhdurechensk.drom.ru/chevrolet/nexia/48786471.html,Chevrolet,Nexia,Междуреченск,2022,бензин,1.5,106,механика,передний,,серый,1600,левый,1 поколение,1.5 MT LS,0,900000
+6544,https://simferopol.drom.ru/chevrolet/cobalt/48446356.html,Chevrolet,Cobalt,Симферополь,2021,бензин,1.5,106,АКПП,передний,седан,серый,20000,левый,2 поколение,1.5 AT LT,0,1049999
+6545,https://ufa.drom.ru/chevrolet/camaro/48445651.html,Chevrolet,Camaro,Уфа,2021,бензин,2.0,275,АКПП,задний,купе,черный,14000,левый,"6 поколение, рестайлинг",,0,3100000
+6546,https://dmitrov.drom.ru/chevrolet/cobalt/48445269.html,Chevrolet,Cobalt,Дмитров,2022,бензин,1.5,106,АКПП,передний,седан,белый,1840,левый,2 поколение,1.5 AT LTZ,0,1190000
+6547,https://engels.drom.ru/chevrolet/cobalt/47752432.html,Chevrolet,Cobalt,Энгельс,2022,бензин,1.5,106,АКПП,передний,седан,черный,14,левый,2 поколение,,0,1250000
+6549,https://sevastopol.drom.ru/chevrolet/niva/49119827.html,,,,,,,,,,,,,,,,0,
+6551,https://novosibirsk.drom.ru/chevrolet/equinox/49103367.html,,,,,,,,,,,,,,,,0,
+6553,https://barnaul.drom.ru/chevrolet/cobalt/47917893.html,,,,,,,,,,,,,,,,0,
+6555,https://moscow.drom.ru/chevrolet/tahoe/49101868.html,Chevrolet,Tahoe,Москва,2022,бензин,5.3,343,АКПП,4WD,джип/suv 5 дв.,черный,72,левый,5 поколение,,0,8699000
+6557,https://omsk.drom.ru/chevrolet/nexia/47735779.html,Chevrolet,Nexia,Омск,2022,бензин,1.5,106,АКПП,передний,,белый,358,левый,1 поколение,,0,1000000
+6558,https://anapa.drom.ru/chevrolet/camaro/48769923.html,Chevrolet,Camaro,Анапа,2020,бензин,6.2,455,АКПП,задний,купе,белый,21511,левый,"6 поколение, рестайлинг",6.2 AT LT1,0,4100000
+6559,https://ekaterinburg.drom.ru/chevrolet/nexia/48769584.html,Chevrolet,Nexia,Екатеринбург,2021,бензин,1.5,106,АКПП,передний,,белый,13810,левый,1 поколение,1.5 AT LT,0,989000
+6560,https://chelyabinsk.drom.ru/chevrolet/nexia/48473674.html,Chevrolet,Nexia,Челябинск,2022,бензин,1.5,106,механика,передний,,белый,364,левый,1 поколение,1.5 MT LT,1,895000
+6561,https://saratov.drom.ru/chevrolet/niva/48079116.html,Chevrolet,Niva,Саратов,2020,бензин,1.7,,механика,4WD,,белый,27419,,,,0,990000
+6563,https://noviy-urengoy.drom.ru/chevrolet/niva/48075691.html,Chevrolet,Niva,Новый Уренгой,2021,,,,механика,4WD,,зеленый,32000,левый,,,1,1050000
+6564,https://novosibirsk.drom.ru/chevrolet/captiva/48074560.html,Chevrolet,Captiva,Новосибирск,2021,бензин,1.5,145,вариатор,передний,,белый,2600,левый,"2 поколение, рестайлинг",1.5T CVT Premier,0,1900000
+6565,https://moscow.drom.ru/chevrolet/tahoe/47742116.html,Chevrolet,Tahoe,Москва,2021,бензин,5.3,343,АКПП,4WD,джип/suv 5 дв.,белый,2250,левый,5 поколение,,0,9449900
+6566,https://moscow.drom.ru/chevrolet/tahoe/49039845.html,Chevrolet,Tahoe,Москва,2022,бензин,5.3,343,АКПП,4WD,джип/suv 5 дв.,черный,20,левый,5 поколение,5.3 AT Z71,0,9099000
+6567,https://moscow.drom.ru/chevrolet/camaro/49099324.html,Chevrolet,Camaro,Москва,2020,бензин,2.0,275,механика,задний,купе,синий,65000,левый,"6 поколение, рестайлинг",2.0 MT 1LS,0,2900000
+6568,https://omsk.drom.ru/chevrolet/niva/49099176.html,Chevrolet,Niva,Омск,2020,бензин,1.7,80,механика,4WD,,серебристый,10500,левый,"1 поколение, рестайлинг",,0,950000
+6569,https://samara.drom.ru/chevrolet/cobalt/49098815.html,Chevrolet,Cobalt,Самара,2022,бензин,1.5,106,АКПП,передний,седан,черный,27,левый,2 поколение,,0,1279000
+6570,https://magnitogorsk.drom.ru/chevrolet/nexia/49096077.html,Chevrolet,Nexia,Магнитогорск,2022,бензин,1.5,106,АКПП,передний,,белый,20,левый,1 поколение,1.5 AT LTZ,0,999999
+6571,https://spb.drom.ru/chevrolet/tahoe/43053976.html,Chevrolet,Tahoe,Санкт-Петербург,2021,бензин,5.3,343,АКПП,4WD,джип/suv 5 дв.,черный,,левый,5 поколение,5.3 AT Z71,0,11100000
+6572,https://orenburg.drom.ru/chevrolet/captiva/48810064.html,Chevrolet,Captiva,Оренбург,2022,бензин,1.5,147,автомат,передний,,серый,31,левый,,,0,2529000
+6573,https://moscow.drom.ru/chevrolet/traverse/48125198.html,Chevrolet,Traverse,Москва,2020,бензин,3.6,318,АКПП,4WD,,черный,25000,левый,2 поколение,3.6 AT LT,0,4000000
+6574,https://novosibirsk.drom.ru/chevrolet/equinox/49140560.html,Chevrolet,Equinox,Новосибирск,2021,бензин,2.0,252,АКПП,4WD,,черный,22000,левый,3 поколение,2.0 AT AWD Premium,0,2980000
+6575,https://noyabrsk.drom.ru/chevrolet/damas/48907525.html,Chevrolet,Damas,Ноябрьск,2022,бензин,0.8,38,механика,задний,,белый,,левый,1 поколение,0.8 MT DLX,0,877000
+6576,https://barnaul.drom.ru/chevrolet/spark/49012216.html,Chevrolet,Spark,Барнаул,2022,бензин,1.2,85,АКПП,передний,,синий,новый автомобиль,левый,"3 поколение, рестайлинг",1.25 AT LS,1,900000
+6577,https://ekaterinburg.drom.ru/chevrolet/spark/49139357.html,Chevrolet,Spark,Екатеринбург,2022,бензин,1.2,85,АКПП,передний,,белый,10,левый,"3 поколение, рестайлинг",,0,980000
+6578,https://ekaterinburg.drom.ru/chevrolet/cobalt/49139349.html,Chevrolet,Cobalt,Екатеринбург,2022,бензин,1.5,106,АКПП,передний,седан,серый,10,левый,2 поколение,1.5 AT LTZ,0,1189000
+6579,https://omsk.drom.ru/chevrolet/tahoe/48324712.html,Chevrolet,Tahoe,Омск,2022,бензин,5.3,343,АКПП,4WD,джип/suv 5 дв.,черный,,левый,5 поколение,5.3 AT RST,0,9990000
+6580,https://krasnodar.drom.ru/chevrolet/camaro/46986156.html,Chevrolet,Camaro,Краснодар,2020,бензин,2.0,275,АКПП,задний,купе,серый,39355,левый,"6 поколение, рестайлинг",2.0 AT 1LT,0,3190000
+6581,https://nizhniy-tagil.drom.ru/chevrolet/spark/49135854.html,Chevrolet,Spark,Нижний Тагил,2022,бензин,1.2,85,АКПП,передний,,серебристый,800,левый,"3 поколение, рестайлинг",1.25 AT LT,0,1000000
+6582,https://tomsk.drom.ru/chevrolet/cobalt/48255614.html,Chevrolet,Cobalt,Томск,2022,бензин,1.5,106,АКПП,передний,седан,белый,,левый,2 поколение,1.5 AT LT,0,1150000
+6583,https://himki.drom.ru/chevrolet/spark/49135030.html,Chevrolet,Spark,Химки,2022,бензин,1.3,85,автомат,передний,,красный,700,левый,,,0,965000
+6584,https://bryuhovetskaya.drom.ru/chevrolet/cobalt/49134736.html,Chevrolet,Cobalt,Брюховецкая,2020,бензин,1.5,106,АКПП,передний,седан,серебристый,21000,левый,2 поколение,1.5 AT LTZ,0,1050000
+6585,https://moscow.drom.ru/chevrolet/trailblazer/43829717.html,Chevrolet,TrailBlazer,Москва,2021,бензин,1.3,150,АКПП,4WD,,черный,,левый,3 поколение,1.3 AT AWD LT,0,2862000
+6586,https://moscow.drom.ru/chevrolet/tahoe/48115936.html,Chevrolet,Tahoe,Москва,2021,бензин,5.3,343,АКПП,4WD,джип/suv 5 дв.,черный,,левый,5 поколение,5.3 AT Z71,0,11628000
+6587,https://moscow.drom.ru/chevrolet/trailblazer/43829714.html,Chevrolet,TrailBlazer,Москва,2021,бензин,1.3,150,АКПП,4WD,,черный,,левый,3 поколение,1.3 AT AWD LT,0,2808000
+6588,https://moscow.drom.ru/chevrolet/trailblazer/43829679.html,Chevrolet,TrailBlazer,Москва,2021,бензин,1.3,150,вариатор,передний,,черный,,левый,3 поколение,1.3 CVT LT,0,2510000
+6589,https://habarovsk.drom.ru/chevrolet/cobalt/48841866.html,Chevrolet,Cobalt,Хабаровск,2022,бензин,1.5,106,АКПП,передний,седан,,новый автомобиль,левый,2 поколение,1.5 AT LTZ,0,1299000
+6591,https://novosibirsk.drom.ru/chevrolet/spark/48382456.html,Chevrolet,Spark,Новосибирск,2022,бензин,1.2,85,АКПП,передний,,белый,,левый,"3 поколение, рестайлинг",1.25 AT LT,0,950000
+6592,https://voronezh.drom.ru/chevrolet/cobalt/48692616.html,Chevrolet,Cobalt,Воронеж,2022,бензин,1.5,106,АКПП,передний,седан,серебристый,новый автомобиль,левый,2 поколение,1.5 AT LTZ,0,1280000
+6593,https://krasnodar.drom.ru/chevrolet/spark/48645330.html,Chevrolet,Spark,Краснодар,2022,бензин,1.3,85,автомат,передний,,белый,6991,левый,,,0,975000
+6594,https://tyumen.drom.ru/chevrolet/nexia/49042850.html,Chevrolet,Nexia,Тюмень,2021,бензин,1.5,106,АКПП,передний,,,,левый,1 поколение,1.5 AT LTZ,0,1098900
+6595,https://kopeysk.drom.ru/chevrolet/cobalt/46902788.html,Chevrolet,Cobalt,Копейск,2020,бензин,1.5,106,АКПП,передний,седан,синий,28000,левый,2 поколение,1.5 AT LTZ,0,865000
+6596,https://yaroslavl.drom.ru/chevrolet/malibu/49040637.html,Chevrolet,Malibu,Ярославль,2022,бензин,2.0,250,АКПП,передний,седан,белый,2137,левый,"9 поколение, рестайлинг",2.0T AT Premier,0,2899000
+6597,https://irkutsk.drom.ru/chevrolet/niva/48954396.html,Chevrolet,Niva,Иркутск,2020,бензин,1.7,80,механика,4WD,,коричневый,13000,левый,"1 поколение, рестайлинг",,0,689999
+6598,https://spb.drom.ru/chevrolet/trailblazer/45629980.html,Chevrolet,TrailBlazer,Санкт-Петербург,2021,бензин,1.3,150,вариатор,передний,,белый,,левый,3 поколение,1.3 CVT LT,0,2510000
+6599,https://engels.drom.ru/chevrolet/spark/48704056.html,Chevrolet,Spark,Энгельс,2022,бензин,1.3,85,автомат,передний,,синий,19,левый,,,0,945000
+6600,https://rostov-na-donu.drom.ru/chevrolet/captiva/48694670.html,Chevrolet,Captiva,Ростов-на-Дону,2022,бензин,1.5,149,автомат,передний,,черный,,левый,,,0,2499900
+6601,https://vyselki.drom.ru/chevrolet/spark/48359719.html,Chevrolet,Spark,Выселки,2022,бензин,1.2,85,АКПП,передний,,белый,500,левый,"3 поколение, рестайлинг",,0,1169000
+6602,https://kazan.drom.ru/chevrolet/cobalt/48357584.html,Chevrolet,Cobalt,Казань,2022,бензин,1.5,106,АКПП,передний,седан,белый,6000,левый,2 поколение,,0,1250000
+6603,https://ufa.drom.ru/chevrolet/nexia/48354753.html,Chevrolet,Nexia,Уфа,2021,бензин,1.5,105,механика,передний,,серый,6210,левый,,,0,855000
+6604,https://ekaterinburg.drom.ru/chevrolet/nexia/48010670.html,Chevrolet,Nexia,Екатеринбург,2020,бензин,1.5,106,АКПП,передний,,серый,1176,левый,1 поколение,1.5 AT LT,0,954000
+6605,https://kazan.drom.ru/chevrolet/spark/48006990.html,Chevrolet,Spark,Казань,2022,бензин,1.2,85,АКПП,передний,,белый,1260,левый,"3 поколение, рестайлинг",1.25 AT LT,0,1250000
+6606,https://ekaterinburg.drom.ru/chevrolet/nexia/46371843.html,Chevrolet,Nexia,Екатеринбург,2021,бензин,1.5,106,механика,передний,,серебристый,10,левый,1 поколение,1.5 MT LS,0,1117855
+6607,https://moscow.drom.ru/chevrolet/tahoe/48794711.html,Chevrolet,Tahoe,Москва,2022,бензин,5.3,343,АКПП,4WD,джип/suv 5 дв.,черный,новый автомобиль,левый,5 поколение,5.3 AT Z71,0,9350000
+6608,https://tikhoretsk.drom.ru/chevrolet/spark/49038987.html,Chevrolet,Spark,Тихорецк,2022,бензин,1.2,85,АКПП,передний,,белый,20,левый,"3 поколение, рестайлинг",1.25 AT LT,1,999000
+6609,https://moscow.drom.ru/chevrolet/trailblazer/49037931.html,Chevrolet,TrailBlazer,Москва,2021,бензин,1.3,150,АКПП,4WD,,черный,127,левый,3 поколение,,0,2519000
+6610,https://sochi.drom.ru/chevrolet/spark/48504321.html,Chevrolet,Spark,Сочи,2022,бензин,1.2,85,АКПП,передний,,белый,300,левый,"3 поколение, рестайлинг",,0,950000
+6611,https://spb.drom.ru/chevrolet/cobalt/49087990.html,Chevrolet,Cobalt,Санкт-Петербург,2022,бензин,1.5,106,АКПП,передний,седан,серый,20,левый,2 поколение,,0,1349000
+6612,https://spb.drom.ru/chevrolet/nexia/49087987.html,Chevrolet,Nexia,Санкт-Петербург,2022,бензин,1.5,105,автомат,передний,,черный,20,левый,,,0,1249000
+6613,https://samara.drom.ru/chevrolet/cobalt/49086982.html,Chevrolet,Cobalt,Самара,2022,бензин,1.5,106,АКПП,передний,седан,красный,30,левый,2 поколение,,0,1199000
+6615,https://simferopol.drom.ru/chevrolet/nexia/47215382.html,Chevrolet,Nexia,Симферополь,2021,бензин,1.5,106,АКПП,передний,,белый,16000,левый,1 поколение,1.5 AT LTZ,0,1030000
+6616,https://voronezhskaya.drom.ru/chevrolet/nexia/49085864.html,Chevrolet,Nexia,Воронежская,2021,бензин,1.5,106,механика,передний,,серебристый,18100,левый,1 поколение,1.5 MT LT,0,875000
+6617,https://chita.drom.ru/chevrolet/niva/48864151.html,Chevrolet,Niva,Чита,2020,бензин,1.7,80,механика,4WD,,зеленый,16500,левый,"1 поколение, рестайлинг",1.7 MT SL,0,870000
+6618,https://novokuznetsk.drom.ru/chevrolet/nexia/48654914.html,Chevrolet,Nexia,Новокузнецк,2022,бензин,1.5,106,механика,передний,,белый,1640,левый,1 поколение,,0,920000
+6619,https://rostov-na-donu.drom.ru/chevrolet/nexia/49084499.html,Chevrolet,Nexia,Ростов-на-Дону,2022,бензин,1.5,106,механика,передний,,серый,10,левый,1 поколение,,0,999900
+6620,https://aramil.drom.ru/chevrolet/spark/48453149.html,Chevrolet,Spark,Арамиль,2021,бензин,1.2,85,АКПП,передний,,синий,13000,левый,"3 поколение, рестайлинг",1.25 AT L,0,935000
+6621,https://asbest.drom.ru/chevrolet/cobalt/47670141.html,Chevrolet,Cobalt,Асбест,2022,бензин,1.5,106,АКПП,передний,седан,белый,950,левый,2 поколение,1.5 AT LTZ,1,1168000
+6622,https://sochi.drom.ru/chevrolet/spark/49083908.html,Chevrolet,Spark,Сочи,2022,бензин,1.2,85,АКПП,передний,,черный,3000,левый,"3 поколение, рестайлинг",,0,1170000
+6623,https://omsk.drom.ru/chevrolet/cobalt/46275086.html,Chevrolet,Cobalt,Омск,2021,бензин,1.5,106,АКПП,передний,седан,черный,10,левый,2 поколение,1.5 AT LTZ,1,1169000
+6624,https://ekaterinburg.drom.ru/chevrolet/nexia/49083751.html,Chevrolet,Nexia,Екатеринбург,2022,бензин,1.5,106,АКПП,передний,,белый,1000,левый,1 поколение,,0,1100000
+6625,https://krasnoyarsk.drom.ru/chevrolet/spark/49082330.html,Chevrolet,Spark,Красноярск,2022,бензин,1.3,85,автомат,передний,,коричневый,10903,левый,,,0,965000
+6626,https://omsk.drom.ru/chevrolet/niva/48065998.html,Chevrolet,Niva,Омск,2020,бензин,1.7,80,механика,4WD,,серый,26000,левый,"1 поколение, рестайлинг",1.7 MT SL,1,999000
+6627,https://novosibirsk.drom.ru/chevrolet/cobalt/48372951.html,Chevrolet,Cobalt,Новосибирск,2022,бензин,1.5,106,АКПП,передний,седан,белый,,левый,2 поколение,1.5 AT LT,0,1099000
+6628,https://kemerovo.drom.ru/chevrolet/cobalt/48747647.html,Chevrolet,Cobalt,Кемерово,2022,бензин,1.5,106,АКПП,передний,седан,белый,3,левый,2 поколение,1.5 AT LTZ,0,1190000
+6629,https://moscow.drom.ru/chevrolet/cobalt/48396039.html,Chevrolet,Cobalt,Москва,2022,бензин,1.5,106,АКПП,передний,седан,белый,1700,левый,2 поколение,1.5 AT LT,0,1170000
+6630,https://prokopyevsk.drom.ru/chevrolet/cobalt/44523811.html,Chevrolet,Cobalt,Прокопьевск,2021,бензин,1.5,106,механика,передний,седан,синий,14000,левый,2 поколение,1.5 MT LT,0,1059000
+6631,https://novosibirsk.drom.ru/chevrolet/niva/48321954.html,Chevrolet,Niva,Новосибирск,2020,бензин,1.7,80,механика,4WD,,зеленый,30000,левый,"1 поколение, рестайлинг",,0,869000
+6632,https://tyumen.drom.ru/chevrolet/cobalt/49126022.html,Chevrolet,Cobalt,Тюмень,2022,бензин,1.5,106,АКПП,передний,седан,,,левый,2 поколение,1.5 AT LT,0,1189900
+6633,https://sevastopol.drom.ru/chevrolet/nexia/48533379.html,Chevrolet,Nexia,Севастополь,2020,бензин,1.5,106,АКПП,передний,,белый,21500,левый,1 поколение,1.5 AT LT,0,935000
+6634,https://moscow.drom.ru/chevrolet/trailblazer/46437991.html,Chevrolet,TrailBlazer,Москва,2021,бензин,1.3,150,вариатор,передний,,белый,,левый,3 поколение,1.3 CVT LT,0,2494000
+6635,https://moscow.drom.ru/chevrolet/trailblazer/46437992.html,Chevrolet,TrailBlazer,Москва,2021,бензин,1.3,150,вариатор,передний,,белый,,левый,3 поколение,1.3 CVT LT,0,2490000
+6636,https://moscow.drom.ru/chevrolet/trailblazer/46437993.html,Chevrolet,TrailBlazer,Москва,2021,бензин,1.3,150,вариатор,передний,,белый,,левый,3 поколение,1.3 CVT LT,0,2490000
+6637,https://moscow.drom.ru/chevrolet/tahoe/48104615.html,Chevrolet,Tahoe,Москва,2021,бензин,5.3,343,АКПП,4WD,джип/suv 5 дв.,черный,,левый,5 поколение,5.3 AT RST,0,11778000
+6638,https://moscow.drom.ru/chevrolet/tahoe/48104613.html,Chevrolet,Tahoe,Москва,2021,бензин,5.3,343,АКПП,4WD,джип/suv 5 дв.,черный,,левый,5 поколение,5.3 AT RST,0,14051000
+6639,https://moscow.drom.ru/chevrolet/tahoe/48104612.html,Chevrolet,Tahoe,Москва,2021,бензин,5.3,343,АКПП,4WD,джип/suv 5 дв.,черный,,левый,5 поколение,5.3 AT RST,0,11779000
+6640,https://omsk.drom.ru/chevrolet/spark/48738166.html,Chevrolet,Spark,Омск,2022,бензин,1.3,85,автомат,передний,,серебристый,19,левый,,,0,1035000
+6641,https://abakan.drom.ru/chevrolet/niva/49123578.html,Chevrolet,Niva,Абакан,2020,бензин,1.7,80,механика,4WD,,серый,33500,левый,"1 поколение, рестайлинг",1.7 MT SL,1,990000
+6642,https://novokuznetsk.drom.ru/chevrolet/niva/48338138.html,Chevrolet,Niva,Новокузнецк,2020,бензин,1.7,80,механика,4WD,,серый,17000,левый,"1 поколение, рестайлинг",,0,929000
+6643,https://barnaul.drom.ru/chevrolet/niva/48971585.html,Chevrolet,Niva,Барнаул,2020,бензин,1.7,80,механика,4WD,,зеленый,29000,левый,"1 поколение, рестайлинг",1.7 MT GLC,0,975000
+6644,https://voronezh.drom.ru/chevrolet/trailblazer/49122794.html,Chevrolet,TrailBlazer,Воронеж,2020,бензин,1.3,150,автомат,передний,,синий,18600,левый,,,0,1850000
+6645,https://abakan.drom.ru/chevrolet/nexia/48754188.html,Chevrolet,Nexia,Абакан,2022,бензин,1.5,106,АКПП,передний,,черный,,левый,1 поколение,1.5 AT LTZ,0,1099999
+6646,https://himki.drom.ru/chevrolet/spark/49122238.html,Chevrolet,Spark,Химки,2022,бензин,1.3,85,автомат,передний,,белый,88,левый,,,0,1045000
+6647,https://habarovsk.drom.ru/chevrolet/cobalt/48842392.html,Chevrolet,Cobalt,Хабаровск,2022,бензин,1.5,106,АКПП,передний,седан,,новый автомобиль,левый,2 поколение,1.5 AT LTZ,0,1299000
+6648,https://spb.drom.ru/chevrolet/trailblazer/43813246.html,Chevrolet,TrailBlazer,Санкт-Петербург,2021,бензин,1.3,150,вариатор,передний,,черный,,левый,3 поколение,1.3 CVT LT,0,2510000
+6649,https://spb.drom.ru/chevrolet/trailblazer/43813247.html,Chevrolet,TrailBlazer,Санкт-Петербург,2021,бензин,1.3,150,вариатор,передний,,черный,,левый,3 поколение,1.3 CVT LT,0,2510000
+6650,https://spb.drom.ru/chevrolet/trailblazer/43813248.html,Chevrolet,TrailBlazer,Санкт-Петербург,2021,бензин,1.3,150,вариатор,передний,,черный,,левый,3 поколение,1.3 CVT LT,0,2510000
+6651,https://omsk.drom.ru/chevrolet/spark/48816141.html,Chevrolet,Spark,Омск,2022,бензин,1.2,85,АКПП,передний,,серый,20,левый,"3 поколение, рестайлинг",1.25 AT LT,0,1040000
+6652,https://tyumen.drom.ru/chevrolet/spark/49021933.html,Chevrolet,Spark,Тюмень,2022,бензин,1.2,85,АКПП,передний,,серебристый,28,левый,"3 поколение, рестайлинг",1.25 AT LT,0,1079000
+6653,https://omsk.drom.ru/chevrolet/damas/48588904.html,Chevrolet,Damas,Омск,2022,бензин,0.8,38,механика,задний,,белый,1,левый,1 поколение,0.8 MT DLX,0,669900
+6654,https://omsk.drom.ru/chevrolet/captiva/48587391.html,Chevrolet,Captiva,Омск,2022,бензин,1.5,147,автомат,передний,,белый,1,левый,,,0,2450000
+6655,https://novosibirsk.drom.ru/chevrolet/captiva/47746146.html,Chevrolet,Captiva,Новосибирск,2021,бензин,1.5,145,вариатор,передний,,белый,,левый,"2 поколение, рестайлинг",1.5T CVT LT 7-seats,0,2150000
+6656,https://novokuznetsk.drom.ru/chevrolet/cobalt/49121615.html,Chevrolet,Cobalt,Новокузнецк,2022,бензин,1.5,106,АКПП,передний,седан,белый,997,левый,2 поколение,,0,1270000
+6657,https://novosibirsk.drom.ru/chevrolet/cobalt/48734478.html,Chevrolet,Cobalt,Новосибирск,2022,бензин,1.5,106,АКПП,передний,седан,черный,,левый,2 поколение,1.5 AT LTZ,0,1150000
+6659,https://beloyarskiy-hmao.drom.ru/chevrolet/niva/48825693.html,Chevrolet,Niva,Белоярский,2020,бензин,1.7,80,механика,4WD,,зеленый,17000,левый,"1 поколение, рестайлинг",,0,900000
+6660,https://chelyabinsk.drom.ru/chevrolet/nexia/48481110.html,Chevrolet,Nexia,Челябинск,2020,бензин,1.6,102,автомат,передний,,,12144,левый,,,0,938000
+6662,https://saratov.drom.ru/chevrolet/cobalt/48480476.html,Chevrolet,Cobalt,Саратов,2020,бензин,1.5,,механика,передний,седан,белый,70380,,,,0,1010000
+6663,https://maslyanino.drom.ru/chevrolet/niva/48473826.html,Chevrolet,Niva,Маслянино,2020,бензин,1.7,80,механика,4WD,,серый,3012,левый,"1 поколение, рестайлинг",,1,890000
+6664,https://ufa.drom.ru/chevrolet/tracker/48133935.html,Chevrolet,Tracker,Уфа,2021,бензин,1.8,140,автомат,передний,джип/suv 5 дв.,черный,4000,левый,,,0,1699000
+6665,https://spb.drom.ru/chevrolet/niva/47797115.html,Chevrolet,Niva,Санкт-Петербург,2020,бензин,1.7,80,механика,4WD,,серый,52500,левый,"1 поколение, рестайлинг",,0,880000
+6666,https://moscow.drom.ru/chevrolet/nexia/49151359.html,Chevrolet,Nexia,Москва,2020,бензин,1.5,106,АКПП,передний,,серый,43341,левый,1 поколение,,0,895000
+6667,https://moscow.drom.ru/chevrolet/cobalt/49151317.html,Chevrolet,Cobalt,Москва,2020,бензин,1.5,105,автомат,передний,седан,серый,66365,левый,,,0,990000
+6668,https://novosibirsk.drom.ru/chevrolet/tracker/49150026.html,Chevrolet,Tracker,Новосибирск,2022,бензин,1.0,125,АКПП,передний,джип/suv 5 дв.,белый,,левый,4 поколение,1.0T AT 325T,0,1999000
+6669,https://kemerovo.drom.ru/chevrolet/cobalt/49149805.html,Chevrolet,Cobalt,Кемерово,2022,бензин,1.5,106,АКПП,передний,седан,белый,новый автомобиль,левый,2 поколение,1.5 AT LT,0,1269900
+6670,https://ryazan.drom.ru/chevrolet/nexia/48870536.html,Chevrolet,Nexia,Рязань,2021,бензин,1.5,106,механика,передний,,белый,25000,левый,1 поколение,1.5 MT LS,0,820000
+6671,https://tyumen.drom.ru/chevrolet/niva/48713857.html,Chevrolet,Niva,Тюмень,2020,бензин,1.7,80,механика,4WD,,серый,27000,левый,"1 поколение, рестайлинг",1.7 MT GLC,0,1050000
+6672,https://spb.drom.ru/chevrolet/trailblazer/45632680.html,Chevrolet,TrailBlazer,Санкт-Петербург,2021,бензин,1.3,150,вариатор,передний,,белый,,левый,3 поколение,1.3 CVT LT,0,2490000
+6673,https://chita.drom.ru/chevrolet/menlo/47936927.html,Chevrolet,Menlo,Чита,2020,электр,,150,автомат,передний,,серый,2300,левый,,,0,2350000
+6674,https://spb.drom.ru/chevrolet/tracker/48716681.html,Chevrolet,Tracker,Санкт-Петербург,2020,бензин,1.8,141,автомат,передний,джип/suv 5 дв.,белый,7300,левый,,,0,1700000
+6676,https://krasnodar.drom.ru/chevrolet/silverado/48369641.html,Chevrolet,Silverado,Краснодар,2020,бензин,5.3,355,автомат,4WD,,красный,48753,левый,,,0,5000000
+6677,https://serov.drom.ru/chevrolet/niva/48025428.html,Chevrolet,Niva,Серов,2020,бензин,1.7,80,механика,4WD,,серый,6000,левый,"1 поколение, рестайлинг",,1,1200000
+6678,https://omsk.drom.ru/chevrolet/niva/48019877.html,Chevrolet,Niva,Омск,2020,бензин,1.7,80,механика,4WD,,серебристый,16350,левый,"1 поколение, рестайлинг",1.7 MT GLC,0,1050000
+6679,https://nizhniy-novgorod.drom.ru/chevrolet/damas/47684382.html,Chevrolet,Damas,Нижний Новгород,2022,бензин,0.8,38,механика,задний,,белый,5,левый,,,0,845000
+6681,https://troytsk-chelabinsk.drom.ru/chevrolet/spark/48322288.html,Chevrolet,Spark,Троицк,2022,бензин,1.3,85,автомат,передний,,бордовый,новый автомобиль,левый,,,0,1100000
+6682,https://ekaterinburg.drom.ru/chevrolet/spark/49049105.html,Chevrolet,Spark,Екатеринбург,2022,бензин,1.2,85,АКПП,передний,,белый,10,левый,"3 поколение, рестайлинг",,0,999000
+6683,https://samara.drom.ru/chevrolet/cobalt/49048733.html,Chevrolet,Cobalt,Самара,2022,бензин,1.5,106,АКПП,передний,седан,серебристый,19,левый,2 поколение,,0,1199000
+6684,https://tyumen.drom.ru/chevrolet/nexia/48972270.html,Chevrolet,Nexia,Тюмень,2022,бензин,1.5,106,АКПП,передний,,белый,976,левый,1 поколение,,0,1160000
+6685,https://novosibirsk.drom.ru/chevrolet/nexia/49048094.html,Chevrolet,Nexia,Новосибирск,2021,бензин,1.5,106,механика,передний,,синий,1400,левый,1 поколение,,0,800000
+6686,https://ekaterinburg.drom.ru/chevrolet/spark/49045806.html,Chevrolet,Spark,Екатеринбург,2022,бензин,1.2,85,АКПП,передний,,серебристый,10,левый,"3 поколение, рестайлинг",,0,980000
+6687,https://spb.drom.ru/chevrolet/colorado/48733118.html,Chevrolet,Colorado,Санкт-Петербург,2020,бензин,3.6,305,автомат,4WD,,черный,21792,левый,,,0,4523900
+6688,https://glubokiy.drom.ru/chevrolet/niva/49045713.html,Chevrolet,Niva,Глубокий,2021,бензин,1.7,80,механика,4WD,,серый,31960,левый,,,0,1100000
+6689,https://omsk.drom.ru/chevrolet/spark/49044772.html,Chevrolet,Spark,Омск,2021,бензин,1.2,85,АКПП,передний,,коричневый,2300,левый,"3 поколение, рестайлинг",1.25 AT LT,0,1056987
+6690,https://krasnodar.drom.ru/chevrolet/captiva/48798959.html,Chevrolet,Captiva,Краснодар,2022,бензин,1.5,170,автомат,передний,,красный,,левый,,,0,2390000
+6691,https://novokuznetsk.drom.ru/chevrolet/cobalt/48801050.html,Chevrolet,Cobalt,Новокузнецк,2022,бензин,1.5,106,АКПП,передний,седан,белый,1170,левый,2 поколение,,1,1180000
+6693,https://ekaterinburg.drom.ru/chevrolet/damas/48976013.html,,,,,,,,,,,,,,,,0,
+6695,https://volgograd.drom.ru/chevrolet/niva/48975569.html,,,,,,,,,,,,,,,,0,
+6697,https://moscow.drom.ru/chevrolet/tahoe/48975522.html,,,,,,,,,,,,,,,,0,
+6699,https://engels.drom.ru/chevrolet/cobalt/48637878.html,Chevrolet,Cobalt,Энгельс,2022,бензин,1.5,106,АКПП,передний,седан,коричневый,18,левый,2 поколение,,0,1300000
+6700,https://engels.drom.ru/chevrolet/cobalt/48289708.html,Chevrolet,Cobalt,Энгельс,2022,бензин,1.5,106,АКПП,передний,седан,черный,21,левый,2 поколение,,0,1300000
+6701,https://kirov.drom.ru/chevrolet/niva/47275455.html,Chevrolet,Niva,Киров,2020,бензин,1.7,80,механика,4WD,,серый,21500,левый,"1 поколение, рестайлинг",,0,929000
+6702,https://nizhniy-novgorod.drom.ru/chevrolet/cobalt/46289921.html,Chevrolet,Cobalt,Нижний Новгород,2020,бензин,1.5,106,АКПП,передний,седан,белый,12628,левый,2 поколение,,0,1039990
+6704,https://moscow.drom.ru/chevrolet/tahoe/48974133.html,Chevrolet,Tahoe,Москва,2022,бензин,5.3,343,АКПП,4WD,джип/suv 5 дв.,черный,52,левый,5 поколение,,0,8750000
+6705,https://omsk.drom.ru/chevrolet/captiva/48634009.html,Chevrolet,Captiva,Омск,2022,бензин,1.5,147,автомат,передний,,черный,20,левый,,,0,1999990
+6706,https://tyumen.drom.ru/chevrolet/cobalt/48972271.html,Chevrolet,Cobalt,Тюмень,2022,бензин,1.5,106,АКПП,передний,седан,серый,32,левый,2 поколение,,0,1290000
+6707,https://tyumen.drom.ru/chevrolet/nexia/48972269.html,Chevrolet,Nexia,Тюмень,2022,бензин,1.5,106,АКПП,передний,,черный,967,левый,1 поколение,,0,1230000
+6708,https://taganrog.drom.ru/chevrolet/damas/48626890.html,Chevrolet,Damas,Таганрог,2022,бензин,0.8,38,механика,задний,,белый,3000,левый,1 поколение,0.8 MT DLX,1,920000
+6709,https://chelyabinsk.drom.ru/chevrolet/cobalt/47930257.html,Chevrolet,Cobalt,Челябинск,2022,бензин,1.5,106,АКПП,передний,седан,белый,427,левый,2 поколение,1.5 AT LT,1,1135000
+6710,https://novosibirsk.drom.ru/chevrolet/niva/48966351.html,Chevrolet,Niva,Новосибирск,2020,бензин,1.7,80,механика,4WD,,серебристый,65000,левый,"1 поколение, рестайлинг",1.7 MT LEM,1,805000
+6711,https://shahty.drom.ru/chevrolet/nexia/48871609.html,Chevrolet,Nexia,Шахты,2022,бензин,1.5,106,механика,передний,,белый,10,левый,1 поколение,,0,919900
+6712,https://shahty.drom.ru/chevrolet/nexia/48871608.html,Chevrolet,Nexia,Шахты,2022,бензин,1.5,106,механика,передний,,серебристый,10,левый,1 поколение,,0,919900
+6713,https://shahty.drom.ru/chevrolet/nexia/48871603.html,Chevrolet,Nexia,Шахты,2022,бензин,1.5,106,механика,передний,,белый,10,левый,1 поколение,,0,919900
+6714,https://bratsk.drom.ru/chevrolet/niva/48870560.html,Chevrolet,Niva,Братск,2020,бензин,1.7,80,механика,4WD,,белый,115000,левый,"1 поколение, рестайлинг",,0,850000
+6715,https://kazan.drom.ru/chevrolet/cobalt/48038188.html,Chevrolet,Cobalt,Казань,2020,бензин,1.5,106,АКПП,передний,седан,коричневый,42000,левый,2 поколение,1.5 AT LTZ,0,980000
+6716,https://elizovo.drom.ru/chevrolet/cobalt/47293218.html,Chevrolet,Cobalt,Елизово,2021,бензин,1.5,106,АКПП,передний,седан,серый,новый автомобиль,левый,2 поколение,,0,1100000
+6717,https://moscow.drom.ru/chevrolet/tahoe/46511141.html,Chevrolet,Tahoe,Москва,2021,бензин,5.3,343,АКПП,4WD,джип/suv 5 дв.,белый,18,левый,5 поколение,,0,11800000
+6718,https://voronezh.drom.ru/chevrolet/niva/48524408.html,Chevrolet,Niva,Воронеж,2020,бензин,1.7,80,механика,4WD,,зеленый,63906,левый,"1 поколение, рестайлинг",,0,834000
+6719,https://spb.drom.ru/chevrolet/colorado/48521075.html,Chevrolet,Colorado,Санкт-Петербург,2020,бензин,3.6,308,АКПП,4WD,,черный,727,левый,2 поколение,,0,5300000
+6720,https://ryazan.drom.ru/chevrolet/cobalt/48517503.html,Chevrolet,Cobalt,Рязань,2022,бензин,1.5,106,АКПП,передний,седан,белый,50,левый,2 поколение,,0,1263000
+6721,https://nizhniy-novgorod.drom.ru/chevrolet/nexia/48176269.html,Chevrolet,Nexia,Нижний Новгород,2020,бензин,1.5,106,АКПП,передний,,серебристый,21916,левый,1 поколение,,0,844000
+6722,https://orsk.drom.ru/chevrolet/niva/46570288.html,Chevrolet,Niva,Орск,2020,бензин,1.7,80,механика,4WD,,коричневый,13000,левый,"1 поколение, рестайлинг",1.7 MT GLC,1,999999
+6723,https://nizhnekamsk.drom.ru/chevrolet/trailblazer/48861645.html,Chevrolet,TrailBlazer,Нижнекамск,2021,бензин,1.3,150,вариатор,передний,,белый,15500,левый,3 поколение,,0,1990000
+6724,https://voronezh.drom.ru/chevrolet/spark/48860172.html,Chevrolet,Spark,Воронеж,2022,бензин,1.2,85,АКПП,передний,,серый,1,левый,"3 поколение, рестайлинг",,0,1147000
+6725,https://krasnoyarsk.drom.ru/chevrolet/traverse/47859039.html,Chevrolet,Traverse,Красноярск,2020,бензин,3.6,318,АКПП,4WD,,белый,22000,левый,2 поколение,3.6 AT Premier,0,3257000
+6726,https://orenburg.drom.ru/chevrolet/cobalt/48509471.html,Chevrolet,Cobalt,Оренбург,2022,бензин,1.5,106,механика,передний,седан,серый,новый автомобиль,левый,2 поколение,1.5 MT LT,0,1200000
+6727,https://ekaterinburg.drom.ru/chevrolet/tracker/48507918.html,Chevrolet,Tracker,Екатеринбург,2022,бензин,1.0,125,автомат,передний,джип/suv 5 дв.,черный,1000,левый,,,0,1975000
+6728,https://ekaterinburg.drom.ru/chevrolet/captiva/48497128.html,Chevrolet,Captiva,Екатеринбург,2022,бензин,1.5,145,вариатор,передний,,белый,700,левый,"2 поколение, рестайлинг",1.5T CVT Premier,0,2255000
+6729,https://lytkarino.drom.ru/chevrolet/malibu/48160702.html,Chevrolet,Malibu,Лыткарино,2020,бензин,1.5,163,вариатор,передний,седан,серый,106000,левый,"9 поколение, рестайлинг",1.5T CVT LT,0,1550000
+6730,https://abakan.drom.ru/chevrolet/niva/48853432.html,Chevrolet,Niva,Абакан,2020,бензин,1.7,80,механика,4WD,,белый,36000,левый,"1 поколение, рестайлинг",1.7 MT GLC,0,1000000
+6731,https://engels.drom.ru/chevrolet/cobalt/48992033.html,Chevrolet,Cobalt,Энгельс,2022,бензин,1.5,106,АКПП,передний,седан,серый,23,левый,2 поколение,,0,1300000
+6732,https://engels.drom.ru/chevrolet/cobalt/48992029.html,Chevrolet,Cobalt,Энгельс,2022,бензин,1.5,106,механика,передний,седан,серый,23,левый,2 поколение,1.5 MT LT,0,1120000
+6733,https://engels.drom.ru/chevrolet/spark/48992019.html,Chevrolet,Spark,Энгельс,2022,бензин,1.3,85,автомат,передний,,синий,45,левый,,,0,1080000
+6734,https://moscow.drom.ru/chevrolet/trailblazer/43829715.html,Chevrolet,TrailBlazer,Москва,2021,бензин,1.3,150,АКПП,4WD,,белый,,левый,3 поколение,1.3 AT AWD LT,0,2812000
+6736,https://kirov.drom.ru/chevrolet/cobalt/48567899.html,,,,,,,,,,,,,,,,0,
+6737,https://orenburg.drom.ru/chevrolet/cobalt/48651990.html,Chevrolet,Cobalt,Оренбург,2022,бензин,1.5,106,АКПП,передний,седан,белый,294,левый,2 поколение,1.5 AT LTZ,0,1239000
+6738,https://norilsk.drom.ru/chevrolet/niva/48642663.html,Chevrolet,Niva,Норильск,2021,бензин,1.7,80,механика,4WD,,зеленый,25000,левый,,,0,1600000
+6739,https://ufa.drom.ru/chevrolet/cobalt/48303074.html,Chevrolet,Cobalt,Уфа,2022,бензин,1.5,106,АКПП,передний,седан,серебристый,15,левый,2 поколение,1.5 AT LT,0,1220000
+6740,https://moscow.drom.ru/chevrolet/equinox/48156691.html,Chevrolet,Equinox,Москва,2022,бензин,2.0,236,автомат,4WD,,серый,47,левый,,,0,2990000
+6741,https://moscow.drom.ru/chevrolet/tahoe/47958656.html,Chevrolet,Tahoe,Москва,2021,бензин,5.3,343,АКПП,4WD,джип/suv 5 дв.,черный,19160,левый,5 поколение,,0,9099900
+6742,https://makhachkala.drom.ru/chevrolet/tahoe/47958367.html,Chevrolet,Tahoe,Махачкала,2022,бензин,5.3,343,АКПП,4WD,джип/suv 5 дв.,черный,1,левый,5 поколение,,1,9400000
+6743,https://stavropol.drom.ru/chevrolet/nexia/47956440.html,Chevrolet,Nexia,Ставрополь,2021,бензин,1.5,106,АКПП,передний,,белый,15,левый,1 поколение,1.5 AT LT,0,985000
+6744,https://bakaly.drom.ru/chevrolet/niva/46931238.html,Chevrolet,Niva,Бакалы,2020,бензин,1.7,80,механика,4WD,,серебристый,27000,левый,"1 поколение, рестайлинг",1.7 MT GLC,0,1000000
+6745,https://simferopol.drom.ru/chevrolet/nexia/48983847.html,Chevrolet,Nexia,Симферополь,2020,бензин,1.5,106,АКПП,передний,,серый,10912,левый,1 поколение,1.5 AT LT,0,900000
+6746,https://engels.drom.ru/chevrolet/cobalt/48982670.html,Chevrolet,Cobalt,Энгельс,2022,бензин,1.5,106,АКПП,передний,седан,синий,32,левый,2 поколение,,0,1300000
+6747,https://kaluga.drom.ru/chevrolet/equinox/47947085.html,Chevrolet,Equinox,Калуга,2020,бензин,1.5,170,АКПП,передний,,белый,34100,левый,3 поколение,1.5 AT LS,1,1595000
+6748,https://kaluga.drom.ru/chevrolet/camaro/47947836.html,Chevrolet,Camaro,Калуга,2020,бензин,2.0,275,АКПП,задний,купе,серый,16870,левый,"6 поколение, рестайлинг",2.0 AT 2LT RS,0,2900000
+6749,https://kaluga.drom.ru/chevrolet/camaro/47947927.html,Chevrolet,Camaro,Калуга,2020,бензин,2.0,275,АКПП,задний,купе,серый,4100,левый,"6 поколение, рестайлинг",2.0 AT 2LT 1LE Track Performance Package,0,2900000
+6750,https://surgut.drom.ru/chevrolet/malibu/48978640.html,Chevrolet,Malibu,Сургут,2020,бензин,1.5,160,автомат,передний,седан,синий,91450,левый,,,0,2095000
+6751,https://ekaterinburg.drom.ru/chevrolet/cobalt/48913479.html,Chevrolet,Cobalt,Екатеринбург,2022,бензин,1.5,106,АКПП,передний,седан,белый,15,левый,2 поколение,1.5 AT LTZ,0,1250000
+6752,https://chita.drom.ru/chevrolet/niva/48913043.html,Chevrolet,Niva,Чита,2020,бензин,1.7,80,механика,4WD,,серый,1,левый,"1 поколение, рестайлинг",1.7 MT LE ,0,1035000
+6753,https://ufa.drom.ru/chevrolet/niva/48748893.html,Chevrolet,Niva,Уфа,2020,бензин,1.7,80,механика,4WD,,белый,111000,левый,"1 поколение, рестайлинг",,0,770000
+6754,https://krasnodar.drom.ru/chevrolet/cobalt/48569871.html,Chevrolet,Cobalt,Краснодар,2022,бензин,1.5,106,АКПП,передний,седан,коричневый,15,левый,2 поколение,,0,1245000
+6755,https://krasnodar.drom.ru/chevrolet/cobalt/48569866.html,Chevrolet,Cobalt,Краснодар,2022,бензин,1.5,106,АКПП,передний,седан,белый,15,левый,2 поколение,,0,1240000
+6756,https://barnaul.drom.ru/chevrolet/spark/48566982.html,Chevrolet,Spark,Барнаул,2022,бензин,1.2,85,АКПП,передний,,белый,1000,левый,"3 поколение, рестайлинг",1.25 AT LT,0,970000
+6757,https://engels.drom.ru/chevrolet/nexia/48211322.html,Chevrolet,Nexia,Энгельс,2022,бензин,1.5,106,АКПП,передний,,серый,11,левый,1 поколение,,0,1099000
+6758,https://leninsk-kuznetskiy.drom.ru/chevrolet/cobalt/48061265.html,Chevrolet,Cobalt,Ленинск-Кузнецкий,2020,бензин,1.5,106,АКПП,передний,седан,серый,28000,левый,2 поколение,1.5 AT LTZ,0,1050000
+6759,https://novosibirsk.drom.ru/chevrolet/niva/47875110.html,Chevrolet,Niva,Новосибирск,2020,бензин,1.7,80,механика,4WD,,зеленый,26500,левый,"1 поколение, рестайлинг",1.7 MT LEM+,0,955000
+6760,https://izhevsk.drom.ru/chevrolet/cobalt/47874400.html,Chevrolet,Cobalt,Ижевск,2022,бензин,1.5,106,АКПП,передний,седан,серебристый,1200,левый,2 поколение,,0,1150000
+6761,https://orenburg.drom.ru/chevrolet/nexia/48561730.html,Chevrolet,Nexia,Оренбург,2022,бензин,1.5,106,механика,передний,,,безпробегапоРФ,левый,1 поколение,,0,1016000
+6762,https://spb.drom.ru/chevrolet/malibu/48907766.html,Chevrolet,Malibu,Санкт-Петербург,2020,бензин,1.5,163,вариатор,передний,седан,черный,15546,левый,"9 поколение, рестайлинг",1.5T CVT RS,0,1950000
+6763,https://krasnodar.drom.ru/chevrolet/nexia/48907183.html,Chevrolet,Nexia,Краснодар,2022,бензин,1.5,106,механика,передний,,белый,15,левый,1 поколение,1.5 MT LS,0,999999
+6764,https://ekaterinburg.drom.ru/chevrolet/equinox/48906484.html,Chevrolet,Equinox,Екатеринбург,2022,бензин,2.0,237,автомат,4WD,,черный,55,левый,,,0,3250000
+6765,https://volgodonsk.drom.ru/chevrolet/captiva/48903274.html,Chevrolet,Captiva,Волгодонск,2022,бензин,1.5,149,автомат,передний,,черный,100,левый,,,0,2599000
+6766,https://simferopol.drom.ru/chevrolet/nexia/48104784.html,Chevrolet,Nexia,Симферополь,2020,бензин,1.5,105,автомат,передний,,серый,25430,левый,,,0,870000
+6767,https://moscow.drom.ru/chevrolet/equinox/48561745.html,Chevrolet,Equinox,Москва,2020,бензин,1.5,170,АКПП,передний,,белый,58500,левый,3 поколение,1.5 AT LS,1,1670000
+6768,https://samara.drom.ru/chevrolet/tracker/48559013.html,Chevrolet,Tracker,Самара,2022,бензин,1.0,125,автомат,передний,джип/suv 5 дв.,серый,850,левый,,,0,2039900
+6769,https://tomsk.drom.ru/chevrolet/equinox/48558658.html,Chevrolet,Equinox,Томск,2022,бензин,2.0,237,автомат,4WD,,серый,70,левый,,,0,2900000
+6770,https://novosibirsk.drom.ru/chevrolet/cobalt/48540935.html,Chevrolet,Cobalt,Новосибирск,2022,бензин,1.5,106,АКПП,передний,седан,белый,250,левый,2 поколение,1.5 AT LT,0,1120000
+6771,https://voronezh.drom.ru/chevrolet/cobalt/48689091.html,Chevrolet,Cobalt,Воронеж,2022,бензин,1.5,106,АКПП,передний,седан,белый,12,левый,2 поколение,,0,1290000
+6772,https://voronezh.drom.ru/chevrolet/cobalt/48689095.html,Chevrolet,Cobalt,Воронеж,2022,бензин,1.5,106,АКПП,передний,седан,белый,15,левый,2 поколение,,0,1290000
+6773,https://voronezh.drom.ru/chevrolet/cobalt/48689101.html,Chevrolet,Cobalt,Воронеж,2022,бензин,1.5,106,АКПП,передний,седан,белый,15,левый,2 поколение,,0,1290000
+6774,https://voronezh.drom.ru/chevrolet/cobalt/48689107.html,Chevrolet,Cobalt,Воронеж,2022,бензин,1.5,106,АКПП,передний,седан,белый,12,левый,2 поколение,,0,1290000
+6775,https://voronezh.drom.ru/chevrolet/cobalt/48689112.html,Chevrolet,Cobalt,Воронеж,2022,бензин,1.5,106,АКПП,передний,седан,белый,12,левый,2 поколение,,0,1240000
+6776,https://ufa.drom.ru/chevrolet/equinox/48686206.html,Chevrolet,Equinox,Уфа,2022,бензин,2.0,237,автомат,4WD,,черный,600,левый,,,1,2750000
+6777,https://chelyabinsk.drom.ru/chevrolet/nexia/48348155.html,Chevrolet,Nexia,Челябинск,2022,бензин,1.5,106,механика,передний,,черный,326,левый,1 поколение,1.5 MT LS,0,895000
+6778,https://saransk.drom.ru/chevrolet/niva/48344799.html,Chevrolet,Niva,Саранск,2020,бензин,1.7,,механика,4WD,,серебристый,46001,,,,0,1080000
+6780,https://vladimir.drom.ru/chevrolet/cobalt/46008512.html,Chevrolet,Cobalt,Владимир,2021,бензин,1.5,106,механика,передний,седан,белый,,левый,2 поколение,1.5 MT LT,0,1253900
+6781,https://vladimir.drom.ru/chevrolet/cobalt/46008513.html,Chevrolet,Cobalt,Владимир,2021,бензин,1.5,106,механика,передний,седан,черный,,левый,2 поколение,1.5 MT LT,0,1263900
+6782,https://vladimir.drom.ru/chevrolet/cobalt/46008514.html,Chevrolet,Cobalt,Владимир,2021,бензин,1.5,106,АКПП,передний,седан,серый,,левый,2 поколение,1.5 AT LT,0,1447900
+6784,https://nizhniy-novgorod.drom.ru/chevrolet/damas/49028272.html,Chevrolet,Damas,Нижний Новгород,2022,бензин,0.8,38,механика,задний,,белый,117,левый,1 поколение,0.8 MT DLX,0,785000
+6786,https://saratov.drom.ru/chevrolet/cobalt/49026234.html,Chevrolet,Cobalt,Саратов,2022,бензин,1.5,106,АКПП,передний,седан,,55,левый,2 поколение,,0,1165000
+6788,https://tomsk.drom.ru/chevrolet/equinox/48707816.html,,,,,,,,,,,,,,,,0,
+6789,https://sharypovo.drom.ru/chevrolet/niva/49019485.html,Chevrolet,Niva,Шарыпово,2020,бензин,1.7,80,механика,4WD,,черный,7611,левый,"1 поколение, рестайлинг",,0,1000000
+6791,https://voronezh.drom.ru/chevrolet/cobalt/48330573.html,,,,,,,,,,,,,,,,0,
+6793,https://chelyabinsk.drom.ru/chevrolet/nexia/47656093.html,,,,,,,,,,,,,,,,0,
+6795,https://berezovskiy-sverd.drom.ru/chevrolet/spark/49013488.html,Chevrolet,Spark,Берёзовский,2022,бензин,1.2,85,АКПП,передний,,синий,685,левый,"3 поколение, рестайлинг",1.25 AT LT,0,1015000
+6796,https://berezovskiy-sverd.drom.ru/chevrolet/spark/49013478.html,Chevrolet,Spark,Берёзовский,2022,бензин,1.2,85,АКПП,передний,,серый,704,левый,"3 поколение, рестайлинг",1.25 AT LS,0,975000
+6797,https://moscow.drom.ru/chevrolet/cobalt/48278162.html,Chevrolet,Cobalt,Москва,2022,бензин,1.5,106,АКПП,передний,седан,белый,новый автомобиль,левый,2 поколение,1.5 AT LTZ,0,1225000
+6798,https://krasnodar.drom.ru/chevrolet/damas/49011907.html,Chevrolet,Damas,Краснодар,2022,бензин,0.8,38,механика,задний,,,550,левый,1 поколение,0.8 MT DLX,0,915000
+6799,https://kirov.drom.ru/chevrolet/cobalt/47303810.html,Chevrolet,Cobalt,Киров,2020,бензин,1.5,106,АКПП,передний,седан,коричневый,9102,левый,2 поколение,,0,1210000
+6800,https://ekaterinburg.drom.ru/chevrolet/tahoe/49010163.html,Chevrolet,Tahoe,Екатеринбург,2022,бензин,5.3,343,АКПП,4WD,джип/suv 5 дв.,черный,23,левый,5 поколение,,0,7700000
+6801,https://moscow.drom.ru/chevrolet/tahoe/44071359.html,Chevrolet,Tahoe,Москва,2021,бензин,5.3,343,АКПП,4WD,джип/suv 5 дв.,белый,,левый,5 поколение,5.3 AT RST,0,10629000
+6802,https://moscow.drom.ru/chevrolet/nexia/49008419.html,Chevrolet,Nexia,Москва,2022,бензин,1.5,106,АКПП,передний,,красный,3140,левый,1 поколение,,0,1165000
+6803,https://moscow.drom.ru/chevrolet/damas/48739319.html,Chevrolet,Damas,Москва,2022,бензин,0.8,38,механика,задний,,,,левый,1 поколение,0.8 MT DLX,0,830000
+6804,https://sterlitamak.drom.ru/chevrolet/nexia/46306878.html,Chevrolet,Nexia,Стерлитамак,2021,бензин,1.5,106,АКПП,передний,,белый,7000,левый,1 поколение,1.5 AT LT,0,925000
+6805,https://ekaterinburg.drom.ru/chevrolet/captiva/48672377.html,Chevrolet,Captiva,Екатеринбург,2021,бензин,1.5,147,автомат,передний,,белый,758,левый,,,0,2245000
+6807,https://moscow.drom.ru/chevrolet/camaro/48666048.html,Chevrolet,Camaro,Москва,2021,бензин,6.2,455,АКПП,задний,купе,черный,2700,левый,"6 поколение, рестайлинг",6.2 AT LT1,0,4850000
+6808,https://spb.drom.ru/chevrolet/tahoe/48663698.html,Chevrolet,Tahoe,Санкт-Петербург,2020,бензин,6.2,420,автомат,4WD,джип/suv 5 дв.,черный,49900,левый,,,0,4849000
+6809,https://moscow.drom.ru/chevrolet/trailblazer/48326608.html,Chevrolet,TrailBlazer,Москва,2021,бензин,1.3,150,АКПП,4WD,,серый,15000,левый,3 поколение,,0,2950000
+6810,https://volgograd.drom.ru/chevrolet/niva/48322650.html,Chevrolet,Niva,Волгоград,2021,бензин,1.8,80,механика,4WD,,серый,44000,левый,,,0,1200000
+6811,https://kazan.drom.ru/chevrolet/nexia/48627643.html,Chevrolet,Nexia,Казань,2022,бензин,1.5,106,АКПП,передний,,серебристый,3324,левый,1 поколение,1.5 AT LTZ,0,1075000
+6812,https://magnitogorsk.drom.ru/chevrolet/niva/48627180.html,Chevrolet,Niva,Магнитогорск,2020,бензин,1.7,80,механика,4WD,,белый,39500,левый,"1 поколение, рестайлинг",1.7 MT GLC,0,1000000
+6813,https://ufa.drom.ru/chevrolet/cobalt/48624877.html,Chevrolet,Cobalt,Уфа,2020,бензин,1.5,106,механика,передний,седан,коричневый,124000,левый,2 поколение,,0,779900
+6814,https://irkutsk.drom.ru/chevrolet/trailblazer/48618236.html,Chevrolet,TrailBlazer,Иркутск,2021,бензин,1.3,150,АКПП,4WD,,синий,12000,левый,3 поколение,1.3 AT AWD RS,0,3120000
+6815,https://novosibirsk.drom.ru/chevrolet/cobalt/48281712.html,Chevrolet,Cobalt,Новосибирск,2021,бензин,1.5,106,АКПП,передний,седан,серый,38000,левый,2 поколение,1.5 AT LT,0,1100000
+6816,https://almetievsk.drom.ru/chevrolet/niva/48961774.html,Chevrolet,Niva,Альметьевск,2020,бензин,1.7,80,механика,4WD,,зеленый,38000,левый,"1 поколение, рестайлинг",,1,870000
+6817,https://moscow.drom.ru/chevrolet/tahoe/48961726.html,Chevrolet,Tahoe,Москва,2022,бензин,5.3,343,АКПП,4WD,джип/suv 5 дв.,черный,77,левый,5 поколение,,0,8700000
+6818,https://chelyabinsk.drom.ru/chevrolet/spark/48608969.html,Chevrolet,Spark,Челябинск,2022,бензин,1.2,85,АКПП,передний,,белый,6,левый,"3 поколение, рестайлинг",1.25 AT LS,1,969000
+6819,https://orenburg.drom.ru/chevrolet/nexia/48958412.html,Chevrolet,Nexia,Оренбург,2022,бензин,1.5,106,механика,передний,,коричневый,290,левый,1 поколение,1.5 MT LT,0,1050000
+6820,https://moscow.drom.ru/chevrolet/trailblazer/46654308.html,Chevrolet,TrailBlazer,Москва,2021,бензин,1.3,150,АКПП,4WD,,белый,24000,левый,3 поколение,1.3 AT AWD RS,0,2600000
+6821,https://moscow.drom.ru/chevrolet/tahoe/44317134.html,Chevrolet,Tahoe,Москва,2021,бензин,5.3,343,АКПП,4WD,джип/suv 5 дв.,черный,,левый,5 поколение,5.3 AT Z71,0,11629000
+6822,https://chelyabinsk.drom.ru/chevrolet/cobalt/48599462.html,Chevrolet,Cobalt,Челябинск,2021,бензин,1.5,106,АКПП,передний,седан,коричневый,8000,левый,2 поколение,,0,1080000
+6823,https://tyumen.drom.ru/chevrolet/nexia/42344763.html,Chevrolet,Nexia,Тюмень,2021,бензин,1.5,106,механика,передний,,серебристый,новый автомобиль,левый,1 поколение,1.5 MT LT,0,959900
+6824,https://ekaterinburg.drom.ru/chevrolet/tracker/48243302.html,Chevrolet,Tracker,Екатеринбург,2022,бензин,1.0,116,автомат,передний,джип/suv 5 дв.,белый,612,левый,,,0,1999000
+6825,https://spb.drom.ru/chevrolet/trailblazer/43813240.html,Chevrolet,TrailBlazer,Санкт-Петербург,2021,бензин,1.3,150,вариатор,передний,,черный,,левый,3 поколение,1.3 CVT LT,0,2560000
+6826,https://omsk.drom.ru/chevrolet/captiva/48607614.html,Chevrolet,Captiva,Омск,2022,бензин,1.5,147,автомат,передний,,черный,20,левый,,,0,2488679
+6827,https://omsk.drom.ru/chevrolet/captiva/48607611.html,Chevrolet,Captiva,Омск,2022,бензин,1.5,147,автомат,передний,,черный,20,левый,,,0,2488679
+6828,https://omsk.drom.ru/chevrolet/captiva/48607596.html,Chevrolet,Captiva,Омск,2022,бензин,1.5,147,автомат,передний,,черный,20,левый,,,0,1969679
+6829,https://glazov.drom.ru/chevrolet/cobalt/48616809.html,Chevrolet,Cobalt,Глазов,2022,бензин,1.5,106,АКПП,передний,седан,белый,22,левый,2 поколение,,0,1249000
+6830,https://moscow.drom.ru/chevrolet/captiva/48616728.html,Chevrolet,Captiva,Москва,2022,бензин,1.5,145,вариатор,передний,,золотистый,1,левый,"2 поколение, рестайлинг",,0,2800000
+6831,https://irkutsk.drom.ru/chevrolet/tahoe/48594080.html,Chevrolet,Tahoe,Иркутск,2021,бензин,5.3,343,АКПП,4WD,джип/suv 5 дв.,белый,5700,левый,5 поколение,5.3 AT RST,0,12000000
+6832,https://voronezh.drom.ru/chevrolet/spark/48592639.html,Chevrolet,Spark,Воронеж,2022,бензин,1.2,85,АКПП,передний,,серый,49,левый,"3 поколение, рестайлинг",,0,1147000
+6833,https://omsk.drom.ru/chevrolet/cobalt/47899657.html,Chevrolet,Cobalt,Омск,2020,бензин,1.5,106,АКПП,передний,седан,коричневый,13000,левый,2 поколение,1.5 AT LTZ,0,1040000
+6834,https://engels.drom.ru/chevrolet/cobalt/47894614.html,Chevrolet,Cobalt,Энгельс,2022,бензин,1.5,106,АКПП,передний,седан,белый,19,левый,2 поколение,,0,1250000
+6835,https://engels.drom.ru/chevrolet/nexia/47894616.html,Chevrolet,Nexia,Энгельс,2022,бензин,1.5,106,АКПП,передний,,серый,31,левый,1 поколение,,0,1099000
+6836,https://orenburg.drom.ru/chevrolet/nexia/48927494.html,Chevrolet,Nexia,Оренбург,2020,бензин,1.5,105,автомат,передний,,серый,6000,левый,,,0,1134900
+6837,https://dmitrov.drom.ru/chevrolet/camaro/47078343.html,Chevrolet,Camaro,Дмитров,2020,бензин,2.0,275,механика,задний,купе,красный,6000,левый,"6 поколение, рестайлинг",2.0 MT 1LS,0,2790000
+6838,https://krasnodar.drom.ru/chevrolet/nexia/48493078.html,Chevrolet,Nexia,Краснодар,2020,бензин,1.5,106,АКПП,передний,,коричневый,17059,левый,1 поколение,,0,850000
+6839,https://perm.drom.ru/chevrolet/niva/48919907.html,Chevrolet,Niva,Пермь,2020,бензин,1.7,80,механика,4WD,,серый,49000,левый,"1 поколение, рестайлинг",1.7 MT GLC,0,973000
+6840,https://tyumen.drom.ru/chevrolet/cobalt/45056749.html,Chevrolet,Cobalt,Тюмень,2021,бензин,1.5,106,АКПП,передний,седан,,,левый,2 поколение,1.5 AT LT,0,1189900
+6841,https://habarovsk.drom.ru/chevrolet/colorado/48215709.html,Chevrolet,Colorado,Хабаровск,2021,бензин,3.6,308,АКПП,4WD,,бордовый,новый автомобиль,левый,2 поколение,3.6 AT 4x4 Extended Cab Long Box WT,0,3850000
+6842,https://simferopol.drom.ru/chevrolet/nexia/48225476.html,Chevrolet,Nexia,Симферополь,2020,бензин,1.5,105,автомат,передний,,белый,22255,левый,,,0,890000
+6843,https://shahty.drom.ru/chevrolet/malibu/48917886.html,Chevrolet,Malibu,Шахты,2020,бензин,1.5,163,вариатор,передний,седан,черный,,левый,"9 поколение, рестайлинг",1.5T CVT RS,1,1800000
+6844,https://chelyabinsk.drom.ru/chevrolet/cobalt/48579741.html,Chevrolet,Cobalt,Челябинск,2021,бензин,1.5,106,механика,передний,седан,черный,43101,левый,2 поколение,1.5 MT LS,0,1000000
+6845,https://shahty.drom.ru/chevrolet/malibu/48917848.html,Chevrolet,Malibu,Шахты,2020,бензин,1.5,163,вариатор,передний,седан,черный,,левый,"9 поколение, рестайлинг",1.5T CVT RS,1,1800000
+6846,https://yablonovskiy.drom.ru/chevrolet/cobalt/47891575.html,Chevrolet,Cobalt,Яблоновский,2020,бензин,1.5,106,механика,передний,седан,белый,37000,левый,2 поколение,1.5 MT LT,0,865000
+6847,https://ekaterinburg.drom.ru/chevrolet/cobalt/48916966.html,Chevrolet,Cobalt,Екатеринбург,2022,бензин,1.5,106,АКПП,передний,седан,серый,13,левый,2 поколение,1.5 AT LTZ,0,1250000
+6848,https://ryazan.drom.ru/chevrolet/captiva/48916392.html,Chevrolet,Captiva,Рязань,2022,бензин,1.5,147,автомат,передний,,черный,1,левый,,,0,2300000
+6849,https://samara.drom.ru/chevrolet/niva/48916242.html,Chevrolet,Niva,Самара,2020,бензин,1.7,80,механика,4WD,,белый,4000,левый,"1 поколение, рестайлинг",,0,748000
+6850,https://kopeysk.drom.ru/chevrolet/captiva/48540650.html,Chevrolet,Captiva,Копейск,2022,бензин,1.5,145,вариатор,передний,,черный,новый автомобиль,левый,"2 поколение, рестайлинг",1.5T CVT LT 7-seats,0,2150000
+6851,https://moscow.drom.ru/chevrolet/tahoe/48616741.html,Chevrolet,Tahoe,Москва,2022,бензин,5.3,343,АКПП,4WD,джип/suv 5 дв.,черный,1,левый,5 поколение,5.3 AT Z71,0,11500000
+6852,https://kogalym.drom.ru/chevrolet/niva/48614300.html,Chevrolet,Niva,Когалым,2021,бензин,1.7,80,механика,4WD,,серый,2000,левый,,,0,1460000
+6853,https://moscow.drom.ru/chevrolet/captiva/48608330.html,Chevrolet,Captiva,Москва,2021,бензин,1.5,145,вариатор,передний,,белый,2663,левый,"2 поколение, рестайлинг",1.5T CVT LT 7-seats,1,2240000
+6854,https://orsk.drom.ru/chevrolet/spark/48262370.html,Chevrolet,Spark,Орск,2022,бензин,1.2,85,АКПП,передний,,красный,250,левый,"3 поколение, рестайлинг",,0,1150000
+6855,https://ekaterinburg.drom.ru/chevrolet/cobalt/48951708.html,Chevrolet,Cobalt,Екатеринбург,2022,бензин,1.5,106,АКПП,передний,седан,черный,14,левый,2 поколение,1.5 AT LTZ,0,1300000
+6856,https://novosibirsk.drom.ru/chevrolet/cobalt/48739666.html,Chevrolet,Cobalt,Новосибирск,2022,бензин,1.5,106,АКПП,передний,седан,серебристый,,левый,2 поколение,1.5 AT LTZ,1,1190000
+6857,https://ekaterinburg.drom.ru/chevrolet/niva/47482419.html,Chevrolet,Niva,Екатеринбург,2020,бензин,1.7,80,механика,4WD,,синий,29708,левый,"1 поколение, рестайлинг",1.7 MT L,0,799000
+6858,https://nyagan.drom.ru/chevrolet/nexia/48372453.html,Chevrolet,Nexia,Нягань,2022,бензин,1.5,106,АКПП,передний,,серебристый,,левый,1 поколение,1.5 AT LT,0,1049000
+6860,https://tula.drom.ru/chevrolet/camaro/48945147.html,Chevrolet,Camaro,Тула,2021,бензин,2.0,275,АКПП,задний,купе,красный,2771,левый,"6 поколение, рестайлинг",2.0 AT 1LT RS,1,3350000
+6861,https://moscow.drom.ru/chevrolet/groove/48944759.html,Chevrolet,Groove,Москва,2022,бензин,1.5,110,вариатор,передний,,серебристый,новый автомобиль,левый,1 поколение,1.4T CVT Premier,0,2300000
+6862,https://novosibirsk.drom.ru/chevrolet/spark/47840864.html,Chevrolet,Spark,Новосибирск,2022,бензин,1.2,85,АКПП,передний,,голубой,новый автомобиль,левый,"3 поколение, рестайлинг",1.25 AT LS,0,950000
+6863,https://moscow.drom.ru/chevrolet/tahoe/43981355.html,Chevrolet,Tahoe,Москва,2021,бензин,5.3,343,АКПП,4WD,джип/suv 5 дв.,белый,,левый,5 поколение,5.3 AT RST,0,10529000
+6864,https://surgut.drom.ru/chevrolet/malibu/48943854.html,Chevrolet,Malibu,Сургут,2020,бензин,1.5,163,вариатор,передний,седан,серый,91439,левый,"9 поколение, рестайлинг",1.5T CVT L,0,2000000
+6865,https://perm.drom.ru/chevrolet/cobalt/48943915.html,Chevrolet,Cobalt,Пермь,2021,бензин,1.5,106,АКПП,передний,седан,черный,20000,левый,2 поколение,1.5 AT LTZ,0,990000
+6866,https://novosibirsk.drom.ru/chevrolet/spark/47946661.html,Chevrolet,Spark,Новосибирск,2022,бензин,1.2,85,АКПП,передний,,белый,2900,левый,"3 поколение, рестайлинг",1.25 AT LT,0,950000
+6867,https://omsk.drom.ru/chevrolet/nexia/48597682.html,Chevrolet,Nexia,Омск,2022,бензин,1.5,106,АКПП,передний,,черный,новый автомобиль,левый,1 поколение,1.5 AT LTZ,0,995000
+6868,https://omsk.drom.ru/chevrolet/nexia/48597803.html,Chevrolet,Nexia,Омск,2022,бензин,1.5,106,АКПП,передний,,белый,,левый,1 поколение,1.5 AT LTZ,1,1050000
+6869,https://omsk.drom.ru/chevrolet/niva/48527874.html,Chevrolet,Niva,Омск,2020,бензин,1.7,80,механика,4WD,,белый,33000,левый,"1 поколение, рестайлинг",1.7 MT GLC,1,1000000
+6870,https://vyselki.drom.ru/chevrolet/spark/48600509.html,Chevrolet,Spark,Выселки,2020,бензин,1.2,85,АКПП,передний,,красный,28000,левый,"3 поколение, рестайлинг",1.25 AT LTZ,0,990000
+6871,https://novosibirsk.drom.ru/chevrolet/nexia/46897611.html,Chevrolet,Nexia,Новосибирск,2020,бензин,1.5,106,АКПП,передний,,серый,16000,левый,1 поколение,1.5 AT LTZ,0,930000
+6872,https://koltsovo.drom.ru/chevrolet/niva/48882941.html,Chevrolet,Niva,Кольцово,2020,бензин,1.7,80,механика,4WD,,черный,19500,левый,"1 поколение, рестайлинг",,0,950000
+6873,https://chelyabinsk.drom.ru/chevrolet/spark/48881963.html,Chevrolet,Spark,Челябинск,2022,бензин,1.2,85,АКПП,передний,,белый,,левый,"3 поколение, рестайлинг",1.25 AT LS,1,885000
+6874,https://moscow.drom.ru/chevrolet/tahoe/48477124.html,Chevrolet,Tahoe,Москва,2021,дизель,3.0,282,автомат,4WD,джип/suv 5 дв.,белый,4900,левый,,,1,8290000
+6875,https://tyumen.drom.ru/chevrolet/nexia/43933566.html,Chevrolet,Nexia,Тюмень,2021,бензин,1.5,106,механика,передний,,,,левый,1 поколение,1.5 MT LT,0,989900
+6876,https://chelyabinsk.drom.ru/chevrolet/cobalt/48581684.html,Chevrolet,Cobalt,Челябинск,2022,бензин,1.5,106,механика,передний,седан,серый,100,левый,2 поколение,1.5 MT LT,0,1100000
+6877,https://chelyabinsk.drom.ru/chevrolet/trailblazer/48877652.html,Chevrolet,TrailBlazer,Челябинск,2022,бензин,1.3,150,АКПП,4WD,,красный,12100,левый,3 поколение,1.3 AT AWD RS,1,2289000
+6878,https://omsk.drom.ru/chevrolet/cobalt/48531466.html,Chevrolet,Cobalt,Омск,2022,бензин,1.5,106,АКПП,передний,седан,черный,100,левый,2 поколение,1.5 AT LTZ,0,1100000
+6879,https://perm.drom.ru/chevrolet/cobalt/48530883.html,Chevrolet,Cobalt,Пермь,2021,бензин,1.5,106,АКПП,передний,седан,черный,17000,левый,2 поколение,,0,1100000
+6880,https://almazniy.drom.ru/chevrolet/niva/48527033.html,Chevrolet,Niva,Алмазный,2020,бензин,1.7,80,механика,4WD,,серый,28028,левый,"1 поколение, рестайлинг",,0,920000
+6881,https://rostov-na-donu.drom.ru/chevrolet/tahoe/48525824.html,Chevrolet,Tahoe,Ростов-на-Дону,2022,бензин,5.3,343,АКПП,4WD,джип/suv 5 дв.,черный,113,левый,5 поколение,,0,9120000
+6882,https://rostov-na-donu.drom.ru/chevrolet/nexia/48525485.html,Chevrolet,Nexia,Ростов-на-Дону,2022,бензин,1.5,106,механика,передний,,белый,10,левый,1 поколение,,0,999900
+6883,https://teykovo.drom.ru/chevrolet/niva/47508274.html,Chevrolet,Niva,Тейково,2020,бензин,1.7,80,механика,4WD,,зеленый,30000,левый,"1 поколение, рестайлинг",1.7 MT LEM+,0,930000
+6884,https://spb.drom.ru/chevrolet/cobalt/48874131.html,Chevrolet,Cobalt,Санкт-Петербург,2022,бензин,1.5,106,АКПП,передний,седан,черный,2000,левый,2 поколение,,0,1249000
+6886,https://shahty.drom.ru/chevrolet/nexia/48871638.html,Chevrolet,Nexia,Шахты,2022,бензин,1.5,106,механика,передний,,серебристый,10,левый,1 поколение,,0,919900
+6887,https://shahty.drom.ru/chevrolet/nexia/48871634.html,Chevrolet,Nexia,Шахты,2022,бензин,1.5,106,механика,передний,,серебристый,10,левый,1 поколение,,0,919900
+6888,https://shahty.drom.ru/chevrolet/nexia/48871627.html,Chevrolet,Nexia,Шахты,2022,бензин,1.5,106,механика,передний,,черный,10,левый,1 поколение,,0,919900
+6889,https://shahty.drom.ru/chevrolet/nexia/48871622.html,Chevrolet,Nexia,Шахты,2022,бензин,1.5,106,механика,передний,,черный,10,левый,1 поколение,,0,919900
+6890,https://shahty.drom.ru/chevrolet/nexia/48871617.html,Chevrolet,Nexia,Шахты,2022,бензин,1.5,106,механика,передний,,серебристый,10,левый,1 поколение,,0,919900
+6891,https://ufa.drom.ru/chevrolet/spark/48256523.html,Chevrolet,Spark,Уфа,2021,бензин,1.2,85,АКПП,передний,,синий,4130,левый,"3 поколение, рестайлинг",,0,1020000
+6892,https://yaroslavl.drom.ru/chevrolet/equinox/48251976.html,Chevrolet,Equinox,Ярославль,2021,бензин,2.0,237,автомат,4WD,,серый,12000,левый,,,0,2870000
+6893,https://moscow.drom.ru/chevrolet/trailblazer/48249275.html,Chevrolet,TrailBlazer,Москва,2021,бензин,1.3,150,вариатор,передний,,черный,1,левый,3 поколение,,0,2510000
+6894,https://moscow.drom.ru/chevrolet/trailblazer/48249283.html,Chevrolet,TrailBlazer,Москва,2021,бензин,1.3,150,вариатор,передний,,белый,15,левый,3 поколение,,0,2490000
+6895,https://kursk.drom.ru/chevrolet/nexia/47582276.html,Chevrolet,Nexia,Курск,2020,бензин,1.5,106,АКПП,передний,,коричневый,14758,левый,1 поколение,,0,820000
+6896,https://krasnodar.drom.ru/chevrolet/cobalt/47526812.html,Chevrolet,Cobalt,Краснодар,2021,бензин,1.5,106,АКПП,передний,седан,белый,17000,левый,2 поколение,1.5 AT LT,0,1050000
+6897,https://noviy-urengoy.drom.ru/chevrolet/niva/46818093.html,Chevrolet,Niva,Новый Уренгой,2020,бензин,1.7,80,механика,4WD,,фиолетовый,59000,левый,"1 поколение, рестайлинг",,0,850000
+6898,https://shahty.drom.ru/chevrolet/niva/47544830.html,Chevrolet,Niva,Шахты,2020,бензин,1.7,80,механика,4WD,,серый,,левый,"1 поколение, рестайлинг",,0,1150000
+6899,https://kazan.drom.ru/chevrolet/cobalt/48940028.html,Chevrolet,Cobalt,Казань,2022,бензин,1.5,106,АКПП,передний,седан,черный,49,левый,2 поколение,,0,1299000
+6901,https://kazan.drom.ru/chevrolet/trailblazer/48938343.html,Chevrolet,TrailBlazer,Казань,2022,бензин,3.6,278,автомат,4WD,,черный,,левый,,,0,3500000
+6902,https://chelyabinsk.drom.ru/chevrolet/nexia/48586488.html,Chevrolet,Nexia,Челябинск,2022,бензин,1.5,106,АКПП,передний,,серый,415,левый,1 поколение,1.5 AT LTZ,1,1045000
+6903,https://chelyabinsk.drom.ru/chevrolet/damas/47899486.html,Chevrolet,Damas,Челябинск,2022,бензин,0.8,38,механика,задний,,белый,387,левый,1 поколение,0.8 MT DLX,0,795000
+6904,https://omsk.drom.ru/chevrolet/spark/48935473.html,Chevrolet,Spark,Омск,2022,бензин,1.2,85,АКПП,передний,,серый,570,левый,"3 поколение, рестайлинг",1.25 AT LT,1,1040000
+6905,https://nefteyugansk.drom.ru/chevrolet/niva/47486875.html,Chevrolet,Niva,Нефтеюганск,2020,бензин,1.7,80,механика,4WD,,серый,35000,левый,"1 поколение, рестайлинг",,0,490000
+6906,https://volgograd.drom.ru/chevrolet/malibu/48933521.html,Chevrolet,Malibu,Волгоград,2020,бензин,1.5,163,вариатор,передний,седан,белый,10174,левый,"9 поколение, рестайлинг",,1,1850000
+6907,https://novosibirsk.drom.ru/chevrolet/nexia/48118972.html,Chevrolet,Nexia,Новосибирск,2022,бензин,1.5,106,механика,передний,,белый,,левый,1 поколение,1.5 MT LT,0,850000
+6908,https://moscow.drom.ru/chevrolet/captiva/48929936.html,Chevrolet,Captiva,Москва,2022,бензин,1.5,147,автомат,передний,,черный,,левый,,,0,2600000
+6909,https://taganrog.drom.ru/chevrolet/nexia/48929473.html,Chevrolet,Nexia,Таганрог,2022,бензин,1.5,106,механика,передний,,черный,10,левый,1 поколение,,0,1099900
+6910,https://taganrog.drom.ru/chevrolet/nexia/48929471.html,Chevrolet,Nexia,Таганрог,2022,бензин,1.5,106,механика,передний,,красный,10,левый,1 поколение,,0,1099900
+6912,https://samara.drom.ru/chevrolet/cobalt/48853150.html,Chevrolet,Cobalt,Самара,2022,бензин,1.5,106,АКПП,передний,седан,белый,284,левый,2 поколение,,0,1228000
+6913,https://chelyabinsk.drom.ru/chevrolet/spark/48489210.html,Chevrolet,Spark,Челябинск,2022,бензин,1.2,85,АКПП,передний,,белый,98,левый,"3 поколение, рестайлинг",,0,949000
+6914,https://chelyabinsk.drom.ru/chevrolet/spark/48489213.html,Chevrolet,Spark,Челябинск,2022,бензин,1.2,85,АКПП,передний,,серый,380,левый,"3 поколение, рестайлинг",,0,979000
+6915,https://minvody.drom.ru/chevrolet/cobalt/48850578.html,Chevrolet,Cobalt,Минеральные Воды,2020,бензин,1.5,106,АКПП,передний,седан,серый,38459,левый,2 поколение,1.5 AT LTZ,0,980000
+6916,https://spb.drom.ru/chevrolet/tahoe/44300282.html,Chevrolet,Tahoe,Санкт-Петербург,2021,бензин,5.3,343,АКПП,4WD,джип/suv 5 дв.,черный,,левый,5 поколение,5.3 AT RST,0,11250000
+6917,https://spb.drom.ru/chevrolet/tahoe/44300281.html,Chevrolet,Tahoe,Санкт-Петербург,2021,бензин,5.3,343,АКПП,4WD,джип/suv 5 дв.,черный,,левый,5 поколение,5.3 AT Z71,0,11100000
+6918,https://moscow.drom.ru/chevrolet/malibu/48170158.html,Chevrolet,Malibu,Москва,2020,бензин,1.5,163,вариатор,передний,седан,черный,32300,левый,"9 поколение, рестайлинг",1.5T CVT L,0,1650000
+6919,https://moscow.drom.ru/chevrolet/camaro/48164557.html,Chevrolet,Camaro,Москва,2020,бензин,2.0,238,АКПП,задний,купе,черный,9200,левый,"6 поколение, рестайлинг",2.0 AT 3LT,1,2790000
+6920,https://moscow.drom.ru/chevrolet/tahoe/48628332.html,Chevrolet,Tahoe,Москва,2022,бензин,5.3,343,АКПП,4WD,джип/suv 5 дв.,черный,15,левый,5 поколение,,0,9000000
+6921,https://spb.drom.ru/chevrolet/cobalt/48849204.html,Chevrolet,Cobalt,Санкт-Петербург,2022,бензин,1.5,106,АКПП,передний,седан,черный,1,левый,2 поколение,,0,1249000
+6922,https://spb.drom.ru/chevrolet/cobalt/48849201.html,Chevrolet,Cobalt,Санкт-Петербург,2021,бензин,1.5,106,АКПП,передний,седан,серый,12000,левый,2 поколение,,0,1249000
+6923,https://novosibirsk.drom.ru/chevrolet/tahoe/48813554.html,Chevrolet,Tahoe,Новосибирск,2020,бензин,6.2,426,АКПП,4WD,джип/suv 5 дв.,черный,42000,левый,4 поколение,,0,6959000
+6925,https://rostov-na-donu.drom.ru/chevrolet/cobalt/48503864.html,Chevrolet,Cobalt,Ростов-на-Дону,2021,бензин,1.5,106,механика,передний,седан,серый,4818,левый,2 поколение,1.5 MT LT,0,1100000
+6926,https://krasnoyarsk.drom.ru/chevrolet/spark/48748056.html,Chevrolet,Spark,Красноярск,2022,бензин,1.2,85,АКПП,передний,,коричневый,10000,левый,"3 поколение, рестайлинг",,1,1000000
+6927,https://krasnodar.drom.ru/chevrolet/cobalt/48844140.html,Chevrolet,Cobalt,Краснодар,2022,бензин,1.5,106,АКПП,передний,седан,белый,15,левый,2 поколение,,0,1245000
+6928,https://ekaterinburg.drom.ru/chevrolet/spark/48084684.html,Chevrolet,Spark,Екатеринбург,2021,бензин,1.2,85,АКПП,передний,,синий,12832,левый,"3 поколение, рестайлинг",1.25 AT LT,0,926730
+6929,https://ekaterinburg.drom.ru/chevrolet/spark/48287215.html,Chevrolet,Spark,Екатеринбург,2022,бензин,1.2,85,АКПП,передний,,белый,1,левый,"3 поколение, рестайлинг",,1,955000
+6930,https://ekaterinburg.drom.ru/chevrolet/cobalt/48841492.html,Chevrolet,Cobalt,Екатеринбург,2022,бензин,1.5,106,АКПП,передний,седан,белый,450,левый,2 поколение,,0,1170000
+6931,https://voronezh.drom.ru/chevrolet/malibu/47977178.html,Chevrolet,Malibu,Воронеж,2022,бензин,2.0,250,АКПП,передний,седан,серебристый,2274,левый,"9 поколение, рестайлинг",2.0T AT Premier,0,2920000
+6932,https://volgograd.drom.ru/chevrolet/cobalt/46947311.html,Chevrolet,Cobalt,Волгоград,2021,бензин,1.5,106,механика,передний,седан,синий,27009,левый,2 поколение,,0,950000
+6933,https://nizhniy-tagil.drom.ru/chevrolet/spark/49004828.html,Chevrolet,Spark,Нижний Тагил,2022,бензин,1.2,85,АКПП,передний,,белый,1680,левый,"3 поколение, рестайлинг",1.25 AT LT,0,920000
+6934,https://volgograd.drom.ru/chevrolet/cobalt/49004683.html,Chevrolet,Cobalt,Волгоград,2020,бензин,1.5,106,АКПП,передний,седан,синий,8000,левый,2 поколение,,0,1080000
+6935,https://krasnodar.drom.ru/chevrolet/cobalt/48558295.html,Chevrolet,Cobalt,Краснодар,2021,бензин,1.5,106,АКПП,передний,седан,серый,4889,левый,2 поколение,,0,1075000
+6936,https://moscow.drom.ru/chevrolet/camaro/49002026.html,Chevrolet,Camaro,Москва,2020,бензин,2.0,275,АКПП,задний,открытый,черный,7500,левый,"6 поколение, рестайлинг",2.0 AT 3LT,0,3050000
+6937,https://novosibirsk.drom.ru/chevrolet/nexia/49001993.html,Chevrolet,Nexia,Новосибирск,2021,бензин,1.5,106,механика,передний,,серый,24500,левый,1 поколение,1.5 MT LS,0,799000
+6938,https://arhangelsk.drom.ru/chevrolet/captiva/49000931.html,Chevrolet,Captiva,Архангельск,2022,бензин,1.5,145,вариатор,передний,,черный,15,левый,"2 поколение, рестайлинг",,0,2299000
+6939,https://tyumen.drom.ru/chevrolet/cobalt/48997304.html,Chevrolet,Cobalt,Тюмень,2022,бензин,1.5,106,АКПП,передний,седан,серебристый,,левый,2 поколение,1.5 AT LT,1,1149000
+6941,https://irkutsk.drom.ru/chevrolet/niva/48996296.html,Chevrolet,Niva,Иркутск,2020,бензин,1.7,80,механика,4WD,,,33500,левый,"1 поколение, рестайлинг",,1,750000
+6942,https://tyumen.drom.ru/chevrolet/nexia/43933492.html,Chevrolet,Nexia,Тюмень,2021,бензин,1.5,106,АКПП,передний,,,,левый,1 поколение,1.5 AT LTZ,0,1098900
+6943,https://novosibirsk.drom.ru/chevrolet/trailblazer/48995304.html,Chevrolet,TrailBlazer,Новосибирск,2021,бензин,1.3,150,АКПП,4WD,,коричневый,18000,левый,3 поколение,1.3 AT AWD Active,0,2470000
+6944,https://barnaul.drom.ru/chevrolet/captiva/48177668.html,Chevrolet,Captiva,Барнаул,2021,бензин,1.5,145,вариатор,передний,,белый,,левый,"2 поколение, рестайлинг",1.5T CVT Premier,0,2250000
+6945,https://chelyabinsk.drom.ru/chevrolet/cobalt/48662056.html,Chevrolet,Cobalt,Челябинск,2022,бензин,1.5,106,АКПП,передний,седан,белый,400,левый,2 поколение,1.5 AT LTZ,0,1190000
+6946,https://pyt-yah.drom.ru/chevrolet/niva/48316066.html,Chevrolet,Niva,Пыть-Ях,2021,ГБ,,,,,,серый,32000,левый,,,0,1250000
+6947,https://zlatoust.drom.ru/chevrolet/niva/48308802.html,Chevrolet,Niva,Златоуст,2020,бензин,1.7,80,механика,4WD,,серый,8900,левый,"1 поколение, рестайлинг",,0,1150000
+6948,https://ufa.drom.ru/chevrolet/equinox/48307328.html,Chevrolet,Equinox,Уфа,2022,бензин,2.0,236,автомат,4WD,,бордовый,20,левый,,,0,2900000
+6949,https://buzuluk.drom.ru/chevrolet/tahoe/47969313.html,Chevrolet,Tahoe,Бузулук,2021,бензин,5.3,343,АКПП,4WD,джип/suv 5 дв.,белый,6500,левый,5 поколение,5.3 AT RST,0,10800000
+6950,https://biysk.drom.ru/chevrolet/niva/47296314.html,Chevrolet,Niva,Бийск,2020,бензин,1.7,80,механика,4WD,,зеленый,36000,левый,"1 поколение, рестайлинг",,0,900000
+6951,https://omsk.drom.ru/chevrolet/captiva/48623338.html,Chevrolet,Captiva,Омск,2022,бензин,1.5,145,вариатор,передний,,черный,новый автомобиль,левый,"2 поколение, рестайлинг",1.5T CVT Premier,0,2350000
+6952,https://voronezh.drom.ru/chevrolet/cobalt/49017701.html,Chevrolet,Cobalt,Воронеж,2022,бензин,1.5,106,АКПП,передний,седан,белый,2032,левый,2 поколение,,0,1199000
+6953,https://kolyvan.drom.ru/chevrolet/cobalt/48259860.html,Chevrolet,Cobalt,Колывань,2020,бензин,1.5,106,АКПП,передний,седан,серый,20000,левый,2 поколение,1.5 AT LT,0,990000
+6954,https://abakan.drom.ru/chevrolet/niva/48334888.html,Chevrolet,Niva,Абакан,2020,бензин,1.7,80,механика,4WD,,серебристый,18000,левый,"1 поколение, рестайлинг",1.7 MT L,0,899000
+6955,https://moscow.drom.ru/chevrolet/traverse/48682259.html,Chevrolet,Traverse,Москва,2021,бензин,3.6,318,АКПП,4WD,,черный,29000,левый,2 поколение,,0,4100000
+6956,https://voronezh.drom.ru/chevrolet/cobalt/48680977.html,Chevrolet,Cobalt,Воронеж,2022,бензин,1.5,106,АКПП,передний,седан,белый,15,левый,2 поколение,,0,1240000
+6957,https://chelyabinsk.drom.ru/chevrolet/bolt/48680056.html,Chevrolet,Bolt,Челябинск,2020,электр,,200,АКПП,передний,,белый,17700,левый,1 поколение,60 kWt EV Premier,0,2450000
+6958,https://voronezh.drom.ru/chevrolet/cobalt/48677441.html,Chevrolet,Cobalt,Воронеж,2022,бензин,1.5,106,АКПП,передний,седан,белый,13,левый,2 поколение,,0,1240000
+6959,https://voronezh.drom.ru/chevrolet/cobalt/48677449.html,Chevrolet,Cobalt,Воронеж,2022,бензин,1.5,106,АКПП,передний,седан,белый,13,левый,2 поколение,,0,1240000
+6960,https://voronezh.drom.ru/chevrolet/cobalt/48677454.html,Chevrolet,Cobalt,Воронеж,2022,бензин,1.5,106,АКПП,передний,седан,белый,15,левый,2 поколение,,0,1240000
+6961,https://voronezh.drom.ru/chevrolet/cobalt/48677460.html,Chevrolet,Cobalt,Воронеж,2022,бензин,1.5,106,АКПП,передний,седан,белый,13,левый,2 поколение,,0,1240000
+6962,https://voronezh.drom.ru/chevrolet/cobalt/48677463.html,Chevrolet,Cobalt,Воронеж,2022,бензин,1.5,106,АКПП,передний,седан,белый,19,левый,2 поколение,,0,1240000
+6963,https://voronezh.drom.ru/chevrolet/cobalt/48677467.html,Chevrolet,Cobalt,Воронеж,2022,бензин,1.5,106,АКПП,передний,седан,белый,17,левый,2 поколение,,0,1240000
+6964,https://voronezh.drom.ru/chevrolet/cobalt/48677471.html,Chevrolet,Cobalt,Воронеж,2022,бензин,1.5,106,АКПП,передний,седан,белый,12,левый,2 поколение,,0,1240000
+6965,https://voronezh.drom.ru/chevrolet/cobalt/48677476.html,Chevrolet,Cobalt,Воронеж,2022,бензин,1.5,106,АКПП,передний,седан,белый,12,левый,2 поколение,,0,1240000
+6966,https://voronezh.drom.ru/chevrolet/cobalt/48677479.html,Chevrolet,Cobalt,Воронеж,2022,бензин,1.5,106,АКПП,передний,седан,белый,12,левый,2 поколение,,0,1240000
+6967,https://voronezh.drom.ru/chevrolet/cobalt/48677484.html,Chevrolet,Cobalt,Воронеж,2022,бензин,1.5,106,АКПП,передний,седан,белый,24,левый,2 поколение,,0,1240000
+6968,https://voronezh.drom.ru/chevrolet/cobalt/48677487.html,Chevrolet,Cobalt,Воронеж,2022,бензин,1.5,106,АКПП,передний,седан,белый,13,левый,2 поколение,,0,1240000
+6969,https://pyatigorsk.drom.ru/chevrolet/camaro/48339699.html,Chevrolet,Camaro,Пятигорск,2020,бензин,2.0,238,АКПП,задний,купе,серый,31000,левый,"6 поколение, рестайлинг",2.0 AT 3LT,0,3550000
+6970,https://ishim.drom.ru/chevrolet/spark/48336418.html,Chevrolet,Spark,Ишим,2022,бензин,1.2,85,автомат,передний,,белый,400,левый,,,0,930000
+6971,https://moscow.drom.ru/chevrolet/spark/47996324.html,Chevrolet,Spark,Москва,2021,бензин,1.2,85,АКПП,передний,,синий,3500,левый,"3 поколение, рестайлинг",1.25 AT LT,0,1049000
+6973,https://moscow.drom.ru/chevrolet/spark/49036084.html,Chevrolet,Spark,Москва,2022,бензин,1.2,85,АКПП,передний,,серебристый,,левый,"3 поколение, рестайлинг",1.25 AT LT,0,1025000
+6974,https://moscow.drom.ru/chevrolet/nexia/49035937.html,Chevrolet,Nexia,Москва,2022,бензин,1.5,106,АКПП,передний,,черный,новый автомобиль,левый,1 поколение,1.5 AT LTZ,0,1095000
+6975,https://tyumen.drom.ru/chevrolet/cobalt/49035584.html,Chevrolet,Cobalt,Тюмень,2022,бензин,1.5,106,АКПП,передний,седан,белый,900,левый,2 поколение,1.5 AT LTZ,1,1195000
+6977,https://yakutsk.drom.ru/chevrolet/tahoe/47395694.html,Chevrolet,Tahoe,Якутск,2021,бензин,5.3,343,АКПП,4WD,джип/suv 5 дв.,черный,40000,левый,5 поколение,5.3 AT Z71,0,9000000
+6978,https://golyshmanovo.drom.ru/chevrolet/spark/48331609.html,Chevrolet,Spark,Голышманово,2022,бензин,1.2,85,АКПП,передний,,белый,,левый,"3 поколение, рестайлинг",1.25 AT LS,0,880000
+6979,https://moscow.drom.ru/chevrolet/tahoe/48813613.html,Chevrolet,Tahoe,Москва,2022,бензин,5.3,343,АКПП,4WD,джип/suv 5 дв.,черный,17,левый,5 поколение,,0,8870000
+6980,https://novokuznetsk.drom.ru/chevrolet/cobalt/49032817.html,Chevrolet,Cobalt,Новокузнецк,2022,бензин,1.5,106,АКПП,передний,седан,серый,новый автомобиль,левый,2 поколение,1.5 AT LTZ,1,1190000
+6981,https://tomsk.drom.ru/chevrolet/niva/48731587.html,Chevrolet,Niva,Томск,2020,бензин,1.7,80,механика,4WD,,белый,37000,левый,"1 поколение, рестайлинг",1.7 MT SL,0,830000
+6982,https://magnitogorsk.drom.ru/chevrolet/cobalt/49030907.html,Chevrolet,Cobalt,Магнитогорск,2022,бензин,1.5,106,АКПП,передний,седан,синий,5,левый,2 поколение,1.5 AT LTZ,0,1150000
+6984,https://barnaul.drom.ru/chevrolet/tahoe/48144016.html,Chevrolet,Tahoe,Барнаул,2022,бензин,5.3,343,АКПП,4WD,джип/suv 5 дв.,черный,,левый,5 поколение,5.3 AT Z71,0,9950000
+6985,https://voronezh.drom.ru/chevrolet/cobalt/48692042.html,Chevrolet,Cobalt,Воронеж,2022,бензин,1.5,106,АКПП,передний,седан,белый,19,левый,2 поколение,,0,1240000
+6987,https://voronezh.drom.ru/chevrolet/cobalt/48692047.html,,,,,,,,,,,,,,,,0,
+6989,https://voronezh.drom.ru/chevrolet/cobalt/48692059.html,,,,,,,,,,,,,,,,0,
+6991,https://tyumen.drom.ru/chevrolet/nexia/47864830.html,,,,,,,,,,,,,,,,0,
+6992,https://gubkinskiy.drom.ru/chevrolet/equinox/48898175.html,Chevrolet,Equinox,Губкинский,2021,бензин,2.0,252,АКПП,4WD,,белый,37000,левый,3 поколение,2.0 AT AWD LT,1,2175000
+6993,https://togliatti.drom.ru/chevrolet/cobalt/48895472.html,Chevrolet,Cobalt,Тольятти,2022,бензин,1.5,106,АКПП,передний,седан,черный,400,левый,2 поколение,,0,1165000
+6995,https://shahty.drom.ru/chevrolet/nexia/48894805.html,Chevrolet,Nexia,Шахты,2022,бензин,1.5,106,механика,передний,,серый,10,левый,1 поколение,,0,919900
+6996,https://togliatti.drom.ru/chevrolet/cobalt/48894174.html,Chevrolet,Cobalt,Тольятти,2022,бензин,1.5,106,АКПП,передний,седан,синий,400,левый,2 поколение,,0,1165000
+6997,https://taganrog.drom.ru/chevrolet/nexia/48894101.html,Chevrolet,Nexia,Таганрог,2022,бензин,1.5,106,механика,передний,,серый,10,левый,1 поколение,,0,1099900
+6998,https://omsk.drom.ru/chevrolet/equinox/48799146.html,Chevrolet,Equinox,Омск,2022,,,,,,,белый,24000,левый,,,0,3050000
+6999,https://astrahan.drom.ru/chevrolet/cobalt/47124190.html,Chevrolet,Cobalt,Астрахань,2021,бензин,1.5,106,механика,передний,седан,белый,47224,левый,2 поколение,,1,790000
+7000,https://perm.drom.ru/chevrolet/cobalt/47720260.html,Chevrolet,Cobalt,Пермь,2020,бензин,1.5,106,АКПП,передний,седан,серый,11315,левый,2 поколение,,0,1120000

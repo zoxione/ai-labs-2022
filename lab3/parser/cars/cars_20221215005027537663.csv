@@ -1,0 +1,259 @@
+Id,Url,Brand,Model,Region,Year,Engine,EngineVolume,Power,Transmission,Drive,Body,Color,Mileage,Wheel,Generation,Complectation,IsSold,Price
+15,https://spb.drom.ru/acura/tl/47598798.html,Acura,TL,Санкт-Петербург,2012,бензин,3.5,280,АКПП,передний,,серый,61465,левый,"4 поколение, рестайлинг",3.5 AT TL w/ Advance Package,1,1100000
+16,https://novokuznetsk.drom.ru/acura/rdx/47264223.html,Acura,RDX,Новокузнецк,2008,бензин,2.3,240,АКПП,4WD,,серый,191438,левый,1 поколение,SH-AWD Technology,0,1315000
+17,https://yevpatoriya.drom.ru/acura/rdx/46917976.html,Acura,RDX,Евпатория,2009,бензин,2.3,240,АКПП,4WD,,серый,144000,левый,1 поколение,SH-AWD Base,0,1080000
+18,https://biysk.drom.ru/acura/mdx/46076345.html,Acura,MDX,Бийск,2014,бензин,3.5,290,АКПП,4WD,,белый,177000,левый,3 поколение,,0,2200000
+19,https://moscow.drom.ru/acura/mdx/48959978.html,Acura,MDX,Москва,2011,бензин,3.7,300,АКПП,4WD,,белый,170118,левый,"2 поколение, рестайлинг",3.7 AWD AT,0,1450000
+20,https://vladivostok.drom.ru/acura/rdx/48894747.html,Acura,RDX,Владивосток,2011,бензин,2.3,240,АКПП,4WD,,черный,125000,левый,"1 поколение, рестайлинг",SH-AWD Technology,0,1200000
+21,https://moscow.drom.ru/acura/mdx/45462838.html,Acura,MDX,Москва,2003,бензин,3.5,260,АКПП,4WD,,серый,239394,левый,"1 поколение, рестайлинг",3.5 AWD AT,1,530000
+22,https://mirniy.drom.ru/acura/rsx/48890641.html,Acura,RSX,Мирный,2003,бензин,2.0,200,механика,передний,,синий,100000,левый,1 поколение,2.0 MT RSX Type S,0,888000
+23,https://magadan.drom.ru/acura/mdx/47857635.html,Acura,MDX,Магадан,2007,бензин,3.7,299,автомат,4WD,,черный,145000,левый,,,0,1650000
+24,https://spb.drom.ru/acura/rdx/47196901.html,Acura,RDX,Санкт-Петербург,2007,бензин,2.3,240,АКПП,4WD,,серый,300000,левый,1 поколение,SH-AWD Technology,0,1000000
+25,https://irkutsk.drom.ru/acura/tl/46922987.html,Acura,TL,Иркутск,2004,бензин,3.2,270,АКПП,передний,,серебристый,198500,левый,3 поколение,3.2 AT TL,0,870000
+26,https://sevastopol.drom.ru/acura/zdx/47160158.html,Acura,ZDX,Севастополь,2010,бензин,3.7,300,АКПП,4WD,,белый,115150,левый,1 поколение,3.7 AT SH-AWD ZDX w/ Advance Package,0,1550000
+27,https://moscow.drom.ru/acura/mdx/47201723.html,Acura,MDX,Москва,2014,бензин,3.5,290,АКПП,4WD,,белый,115116,левый,3 поколение,,0,2399000
+28,https://ordynskoe.drom.ru/acura/mdx/47609322.html,Acura,MDX,Ордынское,2007,бензин,3.7,300,АКПП,4WD,,черный,162000,левый,2 поколение,3.7 AWD AT Sport,0,950000
+29,https://omsk.drom.ru/acura/rdx/48882719.html,Acura,RDX,Омск,2011,бензин,2.3,240,АКПП,4WD,,белый,196000,левый,"1 поколение, рестайлинг",SH-AWD Base,0,1530000
+30,https://ussuriisk.drom.ru/acura/mdx/48878687.html,Acura,MDX,Уссурийск,2003,бензин,3.5,265,АКПП,4WD,,синий,168000,левый,"1 поколение, рестайлинг",3.5 AWD AT,0,600000
+31,https://habarovsk.drom.ru/acura/mdx/48878330.html,Acura,MDX,Хабаровск,2004,бензин,3.5,265,АКПП,4WD,,черный,200000,левый,"1 поколение, рестайлинг",3.5 AWD AT,0,450000
+32,https://rostov-na-donu.drom.ru/acura/rdx/48190115.html,Acura,RDX,Ростов-на-Дону,2010,бензин,2.3,240,АКПП,передний,,серый,169000,левый,"1 поколение, рестайлинг",,0,1089900
+33,https://novosibirsk.drom.ru/acura/mdx/47867173.html,Acura,MDX,Новосибирск,2014,бензин,3.5,290,АКПП,4WD,,серебристый,145000,левый,3 поколение,3.5 AT AWD Techno,0,2500000
+34,https://petropavlovsk-kamchatskiy.drom.ru/acura/rdx/46911502.html,Acura,RDX,Петропавловск-Камчатский,2008,бензин,2.3,240,АКПП,4WD,,черный,130000,левый,1 поколение,SH-AWD Technology,0,950000
+35,https://ekaterinburg.drom.ru/acura/zdx/45479841.html,Acura,ZDX,Екатеринбург,2010,бензин,3.7,304,автомат,4WD,,черный,215000,левый,,,0,1550000
+36,https://krasnodar.drom.ru/acura/rsx/47610553.html,Acura,RSX,Краснодар,2001,бензин,2.0,160,механика,передний,,белый,212000,левый,1 поколение,2.0 MT RSX,0,600000
+37,https://nadim.drom.ru/acura/mdx/48866789.html,Acura,MDX,Надым,2009,бензин,3.7,300,АКПП,4WD,,серый,179250,левый,2 поколение,3.7 AWD AT,0,990000
+38,https://nizhnevartovsk.drom.ru/acura/mdx/48524682.html,Acura,MDX,Нижневартовск,2004,бензин,3.5,265,АКПП,4WD,,серебристый,187595,левый,"1 поколение, рестайлинг",3.5 AWD AT,0,900000
+39,https://magadan.drom.ru/acura/mdx/48514831.html,Acura,MDX,Магадан,2007,бензин,3.7,300,АКПП,4WD,,черный,162000,левый,2 поколение,3.7 AWD AT,0,1370000
+40,https://naberezhnye-chelny.drom.ru/acura/rl/49049638.html,Acura,RL,Набережные Челны,2005,бензин,3.5,300,АКПП,4WD,,черный,260000,левый,2 поколение,3.5 AT SH-AWD RL,0,760000
+41,https://samara.drom.ru/acura/zdx/49048998.html,Acura,ZDX,Самара,2010,бензин,3.7,300,АКПП,4WD,,серый,203000,левый,1 поколение,,0,1370000
+42,https://novosibirsk.drom.ru/acura/rdx/48011599.html,Acura,RDX,Новосибирск,2018,бензин,2.0,272,АКПП,4WD,,черный,54000,левый,3 поколение,2.0 SH-AWD AT Technology Package,0,3600000
+43,https://simferopol.drom.ru/acura/mdx/47347534.html,Acura,MDX,Симферополь,2008,бензин,3.7,300,АКПП,4WD,,черный,272000,левый,2 поколение,,0,998000
+44,https://moscow.drom.ru/acura/mdx/48702195.html,Acura,MDX,Москва,2014,бензин,3.5,290,АКПП,4WD,,серый,228000,левый,3 поколение,,0,2113000
+45,https://magadan.drom.ru/acura/rdx/48355637.html,Acura,RDX,Магадан,2007,бензин,2.3,240,АКПП,4WD,,серый,260000,левый,1 поколение,SH-AWD Base,0,1120000
+46,https://tyumen.drom.ru/acura/mdx/46278562.html,Acura,MDX,Тюмень,2001,бензин,3.5,240,АКПП,4WD,,черный,300000,левый,1 поколение,3.5 AWD AT,0,500000
+47,https://irkutsk.drom.ru/acura/mdx/49037596.html,Acura,MDX,Иркутск,2008,бензин,3.7,300,АКПП,4WD,,черный,344000,левый,2 поколение,3.7 AWD AT,0,900000
+48,https://novosibirsk.drom.ru/acura/mdx/48055947.html,Acura,MDX,Новосибирск,2004,бензин,3.5,265,АКПП,4WD,,серебристый,199117,левый,"1 поколение, рестайлинг",3.5 AWD AT,0,380000
+49,https://krasnodar.drom.ru/acura/mdx/48465788.html,Acura,MDX,Краснодар,2000,бензин,3.5,240,АКПП,4WD,,серебристый,243000,левый,1 поколение,3.5 AWD AT Touring Package,1,550000
+50,https://novosibirsk.drom.ru/acura/mdx/48300029.html,Acura,MDX,Новосибирск,2008,бензин,3.7,300,АКПП,4WD,,черный,152000,левый,2 поколение,3.7 AWD AT Sport,0,980000
+51,https://moscow.drom.ru/acura/mdx/48114097.html,Acura,MDX,Москва,2001,бензин,3.5,240,АКПП,4WD,,черный,237800,левый,1 поколение,,0,565000
+52,https://artem.drom.ru/acura/rdx/47378325.html,Acura,RDX,Артём,2007,бензин,2.3,240,АКПП,4WD,,серый,237000,левый,1 поколение,SH-AWD Technology,0,880000
+53,https://ivanovo.drom.ru/acura/mdx/49026894.html,Acura,MDX,Иваново,2001,бензин,3.5,240,АКПП,4WD,,серебристый,100000,левый,1 поколение,,1,199900
+54,https://krutiha.drom.ru/acura/mdx/49026528.html,Acura,MDX,Крутиха,2003,бензин,3.5,260,АКПП,4WD,,черный,200,левый,"1 поколение, рестайлинг",3.5 AWD AT,0,650000
+55,https://vladivostok.drom.ru/acura/mdx/44326554.html,Acura,MDX,Владивосток,2004,бензин,3.5,265,автомат,4WD,,серый,207000,правый,,,0,800000
+56,https://krasnye-barrikady.drom.ru/acura/mdx/49022463.html,Acura,MDX,Красные Баррикады,2002,бензин,3.5,240,АКПП,4WD,,черный,129000,левый,1 поколение,3.5 AWD AT,1,350000
+57,https://kamensk-uralskiy.drom.ru/acura/mdx/49020686.html,Acura,MDX,Каменск-Уральский,2003,бензин,3.5,260,АКПП,4WD,,черный,250000,левый,"1 поколение, рестайлинг",3.5 AWD AT,0,656000
+58,https://kodinsk.drom.ru/acura/mdx/49017527.html,Acura,MDX,Кодинск,2000,бензин,3.5,240,АКПП,4WD,,черный,360036,левый,1 поколение,,0,510000
+59,https://zima.drom.ru/acura/mdx/48881649.html,Acura,MDX,Зима,2004,бензин,3.5,265,АКПП,4WD,,черный,210000,левый,"1 поколение, рестайлинг",3.5 AWD AT,0,580000
+60,https://astrahan.drom.ru/acura/tlx/48611060.html,Acura,TLX,Астрахань,2015,бензин,2.4,208,робот,передний,,черный,66000,левый,1 поколение,2.4 Techno,0,1650000
+61,https://novosibirsk.drom.ru/acura/rdx/48954812.html,Acura,RDX,Новосибирск,2007,бензин,2.3,240,АКПП,4WD,,серый,148000,левый,1 поколение,SH-AWD Technology,0,1100000
+62,https://moscow.drom.ru/acura/rdx/47006298.html,Acura,RDX,Москва,2007,бензин,2.3,240,АКПП,4WD,,серый,172000,левый,1 поколение,,0,755000
+63,https://kaltan.drom.ru/acura/tl/35132166.html,Acura,TL,Калтан,2002,бензин,3.2,228,автомат,передний,,серебристый,219000,левый,,,0,730000
+64,https://chelyabinsk.drom.ru/acura/mdx/48945976.html,Acura,MDX,Челябинск,2002,бензин,3.5,240,АКПП,4WD,,черный,203200,левый,1 поколение,,0,750000
+65,https://kemerovo.drom.ru/acura/mdx/48598394.html,Acura,MDX,Кемерово,2014,бензин,3.5,290,АКПП,4WD,,белый,153000,левый,3 поколение,,0,2560000
+66,https://protvino.drom.ru/acura/mdx/48605272.html,Acura,MDX,Протвино,2010,бензин,3.7,300,АКПП,4WD,,серый,186000,левый,"2 поколение, рестайлинг",3.7 AWD AT,0,2222222
+67,https://tomsk.drom.ru/acura/mdx/48598505.html,Acura,MDX,Томск,2004,бензин,3.5,243,автомат,4WD,,черный,298700,левый,,,1,675000
+68,https://bratsk.drom.ru/acura/mdx/48258443.html,Acura,MDX,Братск,2008,бензин,3.7,300,АКПП,4WD,,черный,160000,левый,2 поколение,3.7 AWD AT,0,1250000
+69,https://nizhnevartovsk.drom.ru/acura/zdx/47579842.html,Acura,ZDX,Нижневартовск,2010,бензин,3.7,300,АКПП,4WD,,белый,158000,левый,1 поколение,3.7 AT SH-AWD ZDX w/ Advance Package,0,1490000
+70,https://tomsk.drom.ru/acura/mdx/47245885.html,Acura,MDX,Томск,2008,бензин,3.7,300,АКПП,4WD,,бордовый,140000,левый,2 поколение,3.7 AWD AT,0,1750000
+71,https://spb.drom.ru/acura/tsx/46847243.html,Acura,TSX,Санкт-Петербург,2004,бензин,2.4,200,АКПП,передний,седан,черный,358000,левый,1 поколение,2.4 AT TSX,0,525000
+72,https://abakan.drom.ru/acura/tsx/48932934.html,Acura,TSX,Абакан,2004,бензин,2.4,190,автомат,передний,седан,черный,200000,левый,,,1,639000
+73,https://novosibirsk.drom.ru/acura/mdx/48240486.html,Acura,MDX,Новосибирск,2014,бензин,3.5,290,АКПП,4WD,,белый,84200,левый,3 поколение,3.5 AT AWD Advance,1,2850000
+74,https://habarovsk.drom.ru/acura/mdx/46082202.html,Acura,MDX,Хабаровск,2014,бензин,3.5,290,АКПП,4WD,,белый,180000,левый,3 поколение,,0,2600000
+75,https://surgut.drom.ru/acura/rdx/48241168.html,Acura,RDX,Сургут,2008,бензин,2.3,240,АКПП,4WD,,серый,178000,левый,1 поколение,SH-AWD Technology,0,879000
+76,https://perm.drom.ru/acura/mdx/48240746.html,Acura,MDX,Пермь,2005,бензин,3.5,265,АКПП,4WD,,серебристый,170000,левый,"1 поколение, рестайлинг",3.5 AWD AT,0,690000
+77,https://kazan.drom.ru/acura/mdx/48239987.html,Acura,MDX,Казань,2017,бензин,3.5,290,АКПП,4WD,,белый,77000,левый,"3 поколение, рестайлинг",3.5 SH-AWD AT Advance Package,0,4999000
+78,https://kyzyl.drom.ru/acura/mdx/48238949.html,Acura,MDX,Кызыл,2003,бензин,3.5,260,АКПП,4WD,,белый,191000,левый,"1 поколение, рестайлинг",3.5 AWD AT,0,500000
+79,https://omsk.drom.ru/acura/tl/48236293.html,Acura,TL,Омск,2005,бензин,3.2,270,АКПП,передний,,бордовый,180000,левый,3 поколение,3.2 AT TL,0,595959
+80,https://matveev-kurgan.drom.ru/acura/mdx/46000525.html,Acura,MDX,Матвеев Курган,2007,бензин,3.7,300,АКПП,4WD,,черный,221000,левый,2 поколение,3.7 AWD AT,0,1000000
+81,https://moscow.drom.ru/acura/rdx/45488362.html,Acura,RDX,Москва,2018,бензин,2.0,272,АКПП,4WD,,черный,66500,левый,3 поколение,2.0 SH-AWD AT Technology Package,1,2800000
+82,https://simferopol.drom.ru/acura/mdx/49013344.html,Acura,MDX,Симферополь,2003,бензин,3.5,260,АКПП,4WD,,серебристый,300000,левый,"1 поколение, рестайлинг",3.5 AWD AT,0,410000
+83,https://barnaul.drom.ru/acura/rdx/49012119.html,Acura,RDX,Барнаул,2007,бензин,2.3,240,АКПП,4WD,,белый,168000,левый,1 поколение,,0,1050000
+84,https://novosibirsk.drom.ru/acura/tsx/49008004.html,Acura,TSX,Новосибирск,2003,бензин,2.4,200,АКПП,передний,седан,голубой,234000,левый,1 поколение,2.4 AT TSX,1,550000
+85,https://sevastopol.drom.ru/acura/mdx/49005667.html,Acura,MDX,Севастополь,2008,бензин,3.7,300,АКПП,4WD,,серый,78600,левый,2 поколение,,0,1148000
+86,https://stavropol.drom.ru/acura/rdx/47646357.html,Acura,RDX,Ставрополь,2010,бензин,2.3,240,АКПП,4WD,,бордовый,122000,левый,"1 поколение, рестайлинг",SH-AWD Technology,0,1700000
+87,https://ufa.drom.ru/acura/mdx/47644990.html,Acura,MDX,Уфа,2001,бензин,3.5,240,АКПП,4WD,,серый,438000,левый,1 поколение,3.5 AWD AT,0,520000
+88,https://ulyanovsk.drom.ru/acura/mdx/49003868.html,Acura,MDX,Ульяновск,2003,бензин,3.5,265,АКПП,4WD,,черный,195000,левый,"1 поколение, рестайлинг",3.5 AWD AT,0,315000
+89,https://kirzhach.drom.ru/acura/rdx/49000836.html,Acura,RDX,Киржач,2008,бензин,2.3,240,АКПП,4WD,,белый,123335,левый,1 поколение,SH-AWD Technology,0,900000
+90,https://spb.drom.ru/acura/tlx/48693643.html,Acura,TLX,Санкт-Петербург,2019,бензин,3.5,294,автомат,передний,,белый,18000,левый,,,0,2490000
+91,https://barnaul.drom.ru/acura/mdx/49000572.html,Acura,MDX,Барнаул,2001,бензин,3.5,240,АКПП,4WD,,серый,280000,левый,1 поколение,,0,550000
+92,https://krasnodar.drom.ru/acura/mdx/48997868.html,Acura,MDX,Краснодар,2000,бензин,3.5,240,АКПП,4WD,,,200000,левый,1 поколение,3.5 AWD AT Touring Package,0,455000
+93,https://timashevsk.drom.ru/acura/mdx/47833813.html,Acura,MDX,Тимашевск,2008,бензин,3.7,300,АКПП,4WD,,серый,126000,левый,2 поколение,,0,1200000
+94,https://vladivostok.drom.ru/acura/rl/48305406.html,Acura,RL,Владивосток,2005,бензин,3.5,300,АКПП,4WD,,серый,181189,левый,2 поколение,3.5 AT SH-AWD RL,0,700000
+95,https://irkutsk.drom.ru/acura/mdx/47037523.html,Acura,MDX,Иркутск,2001,бензин,3.5,240,АКПП,4WD,,коричневый,260000,левый,1 поколение,3.5 AWD AT,0,550000
+96,https://noviy-urengoy.drom.ru/acura/mdx/48273537.html,Acura,MDX,Новый Уренгой,2017,бензин,3.5,290,АКПП,4WD,,белый,76500,левый,"3 поколение, рестайлинг",3.5 SH-AWD AT Technology Package,0,3590000
+97,https://tomsk.drom.ru/acura/rsx/47580593.html,Acura,RSX,Томск,2004,бензин,2.0,210,механика,передний,,оранжевый,155000,левый,"1 поколение, рестайлинг",2.0 MT RSX Type S,0,650000
+98,https://ekaterinburg.drom.ru/acura/cl/48989080.html,Acura,CL,Екатеринбург,2000,бензин,3.2,225,АКПП,передний,купе,серебристый,144500,левый,2 поколение,3.2 AT CL,0,375000
+99,https://chita.drom.ru/acura/mdx/47574669.html,Acura,MDX,Чита,2003,бензин,3.5,265,АКПП,4WD,,черный,132000,левый,"1 поколение, рестайлинг",3.5 AWD AT,0,575000
+100,https://voronezh.drom.ru/acura/tsx/48183507.html,Acura,TSX,Воронеж,2004,бензин,2.4,200,АКПП,передний,седан,серый,220000,левый,1 поколение,2.4 AT TSX,0,570000
+101,https://blagoveshchensk.drom.ru/acura/rl/48174316.html,Acura,RL,Благовещенск,2004,бензин,3.5,300,АКПП,4WD,,серый,167535,левый,2 поколение,3.5 AT SH-AWD RL,0,770000
+102,https://moscow.drom.ru/acura/zdx/47833799.html,Acura,ZDX,Москва,2010,бензин,3.7,300,АКПП,4WD,,черный,110000,левый,1 поколение,3.7 AT SH-AWD ZDX,0,1400000
+103,https://tomsk.drom.ru/acura/mdx/47503378.html,Acura,MDX,Томск,2008,бензин,3.7,300,АКПП,4WD,,черный,192000,левый,2 поколение,3.7 AWD AT Sport,1,1100000
+104,https://vladivostok.drom.ru/acura/rdx/47500221.html,Acura,RDX,Владивосток,2009,бензин,2.3,240,АКПП,4WD,,черный,164000,левый,1 поколение,SH-AWD Technology,0,1200000
+105,https://novosibirsk.drom.ru/acura/mdx/47109489.html,Acura,MDX,Новосибирск,2011,бензин,3.7,300,АКПП,4WD,,черный,240000,левый,"2 поколение, рестайлинг",3.7 AWD AT,1,1650000
+106,https://norilsk.drom.ru/acura/mdx/46889085.html,Acura,MDX,Норильск,2002,бензин,3.5,240,АКПП,4WD,,,210000,левый,1 поколение,,1,350000
+107,https://shchelkovo.drom.ru/acura/rdx/48862306.html,Acura,RDX,Щёлково,2008,бензин,2.3,240,АКПП,4WD,,черный,125720,левый,1 поколение,SH-AWD Technology,0,850000
+108,https://habarovsk.drom.ru/acura/rdx/48006108.html,Acura,RDX,Хабаровск,2009,бензин,2.3,240,АКПП,4WD,,серый,61070,левый,"1 поколение, рестайлинг",SH-AWD Technology,0,1300000
+109,https://cherepanovo.drom.ru/acura/mdx/48513284.html,Acura,MDX,Черепаново,2003,бензин,3.5,265,АКПП,4WD,,черный,229834,левый,"1 поколение, рестайлинг",3.5 AWD AT,0,670000
+110,https://novosibirsk.drom.ru/acura/rsx/48846259.html,Acura,RSX,Новосибирск,2005,бензин,2.0,201,механика,передний,,оранжевый,160000,левый,"1 поколение, рестайлинг",2.0 MT RSX Type S,1,450000
+111,https://novokuznetsk.drom.ru/acura/mdx/48833140.html,Acura,MDX,Новокузнецк,2001,бензин,3.5,240,АКПП,4WD,,серый,380000,левый,1 поколение,3.5 AWD AT Touring Package,1,450000
+112,https://tyumen.drom.ru/acura/tsx/46385177.html,Acura,TSX,Тюмень,2004,бензин,2.4,200,АКПП,передний,седан,серый,241000,левый,1 поколение,2.4 AT TSX,0,670000
+113,https://vladivostok.drom.ru/acura/mdx/48051365.html,Acura,MDX,Владивосток,2001,бензин,3.5,240,АКПП,4WD,,желтый,225,левый,1 поколение,3.5 AWD AT,0,430000
+114,https://ekaterinburg.drom.ru/acura/mdx/47802144.html,Acura,MDX,Екатеринбург,2007,бензин,3.7,300,АКПП,4WD,,черный,144444,левый,2 поколение,3.7 AWD AT,0,1100000
+115,https://moscow.drom.ru/acura/rlx/46794680.html,Acura,RLX,Москва,2014,бензин,3.5,314,автомат,4WD,,черный,100000,левый,,,1,2500000
+116,https://vladivostok.drom.ru/acura/mdx/47445105.html,Acura,MDX,,2022,бензин,3.5,290,АКПП,4WD,,красный,новый автомобиль,левый,4 поколение,3.5 SH-AWD AT A-Spec,0,6600000
+117,https://novosibirsk.drom.ru/acura/rdx/48145208.html,Acura,RDX,,2022,бензин,2.0,272,автомат,4WD,,красный,21,левый,,,0,4200000
+118,https://vladivostok.drom.ru/acura/mdx/43484374.html,Acura,MDX,,2021,бензин,3.5,280,автомат,4WD,,серый,новый автомобиль,левый,,,0,6800000
+119,https://spb.drom.ru/acura/rdx/47451325.html,Acura,RDX,,2021,бензин,2.0,272,АКПП,4WD,,,3000,левый,3 поколение,2.0 SH-AWD AT Technology Package,0,1750000
+120,https://moscow.drom.ru/acura/mdx/48968459.html,Acura,MDX,,2018,бензин,3.5,290,АКПП,передний,,черный,53000,левый,"3 поколение, рестайлинг",,0,1700000
+121,https://ekaterinburg.drom.ru/acura/rdx/47797391.html,Acura,RDX,Екатеринбург,2008,бензин,2.3,240,АКПП,4WD,,серый,96844,левый,1 поколение,SH-AWD Technology,1,1000000
+122,https://bolotnoe.drom.ru/acura/mdx/48318794.html,Acura,MDX,Болотное,2007,бензин,3.7,300,АКПП,4WD,,серый,205000,левый,2 поколение,3.7 AWD AT Sport,1,890000
+123,https://bakhchysaray.drom.ru/acura/mdx/48791327.html,Acura,MDX,Бахчисарай,2001,бензин,3.5,240,АКПП,4WD,,черный,250000,левый,1 поколение,,1,650000
+124,https://yugorsk.drom.ru/acura/mdx/47706158.html,Acura,MDX,Югорск,2001,бензин,3.5,240,АКПП,4WD,,серый,240000,левый,1 поколение,3.5 AWD AT,1,500000
+125,https://irkutsk.drom.ru/acura/rl/48764892.html,Acura,RL,Иркутск,2004,бензин,3.5,300,АКПП,4WD,,черный,300000,левый,2 поколение,3.5 AT SH-AWD RL,1,950000
+126,https://shchelkino.drom.ru/acura/mdx/49162100.html,Acura,MDX,Щёлкино,2007,бензин,3.7,300,АКПП,4WD,,черный,227000,левый,2 поколение,,0,999999
+127,https://omsk.drom.ru/acura/rl/49160948.html,Acura,RL,Омск,2005,бензин,2.4,294,автомат,4WD,,серый,173000,левый,,,0,679000
+128,https://spb.drom.ru/acura/mdx/49156697.html,Acura,MDX,Санкт-Петербург,2003,бензин,3.5,260,АКПП,4WD,,серебристый,162117,левый,"1 поколение, рестайлинг",3.5 AWD AT,0,510000
+129,https://birobidzhan.drom.ru/acura/mdx/48975850.html,Acura,MDX,Биробиджан,2014,бензин,3.5,290,АКПП,4WD,,серебристый,210000,левый,3 поколение,3.5 AT AWD Advance,0,2400000
+130,https://kaluga.drom.ru/acura/mdx/48480917.html,Acura,MDX,Калуга,2008,бензин,3.7,300,АКПП,4WD,,черный,179000,левый,2 поколение,3.7 AWD AT Sport,0,925000
+131,https://novosibirsk.drom.ru/acura/mdx/45833051.html,Acura,MDX,Новосибирск,2007,бензин,3.7,300,АКПП,4WD,,серебристый,205000,левый,2 поколение,3.7 AWD AT Sport,0,1150000
+132,https://novosibirsk.drom.ru/acura/rdx/42508552.html,Acura,RDX,Новосибирск,2007,бензин,2.3,240,АКПП,4WD,,черный,217000,левый,1 поколение,SH-AWD Technology,0,1380000
+133,https://vladivostok.drom.ru/acura/mdx/46948645.html,Acura,MDX,Владивосток,2010,бензин,3.7,300,АКПП,4WD,,черный,92000,левый,"2 поколение, рестайлинг",3.7 AWD AT,0,1670000
+134,https://novosibirsk.drom.ru/acura/mdx/48976127.html,Acura,MDX,Новосибирск,2014,бензин,3.5,290,АКПП,4WD,,серый,120000,левый,3 поколение,3.5 AT AWD Advance,0,1950000
+135,https://kyzyl.drom.ru/acura/mdx/49145426.html,Acura,MDX,Кызыл,2002,бензин,3.5,240,АКПП,4WD,,черный,363000,левый,1 поколение,3.5 AWD AT Touring Package,0,465000
+136,https://mytishchi.drom.ru/acura/mdx/47347838.html,Acura,MDX,Мытищи,2018,бензин,3.5,290,АКПП,4WD,,черный,55000,левый,"3 поколение, рестайлинг",3.5 SH-AWD AT Technology Package,1,2990000
+137,https://omsk.drom.ru/acura/mdx/47837123.html,Acura,MDX,Омск,2003,бензин,3.5,265,АКПП,4WD,,серебристый,184000,левый,"1 поколение, рестайлинг",3.5 AWD AT,0,350000
+138,https://toguchin.drom.ru/acura/mdx/48447813.html,Acura,MDX,Тогучин,2008,бензин,3.7,300,АКПП,4WD,,черный,302000,левый,2 поколение,3.7 AWD AT Sport,1,800000
+139,https://spb.drom.ru/acura/rdx/48811618.html,Acura,RDX,Санкт-Петербург,2020,бензин,2.0,272,АКПП,4WD,,белый,13825,левый,3 поколение,,0,3644000
+140,https://novosibirsk.drom.ru/acura/mdx/48465552.html,Acura,MDX,Новосибирск,2003,бензин,3.5,265,АКПП,4WD,,серебристый,236825,левый,"1 поколение, рестайлинг",3.5 AWD AT,0,660000
+141,https://barnaul.drom.ru/acura/rl/47785153.html,Acura,RL,Барнаул,2006,бензин,3.5,290,АКПП,4WD,,серебристый,240000,левый,2 поколение,3.5 AT SH-AWD RL,0,890000
+142,https://grozniy.drom.ru/acura/mdx/47312831.html,Acura,MDX,Грозный,2008,бензин,3.7,300,АКПП,4WD,,черный,241173,левый,2 поколение,3.7 AWD AT,1,970000
+143,https://omsk.drom.ru/acura/rdx/46117509.html,Acura,RDX,Омск,2009,бензин,2.3,240,АКПП,4WD,,черный,240000,левый,"1 поколение, рестайлинг",SH-AWD Technology,1,1200000
+144,https://armavir.drom.ru/acura/mdx/49141136.html,Acura,MDX,Армавир,2004,бензин,3.5,265,АКПП,4WD,,голубой,210000,левый,"1 поколение, рестайлинг",3.5 AWD AT,0,580000
+145,https://plastunovskaya.drom.ru/acura/mdx/49136327.html,Acura,MDX,Пластуновская,2008,бензин,3.7,300,АКПП,4WD,,бордовый,200000,левый,2 поколение,3.7 AWD AT Sport,1,1150000
+146,https://irkutsk.drom.ru/acura/mdx/46425035.html,Acura,MDX,Иркутск,2019,бензин,3.5,290,АКПП,4WD,,черный,20000,левый,"3 поколение, рестайлинг",3.5 SH-AWD AT Standard,1,3999000
+147,https://omsk.drom.ru/acura/rdx/48921296.html,Acura,RDX,Омск,2006,бензин,2.3,243,автомат,4WD,,черный,157769,левый,,,0,1080000
+148,https://moscow.drom.ru/acura/rdx/49106094.html,Acura,RDX,Москва,2007,бензин,2.3,240,АКПП,4WD,,серый,210300,левый,1 поколение,SH-AWD Base,0,930000
+149,https://krasnoyarsk.drom.ru/acura/mdx/48762276.html,Acura,MDX,Красноярск,2014,бензин,3.5,290,АКПП,4WD,,белый,96000,левый,3 поколение,3.5 AT AWD Techno,0,2650000
+150,https://belovo.drom.ru/acura/rdx/48060660.html,Acura,RDX,Белово,2014,бензин,3.5,277,АКПП,4WD,,коричневый,137500,левый,2 поколение,Techno,0,2100000
+151,https://vladivostok.drom.ru/acura/zdx/47285258.html,Acura,ZDX,Владивосток,2009,бензин,3.7,300,АКПП,4WD,,белый,150000,левый,1 поколение,,0,1400000
+152,https://moscow.drom.ru/acura/mdx/49100520.html,Acura,MDX,Москва,2014,бензин,3.5,290,АКПП,4WD,,черный,195180,левый,3 поколение,,0,2094000
+153,https://krasnodar.drom.ru/acura/rdx/48771333.html,Acura,RDX,Краснодар,2010,бензин,2.3,240,АКПП,4WD,,белый,42647,левый,"1 поколение, рестайлинг",SH-AWD Base,0,1250000
+154,https://sevastopol.drom.ru/acura/rdx/48770741.html,Acura,RDX,Севастополь,2010,бензин,2.3,240,АКПП,4WD,,черный,135037,левый,"1 поколение, рестайлинг",SH-AWD Technology,0,1200000
+155,https://irkutsk.drom.ru/acura/mdx/48767344.html,Acura,MDX,Иркутск,2010,бензин,3.7,300,АКПП,4WD,,черный,280000,левый,"2 поколение, рестайлинг",3.7 AWD AT,0,1650000
+156,https://spb.drom.ru/acura/tl/48416695.html,Acura,TL,Санкт-Петербург,2004,бензин,3.2,270,АКПП,передний,,серый,170000,левый,3 поколение,3.2 AT TL,0,420000
+157,https://novosibirsk.drom.ru/acura/mdx/48359291.html,Acura,MDX,Новосибирск,2014,бензин,3.5,290,АКПП,4WD,,белый,145560,левый,3 поколение,3.5 AT AWD Advance,1,2400000
+158,https://krasnodar.drom.ru/acura/tl/48075642.html,Acura,TL,Краснодар,2007,бензин,3.2,258,АКПП,передний,,белый,200000,левый,"3 поколение, рестайлинг",3.2 AT TL,0,835000
+159,https://irkutsk.drom.ru/acura/mdx/47406911.html,Acura,MDX,Иркутск,2003,бензин,3.5,240,АКПП,4WD,,серый,259114,левый,1 поколение,3.5 AWD AT Touring Package,0,350000
+160,https://novokuznetsk.drom.ru/acura/zdx/46711088.html,Acura,ZDX,Новокузнецк,2010,бензин,3.7,300,АКПП,4WD,,серый,105000,левый,1 поколение,3.7 AT SH-AWD ZDX w/ Technology Package,0,1985000
+161,https://feodosiya.drom.ru/acura/mdx/48738358.html,Acura,MDX,Феодосия,2005,бензин,3.5,265,АКПП,4WD,,черный,200000,левый,"1 поколение, рестайлинг",3.5 AWD AT,0,650000
+162,https://angarsk.drom.ru/acura/mdx/46029867.html,Acura,MDX,Ангарск,2002,бензин,3.5,240,АКПП,4WD,,черный,177000,левый,1 поколение,3.5 AWD AT,0,600000
+163,https://moscow.drom.ru/acura/mdx/48411231.html,Acura,MDX,Москва,2002,бензин,3.5,240,АКПП,4WD,,черный,326000,левый,1 поколение,3.5 AWD AT,0,400000
+164,https://yakutsk.drom.ru/acura/mdx/48407024.html,Acura,MDX,Якутск,2004,бензин,3.5,265,АКПП,4WD,,серебристый,260000,левый,"1 поколение, рестайлинг",3.5 AWD AT,0,600000
+165,https://blagoveshchensk.drom.ru/acura/rdx/48137631.html,Acura,RDX,Благовещенск,2008,бензин,2.3,240,АКПП,4WD,,белый,176722,левый,1 поколение,SH-AWD Base,0,1200000
+166,https://tyumen.drom.ru/acura/mdx/48067543.html,Acura,MDX,Тюмень,2007,бензин,3.7,300,АКПП,4WD,,черный,180000,левый,2 поколение,,0,1150000
+167,https://irkutsk.drom.ru/acura/mdx/49087157.html,Acura,MDX,Иркутск,2004,бензин,3.5,265,АКПП,4WD,,серый,181500,левый,"1 поколение, рестайлинг",3.5 AWD AT,0,777000
+168,https://vladivostok.drom.ru/acura/mdx/48812768.html,Acura,MDX,Владивосток,2008,бензин,3.7,300,АКПП,4WD,,черный,206279,левый,2 поколение,3.7 AWD AT Sport,0,1480000
+169,https://rostov-na-donu.drom.ru/acura/mdx/43923171.html,Acura,MDX,Ростов-на-Дону,2012,бензин,3.7,300,АКПП,4WD,,белый,123000,левый,"2 поколение, рестайлинг",3.7 AWD AT,0,1490000
+170,https://baykalsk.drom.ru/acura/mdx/45944073.html,Acura,MDX,Байкальск,2002,бензин,3.5,240,АКПП,4WD,,бежевый,250000,левый,1 поколение,3.5 AWD AT,0,480000
+171,https://surgut.drom.ru/acura/tl/46955053.html,Acura,TL,Сургут,2005,бензин,3.2,270,АКПП,передний,,серебристый,170000,левый,3 поколение,3.2 AT TL,0,870000
+172,https://vladivostok.drom.ru/acura/rdx/48371372.html,Acura,RDX,Владивосток,2018,бензин,2.0,272,АКПП,4WD,,серый,35000,левый,3 поколение,2.0 SH-AWD AT A-Spec Package,0,3800000
+173,https://moscow.drom.ru/acura/ilx/49077938.html,Acura,ILX,Москва,2020,бензин,2.4,201,робот,передний,,белый,18000,левый,"1 поколение, 2 рестайлинг",2.4 SAT ILX with A-Spec® and Technology Packages,1,1850000
+174,https://ekaterinburg.drom.ru/acura/rdx/48395191.html,Acura,RDX,Екатеринбург,2007,бензин,2.3,240,АКПП,4WD,,серый,182000,левый,1 поколение,,0,950000
+175,https://chelyabinsk.drom.ru/acura/zdx/47716287.html,Acura,ZDX,Челябинск,2010,бензин,3.7,300,АКПП,4WD,,белый,92000,левый,1 поколение,,0,1650000
+176,https://petropavlovsk-kamchatskiy.drom.ru/acura/mdx/45939583.html,Acura,MDX,Петропавловск-Камчатский,2003,бензин,3.5,265,АКПП,4WD,,черный,130000,левый,"1 поколение, рестайлинг",3.5 AWD AT,0,510000
+177,https://moscow.drom.ru/acura/mdx/49048601.html,Acura,MDX,Москва,2018,бензин,3.0,257,робот,4WD,,черный,86000,левый,"3 поколение, рестайлинг",3.0 SH-AWD SAT Sport Hybrid,0,2700000
+178,https://koltsovo.drom.ru/acura/mdx/48723557.html,Acura,MDX,Кольцово,2002,бензин,3.5,240,АКПП,4WD,,белый,220000,левый,1 поколение,,0,430000
+179,https://novosibirsk.drom.ru/acura/tsx/49070322.html,Acura,TSX,Новосибирск,2004,бензин,2.4,200,АКПП,передний,седан,серый,176000,левый,1 поколение,2.4 AT TSX,0,610000
+180,https://yuzhno-sakhalinsk.drom.ru/acura/zdx/49067995.html,Acura,ZDX,Южно-Сахалинск,2010,бензин,3.7,300,АКПП,4WD,,белый,95000,левый,1 поколение,3.7 AT SH-AWD ZDX w/ Advance Package,0,1600000
+181,https://kuybyshev.drom.ru/acura/rdx/48391622.html,Acura,RDX,Куйбышев,2007,бензин,2.3,240,АКПП,4WD,,черный,172400,левый,1 поколение,SH-AWD Technology,0,1100000
+182,https://arhangelsk.drom.ru/acura/rdx/48390322.html,Acura,RDX,Архангельск,2021,бензин,2.0,272,АКПП,4WD,,белый,5000,левый,3 поколение,2.0 SH-AWD AT Technology Package,1,3100000
+183,https://vladivostok.drom.ru/acura/rl/48389230.html,Acura,RL,Владивосток,2005,бензин,3.5,300,АКПП,4WD,,серый,222000,левый,2 поколение,3.5 AT SH-AWD RL,0,820000
+184,https://moscow.drom.ru/acura/mdx/49067541.html,Acura,MDX,Москва,2004,бензин,3.5,265,АКПП,4WD,,серый,333556,левый,"1 поколение, рестайлинг",3.5 AWD AT,0,550000
+185,https://moscow.drom.ru/acura/rdx/49067148.html,Acura,RDX,Москва,2008,бензин,2.3,240,АКПП,4WD,,серый,260000,левый,1 поколение,SH-AWD Base,0,949000
+186,https://moscow.drom.ru/acura/mdx/47996936.html,Acura,MDX,Москва,2000,бензин,3.5,240,АКПП,4WD,,черный,175456,левый,1 поколение,,0,575000
+187,https://moscow.drom.ru/acura/mdx/48018713.html,Acura,MDX,Москва,2002,бензин,3.5,240,АКПП,4WD,,желтый,175000,левый,1 поколение,,0,575000
+188,https://lyubertsy.drom.ru/acura/mdx/48027167.html,Acura,MDX,Люберцы,2014,бензин,3.5,294,автомат,4WD,,серый,171463,левый,,,0,1950000
+189,https://vladivostok.drom.ru/acura/zdx/48719384.html,Acura,ZDX,Владивосток,2010,бензин,3.7,300,АКПП,4WD,,коричневый,160000,левый,1 поколение,3.7 AT SH-AWD ZDX,0,1200000
+190,https://krasnoyarsk.drom.ru/acura/mdx/48729013.html,Acura,MDX,Красноярск,2007,бензин,3.7,300,АКПП,4WD,,черный,202000,левый,2 поколение,3.7 AWD AT Sport,0,1500000
+191,https://arhangelsk.drom.ru/acura/rdx/48724064.html,Acura,RDX,Архангельск,2014,бензин,3.5,277,АКПП,4WD,,черный,74507,левый,2 поколение,Techno,1,1850000
+192,https://irkutsk.drom.ru/acura/mdx/48719558.html,Acura,MDX,Иркутск,2008,бензин,3.7,300,АКПП,4WD,,красный,290000,левый,2 поколение,,0,1200000
+193,https://vladivostok.drom.ru/acura/mdx/48718385.html,Acura,MDX,Владивосток,2007,бензин,3.7,300,АКПП,4WD,,черный,160000,левый,2 поколение,3.7 AWD AT,0,1200000
+194,https://biysk.drom.ru/acura/mdx/48374981.html,Acura,MDX,Бийск,2013,бензин,3.5,290,АКПП,4WD,,белый,212000,левый,3 поколение,3.5 SH-AWD AT,0,2200000
+195,https://vladivostok.drom.ru/acura/zdx/48371166.html,Acura,ZDX,Владивосток,2010,бензин,3.7,300,АКПП,4WD,,черный,150000,левый,1 поколение,3.7 AT SH-AWD ZDX w/ Advance Package,0,1320000
+196,https://moscow.drom.ru/acura/rdx/46353211.html,Acura,RDX,Москва,2008,бензин,2.3,240,АКПП,4WD,,серый,180000,левый,1 поколение,SH-AWD Base,0,875000
+197,https://ekaterinburg.drom.ru/acura/mdx/45286131.html,Acura,MDX,Екатеринбург,2008,бензин,3.7,300,АКПП,4WD,,черный,193500,левый,2 поколение,3.7 AWD AT,0,990000
+198,https://ufa.drom.ru/acura/mdx/46289830.html,Acura,MDX,Уфа,2014,бензин,3.5,290,АКПП,4WD,,черный,98000,левый,3 поколение,3.5 AT AWD Advance,0,2520000
+200,https://omsk.drom.ru/acura/rl/49055330.html,Acura,RL,Омск,2005,бензин,3.5,290,АКПП,4WD,,серый,150000,левый,2 поколение,3.5 AT SH-AWD RL,1,630000
+201,https://gorno-altaysk.drom.ru/acura/tl/49053241.html,Acura,TL,Горно-Алтайск,1999,бензин,3.2,225,АКПП,передний,,зеленый,199000,левый,2 поколение,3.2 AT TL,0,130000
+202,https://nizhnevartovsk.drom.ru/acura/tsx/47966022.html,Acura,TSX,Нижневартовск,2006,бензин,2.4,205,АКПП,передний,седан,черный,185000,левый,1 поколение,2.4 AT TSX,0,840000
+204,https://yuzhno-sakhalinsk.drom.ru/acura/rdx/48018353.html,Acura,RDX,Южно-Сахалинск,2014,бензин,3.5,277,АКПП,4WD,,белый,120,левый,2 поколение,Techno,0,700000
+205,https://zavyalovo-barnaul.drom.ru/acura/mdx/47685904.html,Acura,MDX,Завьялово,2001,бензин,3.5,240,АКПП,4WD,,серый,194622,левый,1 поколение,3.5 AWD AT,0,500000
+206,https://omsk.drom.ru/acura/tsx/49113167.html,Acura,TSX,Омск,2004,бензин,2.4,200,АКПП,передний,седан,серый,292000,левый,1 поколение,2.4 AT TSX,0,720000
+207,https://moscow.drom.ru/acura/mdx/47771578.html,Acura,MDX,Москва,2020,бензин,3.5,290,АКПП,4WD,,черный,6500,левый,"3 поколение, рестайлинг",3.5 SH-AWD AT Advance Package,0,4490000
+209,https://barnaul.drom.ru/acura/mdx/47876131.html,,,,,,,,,,,,,,,,0,
+211,https://barnaul.drom.ru/acura/rdx/45511362.html,,,,,,,,,,,,,,,,0,
+213,https://chita.drom.ru/acura/mdx/47425970.html,,,,,,,,,,,,,,,,0,
+215,https://lyantor.drom.ru/acura/mdx/48790306.html,,,,,,,,,,,,,,,,0,
+217,https://moscow.drom.ru/acura/mdx/48785991.html,,,,,,,,,,,,,,,,0,
+219,https://novosibirsk.drom.ru/acura/rdx/48104653.html,,,,,,,,,,,,,,,,0,
+221,https://berdsk.drom.ru/acura/mdx/48162927.html,,,,,,,,,,,,,,,,0,
+223,https://yakutsk.drom.ru/acura/mdx/49112215.html,,,,,,,,,,,,,,,,0,
+225,https://moscow.drom.ru/acura/mdx/48092881.html,,,,,,,,,,,,,,,,0,
+227,https://moscow.drom.ru/acura/rdx/48928755.html,,,,,,,,,,,,,,,,0,
+229,https://irkutsk.drom.ru/acura/mdx/45187519.html,,,,,,,,,,,,,,,,0,
+231,https://barnaul.drom.ru/acura/rdx/47719082.html,,,,,,,,,,,,,,,,0,
+233,https://gorno-altaysk.drom.ru/acura/rdx/48333035.html,,,,,,,,,,,,,,,,0,
+235,https://tver.drom.ru/acura/rdx/48222918.html,,,,,,,,,,,,,,,,0,
+237,https://vladivostok.drom.ru/acura/rdx/48784522.html,,,,,,,,,,,,,,,,0,
+239,https://novosibirsk.drom.ru/acura/tsx/48563230.html,,,,,,,,,,,,,,,,0,
+241,https://krasnodar.drom.ru/acura/rdx/39436090.html,Acura,RDX,Краснодар,2007,бензин,2.3,240,АКПП,4WD,,синий,185000,левый,1 поколение,SH-AWD Technology,0,800000
+243,https://barnaul.drom.ru/acura/rdx/48208747.html,,,,,,,,,,,,,,,,0,
+245,https://seltso.drom.ru/acura/mdx/46070938.html,,,,,,,,,,,,,,,,0,
+247,https://nizhniy-novgorod.drom.ru/chevrolet/niva/48978174.html,,,,,,,,,,,,,,,,0,
+249,https://ust-ilimsk.drom.ru/chevrolet/tracker/48975482.html,,,,,,,,,,,,,,,,0,
+251,https://medvezhyegorsk.drom.ru/chevrolet/niva/48638737.html,,,,,,,,,,,,,,,,0,
+253,https://nizhneudinsk.drom.ru/chevrolet/tracker/48628960.html,,,,,,,,,,,,,,,,0,
+254,https://sokur.drom.ru/chevrolet/niva/48587192.html,Chevrolet,Niva,Сокур,2004,бензин,1.7,80,механика,4WD,,золотистый,215000,левый,1 поколение,,0,230000
+256,https://arti.drom.ru/chevrolet/niva/48286616.html,Chevrolet,Niva,Арти,2004,бензин,1.7,80,механика,4WD,,серебристый,247248,левый,1 поколение,,1,240000
+257,https://penza.drom.ru/chevrolet/viva/48284395.html,Chevrolet,Viva,Пенза,2004,бензин,1.8,125,механика,передний,,серебристый,250000,левый,1 поколение,1.8 MT L,0,140000
+258,https://tyumen.drom.ru/chevrolet/niva/47608456.html,Chevrolet,Niva,Тюмень,2004,бензин,1.7,80,механика,4WD,,серебристый,170000,левый,1 поколение,1.7 MT L,0,180000
+259,https://krasnodar.drom.ru/chevrolet/aveo/47600305.html,Chevrolet,Aveo,Краснодар,2004,бензин,1.4,83,механика,передний,седан,голубой,271223,левый,1 поколение,1.4 MT SE H4MF 55C,0,330000
+260,https://rostov-na-donu.drom.ru/chevrolet/niva/48974451.html,Chevrolet,Niva,Ростов-на-Дону,2004,бензин,1.7,80,механика,4WD,,серый,190000,левый,1 поколение,,1,199000
+261,https://krasnogvardeyskoe.drom.ru/chevrolet/niva/48972737.html,Chevrolet,Niva,Красногвардейское,2004,бензин,1.7,80,механика,4WD,,красный,167464,правый,,,0,350000
+263,https://spb.drom.ru/chevrolet/tahoe/48972186.html,Chevrolet,Tahoe,Санкт-Петербург,2003,бензин,5.3,288,автомат,4WD,джип/suv 5 дв.,серебристый,250000,левый,,,0,549000
+264,https://ekaterinburg.drom.ru/chevrolet/niva/48970624.html,Chevrolet,Niva,Екатеринбург,2003,бензин,1.7,80,механика,4WD,,серебристый,137238,левый,1 поколение,,0,247000
+265,https://barnaul.drom.ru/chevrolet/cruze/48969548.html,Chevrolet,Cruze,Барнаул,2001,бензин,1.3,88,АКПП,4WD,хэтчбек 5 дв.,красный,198739,правый,1 поколение,,1,310000
+266,https://solnechnogorsk.drom.ru/chevrolet/niva/49107148.html,Chevrolet,Niva,Солнечногорск,2004,бензин,1.7,80,механика,4WD,,серый,110000,левый,1 поколение,1.7 MT L,1,200000
+267,https://chelyabinsk.drom.ru/chevrolet/aveo/47952933.html,Chevrolet,Aveo,Челябинск,2004,бензин,1.4,94,механика,передний,хэтчбек 5 дв.,синий,220000,левый,1 поколение,,0,250000
+268,https://vladivostok.drom.ru/chevrolet/tahoe/44300698.html,Chevrolet,Tahoe,Владивосток,2004,бензин,5.3,298,АКПП,4WD,джип/suv 5 дв.,черный,108000,левый,2 поколение,,0,725000
+269,https://mezhdurechenskiy.drom.ru/chevrolet/niva/47238124.html,Chevrolet,Niva,Междуреченский,2004,бензин,1.7,80,механика,4WD,,серебристый,200000,левый,1 поколение,1.7 MT L,0,220000
+270,https://moscow.drom.ru/chevrolet/lacetti/49103190.html,Chevrolet,Lacetti,Москва,2004,бензин,1.6,109,механика,передний,хэтчбек 5 дв.,зеленый,274441,левый,1 поколение,,1,230000
+271,https://kurgan.drom.ru/chevrolet/niva/49102852.html,Chevrolet,Niva,Курган,2003,бензин,1.7,80,механика,4WD,,красный,190000,левый,1 поколение,,0,179000
+272,https://barnaul.drom.ru/chevrolet/niva/48488309.html,Chevrolet,Niva,Барнаул,2003,бензин,1.7,80,механика,4WD,,серебристый,200000,левый,1 поколение,,0,225000
+273,https://barnaul.drom.ru/chevrolet/niva/47829546.html,Chevrolet,Niva,Барнаул,2003,бензин,1.7,80,механика,4WD,,красный,150000,левый,1 поколение,,0,255000
+274,https://barnaul.drom.ru/chevrolet/niva/48619928.html,Chevrolet,Niva,Барнаул,2004,бензин,1.7,80,механика,4WD,,белый,200000,левый,1 поколение,,1,255000
+275,https://barnaul.drom.ru/chevrolet/niva/48882530.html,Chevrolet,Niva,Барнаул,2003,бензин,1.7,80,механика,4WD,,серебристый,160000,левый,1 поколение,,0,225000
+276,https://barnaul.drom.ru/chevrolet/niva/48943521.html,Chevrolet,Niva,Барнаул,2004,бензин,1.7,80,механика,4WD,,зеленый,180000,левый,1 поколение,1.7 MT GLS,0,265000
+277,https://barnaul.drom.ru/chevrolet/niva/49072421.html,Chevrolet,Niva,Барнаул,2004,бензин,1.7,80,механика,4WD,,зеленый,165000,левый,1 поколение,,0,265000
+278,https://orsk.drom.ru/chevrolet/niva/48771129.html,Chevrolet,Niva,Орск,2003,бензин,1.7,80,механика,4WD,,черный,180000,левый,1 поколение,,0,165000
+279,https://ekaterinburg.drom.ru/chevrolet/express/48764146.html,Chevrolet,Express,Екатеринбург,2004,бензин,5.3,295,автомат,4WD,минивэн,белый,291000,левый,,,0,1500000
+280,https://novosibirsk.drom.ru/chevrolet/trailblazer/48423355.html,Chevrolet,TrailBlazer,Новосибирск,2003,бензин,4.2,273,АКПП,4WD,,бежевый,338000,левый,1 поколение,4.2 AT 4x4 LTZ,0,540000
+281,https://yakutsk.drom.ru/chevrolet/niva/48418100.html,Chevrolet,Niva,Якутск,2003,бензин,1.7,80,механика,4WD,,белый,68000,левый,1 поколение,,0,150000
+282,https://vladivostok.drom.ru/chevrolet/cruze/48416608.html,Chevrolet,Cruze,Владивосток,2003,бензин,1.3,88,АКПП,передний,хэтчбек 5 дв.,белый,250000,правый,1 поколение,,1,230000
+283,https://okoneshnikovo.drom.ru/chevrolet/niva/47734829.html,Chevrolet,Niva,Оконешниково,2003,бензин,1.7,80,механика,4WD,,зеленый,215224,левый,1 поколение,,0,395000
+284,https://tyumen.drom.ru/chevrolet/niva/49100007.html,Chevrolet,Niva,Тюмень,2004,бензин,1.7,80,механика,4WD,,зеленый,231000,левый,1 поколение,,0,190000
+285,https://bryansk.drom.ru/chevrolet/niva/49099745.html,Chevrolet,Niva,Брянск,2004,бензин,1.7,80,механика,4WD,,серебристый,186000,левый,1 поколение,,0,250000
+286,https://noyabrsk.drom.ru/chevrolet/lacetti/48573313.html,Chevrolet,Lacetti,Ноябрьск,2004,бензин,1.6,109,АКПП,передний,седан,синий,210000,левый,1 поколение,1.6 AT Elite,0,335000
+287,https://irkutsk.drom.ru/chevrolet/niva/49045014.html,Chevrolet,Niva,Иркутск,2004,бензин,1.7,80,механика,4WD,,серебристый,111000,левый,1 поколение,1.7 MT GLS,1,275000
+288,https://barnaul.drom.ru/chevrolet/niva/49043168.html,Chevrolet,Niva,Барнаул,2003,бензин,1.7,80,механика,4WD,,серебристый,188000,левый,1 поколение,,1,200000
+289,https://ekaterinburg.drom.ru/chevrolet/niva/48878264.html,Chevrolet,Niva,Екатеринбург,2004,бензин,1.7,80,механика,4WD,,серебристый,200000,левый,1 поколение,1.7 MT L,1,135000
+290,https://kemerovo.drom.ru/chevrolet/niva/48724223.html,Chevrolet,Niva,Кемерово,2004,бензин,1.7,80,механика,4WD,,серебристый,116000,левый,1 поколение,1.7 MT GLS,0,299000
+291,https://habarovsk.drom.ru/chevrolet/cruze/48585102.html,Chevrolet,Cruze,Хабаровск,2001,бензин,1.3,88,АКПП,передний,хэтчбек 5 дв.,черный,247000,правый,1 поколение,1.3 E,1,265000
+292,https://nizhneudinsk.drom.ru/chevrolet/niva/47927078.html,Chevrolet,Niva,Нижнеудинск,2001,бензин,1.7,80,механика,4WD,,бежевый,115000,левый,1 поколение,,0,248000
+293,https://severodvinsk.drom.ru/chevrolet/lacetti/48705336.html,Chevrolet,Lacetti,Северодвинск,2004,бензин,1.6,109,АКПП,передний,хэтчбек 5 дв.,голубой,211000,левый,1 поколение,1.6 AT Elite,0,295000
+294,https://svobodniy.drom.ru/chevrolet/cruze/48702673.html,Chevrolet,Cruze,Свободный,2002,бензин,1.3,88,АКПП,передний,хэтчбек 5 дв.,серый,169000,правый,1 поколение,,0,320000
+295,https://simferopol.drom.ru/chevrolet/viva/48379736.html,Chevrolet,Viva,Симферополь,2004,бензин,1.8,125,механика,передний,,серебристый,207000,левый,1 поколение,1.8 MT L,0,270000
+297,https://habarovsk.drom.ru/chevrolet/cruze/47333915.html,Chevrolet,Cruze,Хабаровск,2001,бензин,1.3,88,АКПП,передний,хэтчбек 5 дв.,синий,216500,правый,1 поколение,,0,285000
+298,https://vladivostok.drom.ru/chevrolet/mw/40250919.html,Chevrolet,MW,Владивосток,2001,бензин,1.3,88,автомат,передний,хэтчбек 5 дв.,синий,211000,правый,,,0,130000
+299,https://rostov-na-donu.drom.ru/chevrolet/niva/49039055.html,Chevrolet,Niva,Ростов-на-Дону,2004,бензин,1.7,80,механика,4WD,,синий,98000,левый,1 поколение,,1,285000
+300,https://azovo.drom.ru/chevrolet/niva/49037312.html,Chevrolet,Niva,Азово,2004,бензин,1.7,80,механика,4WD,,синий,104000,левый,1 поколение,,0,280000

@@ -1,0 +1,31 @@
+Id,Url,Brand,Model,Region,Year,Engine,EngineVolume,Power,Transmission,Drive,Body,Color,Mileage,Wheel,Generation,Complectation,IsSold,Price
+29000,https://moscow.drom.ru/aston_martin/dbs/47020097.html,Aston Martin,DBS,Москва,2010,бензин,5.9,517,АКПП,задний,купе,черный,8800,левый,2 поколение,5.9 AT,1,18500000
+29001,https://habarovsk.drom.ru/aston_martin/db9/46603978.html,Aston Martin,DB9,Хабаровск,2005,бензин,5.9,456,АКПП,задний,купе,черный,12260,левый,1 поколение,5.9 AT,0,5290000
+29002,https://moscow.drom.ru/aston_martin/db9/47167652.html,Aston Martin,DB9,Москва,2008,бензин,5.9,477,АКПП,задний,купе,серый,25636,левый,"1 поколение, рестайлинг",5.9 AT Sports Edition ,0,4990000
+29003,https://yaroslavl.drom.ru/great_wall/poer/48126944.html,Great Wall,Poer,Ярославль,2021,дизель,2.0,150,АКПП,4WD,,белый,,левый,1 поколение,2.0 AT 4WD Comfort,0,3729060
+29004,https://yaroslavl.drom.ru/great_wall/wingle_7/48126945.html,Great Wall,Wingle 7,Ярославль,2021,дизель,2.0,143,механика,4WD,,серый,,левый,1 поколение,2.0 TD MT Comfort,0,2947880
+29005,https://yaroslavl.drom.ru/great_wall/wingle_7/48126946.html,Great Wall,Wingle 7,Ярославль,2022,дизель,2.0,143,механика,4WD,,белый,,левый,1 поколение,2.0 TD MT Comfort,0,2919060
+29006,https://yaroslavl.drom.ru/great_wall/poer/48126948.html,Great Wall,Poer,Ярославль,2022,дизель,2.0,150,АКПП,4WD,,коричневый,,левый,1 поколение,2.0 AT 4WD Premium,0,3873560
+29007,https://yaroslavl.drom.ru/great_wall/wingle_7/48126951.html,Great Wall,Wingle 7,Ярославль,2022,дизель,2.0,143,механика,4WD,,серебристый,,левый,1 поколение,2.0 TD MT Comfort,0,2942560
+29008,https://yaroslavl.drom.ru/great_wall/wingle_7/48126954.html,Great Wall,Wingle 7,Ярославль,2022,дизель,2.0,143,механика,4WD,,серебристый,,левый,1 поколение,2.0 TD MT Comfort,0,2942560
+29009,https://yaroslavl.drom.ru/great_wall/wingle_7/48126959.html,Great Wall,Wingle 7,Ярославль,2022,дизель,2.0,143,механика,4WD,,серебристый,,левый,1 поколение,2.0 TD MT Comfort,0,2942560
+29010,https://yaroslavl.drom.ru/great_wall/wingle_7/48126907.html,Great Wall,Wingle 7,Ярославль,2021,дизель,2.0,143,механика,4WD,,серый,,левый,1 поколение,2.0 TD MT Comfort,0,2942560
+29011,https://yaroslavl.drom.ru/great_wall/wingle_7/48126908.html,Great Wall,Wingle 7,Ярославль,2021,дизель,2.0,143,механика,4WD,,серый,,левый,1 поколение,2.0 TD MT Comfort,0,2942560
+29012,https://yaroslavl.drom.ru/great_wall/wingle_7/48126910.html,Great Wall,Wingle 7,Ярославль,2022,дизель,2.0,143,механика,4WD,,черный,,левый,1 поколение,2.0 TD MT Comfort,0,2942560
+29013,https://yaroslavl.drom.ru/great_wall/wingle_7/48126911.html,Great Wall,Wingle 7,Ярославль,2022,дизель,2.0,143,механика,4WD,,серый,,левый,1 поколение,2.0 TD MT Comfort,0,2942560
+29014,https://yaroslavl.drom.ru/great_wall/wingle_7/48126913.html,Great Wall,Wingle 7,Ярославль,2022,дизель,2.0,143,механика,4WD,,черный,,левый,1 поколение,2.0 TD MT Comfort,0,2942560
+29015,https://yaroslavl.drom.ru/great_wall/poer/48126914.html,Great Wall,Poer,Ярославль,2022,дизель,2.0,150,АКПП,4WD,,синий,,левый,1 поколение,2.0 AT 4WD Premium,0,3873560
+29016,https://yaroslavl.drom.ru/great_wall/wingle_7/48126915.html,Great Wall,Wingle 7,Ярославль,2022,дизель,2.0,143,механика,4WD,,черный,,левый,1 поколение,2.0 TD MT Comfort,0,2942560
+29017,https://yaroslavl.drom.ru/great_wall/wingle_7/48126916.html,Great Wall,Wingle 7,Ярославль,2021,дизель,2.0,143,механика,4WD,,серый,,левый,1 поколение,2.0 TD MT Comfort,0,2942560
+29018,https://yaroslavl.drom.ru/great_wall/poer/48126917.html,Great Wall,Poer,Ярославль,2021,дизель,2.0,150,АКПП,4WD,,белый,,левый,1 поколение,2.0 AT 4WD Premium,0,3866660
+29019,https://yaroslavl.drom.ru/great_wall/wingle_7/48126918.html,Great Wall,Wingle 7,Ярославль,2021,дизель,2.0,143,механика,4WD,,черный,,левый,1 поколение,2.0 TD MT Comfort,0,2951240
+29020,https://yaroslavl.drom.ru/great_wall/wingle_7/48126919.html,Great Wall,Wingle 7,Ярославль,2021,дизель,2.0,143,механика,4WD,,серебристый,,левый,1 поколение,2.0 TD MT Comfort,0,2946180
+29021,https://yaroslavl.drom.ru/great_wall/wingle_7/48126922.html,Great Wall,Wingle 7,Ярославль,2022,дизель,2.0,143,механика,4WD,,серебристый,,левый,1 поколение,2.0 TD MT Comfort,0,2942560
+29022,https://yaroslavl.drom.ru/great_wall/wingle_7/48126923.html,Great Wall,Wingle 7,Ярославль,2022,дизель,2.0,143,механика,4WD,,серебристый,,левый,1 поколение,2.0 TD MT Comfort,0,2942560
+29023,https://ust-ilimsk.drom.ru/great_wall/hover_h5/48811867.html,Great Wall,Hover H5,Усть-Илимск,2011,бензин,2.4,136,механика,4WD,,черный,133000,левый,1 поколение,2.4 MT Luxe ,1,570000
+29024,https://moscow.drom.ru/great_wall/poer/48807704.html,Great Wall,Poer,Москва,2022,дизель,2.0,150,АКПП,4WD,,черный,,левый,1 поколение,2.0 AT 4WD Premium,0,3924350
+29025,https://kazan.drom.ru/great_wall/hover_h5/48468147.html,Great Wall,Hover H5,Казань,2012,дизель,2.0,150,АКПП,4WD,,серебристый,99000,левый,1 поколение,2.0 D AT Luxe ,0,620000
+29026,https://spb.drom.ru/great_wall/poer/48464389.html,Great Wall,Poer,Санкт-Петербург,2022,дизель,2.0,150,АКПП,4WD,,черный,,левый,1 поколение,2.0 AT 4WD Premium,0,4174000
+29027,https://tomsk.drom.ru/great_wall/hover/48462151.html,Great Wall,Hover,Томск,2008,бензин,2.4,130,механика,4WD,,,220000,левый,1 поколение,,0,400000
+29028,https://shahovskaya.drom.ru/great_wall/hover_h5/48126139.html,Great Wall,Hover H5,Шаховская,2011,бензин,2.4,136,механика,4WD,,серебристый,224700,левый,1 поколение,2.4 MT Standard,0,500000
+29029,https://kushchevskaya.drom.ru/great_wall/safe/48124060.html,Great Wall,Safe,Кущевская,2007,бензин,2.2,105,механика,4WD,,серебристый,240000,левый,1 поколение,2.2 MT 4WD CC6460FMK20,0,700000

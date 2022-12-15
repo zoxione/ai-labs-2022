@@ -34,7 +34,7 @@ def trainMode():
     X_train, X_test, Y_train, Y_test = train_test_split(X, Y, test_size=0.1, random_state=42)
 
     # Обучение модели и получение предсказания
-    model = LogisticRegression(solver='lbfgs', max_iter=1000)
+    model = LogisticRegression(solver='liblinear', max_iter=10000)
     model.fit(X_train, Y_train)
     print('[4] Модель обучена');
 

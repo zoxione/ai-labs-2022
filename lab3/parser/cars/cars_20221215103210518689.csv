@@ -1,0 +1,4 @@
+Id,Url,Brand,Model,Region,Year,Engine,EngineVolume,Power,Transmission,Drive,Body,Color,Mileage,Wheel,Generation,Complectation,IsSold,Price
+7000,https://perm.drom.ru/chevrolet/cobalt/47720260.html,Chevrolet,Cobalt,Пермь,2020,бензин,1.5,106,АКПП,передний,седан,серый,11315,левый,2 поколение,,0,1120000
+7001,https://irkutsk.drom.ru/chevrolet/tahoe/45678262.html,Chevrolet,Tahoe,Иркутск,2021,бензин,5.3,343,АКПП,4WD,джип/suv 5 дв.,черный,,левый,5 поколение,5.3 AT RST,0,9990000
+7002,https://simferopol.drom.ru/chevrolet/nexia/48104782.html,Chevrolet,Nexia,Симферополь,2020,бензин,1.5,105,автомат,передний,,белый,29276,левый,,,0,870000

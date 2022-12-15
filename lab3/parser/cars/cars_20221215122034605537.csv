@@ -1,0 +1,24 @@
+Id,Url,Brand,Model,Region,Year,Engine,EngineVolume,Power,Transmission,Drive,Body,Color,Mileage,Wheel,Generation,Complectation,IsSold,Price
+13000,https://angarsk.drom.ru/daihatsu/yrv/49035060.html,Daihatsu,YRV,Ангарск,2001,бензин,1.3,90,механика,передний,,синий,2099,правый,1 поколение,,0,140000
+13001,https://chita.drom.ru/daihatsu/yrv/49034838.html,Daihatsu,YRV,Чита,2001,бензин,1.0,64,АКПП,передний,,белый,187000,правый,1 поколение,,1,240000
+13002,https://nakhodka.drom.ru/daihatsu/move/48995759.html,Daihatsu,Move,Находка,2015,бензин,0.7,52,вариатор,передний,,белый,160000,правый,6 поколение,,0,390000
+13003,https://kuybyshev.drom.ru/daihatsu/hijet/49034168.html,Daihatsu,Hijet,Куйбышев,2009,бензин,0.7,53,АКПП,4WD,минивэн,серебристый,160000,правый,"10 поколение, рестайлинг",,1,280000
+13004,https://novosibirsk.drom.ru/daihatsu/move/48748181.html,Daihatsu,Move,Новосибирск,2017,бензин,0.7,52,вариатор,4WD,,белый,67000,правый,"6 поколение, рестайлинг", 660 Custom X 4WD,0,700000
+13005,https://vladivostok.drom.ru/daihatsu/terios_kid/46851816.html,Daihatsu,Terios Kid,Владивосток,2004,бензин,0.7,64,АКПП,4WD,,серебристый,191991,правый,"1 поколение, рестайлинг",,0,480000
+13006,https://tomsk.drom.ru/daihatsu/move/46592150.html,Daihatsu,Move,Томск,2018,бензин,0.7,52,вариатор,передний,,белый,72000,правый,"6 поколение, рестайлинг", 660 X Limited SAIII,0,670000
+13007,https://svobodniy.drom.ru/daihatsu/charade/48308298.html,Daihatsu,Charade,Свободный,1987,бензин,1.0,105,механика,передний,хэтчбек 3 дв.,белый,222222,правый,3 поколение,1.0 GTti,0,70000
+13008,https://novorossiysk.drom.ru/daihatsu/hijet/47499314.html,Daihatsu,Hijet,Новороссийск,2017,бензин,0.7,53,АКПП,задний,минивэн,серебристый,89000,правый,"10 поколение, рестайлинг",,0,685000
+13009,https://krasnodar.drom.ru/daihatsu/mira_e-s/48867465.html,Daihatsu,Mira e:S,Краснодар,2019,бензин,0.7,49,вариатор,передний,,белый,65000,правый,2 поколение, 660 X SAIII,0,650000
+13010,https://magadan.drom.ru/daihatsu/pyzar/48320833.html,Daihatsu,Pyzar,Магадан,1999,бензин,1.6,115,АКПП,4WD,,серый,170000,правый,"1 поколение, 2 рестайлинг",,1,300000
+13011,https://ust-ordynskiy.drom.ru/daihatsu/move/48317904.html,Daihatsu,Move,Усть-Ордынский,2009,бензин,0.7,58,АКПП,передний,,серый,165000,правый,"4 поколение, рестайлинг",,1,350000
+13012,https://vozzhaevka.drom.ru/daihatsu/terios_kid/48317445.html,Daihatsu,Terios Kid,Возжаевка,2000,бензин,0.7,64,АКПП,4WD,,серый,170000,правый,"1 поколение, рестайлинг",,0,100000
+13013,https://habarovsk.drom.ru/daihatsu/terios_kid/47977887.html,Daihatsu,Terios Kid,Хабаровск,2001,бензин,0.7,64,АКПП,4WD,,серый,200000,правый,"1 поколение, рестайлинг",,1,240000
+13014,https://tomsk.drom.ru/daihatsu/sonica/47977236.html,Daihatsu,Sonica,Томск,2008,бензин,0.7,64,вариатор,передний,,белый,170000,правый,"1 поколение, рестайлинг",660 RS limited ,0,495000
+13015,https://blagoveshchensk.drom.ru/daihatsu/terios_kid/47970996.html,Daihatsu,Terios Kid,Благовещенск,2000,бензин,0.7,60,АКПП,4WD,,белый,185000,правый,1 поколение,660 S edition,0,265000
+13016,https://irkutsk.drom.ru/daihatsu/hijet/47970571.html,Daihatsu,Hijet,Иркутск,2017,бензин,0.7,53,АКПП,4WD,минивэн,белый,173000,правый,"10 поколение, рестайлинг",,0,590000
+13017,https://chita.drom.ru/daihatsu/terios_kid/47135602.html,Daihatsu,Terios Kid,Чита,2009,бензин,0.7,64,АКПП,4WD,,белый,120,правый,"1 поколение, 2 рестайлинг",,0,520000
+13018,https://habarovsk.drom.ru/daihatsu/terios/46997095.html,Daihatsu,Terios,Хабаровск,2008,бензин,1.5,105,АКПП,4WD,,серебристый,162594,левый,2 поколение,,0,695000
+13019,https://krasnodar.drom.ru/daihatsu/move/46831482.html,Daihatsu,Move,Краснодар,2012,бензин,0.7,52,вариатор,передний,,белый,150000,правый,"5 поколение, рестайлинг",660 Custom X SA,0,505000
+13020,https://novosibirsk.drom.ru/daihatsu/delta/46703061.html,Daihatsu,Delta,Новосибирск,1997,дизель,2.2,91,АКПП,4WD,,серый,304312,правый,3 поколение,,0,350000
+13021,https://tomsk.drom.ru/daihatsu/hijet/46637191.html,Daihatsu,Hijet,Томск,2007,бензин,0.7,50,автомат,4WD,минивэн,белый,156000,правый,,,0,345000
+13022,https://biysk.drom.ru/daihatsu/hijet/46609960.html,Daihatsu,Hijet,Бийск,2010,бензин,0.7,53,автомат,4WD,минивэн,серый,120700,правый,,,0,370000

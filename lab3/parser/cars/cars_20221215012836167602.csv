@@ -1,0 +1,12 @@
+Id,Url,Brand,Model,Region,Year,Engine,EngineVolume,Power,Transmission,Drive,Body,Color,Mileage,Wheel,Generation,Complectation,IsSold,Price
+20000,https://pugachev.drom.ru/ford/taurus/47836320.html,Ford,Taurus,Пугачёв,2001,бензин,3.0,155,АКПП,передний,седан,серый,161050,левый,4 поколение,3.0 AT Taurus SE,0,230000
+20001,https://kaliningrad.drom.ru/ford/focus/47836090.html,Ford,Focus,Калининград,2001,дизель,1.8,90,механика,передний,универсал,белый,400000,левый,1 поколение,,1,230000
+20002,https://moscow.drom.ru/ford/excursion/47835250.html,Ford,Excursion,Москва,2004,дизель,6.0,325,АКПП,4WD,,черный,193000,левый,1 поколение,6.0D AT 4WD XLT,1,1390000
+20003,https://barnaul.drom.ru/ford/focus/47829623.html,Ford,Focus,Барнаул,2004,бензин,2.0,130,АКПП,передний,седан,серебристый,175000,левый,"1 поколение, рестайлинг",2.0 AT Ghia,1,370000
+20004,https://baykalsk.drom.ru/ford/f350/47491258.html,Ford,F350,Байкальск,2002,дизель,7.3,380,механика,4WD,,синий,198000,левый,,,0,999999
+20005,https://rezh.drom.ru/ford/mondeo/46845577.html,Ford,Mondeo,Реж,2004,бензин,2.0,145,механика,передний,седан,серый,380000,левый,"3 поколение, рестайлинг",2.0 MT Ghia X,0,300000
+20006,https://irkutsk.drom.ru/ford/focus/45302962.html,Ford,Focus,Иркутск,2004,бензин,2.0,130,АКПП,передний,хэтчбек 5 дв.,черный,280000,левый,"1 поколение, рестайлинг",2.0 AT ,0,280000
+20007,https://gorno-altaysk.drom.ru/ford/escape/44123272.html,Ford,Escape,Горно-Алтайск,2003,бензин,3.0,203,автомат,4WD,,белый,152427,правый,,,0,650000
+20008,https://cheboksary.drom.ru/ford/focus/48861663.html,Ford,Focus,Чебоксары,2004,бензин,1.8,115,механика,передний,седан,голубой,173000,левый,"1 поколение, рестайлинг",,1,242000
+20009,https://moscow.drom.ru/ford/focus/48861168.html,Ford,Focus,Москва,2000,бензин,2.0,130,АКПП,передний,хэтчбек 3 дв.,серебристый,,левый,1 поколение,,1,145000
+20010,https://orenburg.drom.ru/ford/focus/48012220.html,Ford,Focus,Оренбург,2004,бензин,1.8,115,механика,передний,седан,черный,,левый,"1 поколение, рестайлинг",,0,200000

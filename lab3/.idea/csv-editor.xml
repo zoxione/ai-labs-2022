@@ -38,49 +38,28 @@
             </Attribute>
           </value>
         </entry>
-        <entry key="\parser\cars\cars_2022-12-05_18-19-42.csv">
+        <entry key="\parser\cars\cars_20221215000208991328.csv">
           <value>
             <Attribute>
               <option name="separator" value="," />
             </Attribute>
           </value>
         </entry>
-        <entry key="\parser\cars\cars_20221207121002567551.csv">
+        <entry key="\parser\cars\cars_20221215000421037682.csv">
           <value>
             <Attribute>
               <option name="separator" value="," />
             </Attribute>
           </value>
         </entry>
-        <entry key="\parser\cars\cars_20221207123214959918.csv">
+        <entry key="\parser\cars\cars_20221215002400790206.csv">
           <value>
             <Attribute>
               <option name="separator" value="," />
             </Attribute>
           </value>
         </entry>
-        <entry key="\parser\cars\cars_20221207173353871401.csv">
-          <value>
-            <Attribute>
-              <option name="separator" value="," />
-            </Attribute>
-          </value>
-        </entry>
-        <entry key="\parser\cars\cars_20221207173427227989.csv">
-          <value>
-            <Attribute>
-              <option name="separator" value="," />
-            </Attribute>
-          </value>
-        </entry>
-        <entry key="\parser\cars\cars_20221207233040349282.csv">
-          <value>
-            <Attribute>
-              <option name="separator" value="," />
-            </Attribute>
-          </value>
-        </entry>
-        <entry key="\parser\cars\cars_20221214130439952749.csv">
+        <entry key="\parser\cars\cars_20221215002510531686.csv">
           <value>
             <Attribute>
               <option name="separator" value="," />
@@ -102,13 +81,6 @@
           </value>
         </entry>
         <entry key="\parser\normalize_cars_numbers.csv">
-          <value>
-            <Attribute>
-              <option name="separator" value="," />
-            </Attribute>
-          </value>
-        </entry>
-        <entry key="\parser\prefetch_cars\prefetch_cars.csv">
           <value>
             <Attribute>
               <option name="separator" value="," />

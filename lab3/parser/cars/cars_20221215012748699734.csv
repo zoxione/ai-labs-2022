@@ -1,0 +1,4 @@
+Id,Url,Brand,Model,Region,Year,Engine,EngineVolume,Power,Transmission,Drive,Body,Color,Mileage,Wheel,Generation,Complectation,IsSold,Price
+26000,https://vologda.drom.ru/ford/focus/48872687.html,Ford,Focus,Вологда,2017,бензин,1.6,125,робот,передний,седан,белый,39717,левый,"3 поколение, рестайлинг",,0,969000
+26001,https://stavropol.drom.ru/ford/focus/45664736.html,Ford,Focus,Ставрополь,2018,бензин,1.6,105,механика,передний,универсал,,93000,левый,"3 поколение, рестайлинг",,0,835000
+26002,https://stavropol.drom.ru/ford/focus/46748112.html,Ford,Focus,Ставрополь,2017,бензин,1.6,105,механика,передний,универсал,,72000,левый,"3 поколение, рестайлинг",,0,865000

@@ -1,0 +1,273 @@
+Id,Url,Brand,Model,Region,Year,Engine,EngineVolume,Power,Transmission,Drive,Body,Color,Mileage,Wheel,Generation,Complectation,IsSold,Price
+900,https://ekaterinburg.drom.ru/chevrolet/lanos/49162633.html,Chevrolet,Lanos,Екатеринбург,2009,бензин,1.5,86,механика,передний,,серебристый,91000,,1 поколение,1.5 MT SE ,0,237000
+901,https://voronezh.drom.ru/chevrolet/epica/49162590.html,Chevrolet,Epica,Воронеж,2007,бензин,2.5,156,АКПП,передний,,черный,153000,левый,1 поколение,2.5 AT LT,1,435000
+902,https://tambov.drom.ru/chevrolet/aveo/49162541.html,Chevrolet,Aveo,Тамбов,2006,бензин,1.2,72,механика,передний,седан,черный,159911,левый,1 поколение,,0,365000
+903,https://penza.drom.ru/chevrolet/lacetti/47779972.html,Chevrolet,Lacetti,Пенза,2007,бензин,1.4,95,механика,передний,седан,,116000,левый,1 поколение,,0,429000
+904,https://tobolsk.drom.ru/chevrolet/niva/48691495.html,Chevrolet,Niva,Тобольск,2006,бензин,1.7,80,механика,4WD,,синий,150000,левый,1 поколение,,0,235000
+905,https://sevastopol.drom.ru/chevrolet/lacetti/44691362.html,Chevrolet,Lacetti,Севастополь,2008,бензин,1.4,95,механика,передний,седан,синий,165000,левый,1 поколение,1.4 MT Plus,0,495000
+906,https://novorossiysk.drom.ru/chevrolet/spark/49162119.html,Chevrolet,Spark,Новороссийск,2007,бензин,0.8,51,АКПП,передний,,черный,160000,левый,2 поколение,S 0.8 АT (1MK48A1А1),0,345000
+907,https://chelyabinsk.drom.ru/chevrolet/niva/49162019.html,Chevrolet,Niva,Челябинск,2006,бензин,1.7,80,механика,4WD,,серый,174000,левый,1 поколение,1.7 MT L,1,210000
+908,https://borovichi.drom.ru/chevrolet/aveo/49162007.html,Chevrolet,Aveo,Боровичи,2007,бензин,1.2,72,механика,передний,хэтчбек 5 дв.,голубой,190000,левый,1 поколение,,1,200000
+909,https://ufa.drom.ru/chevrolet/lanos/49161991.html,Chevrolet,Lanos,Уфа,2005,бензин,1.5,86,механика,передний,,черный,,,1 поколение,,0,85000
+910,https://kemerovo.drom.ru/chevrolet/niva/49160123.html,Chevrolet,Niva,Кемерово,2005,бензин,1.7,80,механика,4WD,,золотистый,206518,левый,1 поколение,,1,259000
+911,https://krasnodar.drom.ru/chevrolet/lanos/49161904.html,Chevrolet,Lanos,Краснодар,2007,бензин,1.5,86,механика,передний,,,165000,,1 поколение,,1,225000
+912,https://tyumen.drom.ru/chevrolet/niva/48821342.html,Chevrolet,Niva,Тюмень,2006,бензин,1.7,80,механика,4WD,,черный,275000,левый,1 поколение,,0,180000
+913,https://noviy-urengoy.drom.ru/chevrolet/niva/49161659.html,Chevrolet,Niva,Новый Уренгой,2006,бензин,1.7,80,механика,4WD,,зеленый,252000,левый,1 поколение,,1,160000
+914,https://sevastopol.drom.ru/chevrolet/lanos/49161644.html,Chevrolet,Lanos,Севастополь,2009,бензин,1.5,86,механика,передний,,бордовый,122000,,1 поколение,1.5 MT SE ,1,179000
+915,https://stroitel.drom.ru/chevrolet/lanos/48481595.html,Chevrolet,Lanos,Строитель,2007,бензин,1.5,86,механика,передний,,белый,250000,,1 поколение,1.5 MT S ,0,100000
+916,https://vorsma.drom.ru/chevrolet/lanos/48479951.html,Chevrolet,Lanos,Ворсма,2008,бензин,1.5,86,механика,передний,,серый,108900,,1 поколение,1.5 MT S ,0,160000
+917,https://chernogorsk.drom.ru/chevrolet/lacetti/48479435.html,Chevrolet,Lacetti,Черногорск,2009,бензин,1.6,109,механика,передний,седан,синий,172000,левый,1 поколение,1.6 MT SX,0,395000
+918,https://noyabrsk.drom.ru/chevrolet/niva/48479310.html,Chevrolet,Niva,Ноябрьск,2007,бензин,1.7,80,механика,4WD,,синий,399999,левый,1 поколение,,0,240000
+919,https://chelyabinsk.drom.ru/chevrolet/lacetti/48478700.html,Chevrolet,Lacetti,Челябинск,2007,бензин,1.4,95,механика,передний,седан,оранжевый,187995,левый,1 поколение,,0,323000
+920,https://dubna.drom.ru/chevrolet/lacetti/48477266.html,Chevrolet,Lacetti,Дубна,2009,бензин,1.4,95,механика,передний,седан,черный,220000,левый,1 поколение,1.4 MT SE2,0,400000
+921,https://tula.drom.ru/chevrolet/lacetti/48476721.html,Chevrolet,Lacetti,Тула,2008,бензин,1.6,109,механика,передний,седан,черный,213600,левый,1 поколение,,0,309000
+922,https://chelyabinsk.drom.ru/chevrolet/lacetti/48473577.html,Chevrolet,Lacetti,Челябинск,2008,бензин,1.4,95,механика,передний,седан,,213000,левый,1 поколение,,0,337000
+923,https://serpuhov.drom.ru/chevrolet/lacetti/48473604.html,Chevrolet,Lacetti,Серпухов,2006,бензин,1.4,95,механика,передний,хэтчбек 5 дв.,красный,69000,левый,1 поколение,,0,360000
+924,https://volgograd.drom.ru/chevrolet/epica/48473350.html,Chevrolet,Epica,Волгоград,2007,бензин,2.0,144,механика,передний,,серебристый,120000,левый,1 поколение,,0,550000
+925,https://ivanovo.drom.ru/chevrolet/lacetti/48473083.html,Chevrolet,Lacetti,Иваново,2008,бензин,1.6,109,механика,передний,седан,золотистый,295270,,,,0,410000
+926,https://novosibirsk.drom.ru/chevrolet/trailblazer/48471930.html,Chevrolet,TrailBlazer,Новосибирск,2009,бензин,4.2,295,АКПП,4WD,,серый,224000,левый,"1 поколение, рестайлинг",4.2 AT SF3,0,950000
+927,https://monchegorsk.drom.ru/chevrolet/niva/48136171.html,Chevrolet,Niva,Мончегорск,2006,бензин,1.7,80,механика,4WD,,синий,185000,левый,1 поколение,,0,285000
+928,https://biysk.drom.ru/chevrolet/lacetti/48133457.html,Chevrolet,Lacetti,Бийск,2007,бензин,1.6,109,АКПП,передний,седан,серый,177000,левый,1 поколение,,0,470000
+929,https://nizhnevartovsk.drom.ru/chevrolet/lacetti/48133224.html,Chevrolet,Lacetti,Нижневартовск,2006,бензин,1.4,95,механика,передний,седан,серебристый,171331,левый,1 поколение,1.4 MT Plus,1,280000
+930,https://miass.drom.ru/chevrolet/rezzo/48131213.html,Chevrolet,Rezzo,Миасс,2007,бензин,1.6,90,механика,передний,,серебристый,200000,левый,1 поколение,1.6 MT Elite,0,270000
+931,https://tomsk.drom.ru/chevrolet/lacetti/47795108.html,Chevrolet,Lacetti,Томск,2007,бензин,1.4,95,механика,передний,седан,,100000,левый,1 поколение,,1,195000
+932,https://nizhnevartovsk.drom.ru/chevrolet/aveo/47789242.html,Chevrolet,Aveo,Нижневартовск,2007,бензин,1.4,94,механика,передний,хэтчбек 5 дв.,красный,150,левый,1 поколение,1.4 MT Star,0,290000
+933,https://novosibirsk.drom.ru/chevrolet/lanos/47731789.html,Chevrolet,Lanos,Новосибирск,2007,бензин,1.5,86,механика,передний,,зеленый,176000,,1 поколение,,0,169000
+934,https://slavyansk-na-kubani.drom.ru/chevrolet/lanos/47625846.html,Chevrolet,Lanos,Славянск-На-Кубани,2008,бензин,1.5,86,механика,передний,,синий,175000,,1 поколение,,0,295000
+935,https://tyumen.drom.ru/chevrolet/lanos/49154351.html,Chevrolet,Lanos,Тюмень,2006,бензин,1.5,86,механика,передний,,серый,126000,,1 поколение,1.5 MT SE ,0,187000
+936,https://ekaterinburg.drom.ru/chevrolet/aveo/49154321.html,Chevrolet,Aveo,Екатеринбург,2007,бензин,1.4,94,механика,передний,хэтчбек 5 дв.,серебристый,42500,левый,1 поколение,1.4 MT Premium,0,395000
+937,https://tobolsk.drom.ru/chevrolet/lanos/49154260.html,Chevrolet,Lanos,Тобольск,2006,бензин,1.5,86,механика,передний,,синий,222032,,1 поколение,1.5 MT S ,0,150000
+938,https://omsk.drom.ru/chevrolet/captiva/48976702.html,Chevrolet,Captiva,Омск,2006,бензин,3.2,230,АКПП,4WD,,красный,180000,левый,1 поколение,LT 3.2 АT 5 seats 1CF26ZBCG,1,595000
+939,https://chita.drom.ru/chevrolet/cruze/49153781.html,Chevrolet,Cruze,Чита,2005,бензин,1.3,88,АКПП,передний,хэтчбек 5 дв.,серый,117000,правый,1 поколение,1.3 S Limited II,1,300000
+940,https://novosibirsk.drom.ru/chevrolet/captiva/48696595.html,Chevrolet,Captiva,Новосибирск,2007,бензин,2.4,140,автомат,4WD,,черный,181000,левый,,,0,630000
+941,https://kemerovo.drom.ru/chevrolet/aveo/49153966.html,Chevrolet,Aveo,Кемерово,2005,бензин,1.2,72,механика,передний,хэтчбек 5 дв.,черный,220100,левый,1 поколение,1.2 MT S H5LA 554,1,215000
+942,https://severouralsk.drom.ru/chevrolet/niva/49153921.html,Chevrolet,Niva,Североуральск,2009,бензин,1.7,80,механика,4WD,,черный,87000,левый,1 поколение,,1,383000
+943,https://omsk.drom.ru/chevrolet/captiva/48411579.html,Chevrolet,Captiva,Омск,2009,бензин,3.2,230,АКПП,4WD,,черный,216195,левый,1 поколение,LT 3.2 АT 5 seats 1CF26ZBCG,0,695000
+944,https://shipunovo.drom.ru/chevrolet/niva/49153796.html,Chevrolet,Niva,Шипуново,2009,бензин,1.7,80,механика,4WD,,серый,180700,левый,"1 поколение, рестайлинг",,0,450000
+945,https://nizhniy-tagil.drom.ru/chevrolet/viva/48995271.html,Chevrolet,Viva,Нижний Тагил,2007,бензин,1.8,125,механика,передний,,зеленый,130000,левый,1 поколение,1.8 MT GLS,0,257000
+946,https://surgut.drom.ru/chevrolet/trailblazer/49070350.html,Chevrolet,TrailBlazer,Сургут,2005,бензин,4.2,273,АКПП,4WD,,черный,276904,левый,1 поколение,,0,579000
+947,https://sayansk.drom.ru/chevrolet/captiva/48983445.html,Chevrolet,Captiva,Саянск,2008,бензин,3.2,230,АКПП,4WD,,черный,342000,левый,1 поколение,LT 3.2 АT 5 seats 1CF26ZBCG,0,760000
+948,https://irkutsk.drom.ru/chevrolet/lacetti/49153721.html,Chevrolet,Lacetti,Иркутск,2007,бензин,1.6,109,механика,передний,универсал,серебристый,206000,левый,1 поколение,,0,315000
+950,https://krasnoyarsk.drom.ru/chevrolet/lacetti/48953786.html,Chevrolet,Lacetti,Красноярск,2006,бензин,1.4,95,механика,передний,седан,бежевый,238000,левый,1 поколение,1.4 MT Plus,0,357000
+951,https://tyumen.drom.ru/chevrolet/niva/48878035.html,Chevrolet,Niva,Тюмень,2006,бензин,1.7,80,механика,4WD,,черный,59000,левый,1 поколение,1.7 MT GLS,0,280000
+952,https://kemerovo.drom.ru/chevrolet/aveo/48210115.html,Chevrolet,Aveo,Кемерово,2007,бензин,1.4,94,механика,передний,седан,черный,205000,левый,"1 поколение, рестайлинг",1.4 MT LT,1,325000
+953,https://arzamas.drom.ru/chevrolet/lanos/48819927.html,Chevrolet,Lanos,Арзамас,2006,бензин,1.5,86,механика,передний,,,,,1 поколение,,0,84000
+954,https://kemerovo.drom.ru/chevrolet/niva/48463742.html,Chevrolet,Niva,Кемерово,2009,бензин,1.7,80,механика,4WD,,серебристый,140000,левый,1 поколение,1.7 MT L,1,390000
+955,https://uglich.drom.ru/chevrolet/lanos/48826584.html,Chevrolet,Lanos,Углич,2007,бензин,1.5,86,механика,передний,,черный,150000,,1 поколение,1.5 MT SE ,0,84000
+956,https://ivanovskoe.drom.ru/chevrolet/lacetti/48825809.html,Chevrolet,Lacetti,Ивановское,2007,бензин,1.4,95,механика,передний,седан,бежевый,268559,левый,1 поколение,,0,435000
+957,https://kirov.drom.ru/chevrolet/lanos/48825678.html,Chevrolet,Lanos,Киров,2007,бензин,1.5,86,механика,передний,,черный,250000,,1 поколение,1.5 MT SX,0,99000
+958,https://ulan-ude.drom.ru/chevrolet/niva/48825321.html,Chevrolet,Niva,Улан-Удэ,2006,бензин,1.7,80,механика,4WD,,зеленый,120000,левый,1 поколение,1.7 MT GLS,0,255000
+959,https://novosibirsk.drom.ru/chevrolet/viva/48825338.html,Chevrolet,Viva,Новосибирск,2005,бензин,1.8,125,механика,передний,,бежевый,300000,левый,1 поколение,1.8 MT GLS,0,225000
+960,https://krasnodar.drom.ru/chevrolet/spark/48825218.html,Chevrolet,Spark,Краснодар,2006,бензин,1.0,63,механика,передний,,голубой,159000,левый,2 поколение,,0,230000
+961,https://krasnodar.drom.ru/chevrolet/lanos/48825016.html,Chevrolet,Lanos,Краснодар,2008,бензин,1.5,86,механика,передний,,серый,180000,,1 поколение,1.5 MT SX,0,265000
+962,https://krasnodar.drom.ru/chevrolet/rezzo/48823788.html,Chevrolet,Rezzo,Краснодар,2008,бензин,1.6,90,механика,передний,,серый,383000,левый,1 поколение,,0,200000
+963,https://biysk.drom.ru/chevrolet/cruze/48823340.html,Chevrolet,Cruze,Бийск,2009,бензин,1.6,109,АКПП,передний,седан,серый,120000,левый,1 поколение,1.6 AT Base ,0,360000
+964,https://ekaterinburg.drom.ru/chevrolet/niva/48822916.html,Chevrolet,Niva,Екатеринбург,2008,бензин,1.7,80,механика,4WD,,серый,108000,левый,1 поколение,,0,329900
+965,https://kirov-kaluzh.drom.ru/chevrolet/captiva/48822770.html,Chevrolet,Captiva,Киров,2007,бензин,3.2,230,АКПП,4WD,,серый,239123,левый,1 поколение,LT 3.2 АT 5 seats 1CF26ZBCA,1,650000
+966,https://omsk.drom.ru/chevrolet/lanos/48822721.html,Chevrolet,Lanos,Омск,2008,бензин,1.5,86,механика,передний,,серебристый,175000,,1 поколение,1.5 MT SX,0,200000
+967,https://omsk.drom.ru/chevrolet/lacetti/48822432.html,Chevrolet,Lacetti,Омск,2006,бензин,1.6,109,механика,передний,седан,красный,150000,левый,1 поколение,,1,330000
+968,https://sevastopol.drom.ru/chevrolet/aveo/48821576.html,Chevrolet,Aveo,Севастополь,2005,бензин,1.5,85,механика,передний,седан,желтый,373110,левый,1 поколение,,0,255000
+969,https://zavodoukovsk.drom.ru/chevrolet/viva/48818802.html,Chevrolet,Viva,Заводоуковск,2005,бензин,1.8,125,механика,передний,,серебристый,200000,левый,1 поколение,1.8 MT L,0,260000
+970,https://novosibirsk.drom.ru/chevrolet/lacetti/48818681.html,Chevrolet,Lacetti,Новосибирск,2005,бензин,1.6,109,механика,передний,седан,серебристый,355403,левый,1 поколение,1.6 MT Platinum ,0,360000
+971,https://irkutsk.drom.ru/chevrolet/captiva/48752377.html,Chevrolet,Captiva,Иркутск,2009,бензин,3.2,230,АКПП,4WD,,черный,158000,левый,1 поколение,,0,870000
+972,https://novosibirsk.drom.ru/chevrolet/aveo/48678542.html,Chevrolet,Aveo,Новосибирск,2008,бензин,1.2,84,механика,передний,седан,серый,290000,левый,"1 поколение, рестайлинг",1.2 MT Base,1,330000
+973,https://tobolsk.drom.ru/chevrolet/aveo/48482002.html,Chevrolet,Aveo,Тобольск,2009,бензин,1.2,84,механика,передний,седан,серый,127324,левый,"1 поколение, рестайлинг",,1,320000
+974,https://surgut.drom.ru/chevrolet/lacetti/48481582.html,Chevrolet,Lacetti,Сургут,2006,бензин,1.6,109,механика,передний,хэтчбек 5 дв.,зеленый,244416,левый,1 поколение,1.6 MT Platinum,0,320000
+975,https://omsk.drom.ru/chevrolet/aveo/49149456.html,Chevrolet,Aveo,Омск,2007,бензин,1.4,94,механика,передний,седан,синий,222000,левый,1 поколение,1.4 MT SE H4XB 55J,0,305000
+976,https://talmenka.drom.ru/chevrolet/lacetti/49149277.html,Chevrolet,Lacetti,Тальменка,2007,бензин,1.4,95,механика,передний,хэтчбек 5 дв.,оранжевый,250000,левый,1 поколение,1.4 MT Elite,0,355000
+977,https://tomsk.drom.ru/chevrolet/spark/49026765.html,Chevrolet,Spark,Томск,2008,бензин,0.8,51,механика,передний,,красный,114435,левый,2 поколение,,0,330000
+978,https://mezhdurechensk.drom.ru/chevrolet/aveo/49056095.html,Chevrolet,Aveo,Междуреченск,2008,бензин,1.4,101,механика,передний,седан,черный,222111,левый,"1 поколение, рестайлинг",,0,290000
+980,https://simferopol.drom.ru/chevrolet/lanos/49148974.html,Chevrolet,Lanos,Симферополь,2007,бензин,1.5,86,механика,передний,,синий,191000,,1 поколение,,1,250000
+981,https://tyumen.drom.ru/chevrolet/lanos/49148970.html,Chevrolet,Lanos,Тюмень,2007,бензин,1.5,86,механика,передний,,серебристый,240000,,1 поколение,1.5 MT SX,1,220000
+982,https://feodosiya.drom.ru/chevrolet/lanos/49148835.html,Chevrolet,Lanos,Феодосия,2008,бензин,1.5,86,механика,передний,,синий,166000,,1 поколение,,1,170000
+983,https://sovetsk-kirovsk.drom.ru/chevrolet/niva/49148748.html,Chevrolet,Niva,Советск,2009,бензин,1.7,80,механика,4WD,,серебристый,96346,левый,1 поколение,,0,369000
+984,https://talmenka.drom.ru/chevrolet/lacetti/49148714.html,Chevrolet,Lacetti,Тальменка,2007,бензин,1.4,95,механика,передний,хэтчбек 5 дв.,оранжевый,250000,левый,1 поколение,1.4 MT Elite,0,355000
+985,https://mikhailovskoe.drom.ru/chevrolet/niva/49061074.html,Chevrolet,Niva,Барнаул,2005,бензин,1.7,80,механика,4WD,,серебристый,175054,левый,1 поколение,1.7 MT GLS,0,250000
+986,https://sevastopol.drom.ru/chevrolet/aveo/48980648.html,Chevrolet,Aveo,Севастополь,2005,бензин,1.5,85,механика,передний,седан,красный,277123,левый,1 поколение,1.5 MT SX H4XM 55P,1,300000
+987,https://omsk.drom.ru/chevrolet/aveo/49147679.html,Chevrolet,Aveo,Омск,2006,бензин,1.4,94,механика,передний,хэтчбек 5 дв.,черный,136000,левый,1 поколение,1.4 MT Star,1,257000
+988,https://novosibirsk.drom.ru/chevrolet/lacetti/49147495.html,Chevrolet,Lacetti,Новосибирск,2007,бензин,1.6,109,механика,передний,универсал,серый,236992,левый,1 поколение,,0,335000
+989,https://rostov-na-donu.drom.ru/chevrolet/lacetti/49147416.html,Chevrolet,Lacetti,Ростов-на-Дону,2009,бензин,1.4,95,механика,передний,хэтчбек 5 дв.,,261000,левый,1 поколение,,0,435000
+990,https://novomoskovsk.drom.ru/chevrolet/lanos/49147403.html,Chevrolet,Lanos,Новомосковск,2007,бензин,1.5,86,механика,передний,,зеленый,193000,,1 поколение,1.5 MT SE ,1,190000
+991,https://ekaterinburg.drom.ru/chevrolet/lanos/49147330.html,Chevrolet,Lanos,Екатеринбург,2007,бензин,1.5,86,механика,передний,,серый,126000,,1 поколение,1.5 MT S ,0,170000
+992,https://volgograd.drom.ru/chevrolet/aveo/48775870.html,Chevrolet,Aveo,Волгоград,2008,бензин,1.4,101,механика,передний,седан,серый,125948,левый,"1 поколение, рестайлинг",,0,398000
+993,https://kerch.drom.ru/chevrolet/tacuma/49146963.html,Chevrolet,Tacuma,Керчь,2008,бензин,2.0,121,механика,передний,,синий,96000,левый,,,1,450000
+994,https://omsk.drom.ru/chevrolet/lanos/49146954.html,Chevrolet,Lanos,Омск,2006,бензин,1.5,86,механика,передний,,серебристый,170000,,1 поколение,,0,132000
+995,https://irkutsk.drom.ru/chevrolet/niva/49153111.html,Chevrolet,Niva,Иркутск,2005,бензин,1.7,80,механика,4WD,,бордовый,147391,левый,1 поколение,1.7 MT GLS,0,250000
+996,https://novokuznetsk.drom.ru/chevrolet/epica/49121624.html,Chevrolet,Epica,Новокузнецк,2006,бензин,2.5,156,АКПП,передний,,бежевый,217000,левый,1 поколение,2.5 AT LT,0,420000
+997,https://tomsk.drom.ru/chevrolet/lacetti/48329340.html,Chevrolet,Lacetti,Томск,2006,бензин,1.6,109,АКПП,передний,седан,красный,210000,левый,1 поколение,,0,290000
+998,https://kemerovo.drom.ru/chevrolet/lanos/49152867.html,Chevrolet,Lanos,Кемерово,2007,бензин,1.5,86,механика,передний,,бордовый,242500,,1 поколение,1.5 MT SX,1,165000
+1000,https://irkutsk.drom.ru/chevrolet/aveo/49152733.html,Chevrolet,Aveo,Иркутск,2006,бензин,1.2,72,механика,передний,хэтчбек 5 дв.,серебристый,200000,левый,1 поколение,1.2 MT Plus,0,185000
+1001,https://krasnoyarsk.drom.ru/chevrolet/lanos/48790014.html,Chevrolet,Lanos,Красноярск,2009,бензин,1.5,86,механика,передний,,серебристый,119000,,1 поколение,1.5 MT SE ,0,215000
+1002,https://barnaul.drom.ru/chevrolet/spark/48006748.html,Chevrolet,Spark,Барнаул,2007,бензин,0.8,52,автомат,передний,,серебристый,95000,левый,,,0,299000
+1003,https://pavlovskaya.drom.ru/chevrolet/lanos/48095709.html,Chevrolet,Lanos,Павловская,2009,бензин,1.5,86,механика,передний,,серебристый,140000,,1 поколение,1.5 MT SX,0,255000
+1004,https://kyzyl.drom.ru/chevrolet/niva/48820808.html,Chevrolet,Niva,Кызыл,2008,бензин,1.7,80,механика,4WD,,серебристый,125000,левый,1 поколение,1.7 MT L,0,350000
+1005,https://vilyuchinsk.drom.ru/chevrolet/niva/47863520.html,Chevrolet,Niva,Вилючинск,2006,бензин,1.7,80,механика,4WD,,синий,1,левый,1 поколение,,0,300000
+1006,https://ufa.drom.ru/chevrolet/lanos/49152439.html,Chevrolet,Lanos,Уфа,2008,бензин,1.5,86,механика,передний,,,,,1 поколение,,0,115000
+1007,https://bratsk.drom.ru/chevrolet/lacetti/49079773.html,Chevrolet,Lacetti,Братск,2005,бензин,1.6,109,механика,передний,седан,бежевый,220000,левый,1 поколение,1.6 MT Premium,0,240000
+1008,https://vladimir.drom.ru/chevrolet/captiva/47355374.html,Chevrolet,Captiva,Владимир,2007,бензин,2.4,136,АКПП,4WD,,серебристый,192243,левый,1 поколение,LT 2.4 АT 5 seats 1CF26R1С6,0,610000
+1009,https://irkutsk.drom.ru/chevrolet/lanos/47522051.html,Chevrolet,Lanos,Иркутск,2006,бензин,1.5,86,механика,передний,,синий,150000,,1 поколение,1.5 MT SX,0,75000
+1010,https://chelyabinsk.drom.ru/chevrolet/lacetti/49151770.html,Chevrolet,Lacetti,Челябинск,2008,бензин,1.6,109,АКПП,передний,седан,белый,241000,левый,1 поколение,,0,400000
+1011,https://orsk.drom.ru/chevrolet/lanos/48826983.html,Chevrolet,Lanos,Орск,2007,бензин,1.5,86,механика,передний,,серебристый,250000,,1 поколение,,0,208000
+1012,https://orsk.drom.ru/chevrolet/lanos/48826968.html,Chevrolet,Lanos,Орск,2007,бензин,1.5,86,механика,передний,,голубой,220712,,1 поколение,,0,210000
+1013,https://novorossiysk.drom.ru/chevrolet/niva/48826852.html,Chevrolet,Niva,Новороссийск,2007,бензин,1.7,80,механика,4WD,,синий,206000,левый,1 поколение,,0,399999
+1014,https://alatyr.drom.ru/chevrolet/niva/48826760.html,Chevrolet,Niva,Алатырь,2007,бензин,1.7,80,механика,4WD,,зеленый,134500,левый,1 поколение,,1,310000
+1015,https://surgut.drom.ru/chevrolet/niva/48691338.html,Chevrolet,Niva,Сургут,2007,бензин,1.7,80,механика,4WD,,серый,131000,левый,1 поколение,,0,339000
+1016,https://tyumen.drom.ru/chevrolet/lacetti/49155454.html,Chevrolet,Lacetti,Тюмень,2007,бензин,1.4,95,механика,передний,седан,белый,200000,левый,1 поколение,,0,330000
+1017,https://kemerovo.drom.ru/chevrolet/lacetti/49155253.html,Chevrolet,Lacetti,Кемерово,2006,бензин,1.6,109,АКПП,передний,седан,серебристый,156405,левый,1 поколение,1.6 AT Platinum,1,400000
+1018,https://cheboksary.drom.ru/chevrolet/lacetti/49155373.html,Chevrolet,Lacetti,Чебоксары,2008,бензин,1.6,109,механика,передний,седан,синий,260000,левый,1 поколение,1.6 MT SX,0,355000
+1019,https://tyumen.drom.ru/chevrolet/aveo/49155335.html,Chevrolet,Aveo,Тюмень,2008,бензин,1.2,72,механика,передний,седан,синий,150000,левый,1 поколение,1.2 MT Direct,0,300000
+1020,https://tyumen.drom.ru/chevrolet/aveo/49012436.html,Chevrolet,Aveo,Тюмень,2007,бензин,1.4,94,механика,передний,седан,серый,115000,левый,"1 поколение, рестайлинг",1.4 MT SX,1,385000
+1021,https://tomsk.drom.ru/chevrolet/aveo/49155312.html,Chevrolet,Aveo,Томск,2006,бензин,1.2,72,механика,передний,седан,серый,101000,левый,"1 поколение, рестайлинг",1.2 MT LS,0,257000
+1022,https://surgut.drom.ru/chevrolet/niva/49155294.html,Chevrolet,Niva,Сургут,2007,бензин,1.7,80,механика,4WD,,серый,97000,левый,1 поколение,,0,350000
+1023,https://novosibirsk.drom.ru/chevrolet/captiva/49155233.html,Chevrolet,Captiva,Новосибирск,2007,бензин,2.4,136,АКПП,4WD,,серый,198000,левый,1 поколение,,1,699000
+1024,https://kemerovo.drom.ru/chevrolet/aveo/48918853.html,Chevrolet,Aveo,Кемерово,2008,бензин,1.4,101,механика,передний,седан,синий,208530,левый,"1 поколение, рестайлинг",1.4 MT LT,0,319000
+1025,https://kemerovo.drom.ru/chevrolet/lanos/49155165.html,Chevrolet,Lanos,Кемерово,2007,бензин,1.5,86,механика,передний,,серебристый,230000,,1 поколение,1.5 MT SX,0,140000
+1026,https://kamensk-uralskiy.drom.ru/chevrolet/captiva/49155168.html,Chevrolet,Captiva,Каменск-Уральский,2008,бензин,2.4,136,механика,4WD,,серебристый,198000,левый,1 поколение,LT 2.4 MT 5 seats 1CF26R15D,0,750000
+1027,https://noviy-urengoy.drom.ru/chevrolet/rezzo/49155113.html,Chevrolet,Rezzo,Новый Уренгой,2006,бензин,1.6,90,механика,передний,,серый,44000,левый,1 поколение,,0,380000
+1028,https://prokopyevsk.drom.ru/chevrolet/lanos/48751132.html,Chevrolet,Lanos,Прокопьевск,2008,бензин,1.5,86,механика,передний,,черный,100000,,1 поколение,1.5 MT SX,0,160000
+1029,https://krasnodar.drom.ru/chevrolet/aveo/49155040.html,Chevrolet,Aveo,Краснодар,2007,бензин,1.2,72,механика,передний,хэтчбек 5 дв.,белый,190000,левый,1 поколение,1.2 MT Plus,0,355000
+1030,https://kemerovo.drom.ru/chevrolet/lacetti/49155014.html,Chevrolet,Lacetti,Кемерово,2005,бензин,1.6,109,механика,передний,седан,зеленый,185000,левый,1 поколение,1.6 MT Platinum ,1,220000
+1031,https://yalta.drom.ru/chevrolet/lanos/49154934.html,Chevrolet,Lanos,Ялта,2007,бензин,1.5,86,механика,передний,,серебристый,213000,,1 поколение,1.5 MT SX,0,195000
+1032,https://feodosiya.drom.ru/chevrolet/lanos/49154583.html,Chevrolet,Lanos,Феодосия,2008,бензин,1.5,86,механика,передний,,серебристый,227000,,1 поколение,,1,210000
+1033,https://saky.drom.ru/chevrolet/lacetti/49154651.html,Chevrolet,Lacetti,Саки,2008,бензин,1.6,109,механика,передний,седан,бежевый,210000,левый,1 поколение,,0,405000
+1034,https://elektrostal.drom.ru/chevrolet/express/46799886.html,Chevrolet,Express,Электросталь,2008,бензин,5.3,301,автомат,4WD,минивэн,черный,65202,левый,,,1,3350000
+1035,https://irkutsk.drom.ru/chevrolet/lacetti/48837081.html,Chevrolet,Lacetti,Иркутск,2007,бензин,1.6,109,АКПП,передний,седан,зеленый,250000,левый,1 поколение,,0,290000
+1036,https://osypnoy-bugor.drom.ru/chevrolet/lacetti/48837005.html,Chevrolet,Lacetti,Осыпной Бугор,2007,бензин,1.6,109,механика,передний,седан,,180000,левый,1 поколение,1.6 MT Premium,0,260000
+1037,https://izhevsk.drom.ru/chevrolet/niva/48836499.html,Chevrolet,Niva,Ижевск,2007,бензин,1.7,80,механика,4WD,,серый,122433,левый,1 поколение,,0,269000
+1038,https://samara.drom.ru/chevrolet/niva/48835678.html,Chevrolet,Niva,Самара,2006,бензин,1.7,80,механика,4WD,,бежевый,150000,левый,1 поколение,,0,205000
+1039,https://ryazan.drom.ru/chevrolet/aveo/48835520.html,Chevrolet,Aveo,Рязань,2007,бензин,1.2,72,механика,передний,седан,оранжевый,261161,левый,"1 поколение, рестайлинг",1.2 MT Base,0,200000
+1040,https://sovetskiy-krym.drom.ru/chevrolet/lanos/48835356.html,Chevrolet,Lanos,Советский,2008,бензин,1.5,86,механика,передний,,синий,208949,,1 поколение,1.5 MT SX,1,220000
+1041,https://omsk.drom.ru/chevrolet/lanos/48835018.html,Chevrolet,Lanos,Омск,2006,бензин,1.5,86,механика,передний,,зеленый,150000,,1 поколение,,0,90000
+1042,https://simferopol.drom.ru/chevrolet/lanos/48834468.html,Chevrolet,Lanos,Симферополь,2008,бензин,1.5,86,механика,передний,,красный,123946,,1 поколение,1.5 MT SX,0,320000
+1043,https://pokachi.drom.ru/chevrolet/lanos/48834388.html,Chevrolet,Lanos,Покачи,2007,бензин,1.5,86,механика,передний,,синий,205000,,1 поколение,,0,148000
+1044,https://nizhniy-novgorod.drom.ru/chevrolet/lanos/48833353.html,Chevrolet,Lanos,Нижний Новгород,2007,бензин,1.5,86,механика,передний,,серебристый,160000,,1 поколение,,1,60000
+1045,https://asino.drom.ru/chevrolet/lacetti/48832393.html,Chevrolet,Lacetti,Асино,2009,бензин,1.6,109,механика,передний,универсал,серый,225000,левый,1 поколение,,0,420000
+1046,https://khanty-mansiysk.drom.ru/chevrolet/aveo/48831900.html,Chevrolet,Aveo,Ханты-Мансийск,2008,бензин,1.2,72,механика,передний,седан,синий,145000,левый,1 поколение,1.2 MT Plus,0,230000
+1047,https://sharkan.drom.ru/chevrolet/niva/48831902.html,Chevrolet,Niva,Шаркан,2008,бензин,1.7,80,механика,4WD,,серый,170000,левый,1 поколение,1.7 MT GLS,1,265000
+1048,https://mysky.drom.ru/chevrolet/lanos/48831772.html,Chevrolet,Lanos,Мыски,2007,бензин,1.5,86,механика,передний,,синий,192000,,1 поколение,1.5 MT S ,0,140000
+1049,https://novohopersk.drom.ru/chevrolet/lanos/48831665.html,Chevrolet,Lanos,Новохопёрск,2008,бензин,1.5,86,механика,передний,,бордовый,151423,,1 поколение,1.5 MT S ,0,100000
+1050,https://kuragino.drom.ru/chevrolet/niva/48831333.html,Chevrolet,Niva,Курагино,2008,бензин,1.7,80,механика,4WD,,серый,143535,левый,1 поколение,,0,340000
+1051,https://novokuznetsk.drom.ru/chevrolet/epica/48830936.html,Chevrolet,Epica,Новокузнецк,2008,бензин,2.0,144,механика,передний,,белый,230000,левый,1 поколение,2.0 MT LT,0,410000
+1052,https://ust-kalmanka.drom.ru/chevrolet/lanos/48830375.html,Chevrolet,Lanos,Усть-Калманка,2008,бензин,1.5,86,механика,передний,,синий,236000,,1 поколение,,0,175000
+1053,https://ekaterinburg.drom.ru/chevrolet/lanos/48829754.html,Chevrolet,Lanos,Екатеринбург,2009,бензин,1.5,86,механика,передний,,черный,380000,,1 поколение,,0,150000
+1055,https://khanty-mansiysk.drom.ru/chevrolet/express/48098779.html,Chevrolet,Express,Ханты-Мансийск,2008,бензин,5.3,301,автомат,4WD,минивэн,черный,237000,левый,,,0,1900000
+1056,https://zheleznogorsk-krasnoyarsk.drom.ru/chevrolet/lanos/49150860.html,Chevrolet,Lanos,Железногорск,2007,бензин,1.5,86,механика,передний,,серый,205000,,1 поколение,,0,125000
+1057,https://krasnoyarsk.drom.ru/chevrolet/aveo/49150814.html,Chevrolet,Aveo,Красноярск,2007,бензин,1.4,94,механика,передний,седан,голубой,91000,левый,1 поколение,1.4 MT SE H4XB 55J,0,399999
+1058,https://sochi.drom.ru/chevrolet/niva/49150823.html,Chevrolet,Niva,Сочи,2009,бензин,1.7,80,механика,4WD,,коричневый,144100,левый,"1 поколение, рестайлинг",1.7 MT LC,0,650000
+1059,https://bakhchysaray.drom.ru/chevrolet/aveo/48662752.html,Chevrolet,Aveo,Бахчисарай,2008,бензин,1.6,109,механика,передний,седан,синий,300000,левый,"1 поколение, рестайлинг",,0,440000
+1060,https://neftekamsk-bash.drom.ru/chevrolet/lacetti/49150549.html,Chevrolet,Lacetti,Нефтекамск,2008,бензин,1.4,95,механика,передний,седан,бордовый,205000,левый,1 поколение,1.4 MT Plus,0,330000
+1061,https://dzhankoy.drom.ru/chevrolet/lanos/49150545.html,Chevrolet,Lanos,Джанкой,2008,бензин,1.5,86,механика,передний,,бордовый,110200,,1 поколение,1.5 MT SX,0,310000
+1062,https://novocherkassk.drom.ru/chevrolet/lacetti/48444792.html,Chevrolet,Lacetti,Новочеркасск,2008,бензин,1.6,109,механика,передний,универсал,белый,182000,левый,1 поколение,1.6 MT Platinum,0,445000
+1063,https://dzhankoy.drom.ru/chevrolet/lanos/49150523.html,Chevrolet,Lanos,Джанкой,2008,бензин,1.5,86,механика,передний,,серебристый,103000,,1 поколение,1.5 MT SX,1,345000
+1064,https://zlatoust.drom.ru/chevrolet/aveo/49150460.html,Chevrolet,Aveo,Златоуст,2008,бензин,1.4,101,механика,передний,седан,серый,180000,левый,"1 поколение, рестайлинг",1.4 MT Base,1,368000
+1065,https://surgut.drom.ru/chevrolet/niva/49150361.html,Chevrolet,Niva,Сургут,2007,бензин,1.7,80,механика,4WD,,серый,151000,левый,1 поколение,,0,350000
+1066,https://krasnodar.drom.ru/chevrolet/rezzo/49150348.html,Chevrolet,Rezzo,Краснодар,2007,бензин,1.6,90,механика,передний,,серебристый,221000,левый,1 поколение,,0,449000
+1067,https://borovichi.drom.ru/chevrolet/aveo/49150302.html,Chevrolet,Aveo,Боровичи,2007,бензин,1.4,94,механика,передний,седан,голубой,232521,левый,"1 поколение, рестайлинг",1.4 MT LT,0,239000
+1068,https://mezhdurechensk.drom.ru/chevrolet/lacetti/49150154.html,Chevrolet,Lacetti,Междуреченск,2007,бензин,1.4,95,механика,передний,хэтчбек 5 дв.,белый,348000,левый,1 поколение,1.4 MT Elite,1,290000
+1069,https://spb.drom.ru/chevrolet/lacetti/49150055.html,Chevrolet,Lacetti,Санкт-Петербург,2008,бензин,1.6,109,АКПП,передний,седан,черный,235000,левый,1 поколение,1.6 AT SDX,1,340000
+1070,https://krasnodar.drom.ru/chevrolet/aveo/49149885.html,Chevrolet,Aveo,Краснодар,2007,бензин,1.2,72,механика,передний,хэтчбек 5 дв.,оранжевый,143000,левый,1 поколение,1.2 MT Star,0,349000
+1071,https://nizhnegorskiy.drom.ru/chevrolet/lacetti/49149880.html,Chevrolet,Lacetti,Нижнегорский,2008,бензин,1.4,95,механика,передний,хэтчбек 5 дв.,красный,40000,левый,1 поколение,1.4 MT SX,0,600000
+1072,https://nikolaevka-krym.drom.ru/chevrolet/lanos/49149800.html,Chevrolet,Lanos,Николаевка,2007,бензин,1.5,86,механика,передний,,серебристый,161000,,1 поколение,1.5 MT SX,0,243000
+1073,https://volgograd.drom.ru/chevrolet/lacetti/49149604.html,Chevrolet,Lacetti,Волгоград,2009,бензин,1.6,109,механика,передний,седан,синий,157161,левый,1 поколение,,0,385000
+1074,https://syktyvkar.drom.ru/chevrolet/lacetti/49149469.html,Chevrolet,Lacetti,Сыктывкар,2008,бензин,1.6,109,механика,передний,универсал,синий,170000,левый,1 поколение,,0,250000
+1075,https://samara.drom.ru/chevrolet/lacetti/49140545.html,Chevrolet,Lacetti,Самара,2007,бензин,1.6,109,механика,передний,хэтчбек 5 дв.,красный,150000,левый,1 поколение,,1,310000
+1076,https://novokuznetsk.drom.ru/chevrolet/lanos/49140519.html,Chevrolet,Lanos,Новокузнецк,2007,бензин,1.5,86,механика,передний,,серебристый,274638,,1 поколение,,0,78000
+1077,https://simferopol.drom.ru/chevrolet/lacetti/49140308.html,Chevrolet,Lacetti,Симферополь,2007,бензин,1.6,109,механика,передний,седан,синий,252925,левый,1 поколение,,0,360000
+1078,https://irkutsk.drom.ru/chevrolet/aveo/46817888.html,Chevrolet,Aveo,Иркутск,2005,бензин,1.4,94,механика,передний,хэтчбек 5 дв.,белый,244000,левый,1 поколение,1.4 MT SX H5XB 55P,0,315000
+1079,https://tyumen.drom.ru/chevrolet/lacetti/49140173.html,Chevrolet,Lacetti,Тюмень,2005,бензин,1.4,95,механика,передний,седан,синий,1,левый,1 поколение,1.4 MT Star,0,175000
+1080,https://orenburg.drom.ru/chevrolet/niva/49140127.html,Chevrolet,Niva,Оренбург,2005,бензин,1.7,80,механика,4WD,,синий,,левый,1 поколение,,0,185000
+1081,https://novosibirsk.drom.ru/chevrolet/lanos/49139837.html,Chevrolet,Lanos,Новосибирск,2006,бензин,1.5,86,механика,передний,,серебристый,1,,1 поколение,,0,110000
+1082,https://anapa.drom.ru/chevrolet/epica/49139786.html,Chevrolet,Epica,Анапа,2009,бензин,2.5,156,АКПП,передний,,серый,170000,левый,1 поколение,2.5 AT LT,0,570000
+1083,https://bataysk.drom.ru/chevrolet/lanos/49139624.html,Chevrolet,Lanos,Батайск,2007,бензин,1.5,86,механика,передний,,черный,220000,,1 поколение,1.5 MT S ,0,180000
+1085,https://kemerovo.drom.ru/chevrolet/lacetti/48817844.html,Chevrolet,Lacetti,Кемерово,2008,бензин,1.4,95,механика,передний,хэтчбек 5 дв.,серебристый,221000,левый,1 поколение,1.4 MT SE1,1,330000
+1087,https://shahty.drom.ru/chevrolet/lanos/48805213.html,,,,,,,,,,,,,,,,0,
+1089,https://shahty.drom.ru/chevrolet/lanos/49139221.html,,,,,,,,,,,,,,,,0,
+1091,https://krymsk.drom.ru/chevrolet/epica/49139076.html,,,,,,,,,,,,,,,,0,
+1093,https://krasnoyarsk.drom.ru/chevrolet/lacetti/46844668.html,,,,,,,,,,,,,,,,0,
+1095,https://tyumen.drom.ru/chevrolet/lanos/49135238.html,,,,,,,,,,,,,,,,0,
+1097,https://surgut.drom.ru/chevrolet/niva/49135471.html,,,,,,,,,,,,,,,,0,
+1099,https://kemerovo.drom.ru/chevrolet/lanos/49135161.html,,,,,,,,,,,,,,,,0,
+1101,https://asbest.drom.ru/chevrolet/niva/49135210.html,,,,,,,,,,,,,,,,0,
+1103,https://yaroslavl.drom.ru/chevrolet/camaro/47937952.html,,,,,,,,,,,,,,,,0,
+1105,https://novokuznetsk.drom.ru/chevrolet/lanos/49135004.html,,,,,,,,,,,,,,,,0,
+1107,https://vasyurinskaya.drom.ru/chevrolet/lacetti/49054220.html,,,,,,,,,,,,,,,,0,
+1109,https://ekaterinburg.drom.ru/chevrolet/lacetti/49134823.html,,,,,,,,,,,,,,,,0,
+1111,https://usoliye-sibirskoe.drom.ru/chevrolet/niva/48994068.html,,,,,,,,,,,,,,,,0,
+1113,https://omsk.drom.ru/chevrolet/lacetti/48803432.html,,,,,,,,,,,,,,,,0,
+1115,https://omsk.drom.ru/chevrolet/rezzo/48781818.html,,,,,,,,,,,,,,,,0,
+1117,https://ekaterinburg.drom.ru/chevrolet/lanos/49133003.html,,,,,,,,,,,,,,,,0,
+1119,https://kemerovo.drom.ru/chevrolet/captiva/48701449.html,,,,,,,,,,,,,,,,0,
+1121,https://krasnoyarsk.drom.ru/chevrolet/niva/49065591.html,,,,,,,,,,,,,,,,0,
+1123,https://sosnoviy-bor.drom.ru/chevrolet/lacetti/48806557.html,,,,,,,,,,,,,,,,0,
+1125,https://gatchina.drom.ru/chevrolet/lacetti/48805516.html,,,,,,,,,,,,,,,,0,
+1127,https://igra.drom.ru/chevrolet/aveo/48805300.html,,,,,,,,,,,,,,,,0,
+1129,https://elista.drom.ru/chevrolet/lacetti/48804362.html,,,,,,,,,,,,,,,,0,
+1131,https://bakhchysaray.drom.ru/chevrolet/lacetti/48803973.html,Chevrolet,Lacetti,Бахчисарай,2006,бензин,1.6,109,механика,передний,седан,синий,60000,левый,1 поколение,1.6 MT Elite,1,350000
+1132,https://gorno-altaysk.drom.ru/chevrolet/captiva/48803229.html,Chevrolet,Captiva,Горно-Алтайск,2007,бензин,2.4,136,механика,4WD,,коричневый,177000,левый,1 поколение,LS 2.4 MT 5 seats 1CE26R15A,0,767000
+1133,https://sevastopol.drom.ru/chevrolet/lanos/48802893.html,Chevrolet,Lanos,Севастополь,2009,бензин,1.5,86,механика,передний,,серый,111338,,1 поколение,,0,240000
+1134,https://anapa.drom.ru/chevrolet/niva/48802754.html,Chevrolet,Niva,Анапа,2008,бензин,1.7,80,механика,4WD,,серебристый,136000,левый,1 поколение,,0,330000
+1135,https://nizhniy-tagil.drom.ru/chevrolet/lanos/49145541.html,Chevrolet,Lanos,Нижний Тагил,2008,бензин,1.5,86,механика,передний,,синий,120000,,1 поколение,,0,185000
+1136,https://tikhoretsk.drom.ru/chevrolet/niva/49141018.html,Chevrolet,Niva,Тихорецк,2006,бензин,1.7,80,механика,4WD,,серый,113315,левый,1 поколение,1.7 MT GLS,1,375000
+1137,https://surgut.drom.ru/chevrolet/niva/49145460.html,Chevrolet,Niva,Сургут,2005,бензин,1.7,80,механика,4WD,,синий,129904,левый,1 поколение,1.7 MT L,0,185000
+1138,https://ekaterinburg.drom.ru/chevrolet/lanos/49145081.html,Chevrolet,Lanos,Екатеринбург,2006,бензин,1.5,86,механика,передний,,черный,180000,,1 поколение,,0,90000
+1139,https://novoaltaysk.drom.ru/chevrolet/aveo/49145047.html,Chevrolet,Aveo,Новоалтайск,2005,бензин,1.4,94,АКПП,передний,хэтчбек 5 дв.,красный,213500,левый,1 поколение,1.4 AT,1,300000
+1140,https://nikolaevka-krym.drom.ru/chevrolet/lanos/49145037.html,Chevrolet,Lanos,Николаевка,2007,бензин,1.5,86,механика,передний,,черный,141000,,1 поколение,1.5 MT SX,1,238000
+1141,https://ekaterinburg.drom.ru/chevrolet/lacetti/49144891.html,Chevrolet,Lacetti,Екатеринбург,2006,бензин,1.4,95,механика,передний,седан,бежевый,277000,левый,1 поколение,,0,320000
+1142,https://glazov.drom.ru/chevrolet/aveo/46941742.html,Chevrolet,Aveo,Глазов,2007,бензин,1.2,72,механика,передний,хэтчбек 5 дв.,серебристый,127852,левый,1 поколение,,0,298000
+1143,https://omsk.drom.ru/chevrolet/lanos/49144753.html,Chevrolet,Lanos,Омск,2007,бензин,1.5,86,механика,передний,,черный,100000,,1 поколение,1.5 MT SX,1,129500
+1144,https://izhevsk.drom.ru/chevrolet/lacetti/47663927.html,Chevrolet,Lacetti,Ижевск,2009,бензин,1.4,95,механика,передний,седан,черный,147600,левый,1 поколение,,0,399000
+1145,https://tyumen.drom.ru/chevrolet/captiva/49144756.html,Chevrolet,Captiva,Тюмень,2007,бензин,3.2,230,АКПП,4WD,,серый,183000,левый,1 поколение,LT 3.2 АT 5 seats 1CF26ZBCG,0,710000
+1146,https://kazan.drom.ru/chevrolet/lacetti/49144661.html,Chevrolet,Lacetti,Казань,2008,бензин,1.4,95,механика,передний,хэтчбек 5 дв.,синий,,левый,1 поколение,1.4 MT SX,0,245000
+1147,https://yevpatoriya.drom.ru/chevrolet/lacetti/46118136.html,Chevrolet,Lacetti,Евпатория,2005,бензин,1.8,122,механика,передний,универсал,черный,269419,левый,1 поколение,1.8 MT Platinum,1,400000
+1148,https://ishim.drom.ru/chevrolet/lacetti/49054189.html,Chevrolet,Lacetti,Ишим,2008,бензин,1.4,95,механика,передний,хэтчбек 5 дв.,бежевый,200,левый,1 поколение,1.4 MT Elite,0,290000
+1149,https://nizhnevartovsk.drom.ru/chevrolet/niva/49144075.html,Chevrolet,Niva,Нижневартовск,2008,бензин,1.7,80,механика,4WD,,зеленый,377000,левый,1 поколение,,1,230000
+1150,https://simferopol.drom.ru/chevrolet/lacetti/48963009.html,Chevrolet,Lacetti,Симферополь,2008,бензин,1.4,95,механика,передний,седан,синий,203000,левый,1 поколение,1.4 MT SE2,0,430000
+1151,https://barnaul.drom.ru/chevrolet/lacetti/49143961.html,Chevrolet,Lacetti,Барнаул,2008,бензин,1.4,95,механика,передний,седан,бордовый,120000,левый,1 поколение,1.4 MT Star,0,280000
+1152,https://krasnoyarsk.drom.ru/chevrolet/niva/49092222.html,Chevrolet,Niva,Красноярск,2005,бензин,1.7,80,механика,4WD,,золотистый,113000,левый,1 поколение,1.7 MT GLS,1,379000
+1153,https://omsk.drom.ru/chevrolet/aveo/44743257.html,Chevrolet,Aveo,Омск,2007,бензин,1.2,72,механика,передний,хэтчбек 5 дв.,серый,120000,левый,1 поколение,,0,269000
+1154,https://omsk.drom.ru/chevrolet/lacetti/47884194.html,Chevrolet,Lacetti,Омск,2008,бензин,1.6,109,АКПП,передний,седан,черный,130000,левый,1 поколение,,0,429000
+1155,https://ufa.drom.ru/chevrolet/niva/48802408.html,Chevrolet,Niva,Уфа,2007,бензин,1.7,80,механика,4WD,,,190000,левый,1 поколение,,0,250000
+1156,https://kemerovo.drom.ru/chevrolet/viva/48801639.html,Chevrolet,Viva,Кемерово,2005,бензин,1.8,125,механика,передний,,серебристый,203000,левый,1 поколение,1.8 MT GLS,0,350000
+1157,https://belyy-yar.drom.ru/chevrolet/niva/48800897.html,Chevrolet,Niva,Белый Яр,2005,бензин,1.7,80,механика,4WD,,серебристый,144000,левый,1 поколение,,0,270000
+1158,https://uray.drom.ru/chevrolet/lacetti/48800713.html,Chevrolet,Lacetti,Урай,2007,бензин,1.6,109,механика,передний,хэтчбек 5 дв.,бежевый,278500,левый,1 поколение,1.6 MT Platinum,0,240000
+1159,https://yashkino.drom.ru/chevrolet/trailblazer/48800065.html,Chevrolet,TrailBlazer,Яшкино,2007,бензин,4.2,291,АКПП,4WD,,черный,202000,левый,"1 поколение, рестайлинг",,0,770000
+1160,https://biysk.drom.ru/chevrolet/niva/48799746.html,Chevrolet,Niva,Бийск,2005,бензин,1.7,80,механика,4WD,,серебристый,208000,левый,1 поколение,1.7 MT L,1,320000
+1161,https://orsk.drom.ru/chevrolet/aveo/48796856.html,Chevrolet,Aveo,Орск,2009,бензин,1.4,101,механика,передний,седан,серебристый,216000,левый,"1 поколение, рестайлинг",1.4 MT LT,0,375000
+1162,https://volzhsk.drom.ru/chevrolet/lanos/48794796.html,Chevrolet,Lanos,Волжск,2008,бензин,1.5,86,механика,передний,,синий,80000,,1 поколение,1.5 MT S ,0,100000
+1163,https://samara.drom.ru/chevrolet/lacetti/48458723.html,Chevrolet,Lacetti,Самара,2007,бензин,1.6,109,механика,передний,седан,,239300,левый,1 поколение,,0,250000
+1164,https://troytsk-chelabinsk.drom.ru/chevrolet/aveo/48457809.html,Chevrolet,Aveo,Троицк,2007,бензин,1.2,72,механика,передний,седан,красный,167000,левый,"1 поколение, рестайлинг",1.2 MT Base,1,260000
+1165,https://tver.drom.ru/chevrolet/lanos/48457511.html,Chevrolet,Lanos,Тверь,2008,бензин,1.5,86,механика,передний,,черный,167197,,1 поколение,,0,226000
+1166,https://tyumen.drom.ru/chevrolet/epica/48455642.html,Chevrolet,Epica,Тюмень,2007,бензин,2.5,156,АКПП,передний,,серебристый,250000,левый,1 поколение,2.5 AT LT,0,330000
+1167,https://tver.drom.ru/chevrolet/epica/48455364.html,Chevrolet,Epica,Тверь,2008,бензин,2.0,144,механика,передний,,бежевый,261000,левый,1 поколение,2.0 MT LS,0,420000
+1168,https://tikhoretsk.drom.ru/chevrolet/lacetti/48453378.html,Chevrolet,Lacetti,Тихорецк,2006,бензин,1.4,95,механика,передний,хэтчбек 5 дв.,черный,280000,левый,1 поколение,1.4 MT Elite,0,350000
+1169,https://kemerovo.drom.ru/chevrolet/lanos/48453511.html,Chevrolet,Lanos,Кемерово,2006,бензин,1.5,86,механика,передний,,,180000,,1 поколение,,1,90000
+1170,https://novosibirsk.drom.ru/chevrolet/lanos/48452741.html,Chevrolet,Lanos,Новосибирск,2006,бензин,1.5,86,механика,передний,,серебристый,197654,,1 поколение,,0,160000
+1171,https://krasnoyarsk.drom.ru/chevrolet/trailblazer/48452023.html,Chevrolet,TrailBlazer,Красноярск,2007,бензин,4.2,291,АКПП,задний,,серебристый,211000,левый,"1 поколение, рестайлинг",4.2 AT LT,0,999999
+1172,https://sysert.drom.ru/chevrolet/lanos/48448667.html,Chevrolet,Lanos,Сысерть,2007,бензин,1.5,86,механика,передний,,синий,78000,,1 поколение,1.5 MT SX,0,139000
+1173,https://moscow.drom.ru/chevrolet/lacetti/48115722.html,Chevrolet,Lacetti,Москва,2006,бензин,1.6,109,АКПП,передний,седан,синий,110000,левый,1 поколение,,0,180000
+1174,https://minvody.drom.ru/chevrolet/lacetti/48115633.html,Chevrolet,Lacetti,Минеральные Воды,2007,бензин,1.6,109,механика,передний,седан,серебристый,224878,левый,1 поколение,,0,450000
+1175,https://ekaterinburg.drom.ru/chevrolet/aveo/47776661.html,Chevrolet,Aveo,Екатеринбург,2007,бензин,1.4,94,механика,передний,седан,синий,155000,левый,1 поколение,,0,225000
+1176,https://zavodoukovsk.drom.ru/chevrolet/niva/47775952.html,Chevrolet,Niva,Заводоуковск,2008,бензин,1.7,80,механика,4WD,,синий,300000,левый,1 поколение,1.7 MT GLS,1,275000
+1177,https://omsk.drom.ru/chevrolet/aveo/47452144.html,Chevrolet,Aveo,Омск,2008,бензин,1.2,84,механика,передний,хэтчбек 5 дв.,голубой,91000,левый,"1 поколение, рестайлинг",,0,365000
+1178,https://tyumen.drom.ru/chevrolet/niva/47448623.html,Chevrolet,Niva,Тюмень,2007,бензин,1.7,80,механика,4WD,,серебристый,163000,левый,1 поколение,1.7 MT L,0,485000
+1179,https://chelyabinsk.drom.ru/chevrolet/rezzo/47443186.html,Chevrolet,Rezzo,Челябинск,2007,бензин,1.6,90,механика,передний,,серый,285000,левый,1 поколение,1.6 MT Elite,0,320000
+1180,https://ekaterinburg.drom.ru/chevrolet/niva/47318771.html,Chevrolet,Niva,Екатеринбург,2005,бензин,1.7,80,механика,4WD,,серый,225000,левый,1 поколение,1.7 MT GLS,0,165000
+1181,https://tomsk.drom.ru/chevrolet/spark/47071104.html,Chevrolet,Spark,Томск,2006,бензин,0.8,51,механика,передний,,черный,125000,левый,2 поколение,,0,275000
+1182,https://slavyansk-na-kubani.drom.ru/chevrolet/aveo/46598220.html,Chevrolet,Aveo,Славянск-На-Кубани,2006,бензин,1.2,72,механика,передний,седан,оранжевый,253000,левый,"1 поколение, рестайлинг",1.2 MT LS,1,270000
+1183,https://tomsk.drom.ru/chevrolet/captiva/46569722.html,Chevrolet,Captiva,Томск,2007,бензин,3.2,230,АКПП,4WD,,черный,199000,левый,1 поколение,LT 3.2 АT 7 seats 1CF26ZBCE,1,740000
+1185,https://noyabrsk.drom.ru/chevrolet/spark/46433261.html,Chevrolet,Spark,Ноябрьск,2007,бензин,1.0,63,механика,передний,,серебристый,60000,левый,2 поколение,,0,400000
+1186,https://surgut.drom.ru/chevrolet/lanos/44555835.html,Chevrolet,Lanos,Сургут,2008,бензин,1.5,86,механика,передний,,серый,195278,,1 поколение,1.5 MT SX,0,100000
+1187,https://batayurt.drom.ru/chevrolet/lanos/43082716.html,Chevrolet,Lanos,Батаюрт,2006,бензин,1.5,86,механика,передний,,черный,101500,,1 поколение,1.5 MT SE ,0,49999
+1188,https://spb.drom.ru/chevrolet/lacetti/49141161.html,Chevrolet,Lacetti,Санкт-Петербург,2007,бензин,1.6,109,механика,передний,седан,синий,306000,левый,1 поколение,,0,269990
+1189,https://vladimir.drom.ru/chevrolet/lacetti/49141158.html,Chevrolet,Lacetti,Владимир,2008,бензин,1.6,109,механика,передний,хэтчбек 5 дв.,синий,255002,левый,1 поколение,,0,350000
+1190,https://rostov-na-donu.drom.ru/chevrolet/lanos/49141120.html,Chevrolet,Lanos,Ростов-на-Дону,2007,бензин,1.5,86,механика,передний,,серебристый,205000,,1 поколение,1.5 MT SX,1,290000
+1191,https://spb.drom.ru/chevrolet/lacetti/49141014.html,Chevrolet,Lacetti,Санкт-Петербург,2005,бензин,1.4,95,механика,передний,седан,голубой,213000,левый,1 поколение,1.4 MT Plus,1,250000
+1192,https://tobolsk.drom.ru/chevrolet/lanos/49140864.html,Chevrolet,Lanos,Тобольск,2009,бензин,1.5,86,механика,передний,,серебристый,130000,,1 поколение,1.5 MT SX,0,125000
+1193,https://tyumen.drom.ru/chevrolet/aveo/49140764.html,Chevrolet,Aveo,Тюмень,2005,бензин,1.4,83,механика,передний,седан,синий,155000,левый,1 поколение,,0,240000
+1194,https://anapa.drom.ru/chevrolet/aveo/49140553.html,Chevrolet,Aveo,Анапа,2005,бензин,1.2,72,механика,передний,хэтчбек 5 дв.,красный,140000,левый,1 поколение,1.2 MT S H5LA 514,1,270000
+1195,https://surgut.drom.ru/chevrolet/lanos/49146940.html,Chevrolet,Lanos,Сургут,2007,бензин,1.5,86,механика,передний,,,221723,,1 поколение,,0,120000
+1196,https://ust-labinsk.drom.ru/chevrolet/lacetti/48904211.html,Chevrolet,Lacetti,Усть-Лабинск,2008,бензин,1.4,95,механика,передний,седан,черный,324566,левый,1 поколение,1.4 MT SE1,0,260000
+1197,https://ekaterinburg.drom.ru/chevrolet/lanos/49146800.html,Chevrolet,Lanos,Екатеринбург,2007,бензин,1.5,86,механика,передний,,бордовый,214000,,1 поколение,,1,147000
+1198,https://anzhero-sudzhensk.drom.ru/chevrolet/captiva/48603979.html,Chevrolet,Captiva,Анжеро-Судженск,2008,бензин,2.4,136,механика,4WD,,серебристый,330000,левый,1 поколение,LS 2.4 MT 5 seats 1CE26R15A,0,660000
+1199,https://nizhnevartovsk.drom.ru/chevrolet/lacetti/49146702.html,Chevrolet,Lacetti,Нижневартовск,2008,бензин,1.6,109,механика,передний,универсал,черный,300000,левый,1 поколение,,0,305000
+1200,https://barnaul.drom.ru/chevrolet/niva/45241532.html,Chevrolet,Niva,Барнаул,2009,бензин,1.7,80,механика,4WD,,серебристый,150000,левый,1 поколение,,0,400000

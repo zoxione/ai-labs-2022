@@ -1,0 +1,114 @@
+Id,Url,Brand,Model,Region,Year,Engine,EngineVolume,Power,Transmission,Drive,Body,Color,Mileage,Wheel,Generation,Complectation,IsSold,Price
+31000,https://himki.drom.ru/haval/dargo/49106979.html,Haval,Dargo,Химки,2022,бензин,2.0,192,робот,4WD,,,,левый,1 поколение,2.0 GDIT DCT AWD Premium,0,3429000
+31001,https://himki.drom.ru/haval/dargo/49106974.html,Haval,Dargo,Химки,2022,бензин,2.0,192,робот,4WD,,,,левый,1 поколение,2.0 GDIT DCT AWD Tech Plus,0,3579000
+31002,https://himki.drom.ru/haval/dargo/49106970.html,Haval,Dargo,Химки,2022,бензин,2.0,192,робот,4WD,,,,левый,1 поколение,2.0 GDIT DCT AWD Tech Plus,0,3579000
+31003,https://himki.drom.ru/haval/f7/49106969.html,Haval,F7,Химки,2022,бензин,2.0,190,робот,4WD,,,,левый,1 поколение,2.0 SAT 4WD Tech Plus,0,3179000
+31004,https://himki.drom.ru/haval/f7x/49106968.html,Haval,F7x,Химки,2022,бензин,1.5,150,робот,передний,,,,левый,1 поколение,1.5 2WD SAT Elite,0,2579000
+31005,https://himki.drom.ru/haval/f7/49106966.html,Haval,F7,Химки,2022,бензин,2.0,190,робот,4WD,,,,левый,1 поколение,2.0 SAT 4WD Tech Plus,0,3179000
+31006,https://himki.drom.ru/haval/f7/49106965.html,Haval,F7,Химки,2022,бензин,2.0,190,робот,4WD,,,,левый,1 поколение,2.0 SAT 4WD Tech Plus,0,3179000
+31007,https://tomsk.drom.ru/haval/f7/49106959.html,Haval,F7,Томск,2022,бензин,1.5,150,робот,4WD,,белый,3000,левый,"1 поколение, рестайлинг",1.5 SAT 4WD Premium,0,3000000
+31008,https://novorossiysk.drom.ru/haval/dargo/49106640.html,Haval,Dargo,Новороссийск,2022,бензин,2.0,192,робот,4WD,,серый,,левый,1 поколение,,0,3647512
+31009,https://omsk.drom.ru/haval/h6/46355668.html,Haval,H6,Омск,2019,бензин,1.5,143,механика,4WD,,серый,75000,левый,,,0,1495000
+31010,https://kemerovo.drom.ru/haval/dargo/48967129.html,Haval,Dargo,Кемерово,2022,бензин,2.0,192,робот,4WD,,черный,,левый,1 поколение,2.0 GDIT DCT AWD Tech Plus,0,3579000
+31011,https://kemerovo.drom.ru/haval/f7/48742427.html,Haval,F7,Кемерово,2022,бензин,2.0,190,робот,4WD,,черный,,левый,"1 поколение, рестайлинг",2.0 SAT 4WD Tech Plus,0,3179000
+31012,https://novokuznetsk.drom.ru/haval/jolion/47981179.html,Haval,Jolion,Новокузнецк,2022,бензин,1.5,150,робот,4WD,,голубой,,левый,1 поколение,1.5 DCT 4WD Premium,0,2639000
+31013,https://novorossiysk.drom.ru/haval/dargo/49104915.html,Haval,Dargo,Новороссийск,2022,бензин,2.0,192,робот,4WD,,серый,,левый,1 поколение,,0,3620792
+31014,https://himki.drom.ru/haval/f7/48772834.html,Haval,F7,Химки,2022,бензин,1.5,150,робот,4WD,,,,левый,1 поколение,1.5 SAT 4WD Premium,0,2829000
+31015,https://himki.drom.ru/haval/dargo/48772835.html,Haval,Dargo,Химки,2022,бензин,2.0,192,робот,4WD,,серый,,левый,1 поколение,2.0 GDIT DCT AWD Premium,0,3429000
+31016,https://himki.drom.ru/haval/f7x/48772838.html,Haval,F7x,Химки,2022,бензин,2.0,190,робот,4WD,,,,левый,1 поколение,2.0 4WD SAT Tech Plus,0,3279000
+31017,https://himki.drom.ru/haval/dargo/48772840.html,Haval,Dargo,Химки,2022,бензин,2.0,192,робот,4WD,,серый,,левый,1 поколение,2.0 GDIT DCT AWD Tech Plus,0,3579000
+31018,https://himki.drom.ru/haval/dargo/48772841.html,Haval,Dargo,Химки,2022,бензин,2.0,192,робот,4WD,,,,левый,1 поколение,2.0 GDIT DCT AWD Tech Plus,0,3579000
+31019,https://yaroslavl.drom.ru/haval/f7/48771923.html,Haval,F7,Ярославль,2022,бензин,1.5,150,робот,4WD,,белый,,левый,"1 поколение, рестайлинг",1.5 SAT 4WD Premium,0,2915640
+31020,https://yaroslavl.drom.ru/haval/f7/48771924.html,Haval,F7,Ярославль,2022,бензин,1.5,150,робот,4WD,,красный,,левый,"1 поколение, рестайлинг",1.5 SAT 4WD Elite,0,2629000
+31021,https://yaroslavl.drom.ru/haval/f7/48771925.html,Haval,F7,Ярославль,2022,бензин,2.0,190,робот,4WD,,красный,,левый,"1 поколение, рестайлинг",2.0 SAT 4WD Tech Plus,0,3179000
+31022,https://astrahan.drom.ru/haval/f7/48435501.html,Haval,F7,Астрахань,2022,бензин,2.0,190,робот,4WD,,серый,,левый,1 поколение,2.0 SAT 4WD Tech Plus,0,3179000
+31023,https://samara.drom.ru/haval/f7/48434032.html,Haval,F7,Самара,2022,бензин,2.0,190,робот,4WD,,черный,,левый,"1 поколение, рестайлинг",2.0 SAT 4WD Tech Plus,0,3179000
+31024,https://moscow.drom.ru/haval/dargo/48433846.html,Haval,Dargo,Москва,2022,бензин,2.0,192,робот,4WD,,черный,,левый,1 поколение,2.0 GDIT DCT AWD Elite,0,3229000
+31025,https://krasnodar.drom.ru/haval/f7/48431945.html,Haval,F7,Краснодар,2022,бензин,2.0,190,робот,4WD,,белый,,левый,1 поколение,,0,3179000
+31026,https://moscow.drom.ru/haval/dargo/48429291.html,Haval,Dargo,Москва,2022,бензин,2.0,192,робот,4WD,,черный,,левый,1 поколение,2.0 GDIT DCT AWD Elite,0,3427200
+31027,https://himki.drom.ru/haval/jolion/48428006.html,Haval,Jolion,Химки,2022,бензин,1.5,143,робот,передний,,красный,,левый,1 поколение,1.5 DCT Premium,0,2684000
+31028,https://himki.drom.ru/haval/jolion/48428008.html,Haval,Jolion,Химки,2022,бензин,1.5,143,робот,передний,,серый,,левый,1 поколение,1.5 DCT Premium,0,2684000
+31029,https://himki.drom.ru/haval/jolion/48428009.html,Haval,Jolion,Химки,2022,бензин,1.5,143,робот,передний,,черный,,левый,1 поколение,1.5 DCT Premium,0,2684000
+31030,https://moscow.drom.ru/haval/h9/48091872.html,Haval,H9,Москва,2022,бензин,2.0,218,АКПП,4WD,,белый,,левый,"1 поколение, рестайлинг",2.0 AT Premium,0,4305000
+31031,https://yaroslavl.drom.ru/haval/jolion/48090943.html,Haval,Jolion,Ярославль,2021,бензин,1.5,143,автомат,передний,,белый,2900,,,,0,2370000
+31032,https://astrahan.drom.ru/haval/f7x/48090226.html,Haval,F7x,Астрахань,2022,бензин,1.5,150,робот,4WD,,белый,,левый,1 поколение,1.5 4WD SAT Premium,0,2929000
+31033,https://moscow.drom.ru/haval/f7/48089157.html,Haval,F7,Москва,2022,бензин,2.0,190,робот,4WD,,синий,,левый,"1 поколение, рестайлинг",2.0 SAT 4WD Tech Plus,0,3372140
+31034,https://ekaterinburg.drom.ru/haval/f7/48762196.html,Haval,F7,Екатеринбург,2022,бензин,2.0,190,робот,4WD,,серый,новый автомобиль,левый,"1 поколение, рестайлинг",2.0 SAT 4WD Premium,1,2640000
+31035,https://ekaterinburg.drom.ru/haval/dargo/48762260.html,Haval,Dargo,Екатеринбург,2022,бензин,2.0,192,робот,4WD,,оранжевый,новый автомобиль,левый,1 поколение,2.0 GDIT DCT AWD Premium,1,2860000
+31036,https://barnaul.drom.ru/haval/f7x/48631004.html,Haval,F7x,Барнаул,2021,бензин,1.5,150,робот,передний,,белый,32000,левый,1 поколение,1.5 2WD SAT Elite,1,2225000
+31037,https://barnaul.drom.ru/haval/f7/48692436.html,Haval,F7,Барнаул,2022,бензин,2.0,190,робот,4WD,,черный,3500,левый,"1 поколение, рестайлинг",2.0 SAT 4WD Premium,0,2680000
+31038,https://nizhniy-novgorod.drom.ru/haval/h5/49109459.html,Haval,H5,Нижний Новгород,2020,бензин,2.0,177,механика,4WD,,черный,27796,левый,2 поколение,2.0 MT 4WD Premium,0,1680000
+31039,https://moscow.drom.ru/haval/jolion/49108529.html,Haval,Jolion,Москва,2021,бензин,1.5,143,робот,передний,,белый,40000,левый,1 поколение,1.5 DCT Elite,0,1699000
+31040,https://moscow.drom.ru/haval/f7x/48424197.html,Haval,F7x,Москва,2022,бензин,1.5,150,робот,4WD,,черный,9617,левый,1 поколение,,0,2399000
+31041,https://tyumen.drom.ru/haval/f7/48924576.html,Haval,F7,Тюмень,2021,бензин,1.5,150,робот,4WD,,синий,26700,левый,1 поколение,,0,2000000
+31042,https://novosibirsk.drom.ru/haval/jolion/46468606.html,Haval,Jolion,Новосибирск,2021,бензин,1.5,143,робот,передний,,голубой,9000,левый,1 поколение,1.5 DCT Elite,0,1950000
+31044,https://moscow.drom.ru/haval/f7/49108387.html,Haval,F7,Москва,2022,бензин,2.0,190,робот,4WD,,,,левый,"1 поколение, рестайлинг",2.0 SAT 4WD Tech Plus,0,3421885
+31045,https://moscow.drom.ru/haval/f7/49108380.html,Haval,F7,Москва,2022,бензин,2.0,190,робот,4WD,,,,левый,"1 поколение, рестайлинг",2.0 SAT 4WD Tech Plus,0,3417735
+31046,https://krasnodar.drom.ru/haval/f7x/49108305.html,Haval,F7x,Краснодар,2022,бензин,1.5,150,робот,передний,,белый,,левый,1 поколение,,0,2429000
+31047,https://krasnodar.drom.ru/haval/f7x/49108301.html,Haval,F7x,Краснодар,2022,бензин,1.5,150,робот,передний,,серебристый,,левый,1 поколение,,0,2429000
+31048,https://tyumen.drom.ru/haval/f7x/49108291.html,Haval,F7x,Тюмень,2022,бензин,1.5,150,робот,передний,,белый,,левый,"1 поколение, рестайлинг",1.5 SAT Elite,0,2579000
+31050,https://tyumen.drom.ru/haval/f7/49108004.html,Haval,F7,Тюмень,2022,бензин,1.5,150,робот,передний,,красный,,левый,"1 поколение, рестайлинг",1.5 SAT Elite,0,2479000
+31051,https://kemerovo.drom.ru/haval/f7/49107893.html,Haval,F7,Кемерово,2019,бензин,2.0,190,робот,4WD,,белый,38977,левый,1 поколение,,0,2049000
+31052,https://samara.drom.ru/haval/f7x/49107823.html,Haval,F7x,Самара,2022,бензин,2.0,190,робот,4WD,,белый,,левый,1 поколение,,0,2929000
+31054,https://reutov.drom.ru/haval/f7x/49100891.html,,,,,,,,,,,,,,,,0,
+31055,https://reutov.drom.ru/haval/f7x/49100889.html,Haval,F7x,Реутов,2022,бензин,1.5,150,робот,4WD,,голубой,,левый,"1 поколение, рестайлинг",1.5 SAT 4WD Premium,0,2929000
+31057,https://reutov.drom.ru/haval/f7/49100885.html,Haval,F7,Реутов,2022,бензин,2.0,190,робот,4WD,,серый,,левый,1 поколение,,0,3029000
+31058,https://reutov.drom.ru/haval/f7x/49100884.html,Haval,F7x,Реутов,2022,бензин,1.5,150,робот,4WD,,серый,,левый,"1 поколение, рестайлинг",1.5 SAT 4WD Elite,0,2729000
+31060,https://reutov.drom.ru/haval/f7/49100881.html,,,,,,,,,,,,,,,,0,
+31062,https://reutov.drom.ru/haval/f7/49100879.html,Haval,F7,Реутов,2022,бензин,2.0,190,робот,4WD,,белый,,левый,1 поколение,,0,2829000
+31064,https://reutov.drom.ru/haval/f7/49100876.html,Haval,F7,Реутов,2022,бензин,1.5,150,робот,4WD,,белый,,левый,"1 поколение, рестайлинг",1.5 SAT 4WD Premium,0,2829000
+31066,https://reutov.drom.ru/haval/f7/49100871.html,,,,,,,,,,,,,,,,0,
+31068,https://reutov.drom.ru/haval/f7/49100868.html,Haval,F7,Реутов,2022,бензин,2.0,190,робот,4WD,,белый,,левый,1 поколение,,0,3029000
+31070,https://reutov.drom.ru/haval/f7/49100865.html,,,,,,,,,,,,,,,,0,
+31071,https://reutov.drom.ru/haval/f7x/49100864.html,Haval,F7x,Реутов,2022,бензин,1.5,150,робот,передний,,белый,,левый,"1 поколение, рестайлинг",1.5 SAT Elite,0,2579000
+31072,https://reutov.drom.ru/haval/f7x/49100862.html,Haval,F7x,Реутов,2022,бензин,2.0,190,робот,4WD,,черный,,левый,"1 поколение, рестайлинг",2.0 SAT 4WD Premium,0,3129000
+31073,https://reutov.drom.ru/haval/f7x/49100861.html,Haval,F7x,Реутов,2022,бензин,1.5,150,робот,передний,,серый,,левый,"1 поколение, рестайлинг",1.5 SAT Elite,0,2579000
+31074,https://yaroslavl.drom.ru/haval/f7x/47406621.html,Haval,F7x,Ярославль,2022,бензин,2.0,190,робот,4WD,,белый,,левый,"1 поколение, рестайлинг",2.0 SAT 4WD Premium,0,3201930
+31076,https://yaroslavl.drom.ru/haval/f7x/47399753.html,Haval,F7x,Ярославль,2022,бензин,1.5,150,робот,4WD,,серый,,левый,1 поколение,,0,3245866
+31077,https://barnaul.drom.ru/haval/h9/47015610.html,Haval,H9,Барнаул,2021,дизель,2.0,190,АКПП,4WD,,белый,17500,левый,"1 поколение, рестайлинг",2.0D AT Elite,0,3300000
+31078,https://moscow.drom.ru/haval/h9/46406834.html,Haval,H9,Москва,2021,дизель,2.0,190,АКПП,4WD,,белый,14411,левый,"1 поколение, рестайлинг",,0,3397000
+31079,https://chita.drom.ru/haval/h5/44440895.html,Haval,H5,Чита,2020,бензин,2.0,150,механика,4WD,,серый,48000,левый,2 поколение,2.0 MT 4WD Comfort,0,1800000
+31080,https://krasnoturinsk.drom.ru/haval/h6/49100151.html,Haval,H6,Краснотурьинск,2019,бензин,1.5,150,АКПП,передний,,белый,77233,левый,2 поколение,1.5 AT Elite,0,1440000
+31081,https://rostov-na-donu.drom.ru/haval/f7/49100024.html,Haval,F7,Ростов-на-Дону,2021,бензин,1.5,150,робот,передний,,белый,34938,левый,1 поколение,,0,2049000
+31082,https://spb.drom.ru/haval/f7x/49099969.html,Haval,F7x,Санкт-Петербург,2022,бензин,1.5,150,робот,4WD,,синий,,левый,"1 поколение, рестайлинг",1.5 SAT 4WD Premium,0,2899000
+31083,https://spb.drom.ru/haval/f7x/49099968.html,Haval,F7x,Санкт-Петербург,2022,бензин,1.5,150,робот,4WD,,синий,,левый,"1 поколение, рестайлинг",1.5 SAT 4WD Premium,0,2899000
+31084,https://spb.drom.ru/haval/f7x/49099966.html,Haval,F7x,Санкт-Петербург,2022,бензин,1.5,150,робот,4WD,,белый,,левый,"1 поколение, рестайлинг",1.5 SAT 4WD Premium,0,2699000
+31085,https://spb.drom.ru/haval/f7x/49099965.html,Haval,F7x,Санкт-Петербург,2022,бензин,1.5,150,робот,4WD,,синий,,левый,"1 поколение, рестайлинг",1.5 SAT 4WD Premium,0,2899000
+31086,https://spb.drom.ru/haval/f7x/49099964.html,Haval,F7x,Санкт-Петербург,2022,бензин,2.0,190,робот,4WD,,серый,,левый,1 поколение,2.0 4WD SAT Tech Plus,0,3249000
+31087,https://spb.drom.ru/haval/f7x/49099963.html,Haval,F7x,Санкт-Петербург,2022,бензин,2.0,190,робот,4WD,,серый,,левый,1 поколение,2.0 4WD SAT Tech Plus,0,3249000
+31088,https://spb.drom.ru/haval/f7x/49099962.html,Haval,F7x,Санкт-Петербург,2022,бензин,1.5,150,робот,4WD,,белый,,левый,"1 поколение, рестайлинг",1.5 SAT 4WD Premium,0,2699000
+31089,https://spb.drom.ru/haval/f7x/49099959.html,Haval,F7x,Санкт-Петербург,2022,бензин,2.0,190,робот,4WD,,серый,,левый,1 поколение,2.0 4WD SAT Tech Plus,0,3249000
+31090,https://spb.drom.ru/haval/f7x/49099956.html,Haval,F7x,Санкт-Петербург,2022,бензин,1.5,150,робот,4WD,,белый,,левый,"1 поколение, рестайлинг",1.5 SAT 4WD Premium,0,2699000
+31091,https://spb.drom.ru/haval/f7x/49099949.html,Haval,F7x,Санкт-Петербург,2022,бензин,1.5,150,робот,4WD,,черный,,левый,"1 поколение, рестайлинг",1.5 SAT 4WD Premium,0,2899000
+31092,https://spb.drom.ru/haval/f7x/49099945.html,Haval,F7x,Санкт-Петербург,2022,бензин,1.5,150,робот,4WD,,черный,,левый,"1 поколение, рестайлинг",1.5 SAT 4WD Premium,0,2899000
+31093,https://spb.drom.ru/haval/f7x/49099937.html,Haval,F7x,Санкт-Петербург,2022,бензин,2.0,190,робот,4WD,,красный,,левый,1 поколение,2.0 4WD SAT Tech Plus,0,3249000
+31094,https://krasnoyarsk.drom.ru/haval/f7/48408554.html,Haval,F7,Красноярск,2019,бензин,2.0,190,робот,4WD,,серый,45000,левый,1 поколение,2.0 SAT 4WD Elite,1,1950000
+31095,https://himki.drom.ru/haval/jolion/48405406.html,Haval,Jolion,Химки,2022,бензин,1.5,143,робот,передний,,белый,,левый,1 поколение,1.5 DCT Premium,0,2684000
+31096,https://astrahan.drom.ru/haval/f7x/48066338.html,Haval,F7x,Астрахань,2022,бензин,1.5,150,робот,передний,,белый,,левый,1 поколение,1.5 2WD SAT Comfort,0,2429000
+31097,https://tyumen.drom.ru/haval/f7x/46371674.html,Haval,F7x,Тюмень,2020,бензин,2.0,190,робот,4WD,,синий,22000,левый,1 поколение,2.0 4WD SAT Premium,0,2500000
+31098,https://krasnodar.drom.ru/haval/h9/44169684.html,Haval,H9,Краснодар,2021,дизель,2.0,190,АКПП,4WD,,черный,,левый,"1 поколение, рестайлинг",2.0D AT Elite,0,4149000
+31099,https://krasnodar.drom.ru/haval/jolion/43982699.html,Haval,Jolion,Краснодар,2022,бензин,1.5,143,механика,передний,,красный,,левый,1 поколение,1.5 MT Comfort,0,1929000
+31100,https://himki.drom.ru/haval/dargo/49088401.html,Haval,Dargo,Химки,2022,бензин,2.0,192,робот,4WD,,,,левый,1 поколение,2.0 GDIT DCT AWD Elite,0,3229000
+31101,https://himki.drom.ru/haval/dargo/49088400.html,Haval,Dargo,Химки,2022,бензин,2.0,192,робот,4WD,,,,левый,1 поколение,2.0 GDIT DCT AWD Elite,0,3229000
+31102,https://himki.drom.ru/haval/dargo/49088399.html,Haval,Dargo,Химки,2022,бензин,2.0,192,робот,4WD,,,,левый,1 поколение,2.0 GDIT DCT AWD Tech Plus,0,3579000
+31103,https://himki.drom.ru/haval/dargo/49088398.html,Haval,Dargo,Химки,2022,бензин,2.0,192,робот,4WD,,,,левый,1 поколение,2.0 GDIT DCT AWD Premium,0,3429000
+31104,https://himki.drom.ru/haval/dargo/49088397.html,Haval,Dargo,Химки,2022,бензин,2.0,192,робот,4WD,,,,левый,1 поколение,2.0 GDIT DCT AWD Premium,0,3429000
+31105,https://himki.drom.ru/haval/f7x/49088396.html,Haval,F7x,Химки,2022,бензин,2.0,190,робот,4WD,,,,левый,1 поколение,2.0 4WD SAT Premium,0,3129000
+31106,https://himki.drom.ru/haval/f7x/49088395.html,Haval,F7x,Химки,2022,бензин,2.0,190,робот,4WD,,,,левый,1 поколение,2.0 4WD SAT Premium,0,3129000
+31107,https://himki.drom.ru/haval/h9/49088392.html,Haval,H9,Химки,2022,бензин,2.0,218,АКПП,4WD,,,,левый,"1 поколение, рестайлинг",2.0 AT Elite,0,4259000
+31108,https://himki.drom.ru/haval/jolion/49088391.html,Haval,Jolion,Химки,2022,бензин,1.5,143,робот,передний,,,,левый,1 поколение,1.5 DCT Premium,0,2419000
+31110,https://himki.drom.ru/haval/h9/49088388.html,,,,,,,,,,,,,,,,0,
+31111,https://himki.drom.ru/haval/f7/49088387.html,Haval,F7,Химки,2022,бензин,1.5,150,робот,4WD,,,,левый,1 поколение,1.5 SAT 4WD Premium,0,2829000
+31112,https://himki.drom.ru/haval/f7x/49088385.html,Haval,F7x,Химки,2022,бензин,2.0,190,робот,4WD,,,,левый,1 поколение,2.0 4WD SAT Tech Plus,0,3279000
+31114,https://izhevsk.drom.ru/haval/f7/48767225.html,,,,,,,,,,,,,,,,0,
+31116,https://volgograd.drom.ru/haval/f7x/48765780.html,,,,,,,,,,,,,,,,0,
+31117,https://nizhniy-novgorod.drom.ru/haval/f7/48765732.html,Haval,F7,Нижний Новгород,2021,бензин,2.0,190,робот,4WD,,синий,20000,левый,1 поколение,2.0 SAT 4WD Premium,0,2450000
+31119,https://ufa.drom.ru/haval/h9/48423734.html,,,,,,,,,,,,,,,,0,
+31120,https://spb.drom.ru/haval/f7/48420636.html,Haval,F7,Санкт-Петербург,2019,бензин,2.0,190,робот,4WD,,белый,44000,левый,1 поколение,,0,1879000
+31121,https://chelyabinsk.drom.ru/haval/f7/48420535.html,Haval,F7,Челябинск,2020,бензин,2.0,190,робот,передний,,черный,10332,левый,1 поколение,,0,1980000
+31123,https://arhangelsk.drom.ru/haval/jolion/48418939.html,Haval,Jolion,Архангельск,2022,бензин,1.5,150,робот,4WD,,красный,,левый,1 поколение,1.5 DCT 4WD Premium,0,2546800
+31124,https://arhangelsk.drom.ru/haval/f7x/48418944.html,Haval,F7x,Архангельск,2022,бензин,2.0,190,робот,4WD,,серый,,левый,1 поколение,2.0 4WD SAT Premium,0,2869000
+31125,https://moscow.drom.ru/haval/f7x/48418058.html,Haval,F7x,Москва,2022,бензин,2.0,190,робот,4WD,,синий,9652,левый,1 поколение,,0,2620000
+31126,https://moscow.drom.ru/haval/dargo/48417604.html,Haval,Dargo,Москва,2022,бензин,2.0,192,робот,4WD,,черный,,левый,1 поколение,2.0 GDIT DCT AWD Elite,0,3229000
+31127,https://himki.drom.ru/haval/jolion/48416836.html,Haval,Jolion,Химки,2022,бензин,1.5,143,робот,передний,,серый,,левый,1 поколение,1.5 DCT Premium,0,2684000
+31129,https://pervomayskoe-krym.drom.ru/haval/f7/48079597.html,Haval,F7,Первомайское,2021,бензин,2.0,190,робот,4WD,,синий,23000,левый,1 поколение,2.0 SAT 4WD Premium,0,2750000
