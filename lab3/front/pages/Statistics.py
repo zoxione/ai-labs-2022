@@ -9,6 +9,12 @@ def getDataMetrics():
         data = json.load(json_file)
     return data
 
+def getDataCorr():
+    # Получение данных из файла
+    with open('../parser/corr_values.json') as json_file:
+        data = json.load(json_file)
+    return data
+
 
 if __name__ == "__main__":
     st.title("Статистика")
@@ -28,11 +34,16 @@ if __name__ == "__main__":
     with col3:
         st.metric(label="Confusion Matrix", value=0)
 
-    st.write("Соотношение марки и цены: ")
-    st.bar_chart(data=dfParams, x="Brand", y="Price")
+    dataCorr = getDataCorr();
+    st.write("Корреляция: ")
+    s = pd.DataFrame.from_dict(dataCorr, orient='index', columns=['Коэффициент корреляции'])
+    st.bar_chart(s)
 
-    st.write("Соотношение года и цены: ")
-    st.bar_chart(data=dfParams, x="Year", y="Price")
-
-    st.write("Соотношение мощности и цены: ")
-    st.area_chart(data=dfParams, x="Power", y="Price")
+    # st.write("Соотношение марки и цены: ")
+    # st.bar_chart(data=dfParams, x="Brand", y="Price")
+    #
+    # st.write("Соотношение года и цены: ")
+    # st.bar_chart(data=dfParams, x="Year", y="Price")
+    #
+    # st.write("Соотношение мощности и цены: ")
+    # st.area_chart(data=dfParams, x="Power", y="Price")

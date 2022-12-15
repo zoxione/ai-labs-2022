@@ -23,7 +23,7 @@ def trainMode():
     print('[1] Считываем данные из файла', args.dataset);
     dfTrain = pd.read_csv(args.dataset);
     dfTrainCopy = dfTrain.copy(deep=True)
-    dfTrainCopy = dfTrainCopy.drop(['Id', 'Url'], axis=1)
+    dfTrainCopy = dfTrainCopy.drop(['Id', 'Url', 'Price'], axis=1)
     print('[2] Считанные данные обработаны');
 
     X = dfTrainCopy
@@ -62,7 +62,7 @@ def inferenceMode():
     print('[2] Чтение данных из файла', args.input);
     dfInput = pd.read_csv(args.input);
     dfInputCopy = dfInput.copy(deep=True)
-    dfInputCopy = dfInputCopy.drop(['Id', 'Url'], axis=1)
+    dfInputCopy = dfInputCopy.drop(['Id', 'Url', 'Price'], axis=1)
     print('[3] Данные обработаны');
 
     print('[4] Предсказание модели на указанных данных');
