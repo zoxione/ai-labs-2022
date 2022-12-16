@@ -1,0 +1,145 @@
+Id,Url,Brand,Model,Region,Year,Engine,EngineVolume,Power,Transmission,Drive,Body,Color,Mileage,Wheel,Generation,Complectation,IsSold,Price
+181000,https://habarovsk.drom.ru/toyota/tundra/46387840.html,Toyota,Tundra,Хабаровск,2008,бензин,5.7,381,АКПП,4WD,,черный,170000,левый,2 поколение,5.7 AT 4x4 Crew Max Limited,0,5999000
+181001,https://ussuriisk.drom.ru/toyota/land_cruiser_prado/47482379.html,Toyota,Land Cruiser Prado,Уссурийск,2005,бензин,3.4,185,АКПП,4WD,джип/suv 5 дв.,черный,215000,правый,3 поколение,3.4 Prado TX limited,0,1630000
+181002,https://vladivostok.drom.ru/toyota/prius/49025164.html,Toyota,Prius,Владивосток,2008,бензин,1.5,76,вариатор,передний,лифтбек,зеленый,167000,правый,"2 поколение, рестайлинг",1.5 G touring selection leather package,0,685000
+181003,https://bratsk.drom.ru/toyota/allion/48982821.html,Toyota,Allion,Братск,2009,бензин,1.8,136,вариатор,передний,,серый,2270,правый,2 поколение,1.8 A18 G package stylish edition,0,900000
+181004,https://angarsk.drom.ru/toyota/harrier/49054804.html,Toyota,Harrier,Ангарск,2007,бензин,2.4,160,АКПП,передний,,черный,215000,правый,2 поколение,2.4 240G L package,1,1400000
+181005,https://vladivostok.drom.ru/toyota/ist/48082111.html,Toyota,ist,Владивосток,2009,бензин,1.5,103,вариатор,4WD,,серебристый,75000,правый,2 поколение,1.5 150G 4WD,0,850000
+181006,https://vladivostok.drom.ru/toyota/vitz/49059886.html,Toyota,Vitz,Владивосток,2009,бензин,1.0,71,вариатор,передний,хэтчбек 5 дв.,серый,165000,правый,"2 поколение, рестайлинг",,1,345000
+181007,https://vladivostok.drom.ru/toyota/brevis/47508144.html,Toyota,Brevis,Владивосток,2007,бензин,2.5,200,АКПП,задний,,серый,76150,правый,"1 поколение, рестайлинг",2.5 Ai250 elegance package ,0,380000
+181008,https://artem.drom.ru/toyota/corolla_fielder/48697222.html,Toyota,Corolla Fielder,Артём,2007,бензин,1.5,110,вариатор,передний,,серый,287600,правый,2 поколение,,0,550000
+181009,https://ussuriisk.drom.ru/toyota/land_cruiser/49072730.html,Toyota,Land Cruiser,Уссурийск,2005,бензин,4.7,235,АКПП,4WD,джип/suv 5 дв.,серебристый,110000,правый,"10 поколение, 2 рестайлинг",4.7 100 VX limited G selection 4WD,0,1370000
+181010,https://irkutsk.drom.ru/toyota/land_cruiser/48912903.html,Toyota,Land Cruiser,Иркутск,2006,бензин,4.7,235,АКПП,4WD,джип/suv 5 дв.,черный,269000,левый,"10 поколение, 2 рестайлинг",4.7 AT VX,0,2220000
+181011,https://irkutsk.drom.ru/toyota/wish/48343657.html,Toyota,Wish,Иркутск,2009,бензин,1.8,144,вариатор,передний,,черный,87350,правый,2 поколение,1.8 S,0,1025000
+181012,https://vladivostok.drom.ru/toyota/corolla_spacio/49069503.html,Toyota,Corolla Spacio,Владивосток,2006,бензин,1.5,109,АКПП,передний,,серый,148957,правый,"2 поколение, рестайлинг",1.5 X extra selection NAVI package ,0,479999
+181013,https://vladivostok.drom.ru/toyota/probox/48485484.html,Toyota,Probox,Владивосток,2009,бензин,1.5,105,механика,4WD,,серый,175000,правый,1 поколение,1.5 F extra package 4WD,0,525000
+181014,https://vladivostok.drom.ru/toyota/harrier/47004393.html,Toyota,Harrier,Владивосток,2008,бензин,2.4,160,АКПП,4WD,,черный,105000,правый,2 поколение,2.4 240G premium L package 4WD,0,1445000
+181015,https://habarovsk.drom.ru/toyota/land_cruiser/49152392.html,Toyota,Land Cruiser,Хабаровск,2005,дизель,4.2,204,АКПП,4WD,джип/suv 5 дв.,зеленый,232674,левый,"10 поколение, 2 рестайлинг",4.2 AT VX,0,1750000
+181016,https://yakutsk.drom.ru/toyota/wish/49152387.html,Toyota,Wish,Якутск,2007,бензин,1.8,125,АКПП,4WD,,серый,167000,правый,"1 поколение, рестайлинг",1.8 X aero Sports package 4WD,1,665000
+181017,https://habarovsk.drom.ru/toyota/prius/48941449.html,Toyota,Prius,Хабаровск,2009,бензин,1.8,99,вариатор,передний,лифтбек,белый,230000,правый,3 поколение,1.8 S touring selection,0,930000
+181018,https://yakutsk.drom.ru/toyota/ist/47787438.html,Toyota,ist,Якутск,2005,бензин,1.5,109,АКПП,передний,,серый,208641,правый,1 поколение,,0,395000
+181019,https://irkutsk.drom.ru/toyota/lite_ace/47787541.html,Toyota,Lite Ace,Иркутск,2009,бензин,1.5,97,АКПП,задний,,белый,230000,правый,6 поколение,,0,450000
+181020,https://blagoveshchensk.drom.ru/toyota/land_cruiser_prado/47787736.html,Toyota,Land Cruiser Prado,Благовещенск,2005,бензин,2.7,163,АКПП,4WD,джип/suv 5 дв.,серебристый,192600,левый,3 поколение,2.7 AT GX 5dr.,0,1870000
+181021,https://yakutsk.drom.ru/toyota/premio/47786811.html,Toyota,Premio,Якутск,2007,бензин,1.8,,,,,серый,162532,правый,,,0,700000
+181022,https://chelyabinsk.drom.ru/toyota/camry/47786516.html,Toyota,Camry,Челябинск,2005,бензин,2.4,152,АКПП,передний,седан,,180000,левый,"6 поколение, рестайлинг",,0,655555
+181023,https://blagoveshchensk.drom.ru/toyota/isis/47728910.html,Toyota,Isis,Благовещенск,2009,бензин,1.8,133,вариатор,4WD,,серебристый,151000,правый,"1 поколение, 2 рестайлинг",1.8 Platana 4WD,0,760000
+181024,https://vanino.drom.ru/toyota/rush/47735161.html,Toyota,Rush,Ванино,2006,бензин,1.5,109,АКПП,4WD,,синий,156060,правый,1 поколение,,0,680000
+181025,https://chita.drom.ru/toyota/vitz/47719562.html,Toyota,Vitz,Чита,2008,бензин,1.3,87,вариатор,передний,хэтчбек 5 дв.,серый,204684,правый,"2 поколение, рестайлинг",1.3 F,0,470000
+181026,https://ulan-ude.drom.ru/toyota/corolla_fielder/47694478.html,Toyota,Corolla Fielder,Улан-Удэ,2006,бензин,1.5,110,АКПП,передний,,белый,275000,правый,"1 поколение, 2 рестайлинг",1.5 X,0,525000
+181027,https://komsomolsk.drom.ru/toyota/mark_x/47676288.html,Toyota,Mark X,Комсомольск-на-Амуре,2008,бензин,2.5,215,АКПП,4WD,,бордовый,230000,правый,"1 поколение, рестайлинг",2.5 250G Four limited 4WD,1,870000
+181028,https://shelehov.drom.ru/toyota/yaris/47561743.html,Toyota,Yaris,Шелехов,2008,бензин,1.3,87,механика,передний,хэтчбек 5 дв.,черный,164512,левый,2 поколение,1.3 MT Executive 5dr.,0,230000
+181029,https://bakhchysaray.drom.ru/toyota/corolla/47508622.html,Toyota,Corolla,Бахчисарай,2007,бензин,1.6,124,робот,передний,седан,серый,360000,левый,10 поколение,,0,550000
+181030,https://chernyshevsk.drom.ru/toyota/premio/47476267.html,Toyota,Premio,Чернышевск,2007,бензин,1.8,136,вариатор,передний,,белый,130000,правый,2 поколение,1.8 X,0,780000
+181031,https://nizhniy-novgorod.drom.ru/toyota/camry/47464185.html,Toyota,Camry,Нижний Новгород,2008,бензин,2.4,167,АКПП,передний,седан,белый,340000,левый,7 поколение,2.4 AT Elegance,0,920000
+181032,https://novosibirsk.drom.ru/toyota/town_ace/47463515.html,Toyota,Town Ace,Новосибирск,2005,бензин,1.8,82,АКПП,4WD,,серебристый,255000,правый,3 поколение,,0,670000
+181033,https://barnaul.drom.ru/toyota/noah/47462165.html,Toyota,Noah,Барнаул,2008,бензин,2.0,143,вариатор,передний,,серый,260000,правый,2 поколение,2.0 X,0,1090000
+181034,https://vladivostok.drom.ru/toyota/mark_x/47460847.html,Toyota,Mark X,Владивосток,2008,бензин,2.5,215,АКПП,4WD,,серебристый,206000,правый,"1 поколение, рестайлинг",,0,950000
+181035,https://ulan-ude.drom.ru/toyota/rav4/47460474.html,Toyota,RAV4,Улан-Удэ,2005,бензин,2.0,150,АКПП,4WD,джип/suv 5 дв.,черный,210868,левый,"2 поколение, рестайлинг",,0,690000
+181036,https://vladivostok.drom.ru/toyota/voxy/47456920.html,Toyota,Voxy,Владивосток,2009,бензин,2.0,140,вариатор,4WD,,серый,246000,правый,2 поколение,2.0 trans X 4WD,0,900000
+181037,https://yurga.drom.ru/toyota/corolla/47455557.html,Toyota,Corolla,Юрга,2007,бензин,1.4,97,механика,передний,седан,серебристый,200000,левый,10 поколение,,0,340000
+181038,https://nizhniy-novgorod.drom.ru/toyota/yaris/48823982.html,Toyota,Yaris,Нижний Новгород,2008,бензин,1.0,69,механика,передний,хэтчбек 5 дв.,красный,159808,левый,,,0,310000
+181039,https://leninsk-kuznetskiy.drom.ru/toyota/rav4/48823884.html,Toyota,RAV4,Ленинск-Кузнецкий,2008,бензин,2.4,170,АКПП,4WD,джип/suv 5 дв.,красный,185000,левый,3 поколение,2.4 AT Sol,0,970000
+181040,https://irkutsk.drom.ru/toyota/vitz/48823564.html,Toyota,Vitz,Иркутск,2009,бензин,1.0,71,вариатор,передний,хэтчбек 5 дв.,черный,212000,правый,"2 поколение, рестайлинг",1.0 B intelligent package,0,530000
+181041,https://novosibirsk.drom.ru/toyota/rav4/48756889.html,Toyota,RAV4,Новосибирск,2006,бензин,2.0,152,АКПП,4WD,джип/suv 5 дв.,серебристый,262000,левый,3 поколение,2.0 AT Sol,0,940000
+181042,https://blagoveshchensk.drom.ru/toyota/land_cruiser/48823505.html,Toyota,Land Cruiser,Благовещенск,2008,дизель,4.5,235,АКПП,4WD,джип/suv 5 дв.,бордовый,169200,левый,11 поколение,4.5 TD AT Престиж,0,2600000
+181043,https://habarovsk.drom.ru/toyota/ractis/48823450.html,Toyota,Ractis,Хабаровск,2005,бензин,1.3,87,вариатор,передний,,белый,285248,правый,1 поколение,,0,380000
+181044,https://chita.drom.ru/toyota/corolla/48823382.html,Toyota,Corolla,Чита,2005,бензин,1.6,110,механика,передний,хэтчбек 5 дв.,серебристый,250000,левый,9 поколение,1.6 MT Sol,0,425000
+181045,https://vladivostok.drom.ru/toyota/hilux_surf/48823062.html,Toyota,Hilux Surf,Владивосток,2008,бензин,2.7,163,АКПП,4WD,джип/suv 5 дв.,черный,91000,правый,"4 поколение, рестайлинг",2.7 SSR-X 4WD,0,1721000
+181046,https://bratsk.drom.ru/toyota/corolla/48822891.html,Toyota,Corolla,Братск,2006,бензин,1.5,110,АКПП,передний,седан,серый,170000,правый,"9 поколение, 2 рестайлинг",1.5 X,0,540000
+181047,https://volno-nadezhdinskoe.drom.ru/toyota/ractis/48822829.html,Toyota,Ractis,Вольно-Надеждинское,2009,бензин,1.3,87,вариатор,передний,,красный,198000,правый,"1 поколение, рестайлинг",1.3 X,0,450000
+181048,https://barnaul.drom.ru/toyota/land_cruiser_prado/48822693.html,Toyota,Land Cruiser Prado,Барнаул,2008,бензин,2.7,163,АКПП,4WD,джип/suv 5 дв.,черный,185000,левый,3 поколение,2.7 AT GX 5dr.,0,1810000
+181049,https://abakan.drom.ru/toyota/auris/48822678.html,Toyota,Auris,Абакан,2007,бензин,1.6,124,робот,передний,хэтчбек 5 дв.,красный,193200,левый,1 поколение,1.6 MultiMode Престиж,0,627000
+181050,https://irkutsk.drom.ru/toyota/land_cruiser_prado/48822526.html,Toyota,Land Cruiser Prado,Иркутск,2005,бензин,4.0,249,АКПП,4WD,джип/suv 5 дв.,черный,229500,левый,3 поколение,4.0 AT R2 New,0,1700000
+181051,https://birobidzhan.drom.ru/toyota/prius/48822438.html,Toyota,Prius,Биробиджан,2009,бензин,1.5,76,вариатор,передний,лифтбек,голубой,180000,правый,"2 поколение, рестайлинг",1.5 S 10th anniversary edition,0,525000
+181052,https://komsomolsk.drom.ru/toyota/corolla_axio/48822219.html,Toyota,Corolla Axio,Комсомольск-на-Амуре,2007,бензин,1.5,105,вариатор,4WD,,белый,192000,правый,1 поколение,1.5 X 4WD,0,540000
+181053,https://tambovka.drom.ru/toyota/voxy/48821972.html,Toyota,Voxy,Тамбовка,2009,бензин,2.0,143,вариатор,передний,,белый,171000,правый,2 поколение,2.0 X,0,950000
+181054,https://omsk.drom.ru/toyota/noah/48821937.html,Toyota,Noah,Омск,2008,бензин,2.0,143,вариатор,передний,,серебристый,220000,правый,2 поколение,2.0 X,1,920000
+181055,https://chita.drom.ru/toyota/corolla_fielder/48821604.html,Toyota,Corolla Fielder,Чита,2009,бензин,1.8,136,вариатор,передний,,серый,188888,правый,"2 поколение, рестайлинг",1.8 S,0,680000
+181056,https://moscow.drom.ru/toyota/auris/48821606.html,Toyota,Auris,Москва,2008,бензин,1.6,124,робот,передний,хэтчбек 5 дв.,красный,150000,левый,1 поколение,,0,550000
+181057,https://ulan-ude.drom.ru/toyota/land_cruiser_prado/48821370.html,Toyota,Land Cruiser Prado,Улан-Удэ,2008,бензин,4.0,249,АКПП,4WD,джип/suv 5 дв.,серый,295000,левый,3 поколение,,0,2100000
+181058,https://barnaul.drom.ru/toyota/ractis/48474738.html,Toyota,Ractis,Барнаул,2009,бензин,1.3,87,вариатор,передний,,серый,227000,правый,"1 поколение, рестайлинг",1.3 X,0,575000
+181059,https://ussuriisk.drom.ru/toyota/land_cruiser_prado/48474535.html,Toyota,Land Cruiser Prado,Уссурийск,2005,бензин,4.0,249,АКПП,4WD,джип/suv 5 дв.,синий,225508,левый,3 поколение,,0,1720000
+181060,https://slavyansk-na-kubani.drom.ru/toyota/camry/48473462.html,Toyota,Camry,Славянск-На-Кубани,2006,бензин,2.4,167,АКПП,передний,седан,серебристый,210000,левый,7 поколение,,0,850000
+181061,https://yakutsk.drom.ru/toyota/corolla_fielder/48473546.html,Toyota,Corolla Fielder,Якутск,2009,бензин,1.8,125,вариатор,4WD,,серый,180,правый,"2 поколение, рестайлинг",,0,720000
+181062,https://melnikovo.drom.ru/toyota/rav4/48473563.html,Toyota,RAV4,Мельниково,2007,бензин,2.4,170,АКПП,4WD,джип/suv 5 дв.,голубой,101671,левый,3 поколение,2.4 AT Sol,0,1300000
+181063,https://ulan-ude.drom.ru/toyota/raum/48473289.html,Toyota,Raum,Улан-Удэ,2007,бензин,1.5,109,АКПП,передний,,коричневый,220000,правый,"2 поколение, рестайлинг",,0,560000
+181064,https://barnaul.drom.ru/toyota/corolla/48472956.html,Toyota,Corolla,Барнаул,2006,бензин,1.6,110,АКПП,передний,седан,серый,300000,левый,"9 поколение, рестайлинг",,0,550000
+181065,https://ulan-ude.drom.ru/toyota/prius/48472013.html,Toyota,Prius,Улан-Удэ,2007,бензин,1.5,76,вариатор,передний,лифтбек,черный,130000,правый,"2 поколение, рестайлинг",1.5 G touring selection leather package,0,875000
+181066,https://irkutsk.drom.ru/toyota/prius/48471818.html,Toyota,Prius,Иркутск,2008,бензин,1.5,76,вариатор,передний,лифтбек,серый,130000,правый,"2 поколение, рестайлинг",,0,670000
+181067,https://yakutsk.drom.ru/toyota/allion/48471595.html,Toyota,Allion,Якутск,2006,бензин,1.8,125,АКПП,4WD,,серый,240000,правый,"1 поколение, рестайлинг",,0,540000
+181068,https://tver.drom.ru/toyota/corolla/48471643.html,Toyota,Corolla,Тверь,2009,бензин,1.3,101,механика,передний,седан,черный,221983,левый,10 поколение,1.3 MT Comfort,0,550000
+181069,https://krasnoyarsk.drom.ru/toyota/caldina/48391409.html,Toyota,Caldina,Красноярск,2006,бензин,1.8,132,АКПП,передний,,серебристый,180000,правый,"3 поколение, рестайлинг",,1,730000
+181070,https://troitskoe-khb.drom.ru/toyota/prius/48372875.html,Toyota,Prius,Троицкое,2009,бензин,1.8,99,вариатор,передний,лифтбек,черный,242000,правый,3 поколение,1.8 G touring selection,0,730000
+181071,https://novosibirsk.drom.ru/toyota/prius/48326508.html,Toyota,Prius,Новосибирск,2009,бензин,1.8,99,вариатор,передний,лифтбек,белый,223000,левый,3 поколение,,0,990000
+181072,https://habarovsk.drom.ru/toyota/land_cruiser_prado/48305177.html,Toyota,Land Cruiser Prado,Хабаровск,2008,бензин,4.0,249,АКПП,4WD,джип/suv 5 дв.,черный,240000,левый,3 поколение,,0,1850000
+181073,https://chita.drom.ru/toyota/land_cruiser_prado/48136157.html,Toyota,Land Cruiser Prado,Чита,2005,бензин,4.0,249,АКПП,4WD,джип/suv 5 дв.,золотистый,233000,левый,3 поколение,,0,2000000
+181074,https://chehov.drom.ru/toyota/prius/48136092.html,Toyota,Prius,Чехов,2008,бензин,1.5,76,вариатор,передний,лифтбек,белый,80000,правый,"2 поколение, рестайлинг",1.5 G touring selection leather package,0,848000
+181075,https://chita.drom.ru/toyota/corolla/48135853.html,Toyota,Corolla,Чита,2008,бензин,1.6,124,механика,передний,седан,серый,300000,левый,10 поколение,1.6 MT Комфорт,1,600000
+181076,https://krasnodar.drom.ru/toyota/voxy/48135820.html,Toyota,Voxy,Краснодар,2008,бензин,2.0,155,вариатор,4WD,,белый,140000,правый,2 поколение,2.0 ZS Kirameki 4WD,0,850000
+181077,https://kovrov.drom.ru/toyota/camry/48135637.html,Toyota,Camry,Ковров,2009,бензин,2.4,167,АКПП,передний,седан,серый,270000,левый,"7 поколение, рестайлинг",2.4 AT Prestige,0,850000
+181078,https://belovo.drom.ru/toyota/succeed/48134135.html,Toyota,Succeed,Белово,2009,бензин,1.5,109,АКПП,передний,,черный,263000,правый,1 поколение,,0,600000
+181079,https://krasnoyarsk.drom.ru/toyota/iq/48134221.html,Toyota,iQ,Красноярск,2009,бензин,1.0,68,вариатор,передний,,белый,147600,правый,1 поколение,1.0 100G leather package plus,0,530000
+181080,https://blagoveshchensk.drom.ru/toyota/vitz/48133905.html,Toyota,Vitz,Благовещенск,2009,бензин,1.3,87,вариатор,передний,хэтчбек 5 дв.,серый,163000,правый,"2 поколение, рестайлинг",,0,500000
+181081,https://irkutsk.drom.ru/toyota/porte/48133307.html,Toyota,Porte,Иркутск,2009,бензин,1.3,87,АКПП,передний,хэтчбек 3 дв.,,163000,правый,"1 поколение, рестайлинг",,0,480000
+181083,https://belogorsk.drom.ru/toyota/vitz/48132340.html,Toyota,Vitz,Белогорск,2007,бензин,1.3,87,вариатор,передний,хэтчбек 5 дв.,черный,216000,правый,2 поколение,1.3 F,0,480000
+181084,https://tomsk.drom.ru/toyota/corolla_axio/48131990.html,Toyota,Corolla Axio,Томск,2009,бензин,1.5,110,вариатор,передний,,белый,281000,правый,"1 поколение, рестайлинг",1.5 X,0,675000
+181085,https://komsomolsk.drom.ru/toyota/allion/48131729.html,Toyota,Allion,Комсомольск-на-Амуре,2007,бензин,1.5,110,вариатор,передний,,белый,150333,правый,2 поколение,,0,750000
+181086,https://yakutsk.drom.ru/toyota/succeed/48131741.html,Toyota,Succeed,Якутск,2005,бензин,1.5,109,АКПП,передний,,серый,400000,правый,1 поколение,,0,350000
+181087,https://kavalerovo.drom.ru/toyota/passo/48131804.html,Toyota,Passo,Кавалерово,2009,бензин,1.0,71,АКПП,4WD,,серый,98942,правый,"1 поколение, рестайлинг",,0,395000
+181088,https://chita.drom.ru/toyota/allion/48131657.html,Toyota,Allion,Чита,2006,бензин,1.8,125,АКПП,4WD,,серый,250000,правый,"1 поколение, рестайлинг",1.8 A18 G package 60th special edition 4WD,0,720000
+181089,https://arsenyev.drom.ru/toyota/caldina/48131444.html,Toyota,Caldina,Арсеньев,2005,бензин,1.8,132,АКПП,передний,,белый,252000,правый,"3 поколение, рестайлинг",,0,620000
+181090,https://yakutsk.drom.ru/toyota/vitz/48131539.html,Toyota,Vitz,Якутск,2009,бензин,1.3,87,вариатор,передний,хэтчбек 5 дв.,синий,120000,правый,"2 поколение, рестайлинг",1.3 F,0,500000
+181091,https://moscow.drom.ru/toyota/land_cruiser_prado/48130928.html,Toyota,Land Cruiser Prado,Москва,2008,бензин,2.7,163,АКПП,4WD,джип/suv 5 дв.,черный,130000,правый,3 поколение,2.7 Prado TX,0,1800000
+181092,https://habarovsk.drom.ru/toyota/ractis/48130948.html,Toyota,Ractis,Хабаровск,2006,бензин,1.5,110,вариатор,передний,,белый,225523,правый,1 поколение,,0,610000
+181093,https://moscow.drom.ru/toyota/vitz/48131022.html,Toyota,Vitz,Москва,2009,бензин,1.3,87,АКПП,4WD,хэтчбек 5 дв.,фиолетовый,166000,правый,"2 поколение, рестайлинг",,0,505000
+181094,https://anapa.drom.ru/toyota/corolla_fielder/48130652.html,Toyota,Corolla Fielder,Анапа,2008,бензин,1.5,110,вариатор,передний,,белый,176000,правый,2 поколение,,0,620000
+181095,https://tyumen.drom.ru/toyota/corolla/48130673.html,Toyota,Corolla,Тюмень,2008,бензин,1.6,124,робот,передний,седан,серый,159,левый,10 поколение,1.6 MultiMode Luna,0,450000
+181096,https://vihorevka.drom.ru/toyota/succeed/48130704.html,Toyota,Succeed,Вихоревка,2009,бензин,1.5,109,АКПП,передний,,белый,120200,правый,1 поколение,,0,530000
+181097,https://muhorshibir.drom.ru/toyota/wish/48130072.html,Toyota,Wish,Мухоршибирь,2007,бензин,1.8,132,АКПП,передний,,синий,235120,правый,"1 поколение, рестайлинг",,0,730000
+181098,https://kamen-na-obi.drom.ru/toyota/vitz/48819050.html,Toyota,Vitz,Камень-на-Оби,2009,бензин,1.0,71,вариатор,передний,хэтчбек 5 дв.,черный,100000,правый,"2 поколение, рестайлинг",1.0 U,0,640000
+181099,https://novosibirsk.drom.ru/toyota/avensis/48818990.html,Toyota,Avensis,Новосибирск,2005,бензин,2.0,155,АКПП,передний,седан,белый,258434,правый,2 поколение,,0,700000
+181100,https://habarovsk.drom.ru/toyota/alphard/48818881.html,Toyota,Alphard,Хабаровск,2007,бензин,3.0,220,АКПП,передний,,черный,130000,правый,"1 поколение, рестайлинг",3.0 G MS (7 Seater),0,550000
+181101,https://sayanogorsk.drom.ru/toyota/wish/48818678.html,Toyota,Wish,Саяногорск,2007,бензин,1.8,125,АКПП,4WD,,серый,290000,правый,"1 поколение, рестайлинг",1.8 X 4WD,0,780000
+181103,https://usk-kut.drom.ru/toyota/camry/48818693.html,,,,,,,,,,,,,,,,0,
+181105,https://habarovsk.drom.ru/toyota/ist/48818610.html,,,,,,,,,,,,,,,,0,
+181107,https://chita.drom.ru/toyota/premio/48818370.html,,,,,,,,,,,,,,,,0,
+181108,https://neryungri.drom.ru/toyota/prius/48818207.html,Toyota,Prius,Нерюнгри,2006,бензин,1.5,77,вариатор,передний,лифтбек,белый,215000,правый,"2 поколение, рестайлинг",1.5 S touring selection,0,610000
+181109,https://yakutsk.drom.ru/toyota/crown_majesta/48818137.html,Toyota,Crown Majesta,Якутск,2005,бензин,4.3,280,АКПП,задний,,белый,188888,правый,4 поколение,,0,240000
+181110,https://belogorsk.drom.ru/toyota/allion/48818033.html,Toyota,Allion,Белогорск,2008,бензин,1.8,136,вариатор,передний,,белый,217000,правый,2 поколение,1.8 A18 S package,1,680000
+181111,https://habarovsk.drom.ru/toyota/camry/48817942.html,Toyota,Camry,Хабаровск,2008,бензин,2.4,167,АКПП,передний,седан,серый,200,правый,7 поколение,2.4 G,0,700000
+181112,https://handyga.drom.ru/toyota/land_cruiser/48817909.html,Toyota,Land Cruiser,Хандыга,2006,бензин,4.7,235,АКПП,4WD,джип/suv 5 дв.,золотистый,160000,левый,"10 поколение, 2 рестайлинг",4.7 AT VX,0,1800000
+181113,https://komsomolsk.drom.ru/toyota/ist/48817913.html,Toyota,ist,Комсомольск-на-Амуре,2009,бензин,1.5,109,вариатор,передний,,белый,192000,правый,2 поколение,1.5 150G,0,560000
+181114,https://chuguevka.drom.ru/toyota/passo/48817926.html,Toyota,Passo,Чугуевка,2009,бензин,1.0,71,АКПП,передний,,серый,150000,правый,"1 поколение, рестайлинг",,1,330000
+181115,https://progress.drom.ru/toyota/probox/48817868.html,Toyota,Probox,Прогресс,2008,бензин,1.3,87,АКПП,передний,,белый,152000,правый,1 поколение,,0,420000
+181116,https://suntar.drom.ru/toyota/probox/48817764.html,Toyota,Probox,Сунтар,2009,бензин,1.3,87,АКПП,передний,,серый,286000,правый,1 поколение,1.3 DX,0,360000
+181117,https://lesozavodsk.drom.ru/toyota/isis/48817741.html,Toyota,Isis,Лесозаводск,2005,бензин,1.8,132,АКПП,передний,,серый,208000,правый,1 поколение,,1,470000
+181118,https://yakutsk.drom.ru/toyota/succeed/47454783.html,Toyota,Succeed,Якутск,2008,бензин,1.5,109,АКПП,передний,,белый,280000,правый,1 поколение,1.5 U,1,280000
+181119,https://habarovsk.drom.ru/toyota/allion/47454005.html,Toyota,Allion,Хабаровск,2009,бензин,1.8,125,вариатор,4WD,,белый,190000,правый,2 поколение,,0,630000
+181120,https://usk-kut.drom.ru/toyota/belta/47454257.html,Toyota,Belta,Усть-Кут,2006,бензин,1.3,87,вариатор,передний,,серый,142000,правый,1 поколение,,0,450000
+181121,https://irkutsk.drom.ru/toyota/land_cruiser/47450815.html,Toyota,Land Cruiser,Иркутск,2008,бензин,4.7,288,АКПП,4WD,джип/suv 5 дв.,черный,260000,левый,11 поколение,,0,2700000
+181122,https://krasnoyarsk.drom.ru/toyota/camry/47447871.html,Toyota,Camry,Красноярск,2007,бензин,2.4,167,АКПП,передний,седан,черный,213431,левый,7 поколение,2.4 AT Elegance,0,850000
+181123,https://simferopol.drom.ru/toyota/corolla/47441062.html,Toyota,Corolla,Симферополь,2009,дизель,1.4,90,механика,передний,седан,серебристый,220000,левый,10 поколение,,1,750000
+181124,https://yakutsk.drom.ru/toyota/rush/47427246.html,Toyota,Rush,Якутск,2009,бензин,1.5,109,АКПП,4WD,,зеленый,130000,правый,"1 поколение, рестайлинг",1.5 G 4WD,0,1350000
+181125,https://habarovsk.drom.ru/toyota/succeed/47410903.html,Toyota,Succeed,Хабаровск,2007,дизель,1.4,72,механика,передний,,белый,263123,правый,1 поколение,1.4DT UL X package,0,265000
+181126,https://nakhodka.drom.ru/toyota/tundra/47411636.html,Toyota,Tundra,Находка,2008,бензин,5.7,381,АКПП,4WD,,серебристый,190000,левый,2 поколение,,0,2650000
+181127,https://yakutsk.drom.ru/toyota/probox/47412415.html,Toyota,Probox,Якутск,2007,бензин,1.5,105,АКПП,4WD,,серебристый,190000,правый,1 поколение,1.5 F extra package 4WD,1,450000
+181128,https://novoaltaysk.drom.ru/toyota/highlander/47409239.html,Toyota,Highlander,Новоалтайск,2007,бензин,2.4,155,АКПП,4WD,,серебристый,219000,левый,"1 поколение, рестайлинг",2.4 AT,1,1130000
+181129,https://krasnoyarsk.drom.ru/toyota/ractis/47386007.html,Toyota,Ractis,Красноярск,2009,бензин,1.5,110,вариатор,передний,,синий,110000,правый,"1 поколение, рестайлинг",,0,640000
+181130,https://achinsk.drom.ru/toyota/auris/47379493.html,Toyota,Auris,Ачинск,2008,бензин,1.6,124,робот,передний,хэтчбек 5 дв.,серебристый,130000,левый,1 поколение,,0,590000
+181131,https://belogorsk.drom.ru/toyota/porte/47350667.html,Toyota,Porte,Белогорск,2006,бензин,1.3,87,АКПП,передний,хэтчбек 3 дв.,коричневый,199000,правый,"1 поколение, рестайлинг",1.3 130i C package ,0,380000
+181132,https://yakutsk.drom.ru/toyota/land_cruiser_prado/47319065.html,Toyota,Land Cruiser Prado,Якутск,2005,бензин,2.7,163,АКПП,4WD,джип/suv 5 дв.,серый,228000,правый,3 поколение,2.7 Prado TX,0,1450000
+181133,https://biysk.drom.ru/toyota/probox/47235833.html,Toyota,Probox,Бийск,2007,бензин,1.5,105,АКПП,4WD,,серебристый,227000,правый,1 поколение,1.5 DX comfort package 4WD,0,585000
+181134,https://petropavlovsk-kamchatskiy.drom.ru/toyota/vanguard/47178686.html,Toyota,Vanguard,Петропавловск-Камчатский,2009,бензин,2.4,170,вариатор,4WD,,бордовый,110136,правый,1 поколение,2.4 240S 4WD (7 Seater),0,1250000
+181135,https://irkutsk.drom.ru/toyota/corolla/47125524.html,Toyota,Corolla,Иркутск,2007,бензин,1.6,124,робот,передний,седан,черный,150000,левый,10 поколение,1.6 MultiMode Prestige,0,630000
+181136,https://zonalnoe.drom.ru/toyota/avensis/47126532.html,Toyota,Avensis,Зональное,2007,бензин,2.0,147,механика,передний,седан,черный,260000,левый,"2 поколение, рестайлинг",,0,650000
+181137,https://kurgan.drom.ru/toyota/rav4/47126603.html,Toyota,RAV4,Курган,2006,бензин,2.0,152,АКПП,4WD,джип/suv 5 дв.,синий,230000,левый,3 поколение,,1,980000
+181138,https://novosibirsk.drom.ru/toyota/funcargo/48821103.html,Toyota,Funcargo,Новосибирск,2005,бензин,1.3,87,АКПП,передний,,белый,208000,правый,"1 поколение, рестайлинг",1.3 J,1,520000
+181139,https://barnaul.drom.ru/toyota/corolla/48821020.html,Toyota,Corolla,Барнаул,2007,бензин,1.6,124,механика,передний,седан,серый,360000,левый,10 поколение,,0,490000
+181140,https://neryungri.drom.ru/toyota/wish/48820845.html,Toyota,Wish,Нерюнгри,2005,бензин,1.8,132,АКПП,передний,,синий,120191,правый,1 поколение,1.8 X S package,0,675000
+181141,https://vladivostok.drom.ru/toyota/harrier/48820676.html,Toyota,Harrier,Владивосток,2007,бензин,2.4,160,АКПП,4WD,,серый,164000,правый,2 поколение,2.4 240G premium L package 4WD,0,1300000
+181142,https://yakutsk.drom.ru/toyota/land_cruiser/48820605.html,Toyota,Land Cruiser,Якутск,2008,бензин,4.7,288,АКПП,4WD,джип/suv 5 дв.,черный,220000,левый,11 поколение,,0,2350000
+181143,https://novosibirsk.drom.ru/toyota/corolla/48820546.html,Toyota,Corolla,Новосибирск,2006,бензин,1.6,110,АКПП,передний,седан,зеленый,315300,левый,"9 поколение, рестайлинг",1.6 AT Sol,0,520000
+181144,https://kyzyl.drom.ru/toyota/premio/48820548.html,Toyota,Premio,Кызыл,2006,бензин,1.8,132,АКПП,передний,,серебристый,254822,правый,"1 поколение, рестайлинг",1.8 X standard package,1,720000
+181145,https://irkutsk.drom.ru/toyota/corolla/48820460.html,Toyota,Corolla,Иркутск,2005,бензин,1.6,110,АКПП,передний,седан,голубой,360000,левый,"9 поколение, рестайлинг",,0,475000
+181146,https://krasnokamensk.drom.ru/toyota/corolla_fielder/48820386.html,Toyota,Corolla Fielder,Краснокаменск,2005,бензин,1.5,110,АКПП,передний,,серый,194000,правый,"1 поколение, 2 рестайлинг",1.5 X,0,550000
+181147,https://yakutsk.drom.ru/toyota/land_cruiser/48820164.html,Toyota,Land Cruiser,Якутск,2006,дизель,4.2,131,механика,4WD,джип/suv 5 дв.,серый,112349,левый,"10 поколение, 2 рестайлинг",4.2 MT GX,0,2350000

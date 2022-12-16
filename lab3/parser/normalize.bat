@@ -1,3 +1,3 @@
 @echo off
 
-start /b python ./normalize.py --input ./cars --corr 0.25
+start /b python ./normalize.py --input ./cars --corr 0.4

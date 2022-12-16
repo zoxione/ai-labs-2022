@@ -1,9 +1,0 @@
-Id,Url,Brand,Model,Region,Year,Engine,EngineVolume,Power,Transmission,Drive,Body,Color,Mileage,Wheel,Generation,Complectation,IsSold,Price
-24000,https://spb.drom.ru/ford/kuga/49050853.html,Ford,Kuga,Санкт-Петербург,2013,дизель,2.0,140,робот,4WD,,белый,178000,левый,,,0,1035000
-24001,https://ussuriisk.drom.ru/ford/kuga/49050827.html,Ford,Kuga,Уссурийск,2013,бензин,1.6,182,автомат,4WD,,белый,67000,правый,,,0,1120000
-24002,https://ulan-ude.drom.ru/ford/explorer/48931909.html,Ford,Explorer,Улан-Удэ,2012,бензин,3.5,294,АКПП,4WD,джип/suv 5 дв.,белый,174000,левый,5 поколение,3.5 AT Limited Plus ,0,1680000
-24003,https://moscow.drom.ru/ford/focus/49050527.html,Ford,Focus,Москва,2013,бензин,1.6,105,механика,передний,универсал,белый,330000,левый,3 поколение,1.6 MT Trend,0,260000
-24004,https://novokuznetsk.drom.ru/ford/focus/48712872.html,Ford,Focus,Новокузнецк,2011,бензин,1.6,105,механика,передний,хэтчбек 5 дв.,серебристый,127533,левый,3 поколение,,0,599000
-24005,https://krasnodar.drom.ru/ford/focus/49050458.html,Ford,Focus,Краснодар,2013,бензин,1.6,125,механика,передний,седан,голубой,188877,левый,3 поколение,,0,695000
-24006,https://ekaterinburg.drom.ru/ford/focus/48717661.html,Ford,Focus,Екатеринбург,2011,бензин,1.6,105,механика,передний,хэтчбек 5 дв.,белый,181000,левый,3 поколение,1.6 MT Trend,1,630000
-24007,https://krasnodar.drom.ru/ford/focus/48717624.html,Ford,Focus,Краснодар,2011,бензин,2.0,145,АКПП,передний,седан,белый,167000,левый,"2 поколение, рестайлинг",2.0 AT Titanium,0,615000

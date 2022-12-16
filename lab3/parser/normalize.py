@@ -25,7 +25,7 @@ def df_char_to_number(df):
     dfCopy = df.copy(deep=True)
 
     # Преобразование char в int
-    for column in ['Year', 'Power', 'Mileage', 'IsSold', 'Price']:
+    for column in ['Id', 'Year', 'Power', 'Mileage', 'IsSold', 'Price']:
         dfCopy[column] = pd.to_numeric(dfCopy[column], errors='coerce', downcast='signed')
         dfCopy = dfCopy.fillna(0)
         dfCopy[column] = pd.to_numeric(dfCopy[column], errors='raise', downcast='signed')
@@ -96,15 +96,15 @@ if __name__ == '__main__':
         # Сортируем по Id
         dfOutputDefault = dfInput1.sort_values(by=['Id'])
 
-        # Удаляем дубликаты (хзхзхз)
-        dfOutputDefault = dfOutputDefault.drop_duplicates(subset=['Url'], keep='first')
-
         # Сравниваем с prefetch_cars.csv и сохраняем разницу
         save_diff(dfOutputDefault)
 
         # Преобразуем в числа
         dfOutputDefault = df_char_to_number(dfOutputDefault)
+        dfOutputDefault = dfOutputDefault.drop_duplicates(subset=['Url'], keep='first')
         dfOutputNum = df_factorize(dfOutputDefault)
+        dfOutputDefault.to_csv('./cars/cars.csv', index=False);
+        print('\nСохранено в файл ./cars/cars.csv');
 
         # Получаем коэффициенты корреляции
         for column in ['Brand', 'Model', 'Region', 'Year', 'Engine', 'EngineVolume', 'Power', 'Transmission', 'Drive', 'Body', 'Color', 'Mileage', 'Wheel', 'Generation', 'Complectation', 'IsSold']:
@@ -127,7 +127,6 @@ if __name__ == '__main__':
         dfOutputNum = dfOutputNum[chooseProperty]
 
         # Сохраняем в файлы
-        now = datetime.datetime.now();
         dfOutputDefault.to_csv('normalize_cars.csv', index=False);
         print('\nСохранено в файл normalize_cars.csv');
         dfOutputNum.to_csv('normalize_cars_numbers.csv', index=False);

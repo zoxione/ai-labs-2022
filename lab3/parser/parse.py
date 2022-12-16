@@ -123,8 +123,16 @@ def parsingOnce(tree, url):
     }
 
     if 'Двигатель' in result:
-        carData['Engine'] = result['Двигатель'][0:result['Двигатель'].find(',')]
-        carData['EngineVolume'] = result['Двигатель'][result['Двигатель'].find(',')+2:result['Двигатель'].find('.')+2]
+        if result['Двигатель'].find(',') >= 0:
+            carData['Engine'] = result['Двигатель'][0:result['Двигатель'].find(',')]
+            carData['EngineVolume'] = result['Двигатель'][result['Двигатель'].find(',') + 2:result['Двигатель'].find('.') + 2]
+        else:
+            if result['Двигатель'].find('.') >= 0:
+                carData['Engine'] = ''
+                carData['EngineVolume'] = result['Двигатель'][0:result['Двигатель'].find('.') + 2]
+            else:
+                carData['Engine'] = result['Двигатель']
+                carData['EngineVolume'] = ''
 
     if 'Мощность' in result:
         carData['Power'] = result['Мощность']

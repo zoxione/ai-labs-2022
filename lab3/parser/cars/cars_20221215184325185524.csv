@@ -1,0 +1,14 @@
+Id,Url,Brand,Model,Region,Year,Engine,EngineVolume,Power,Transmission,Drive,Body,Color,Mileage,Wheel,Generation,Complectation,IsSold,Price
+178458,https://novosibirsk.drom.ru/toyota/caldina/49160996.html,Toyota,Caldina,Новосибирск,2000,бензин,1.5,97,АКПП,передний,,серый,400000,правый,1 поколение,1.5 U,1,215000
+178459,https://ulan-ude.drom.ru/toyota/will_vs/49160973.html,Toyota,WiLL VS,Улан-Удэ,2001,бензин,1.8,136,АКПП,передний,,синий,185000,правый,1 поколение,1.8VVT-i,1,170000
+178460,https://irkutsk.drom.ru/toyota/corolla/49149982.html,Toyota,Corolla,Иркутск,2003,бензин,1.5,105,АКПП,4WD,седан,серый,343000,правый,"9 поколение, рестайлинг",1.5 G L package 4WD,1,347630
+178461,https://sayanogorsk.drom.ru/toyota/mark_ii/49160909.html,Toyota,Mark II,Саяногорск,2002,бензин,2.0,160,АКПП,задний,седан,белый,270000,правый,"9 поколение, рестайлинг",2.0 Grande,0,450000
+178462,https://fokino.drom.ru/toyota/succeed/49160835.html,Toyota,Succeed,Фокино,2003,бензин,1.5,105,АКПП,4WD,,белый,330000,правый,1 поколение,,0,399000
+178463,https://lyubertsy.drom.ru/toyota/probox/48244594.html,Toyota,Probox,Люберцы,2003,бензин,1.5,109,АКПП,передний,,серый,331000,правый,1 поколение,1.5 F,1,370000
+178464,https://novosibirsk.drom.ru/toyota/gaia/49160886.html,Toyota,Gaia,Новосибирск,2001,бензин,2.0,152,АКПП,передний,,серый,250000,правый,"1 поколение, рестайлинг",,0,385000
+178465,https://barnaul.drom.ru/toyota/corolla_spacio/49160804.html,Toyota,Corolla Spacio,Барнаул,2000,бензин,1.6,110,АКПП,передний,,белый,209000,правый,"1 поколение, рестайлинг",,0,368000
+178466,https://krasnoyarsk.drom.ru/toyota/nadia/47488968.html,Toyota,Nadia,Красноярск,2001,бензин,2.0,152,АКПП,передний,,белый,193801,правый,"1 поколение, рестайлинг",,0,497000
+178467,https://irkutsk.drom.ru/toyota/corolla_fielder/47663846.html,Toyota,Corolla Fielder,Иркутск,2004,бензин,1.5,110,АКПП,передний,,серый,240000,правый,"1 поколение, 2 рестайлинг",1.5 X,0,590000
+178468,https://zaigraevo.drom.ru/toyota/hilux_surf/48998512.html,Toyota,Hilux Surf,Заиграево,2001,бензин,3.4,185,АКПП,4WD,джип/suv 5 дв.,серый,274000,правый,"3 поколение, 2 рестайлинг",3.4 SSR-X,0,1050050
+178469,https://irkutsk.drom.ru/toyota/corolla_fielder/49160633.html,Toyota,Corolla Fielder,Иркутск,2003,бензин,1.5,109,АКПП,передний,,белый,195000,правый,"1 поколение, рестайлинг",,1,470000
+178470,https://gorno-altaysk.drom.ru/toyota/platz/49160624.html,Toyota,Platz,Горно-Алтайск,2000,бензин,1.0,70,АКПП,передний,,белый,300000,правый,1 поколение,,1,220000

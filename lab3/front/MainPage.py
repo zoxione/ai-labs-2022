@@ -14,19 +14,12 @@ def buttonHandler():
     with open('../parser/uniques.json') as json_file:
         uniques = json.load(json_file)
 
-    st.write(selection)
+    #st.write(selection)
     dfSelection = pd.DataFrame(selection, index=[0])
     for column in dfSelection.columns:
         if column in uniques:
             dfSelection[column] = uniques[column].index(selection[column])
-
-    # dfSelection['Brand'] = uniques['Brand'].index(selection['Brand'])
-    # dfSelection['Model'] = uniques['Model'].index(selection['Model'])
-    # dfSelection['Region'] = uniques['Region'].index(selection['Region'])
-    # dfSelection['Engine'] = uniques['Engine'].index(selection['Engine'])
-    # dfSelection['Drive'] = uniques['Drive'].index(selection['Drive'])
-    # dfSelection['Transmission'] = uniques['Transmission'].index(selection['Transmission'])
-    st.write(dfSelection)
+    #st.write(dfSelection)
 
     # Предсказание модели на указанных данных
     model = joblib.load('../model/model_linearRegression.pkl');

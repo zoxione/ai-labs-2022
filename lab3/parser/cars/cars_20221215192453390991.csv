@@ -1,0 +1,12 @@
+Id,Url,Brand,Model,Region,Year,Engine,EngineVolume,Power,Transmission,Drive,Body,Color,Mileage,Wheel,Generation,Complectation,IsSold,Price
+180600,https://blagoveshchensk.drom.ru/toyota/hiace/49157445.html,Toyota,Hiace,Благовещенск,2007,дизель,3.0,133,автомат,4WD,,белый,360000,правый,,,0,1135000
+180601,https://irkutsk.drom.ru/toyota/vitz/49136171.html,Toyota,Vitz,Иркутск,2009,бензин,1.0,71,вариатор,передний,хэтчбек 5 дв.,зеленый,221222,правый,"2 поколение, рестайлинг",1.0 F intelligent package,0,469000
+180602,https://vladivostok.drom.ru/toyota/prius/49157469.html,Toyota,Prius,Владивосток,2008,бензин,1.5,76,вариатор,передний,лифтбек,серый,361272,правый,"2 поколение, рестайлинг",1.5 G,0,520000
+180603,https://irkutsk.drom.ru/toyota/camry/49157459.html,Toyota,Camry,Иркутск,2006,бензин,2.4,167,АКПП,передний,седан,черный,248000,левый,7 поколение,2.4 AT Comfort+,0,835000
+180604,https://barnaul.drom.ru/toyota/alphard/49079342.html,Toyota,Alphard,Барнаул,2006,бензин,3.0,220,АКПП,4WD,,белый,77178,правый,"1 поколение, рестайлинг",3.0 V MS limited 4WD,1,1800000
+180605,https://omsk.drom.ru/toyota/camry/46392520.html,Toyota,Camry,Омск,2008,бензин,2.4,167,АКПП,передний,седан,черный,320850,левый,7 поколение,2.4 AT Comfort+,0,990000
+180606,https://omsk.drom.ru/toyota/prius/48702556.html,Toyota,Prius,Омск,2009,бензин,1.8,99,автомат,передний,хэтчбек 5 дв.,черный,220001,левый,,,0,725000
+180607,https://novokuznetsk.drom.ru/toyota/camry/48926269.html,Toyota,Camry,Новокузнецк,2006,бензин,2.4,167,АКПП,передний,седан,бежевый,184901,левый,7 поколение,,0,801999
+180608,https://komsomolsk.drom.ru/toyota/prius/49157325.html,Toyota,Prius,Комсомольск-на-Амуре,2009,бензин,1.5,76,вариатор,передний,лифтбек,серый,200000,правый,"2 поколение, рестайлинг",1.5 G,0,260000
+180609,https://krasnoyarsk.drom.ru/toyota/voxy/48231451.html,Toyota,Voxy,Красноярск,2009,бензин,2.0,158,вариатор,передний,,белый,216000,правый,2 поколение,,0,999000
+180610,https://kemerovo.drom.ru/toyota/avensis/49157303.html,Toyota,Avensis,Кемерово,2007,бензин,2.0,147,АКПП,передний,седан,серебристый,226064,левый,"2 поколение, рестайлинг",,0,705000
