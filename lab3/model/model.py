@@ -59,7 +59,7 @@ def trainMode():
     importance = model.coef_
     index = 0
     for column in dfTrainCopy.columns:
-        if importance[index] > importanceValue:
+        if importance[index] > IMPORTANCE_VALUE:
             chooseProperty.append(column)
             print(column, importance[index])
 
@@ -75,8 +75,8 @@ def trainMode():
     X_train, X_test, Y_train, Y_test = train_test_split(X, Y, test_size=0.1, random_state=42)
 
     # Обучение модели и получение предсказания
-    # model = LogisticRegression(solver='liblinear', random_state=42, max_iter=1000, verbose=1)
-    model = LinearRegression()
+    model = LogisticRegression(solver='liblinear', random_state=42, max_iter=1000, verbose=1)
+    #model = LinearRegression()
     model.fit(X_train, Y_train)
     print('[5] Модель обучена');
 
@@ -106,7 +106,6 @@ def inferenceMode():
     dfInputCopy = dfInput.copy(deep=True)
     dfInputCopy = dfInputCopy.drop(['Id', 'Url', 'Price'], axis=1)
     print('[3] Данные обработаны');
-
 
     chooseProperty = getDataImportanceProperty()
     dfInputCopy = dfInputCopy[chooseProperty]
