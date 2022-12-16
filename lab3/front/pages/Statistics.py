@@ -9,11 +9,11 @@ def getDataMetrics():
         data = json.load(json_file)
     return data
 
-def getDataCorr():
-    # Получение данных из файла
-    with open('../parser/corr_values.json') as json_file:
-        data = json.load(json_file)
-    return data
+def getDataImportance():
+    with open('../model/result_importance.json') as json_file:
+        importanceProperty = json.load(json_file)
+
+    return importanceProperty
 
 
 if __name__ == "__main__":
@@ -34,9 +34,9 @@ if __name__ == "__main__":
     with col3:
         st.metric(label="Confusion Matrix", value=0)
 
-    dataCorr = getDataCorr();
+    dataImportance = getDataImportance();
     st.write("Корреляция: ")
-    s = pd.DataFrame.from_dict(dataCorr, orient='index', columns=['Коэффициент корреляции'])
+    s = pd.DataFrame.from_dict(dataImportance, orient='index', columns=['Коэффициент корреляции'])
     st.bar_chart(s)
 
     # st.write("Соотношение марки и цены: ")

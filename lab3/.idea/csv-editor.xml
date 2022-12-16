@@ -59,6 +59,13 @@
             </Attribute>
           </value>
         </entry>
+        <entry key="\parser\cars\cars_20221216151439341535.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
         <entry key="\parser\diff_cars.csv">
           <value>
             <Attribute>

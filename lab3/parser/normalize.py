@@ -4,7 +4,7 @@ import os
 import json
 import pandas as pd
 import winsound
-
+from sklearn.preprocessing import StandardScaler
 
 parserArgs = argparse.ArgumentParser()
 parserArgs.add_argument('--input', type=str, default='', help='Путь к входным данным')
@@ -12,7 +12,6 @@ parserArgs.add_argument('--corr', type=float, default=0.4, help='Коэффиц�
 args = parserArgs.parse_args()
 
 chooseProperty = ['Id', 'Url']
-corrValues = {}
 
 
 def files(path):
@@ -56,6 +55,12 @@ def df_factorize(df):
     # Замена строковых значений на числовые
     for column in ['Brand', 'Model', 'Region', 'Engine', 'Transmission', 'Drive', 'Body', 'Color', 'Wheel', 'Generation', 'Complectation']:
         dfCopy[column] = pd.factorize(dfCopy[column])[0] + 1
+
+    scaler = StandardScaler()
+    dfCopy['Year'] = scaler.fit_transform(dfCopy[['Year']])
+    dfCopy['Power'] = scaler.fit_transform(dfCopy[['Power']])
+    dfCopy['EngineVolume'] = scaler.fit_transform(dfCopy[['EngineVolume']])
+    dfCopy['Mileage'] = scaler.fit_transform(dfCopy[['Mileage']])
 
     return dfCopy
 

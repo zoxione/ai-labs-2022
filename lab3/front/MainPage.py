@@ -5,8 +5,22 @@ from collections import Counter
 import json
 
 
+def getDataImportanceProperty():
+    chooseProperty = []
+
+    with open('../model/result_importance.json') as json_file:
+        importanceProperty = json.load(json_file)
+
+    for key in importanceProperty:
+        if importanceProperty[key] > 4500:
+            chooseProperty.append(key)
+
+    return chooseProperty
+
+
 params = pd.read_csv(".\params.csv")
 selection = dict()
+params = params[getDataImportanceProperty()]
 
 
 def buttonHandler():
@@ -79,20 +93,56 @@ if __name__ == "__main__":
     if 'Power' in params.columns:
         selection["Power"] = st.number_input("Введите количество лошадиных сил", min_value=1, max_value=1000, step=10)
 
-    if 'Drive' in params.columns:
-        selection["Drive"] = st.radio(
-            "Выберите привод автомобиля",
-            Counter(params["Drive"][~pd.isnull(params["Drive"])])
-        )
-
     if 'Transmission' in params.columns:
         selection["Transmission"] = st.selectbox(
             "Выберите тип коробки передач",
             Counter(params["Transmission"][~pd.isnull(params["Transmission"])].sort_values())
         )
 
+    if 'Drive' in params.columns:
+        selection["Drive"] = st.radio(
+            "Выберите привод автомобиля",
+            Counter(params["Drive"][~pd.isnull(params["Drive"])])
+        )
+
+    if 'Body' in params.columns:
+        selection["Body"] = st.selectbox(
+            "Выберите тип кузова",
+            Counter(params["Body"][~pd.isnull(params["Body"])])
+        )
+
+    if 'Color' in params.columns:
+        selection["Color"] = st.selectbox(
+            "Выберите цвет автомобиля",
+            Counter(params["Color"][~pd.isnull(params["Color"])])
+        )
+
     if 'Mileage' in params.columns:
         selection["Mileage"] = st.number_input("Введите пробег автомобиля", min_value=0, max_value=1000000, step=1000)
+
+    if 'Wheel' in params.columns:
+        selection["Wheel"] = st.radio(
+            "Выберите тип руля",
+            Counter(params["Wheel"][~pd.isnull(params["Wheel"])])
+        )
+
+    if 'Generation' in params.columns:
+        selection["Generation"] = st.radio(
+            "Выберите поколение автомобиля",
+            Counter(params["Generation"][~pd.isnull(params["Generation"])])
+        )
+
+    if 'Complectation' in params.columns:
+        selection["Complectation"] = st.radio(
+            "Выберите комплектацию автомобиля",
+            Counter(params["Complectation"][~pd.isnull(params["Complectation"])])
+        )
+
+    if 'IsSold' in params.columns:
+        selection["IsSold"] = st.radio(
+            "Выберите состояние автомобиля",
+            Counter(params["IsSold"][~pd.isnull(params["IsSold"])])
+        )
 
     if st.button('Рассчитать'):
         buttonHandler()

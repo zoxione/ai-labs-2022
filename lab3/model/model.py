@@ -1,7 +1,10 @@
 import argparse
+import json
+
 import joblib
 import numpy as np
 import pandas as pd
+from matplotlib import pyplot
 from sklearn.linear_model import LinearRegression, LogisticRegression
 from sklearn.metrics import mean_squared_error
 from sklearn.model_selection import train_test_split
@@ -16,7 +19,26 @@ parser.add_argument('--input', type=str, default='', help='Путь к вход�
 parser.add_argument('--output', type=str, default='', help='Путь к выходным данным')
 args = parser.parse_args()
 
+IMPORTANCE_VALUE = 4500
+
+
+def getDataImportanceProperty():
+    chooseProperty = []
+
+    with open('result_importance.json') as json_file:
+        importanceProperty = json.load(json_file)
+
+    for key in importanceProperty:
+        if importanceProperty[key] > IMPORTANCE_VALUE:
+            chooseProperty.append(key)
+
+    return chooseProperty
+
+
 def trainMode():
+    chooseProperty = []
+    importanceProperty = {}
+
     print('Выбран режим train - обучение модели\n');
 
     # Считываем данные как dataframe
@@ -29,21 +51,41 @@ def trainMode():
     X = dfTrainCopy
     Y = dfTrain['Price']
 
-    print('[3] Обучение модели');
+    model = LinearRegression()
+    model.fit(X, Y)
+
+    print('[3] Вычисление важности свойств');
+    print('Выбранные свойства: ')
+    importance = model.coef_
+    index = 0
+    for column in dfTrainCopy.columns:
+        if importance[index] > importanceValue:
+            chooseProperty.append(column)
+            print(column, importance[index])
+
+        importanceProperty[column] = importance[index]
+        index += 1
+
+    X = X[chooseProperty]
+    with open('result_importance.json', 'w') as fp:
+        json.dump(importanceProperty, fp)
+
+    print('[4] Обучение модели');
     # Обучать будем на 90% данных, проверять на 10%
     X_train, X_test, Y_train, Y_test = train_test_split(X, Y, test_size=0.1, random_state=42)
 
     # Обучение модели и получение предсказания
-    model = LogisticRegression(solver='liblinear', max_iter=10000)
+    # model = LogisticRegression(solver='liblinear', random_state=42, max_iter=1000, verbose=1)
+    model = LinearRegression()
     model.fit(X_train, Y_train)
-    print('[4] Модель обучена');
+    print('[5] Модель обучена');
 
     # Оценка качества модели
     Y_train_pred = model.predict(X_train)
     Y_test_pred = model.predict(X_test)
     mseTrain = mean_squared_error(Y_train, Y_train_pred)
     mseTest = mean_squared_error(Y_test, Y_test_pred)
-    print('[5] Оценка качества модели');
+    print('[6] Оценка качества модели');
     print('MSE train: %.3f, test: %.3f' % (mseTrain, mseTest))
     print('RMSE train: %.3f, test: %.3f' % (np.sqrt(mseTrain), np.sqrt(mseTest)))
     score = model.score(X_test, Y_test)
@@ -64,6 +106,10 @@ def inferenceMode():
     dfInputCopy = dfInput.copy(deep=True)
     dfInputCopy = dfInputCopy.drop(['Id', 'Url', 'Price'], axis=1)
     print('[3] Данные обработаны');
+
+
+    chooseProperty = getDataImportanceProperty()
+    dfInputCopy = dfInputCopy[chooseProperty]
 
     print('[4] Предсказание модели на указанных данных');
     pred = model.predict(dfInputCopy)
