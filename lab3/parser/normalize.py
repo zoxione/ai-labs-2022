@@ -111,22 +111,6 @@ if __name__ == '__main__':
         dfOutputDefault.to_csv('./cars/cars.csv', index=False);
         print('\nСохранено в файл ./cars/cars.csv');
 
-        # Получаем коэффициенты корреляции
-        for column in ['Brand', 'Model', 'Region', 'Year', 'Engine', 'EngineVolume', 'Power', 'Transmission', 'Drive', 'Body', 'Color', 'Mileage', 'Wheel', 'Generation', 'Complectation', 'IsSold']:
-            corr = dfOutputNum[column].corr(dfOutputNum['Price'], method='pearson')
-            corrValues[column] = corr
-            if corr >= args.corr or corr <= -args.corr:
-                chooseProperty.append(column)
-
-        print('\nКоэффициенты корреляции:')
-        for key, value in corrValues.items():
-            print(str(key) + ' - ' + str(value))
-        print('Выбраны свойства(К=' + str(args.corr) +  '): ' + str(chooseProperty))
-
-        # Сохраняем коэффициенты корреляции
-        with open('corr_values.json', 'w') as fp:
-            json.dump(corrValues, fp)
-
         chooseProperty.append('Price')
         dfOutputDefault = dfOutputDefault[chooseProperty]
         dfOutputNum = dfOutputNum[chooseProperty]

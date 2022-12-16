@@ -38,6 +38,7 @@ def getDataImportanceProperty():
 def trainMode():
     chooseProperty = []
     importanceProperty = {}
+    importanceProperty['IMPORTANCE_VALUE'] = IMPORTANCE_VALUE
 
     print('Выбран режим train - обучение модели\n');
 

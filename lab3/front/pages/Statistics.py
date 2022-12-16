@@ -13,6 +13,8 @@ def getDataImportance():
     with open('../model/result_importance.json') as json_file:
         importanceProperty = json.load(json_file)
 
+    importanceProperty.pop('IMPORTANCE_VALUE')
+
     return importanceProperty
 
 
