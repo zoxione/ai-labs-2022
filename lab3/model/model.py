@@ -19,7 +19,7 @@ parser.add_argument('--input', type=str, default='', help='Путь к вход�
 parser.add_argument('--output', type=str, default='', help='Путь к выходным данным')
 args = parser.parse_args()
 
-IMPORTANCE_VALUE = 4500
+IMPORTANCE_VALUE = 0
 
 
 def getDataImportanceProperty():
